@@ -1,7 +1,7 @@
 {
  "service": "local-feed-service",
  "base_url": "http://127.0.0.1:8899",
- "updated": "2026-09-21 09:20:46",
+ "updated": "2026-09-21 09:31:14",
  "feeds": [
   {
    "name": "工信部·工信动态(清洗)",
@@ -68,7 +68,7 @@
    "ok": true
   }
  ],
- "pushed_at": "2026-09-21 09:20:46",
+ "pushed_at": "2026-09-21 09:31:14",
  "files": [
   {
    "path": "rss/miit.xml",
