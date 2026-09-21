@@ -1,7 +1,7 @@
 {
  "service": "local-feed-service",
  "base_url": "http://127.0.0.1:8899",
- "updated": "2026-09-21 10:06:24",
+ "updated": "2026-09-21 10:08:22",
  "feeds": [
   {
    "name": "工信部·工信动态(清洗)",
@@ -108,6 +108,14 @@
    "ok": true
   },
   {
+   "name": "国家标准化管理委员会·标准化要闻",
+   "url": "http://127.0.0.1:8899/rss/site/sac_bzhyw.xml",
+   "items": 20,
+   "bytes": 10208,
+   "generated": "2026-09-21 10:07:11",
+   "ok": true
+  },
+  {
    "name": "CEN/CENELEC·新闻",
    "url": "http://127.0.0.1:8899/rss/site/cencenelec.xml",
    "items": 10,
@@ -180,7 +188,7 @@
    "ok": true
   }
  ],
- "pushed_at": "2026-09-21 10:06:24",
+ "pushed_at": "2026-09-21 10:08:22",
  "files": [
   {
    "path": "rss/miit.xml",
@@ -259,6 +267,12 @@
    "name": "上海金属网·快讯",
    "items": 120,
    "generated": "2026-09-21 10:05:16"
+  },
+  {
+   "path": "rss/site/sac_bzhyw.xml",
+   "name": "国家标准化管理委员会·标准化要闻",
+   "items": 20,
+   "generated": "2026-09-21 10:07:11"
   },
   {
    "path": "rss/site/cencenelec.xml",
