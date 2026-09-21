@@ -1,38 +1,38 @@
 {
  "service": "local-feed-service",
  "base_url": "http://127.0.0.1:8899",
- "updated": "2026-09-21 10:08:22",
+ "updated": "2026-09-21 10:12:59",
  "feeds": [
   {
    "name": "工信部·工信动态(清洗)",
    "url": "http://127.0.0.1:8899/rss/miit.xml",
    "items": 60,
-   "bytes": 53603,
-   "generated": "2026-09-21 10:04:28",
+   "bytes": 53325,
+   "generated": "2026-09-21 10:10:43",
    "ok": true
   },
   {
    "name": "中国能源网(自建路由)",
    "url": "http://127.0.0.1:8899/rss/china5e.xml",
    "items": 259,
-   "bytes": 113812,
-   "generated": "2026-09-21 10:05:06",
+   "bytes": 113852,
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
    "name": "标签聚合·矿产",
    "url": "http://127.0.0.1:8899/rss/tag/矿产.xml",
-   "items": 7,
-   "bytes": 2892,
-   "generated": "2026-09-21 10:05:06",
+   "items": 6,
+   "bytes": 2609,
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
    "name": "标签聚合·材料",
    "url": "http://127.0.0.1:8899/rss/tag/材料.xml",
-   "items": 25,
-   "bytes": 9820,
-   "generated": "2026-09-21 10:05:06",
+   "items": 24,
+   "bytes": 9323,
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
@@ -40,7 +40,7 @@
    "url": "http://127.0.0.1:8899/rss/tag/电芯.xml",
    "items": 25,
    "bytes": 12260,
-   "generated": "2026-09-21 10:05:06",
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
@@ -48,23 +48,23 @@
    "url": "http://127.0.0.1:8899/rss/tag/电池回收.xml",
    "items": 5,
    "bytes": 2344,
-   "generated": "2026-09-21 10:05:06",
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
    "name": "标签聚合·新能源汽车",
    "url": "http://127.0.0.1:8899/rss/tag/新能源汽车.xml",
-   "items": 2,
-   "bytes": 1406,
-   "generated": "2026-09-21 10:05:06",
+   "items": 1,
+   "bytes": 1114,
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
    "name": "标签聚合·政策法规",
    "url": "http://127.0.0.1:8899/rss/tag/政策法规.xml",
-   "items": 8,
-   "bytes": 3665,
-   "generated": "2026-09-21 10:05:06",
+   "items": 7,
+   "bytes": 3376,
+   "generated": "2026-09-21 10:11:29",
    "ok": true
   },
   {
@@ -188,55 +188,55 @@
    "ok": true
   }
  ],
- "pushed_at": "2026-09-21 10:08:22",
+ "pushed_at": "2026-09-21 10:12:59",
  "files": [
   {
    "path": "rss/miit.xml",
    "name": "工信部·工信动态（清洗源）",
    "items": 60,
-   "generated": "2026-09-21 10:04:28"
+   "generated": "2026-09-21 10:10:43"
   },
   {
    "path": "rss/china5e.xml",
    "name": "中国能源网（自建 CSS 路由）",
    "items": 259,
-   "generated": "2026-09-21 10:05:06"
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/tag/kuangchan.xml",
    "name": "标签聚合·矿产",
-   "items": 7,
-   "generated": "2026-09-21 10:05:06"
+   "items": 6,
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/tag/cailiao.xml",
    "name": "标签聚合·材料",
-   "items": 25,
-   "generated": "2026-09-21 10:05:06"
+   "items": 24,
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/tag/dianxin.xml",
    "name": "标签聚合·电芯",
    "items": 25,
-   "generated": "2026-09-21 10:05:06"
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/tag/dianchihuishou.xml",
    "name": "标签聚合·电池回收",
    "items": 5,
-   "generated": "2026-09-21 10:05:06"
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/tag/xinnengyuan.xml",
    "name": "标签聚合·新能源汽车",
-   "items": 2,
-   "generated": "2026-09-21 10:05:06"
+   "items": 1,
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/tag/zhengce.xml",
    "name": "标签聚合·政策法规",
-   "items": 8,
-   "generated": "2026-09-21 10:05:06"
+   "items": 7,
+   "generated": "2026-09-21 10:11:29"
   },
   {
    "path": "rss/site/samr_gb.xml",
