@@ -2,23 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>电池网·首页要闻</title>
 <link>http://www.cbea.com/</link>
-<description>电池网首页要闻（列表页无日期，故 RSS 不写 pubDate）；源站对本机偶发超时，失败时沿用上次缓存</description>
+<description>电池网首页要闻；列表页本身不写日期，取同一张卡片配图文件名里的时间戳（/resources/u/images/www/20260928141141443_639.jpg → 2026-09-28 14:11:41）作 pubDate；没有配图的条目仍不写 pubDate。源站对本机偶发超时，失败时沿用上次缓存</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 14:12:58 +0800</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 15:42:14 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cbea.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>锂盐企业中报业绩最高增11倍！</title>
-<link>http://www.cbea.com/djgc/202608/218979.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202608/218979.html</guid>
+<title>星恒电源新增5万吨固态电池配套锰基材料项目</title>
+<link>http://www.cbea.com/hydt/202609/900555.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202609/900555.html</guid>
+<pubDate>Mon, 28 Sep 2026 14:45:51 +0800</pubDate>
+<description>项目建成后，全厂年产50,000吨新能源电池(含固态电池)材料及锰基前驱体材料(锰酸锂11,250吨/年、磷酸锰铁锂35,000吨/年、单晶四氧化三锰3750吨/...</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>宁德时代枧下窝锂矿“复产”加速</title>
-<link>http://www.cbea.com/djgc/202608/138420.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202608/138420.html</guid>
+<title>氧化物固态电池量产或更“早熟”</title>
+<link>http://www.cbea.com/djgc/202609/195244.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/195244.html</guid>
+<pubDate>Mon, 28 Sep 2026 14:33:51 +0800</pubDate>
+<description>固态电解质是影响固态电池安全、能量密度等性能的核心材料。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>豪华车企五年极限测试，动力电池如何用得稳、熬得住？</title>
+<link>http://www.cbea.com/djgc/202609/569226.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/569226.html</guid>
+<pubDate>Mon, 28 Sep 2026 14:29:26 +0800</pubDate>
+<description>动力电池行业的终极竞争，从来不是单次测试的巅峰指标，而是一场长达五年，甚至十余年的耐力赛：历经整个使用周期，电池的性能、品质和系统表现...</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>先导智能新一代量产级干法涂布设备成功出货 | 先导...</title>
+<link>http://www.cbea.com/djgc/202609/815864.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/815864.html</guid>
+<pubDate>Mon, 28 Sep 2026 14:15:47 +0800</pubDate>
+<description>近日，先导智能新一代量产级干法涂布设备顺利交付某全球综合性锂电头部制造商。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -26,69 +48,8 @@
 <title>湖南裕能扩大其西班牙项目锂电材料产能</title>
 <link>http://www.cbea.com/djgc/202609/196081.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202609/196081.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>国家“力挺”复合集流体，安迈特科技抢占千亿赛道核...</title>
-<link>http://www.cbea.com/djgc/202609/057305.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/057305.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>13万元/吨，碳酸锂价格能否守住？</title>
-<link>http://www.cbea.com/djgc/202609/879271.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/879271.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>大备战！碳酸锂“抢购潮”，又开始了</title>
-<link>http://www.cbea.com/djgc/202609/007009.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/007009.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>精密涂布技术助力折叠屏UTG超薄玻璃规模化量产 | 曼...</title>
-<link>http://www.cbea.com/hydt/202609/889824.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202609/889824.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>恩捷股份首条7米超宽幅在线涂布产线顺利投产</title>
-<link>http://www.cbea.com/djgc/202609/116218.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/116218.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>睿意新材：已具备千吨级固态电解质产能</title>
-<link>http://www.cbea.com/djgc/202609/917028.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/917028.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>昆仑新材:布局千吨级固态电解质/钠电电解液</title>
-<link>http://www.cbea.com/djgc/202609/136531.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/136531.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>逸飞激光圆柱超级电容装配线顺利下线 | 逸飞激光冠...</title>
-<link>http://www.cbea.com/hydt/202609/957672.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202609/957672.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>高能数造全固态电池湿法工艺小试线：成熟工艺下的产...</title>
-<link>http://www.cbea.com/hydt/202609/747390.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202609/747390.html</guid>
+<pubDate>Mon, 28 Sep 2026 14:11:41 +0800</pubDate>
+<description>9月23日，湖南裕能发布公告称，该公司审议通过《关于对西班牙项目增加投资的议案》，同意将其西班牙项目建设规模提升至年产7万吨锂电池正极材料...</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -96,55 +57,17 @@
 <title>1-8月锂电池出口超675亿美元，同比大增近40%</title>
 <link>http://www.cbea.com/djgc/202609/422395.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202609/422395.html</guid>
+<pubDate>Thu, 24 Sep 2026 15:25:23 +0800</pubDate>
+<description>今年1-8月，中国锂离子蓄电池出口延续强劲增长态势。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>国轩高科低空电池首发，采用混合固液46大圆柱体系</title>
-<link>http://www.cbea.com/djgc/202609/539447.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/539447.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>蓄势聚力 快马加鞭——微宏动力为氢燃料轻卡发展“...</title>
-<link>http://www.cbea.com/hydt/202309/713664.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202309/713664.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>技术厚积薄发 亿纬锂能布局燃料电池</title>
-<link>http://www.cbea.com/djgc/202111/076860.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202111/076860.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>签约诺贝尔奖得主，超威集团发布三大单品电池</title>
-<link>http://www.cbea.com/djgc/202304/056657.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202304/056657.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>超威“铅炭动力型电池/6DZF20”登榜“浙江制造精品...</title>
-<link>http://www.cbea.com/hydt/202101/642983.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202101/642983.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>NFPP vs NFS，谁将主宰聚阴离子钠电赛道？</title>
-<link>http://www.cbea.com/djgc/202609/856403.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/856403.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>钠电量产僵局，被卡在10个百分点的良率鸿沟前！</title>
-<link>http://www.cbea.com/djgc/202609/843934.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/843934.html</guid>
+<title>逸飞激光圆柱超级电容装配线顺利下线 | 逸飞激光冠...</title>
+<link>http://www.cbea.com/hydt/202609/957672.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202609/957672.html</guid>
+<pubDate>Thu, 24 Sep 2026 15:22:55 +0800</pubDate>
+<description>近日，逸飞激光圆柱超级电容量产线顺利完成下线，即将交付给某行业头部客户。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -152,41 +75,35 @@
 <title>破解续航瓶颈？宁德时代押注无人物流车换电赛道</title>
 <link>http://www.cbea.com/djgc/202609/693708.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202609/693708.html</guid>
+<pubDate>Wed, 23 Sep 2026 14:42:37 +0800</pubDate>
+<description>2026年9月20日，宁德时代全资子公司时代电服与上汽大通、易森动力、卓驭科技达成四方合作，计划推进5万台搭载换电解决方案的无人物流车规模化落...</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>8月中国市场动力电池装机量Top10</title>
-<link>http://www.cbea.com/djgc/202609/661013.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/661013.html</guid>
+<title>国家“力挺”复合集流体，安迈特科技抢占千亿赛道核...</title>
+<link>http://www.cbea.com/djgc/202609/057305.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/057305.html</guid>
+<pubDate>Wed, 23 Sep 2026 14:34:14 +0800</pubDate>
+<description>短短半年时间内，复合集流体连续被纳入两份国家级产业规划，标志着这一颠覆性材料技术，已正式上升为国家产业布局的重点方向。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>摩博会首发｜星恒尖端电摩锂电池新品出道</title>
-<link>http://www.cbea.com/hydt/202609/699114.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202609/699114.html</guid>
+<title>NFPP vs NFS，谁将主宰聚阴离子钠电赛道？</title>
+<link>http://www.cbea.com/djgc/202609/856403.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/856403.html</guid>
+<pubDate>Mon, 21 Sep 2026 14:40:08 +0800</pubDate>
+<description>钠电赛道，正在发生一场技术路线的深刻变革。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>“隐藏王牌”新能安如何登顶无人机与两轮锂电双赛道？</title>
-<link>http://www.cbea.com/djgc/202605/814529.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202605/814529.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>星恒电摩锂电池上半年销量猛增230% 成业绩增长最强引擎</title>
-<link>http://www.cbea.com/hydt/202607/917715.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202607/917715.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>「FAR游骑兵」冲锋破阵，“星恒标准”引领电摩锂电...</title>
-<link>http://www.cbea.com/djgc/202607/244294.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202607/244294.html</guid>
+<title>精密涂布技术助力折叠屏UTG超薄玻璃规模化量产 | 曼...</title>
+<link>http://www.cbea.com/hydt/202609/889824.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202609/889824.html</guid>
+<pubDate>Fri, 18 Sep 2026 14:40:59 +0800</pubDate>
+<description>高精度狭缝涂布作为UTG制造中的关键环节，直接影响后续工艺稳定性与产品良率。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -194,6 +111,26 @@
 <title>206GWh！亿纬锂能与Fluence签订供应协议，深度切入A...</title>
 <link>http://www.cbea.com/hydt/202609/371195.html</link>
 <guid isPermaLink="true">http://www.cbea.com/hydt/202609/371195.html</guid>
+<pubDate>Fri, 18 Sep 2026 14:25:23 +0800</pubDate>
+<description>双方就2027年的承诺交付量16GWh达成一致意见，2028-2031年预留容量合计为190GWh。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>摩博会首发｜星恒尖端电摩锂电池新品出道</title>
+<link>http://www.cbea.com/hydt/202609/699114.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202609/699114.html</guid>
+<pubDate>Thu, 17 Sep 2026 14:51:05 +0800</pubDate>
+<description>电摩市场正在经历一场深刻的动力变革。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>13万元/吨，碳酸锂价格能否守住？</title>
+<link>http://www.cbea.com/djgc/202609/879271.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/879271.html</guid>
+<pubDate>Thu, 17 Sep 2026 14:20:55 +0800</pubDate>
+<description>近期，碳酸锂价格一路“坐滑梯”。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -201,6 +138,62 @@
 <title>800GWh只是开始，储能电池订单“疯长”</title>
 <link>http://www.cbea.com/djgc/202609/509443.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202609/509443.html</guid>
+<pubDate>Wed, 16 Sep 2026 14:30:14 +0800</pubDate>
+<description>储能市场正在经历一场深刻的产能洗牌与技术升维双重变革。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>人形机器人放量前夜，动力电池要跨越的两道“门槛”</title>
+<link>http://www.cbea.com/djgc/202609/662530.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/662530.html</guid>
+<pubDate>Mon, 14 Sep 2026 14:55:14 +0800</pubDate>
+<description>人形机器人，真的已经走到放量前夜了吗?</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>睿意新材：已具备千吨级固态电解质产能</title>
+<link>http://www.cbea.com/djgc/202609/917028.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/917028.html</guid>
+<pubDate>Fri, 11 Sep 2026 12:19:49 +0800</pubDate>
+<description>9月9日，电池中国网产业链调研组一行，来到武汉睿意新材料科技有限公司(以下简称“睿意新材”)，与睿意新材常务副总经理宋国廷、董事长助理樊艺...</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>昆仑新材:布局千吨级固态电解质/钠电电解液</title>
+<link>http://www.cbea.com/djgc/202609/136531.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/136531.html</guid>
+<pubDate>Thu, 10 Sep 2026 12:22:41 +0800</pubDate>
+<description>9月8日，电池中国网副总经理周波等产业链调研组一行，到访昆仑新能源材料技术(宜昌)股份有限公司(简称“昆仑新材”)湖州基地。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>恩捷股份首条7米超宽幅在线涂布产线顺利投产</title>
+<link>http://www.cbea.com/djgc/202609/116218.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/116218.html</guid>
+<pubDate>Tue, 08 Sep 2026 15:09:25 +0800</pubDate>
+<description>近日，恩捷股份首条7米超宽幅在线涂布产线在重庆基地一次性调试成功并顺利投产。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>比克电池以标准化平台构筑机器人动力底座</title>
+<link>http://www.cbea.com/djgc/202608/541224.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202608/541224.html</guid>
+<pubDate>Fri, 28 Aug 2026 15:07:02 +0800</pubDate>
+<description>2026年，人形机器人产业正经历从技术验证到应用落地的关键跨越。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>锂盐企业中报业绩最高增11倍！</title>
+<link>http://www.cbea.com/djgc/202608/218979.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202608/218979.html</guid>
+<pubDate>Wed, 26 Aug 2026 15:41:24 +0800</pubDate>
+<description>截至8月24日，已有20余家涉及锂矿、锂盐业务的企业，披露其2026半年报、业绩快报、业绩预告。</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -208,6 +201,26 @@
 <title>eVTOL“这样上天了”，带飞50GWh航空级锂电池</title>
 <link>http://www.cbea.com/djgc/202608/975450.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202608/975450.html</guid>
+<pubDate>Tue, 25 Aug 2026 15:19:09 +0800</pubDate>
+<description>以eVTOL为核心载体的低空经济，当前正全面加速迈入产业化落地的关键阶段。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>宁德时代枧下窝锂矿“复产”加速</title>
+<link>http://www.cbea.com/djgc/202608/138420.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202608/138420.html</guid>
+<pubDate>Wed, 19 Aug 2026 17:21:50 +0800</pubDate>
+<description>近日江西省宜春市生态环境局发布消息，拟受理宜春时代新能源矿业有限公司江西省宜丰县圳口里—奉新县枧下窝锂矿采矿项目环境影响评价文件，并予...</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>星恒电摩锂电池上半年销量猛增230% 成业绩增长最强引擎</title>
+<link>http://www.cbea.com/hydt/202607/917715.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202607/917715.html</guid>
+<pubDate>Mon, 20 Jul 2026 12:23:58 +0800</pubDate>
+<description>今年上半年，随着电摩需求在全球范围内的快速增长，国内电摩锂电池市场交出了一份扎实的成绩单，其中，星恒电源的表现尤为亮眼，其电摩锂电池出...</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -215,6 +228,53 @@
 <title>顺丰无人机“上天”，背后藏着一家公司十年的固态赌局</title>
 <link>http://www.cbea.com/djgc/202607/956104.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202607/956104.html</guid>
+<pubDate>Mon, 13 Jul 2026 14:05:26 +0800</pubDate>
+<description>2025年11月，全球首个搭载高比能半固态电池的物流无人机，获得中国民航局TC适航认证。这架无人机来自丰翼科技，是顺丰旗下专注无人机物流的科技...</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>「FAR游骑兵」冲锋破阵，“星恒标准”引领电摩锂电...</title>
+<link>http://www.cbea.com/djgc/202607/244294.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202607/244294.html</guid>
+<pubDate>Thu, 09 Jul 2026 13:49:53 +0800</pubDate>
+<description>近日，星恒电源「FAR游骑兵」大单体锂电池全系产品全面上市。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>“隐藏王牌”新能安如何登顶无人机与两轮锂电双赛道？</title>
+<link>http://www.cbea.com/djgc/202605/814529.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202605/814529.html</guid>
+<pubDate>Fri, 29 May 2026 14:52:40 +0800</pubDate>
+<description>低空飞行器和电摩这两大新兴赛道，宁德时代子公司新能安已经站稳位置。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>蓄势聚力 快马加鞭——微宏动力为氢燃料轻卡发展“...</title>
+<link>http://www.cbea.com/hydt/202309/713664.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202309/713664.html</guid>
+<pubDate>Thu, 21 Sep 2023 09:58:37 +0800</pubDate>
+<description>去年以来，搭载微宏动力电池系统的氢燃料物流轻卡陆续在全国多地上线运营，并获得用户一致好评。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>签约诺贝尔奖得主，超威集团发布三大单品电池</title>
+<link>http://www.cbea.com/djgc/202304/056657.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202304/056657.html</guid>
+<pubDate>Fri, 07 Apr 2023 12:14:53 +0800</pubDate>
+<description>近日，在一场新品发布会上，超威集团正式公布了与诺贝尔奖获得者安德烈·海姆教授达成战略技术合作的消息，并重磅发布了其三大王牌单品。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
+<title>技术厚积薄发 亿纬锂能布局燃料电池</title>
+<link>http://www.cbea.com/djgc/202111/076860.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202111/076860.html</guid>
+<pubDate>Tue, 30 Nov 2021 16:26:55 +0800</pubDate>
+<description>亿纬锂能表示，设立专注于优质燃料电池的合资公司将优化公司资产使用效率，进一步完善公司研发体系和多元化的产业布局，符合公司发展战略及整体...</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
