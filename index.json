@@ -1,7 +1,7 @@
 {
  "service": "local-feed-service",
  "base_url": "http://127.0.0.1:8899",
- "updated": "2026-09-28 14:14:35",
+ "updated": "2026-09-28 15:47:14",
  "feeds": [
   {
    "name": "工信部·工信动态(清洗)",
@@ -167,8 +167,8 @@
    "name": "电池网·首页要闻",
    "url": "http://127.0.0.1:8899/rss/site/cbea.xml",
    "items": 30,
-   "bytes": 9835,
-   "generated": "2026-09-28 14:12:58",
+   "bytes": 16141,
+   "generated": "2026-09-28 15:42:14",
    "ok": true
   },
   {
@@ -182,13 +182,13 @@
   {
    "name": "艾邦锂电网·资讯",
    "url": "http://127.0.0.1:8899/rss/site/aibanglib.xml",
-   "items": 10,
-   "bytes": 4173,
-   "generated": "2026-09-28 14:13:00",
+   "items": 15,
+   "bytes": 7642,
+   "generated": "2026-09-28 15:42:15",
    "ok": true
   }
  ],
- "pushed_at": "2026-09-28 14:14:35",
+ "pushed_at": "2026-09-28 15:47:14",
  "files": [
   {
    "path": "rss/miit.xml",
@@ -314,7 +314,7 @@
    "path": "rss/site/cbea.xml",
    "name": "电池网·首页要闻",
    "items": 30,
-   "generated": "2026-09-28 14:12:58"
+   "generated": "2026-09-28 15:42:14"
   },
   {
    "path": "rss/site/ofweek.xml",
@@ -325,8 +325,8 @@
   {
    "path": "rss/site/aibanglib.xml",
    "name": "艾邦锂电网·资讯",
-   "items": 10,
-   "generated": "2026-09-28 14:13:00"
+   "items": 15,
+   "generated": "2026-09-28 15:42:15"
   }
  ]
 }
