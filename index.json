@@ -1,7 +1,7 @@
 {
  "service": "local-feed-service",
  "base_url": "http://127.0.0.1:8899",
- "updated": "2026-09-28 17:02:51",
+ "updated": "2026-09-28 17:31:03",
  "feeds": [
   {
    "name": "工信部·工信动态(清洗)",
@@ -72,7 +72,7 @@
    "url": "http://127.0.0.1:8899/rss/site/samr_gb.xml",
    "items": 30,
    "bytes": 19862,
-   "generated": "2026-09-28 16:59:52",
+   "generated": "2026-09-28 17:28:24",
    "ok": true
   },
   {
@@ -80,7 +80,7 @@
    "url": "http://127.0.0.1:8899/rss/site/catarc_plan.xml",
    "items": 30,
    "bytes": 36371,
-   "generated": "2026-09-28 16:59:53",
+   "generated": "2026-09-28 17:28:24",
    "ok": true
   },
   {
@@ -88,7 +88,7 @@
    "url": "http://127.0.0.1:8899/rss/site/catarc_opinion.xml",
    "items": 30,
    "bytes": 27572,
-   "generated": "2026-09-28 16:59:53",
+   "generated": "2026-09-28 17:28:25",
    "ok": true
   },
   {
@@ -96,15 +96,15 @@
    "url": "http://127.0.0.1:8899/rss/site/catarc_release.xml",
    "items": 30,
    "bytes": 22223,
-   "generated": "2026-09-28 16:59:54",
+   "generated": "2026-09-28 17:28:26",
    "ok": true
   },
   {
    "name": "上海金属网·快讯",
    "url": "http://127.0.0.1:8899/rss/site/shmet_flash.xml",
    "items": 120,
-   "bytes": 111428,
-   "generated": "2026-09-28 17:00:01",
+   "bytes": 103840,
+   "generated": "2026-09-28 17:28:32",
    "ok": true
   },
   {
@@ -112,15 +112,15 @@
    "url": "http://127.0.0.1:8899/rss/site/sac_bzhyw.xml",
    "items": 20,
    "bytes": 10022,
-   "generated": "2026-09-28 17:00:01",
+   "generated": "2026-09-28 17:28:33",
    "ok": true
   },
   {
    "name": "CEN/CENELEC·新闻",
    "url": "http://127.0.0.1:8899/rss/site/cencenelec.xml",
    "items": 10,
-   "bytes": 11993,
-   "generated": "2026-09-28 17:00:32",
+   "bytes": 11930,
+   "generated": "2026-09-28 17:28:51",
    "ok": true
   },
   {
@@ -128,7 +128,7 @@
    "url": "http://127.0.0.1:8899/rss/site/cnmn_news.xml",
    "items": 20,
    "bytes": 8082,
-   "generated": "2026-09-28 17:00:32",
+   "generated": "2026-09-28 17:28:51",
    "ok": true
   },
   {
@@ -136,31 +136,63 @@
    "url": "http://127.0.0.1:8899/rss/site/cnmn_policy.xml",
    "items": 20,
    "bytes": 8325,
-   "generated": "2026-09-28 17:00:32",
+   "generated": "2026-09-28 17:28:52",
    "ok": true
   },
   {
    "name": "中国汽车动力电池产业创新联盟·动态",
    "url": "http://127.0.0.1:8899/rss/site/caev.xml",
    "items": 15,
-   "bytes": 24725,
-   "generated": "2026-09-28 17:00:39",
+   "bytes": 23731,
+   "generated": "2026-09-28 17:28:53",
    "ok": true
   },
   {
    "name": "乘用车市场信息联席会·行业新闻",
    "url": "http://127.0.0.1:8899/rss/site/cpcaauto.xml",
    "items": 20,
-   "bytes": 23526,
-   "generated": "2026-09-28 17:00:44",
+   "bytes": 14900,
+   "generated": "2026-09-28 17:28:58",
    "ok": true
   },
   {
    "name": "电池中国·行业资讯",
    "url": "http://127.0.0.1:8899/rss/site/ciaps.xml",
    "items": 20,
-   "bytes": 25235,
-   "generated": "2026-09-28 17:00:52",
+   "bytes": 23552,
+   "generated": "2026-09-28 17:29:08",
+   "ok": true
+  },
+  {
+   "name": "电池中国·协会动态",
+   "url": "http://127.0.0.1:8899/rss/site/ciaps_hy.xml",
+   "items": 19,
+   "bytes": 24695,
+   "generated": "2026-09-28 17:29:18",
+   "ok": true
+  },
+  {
+   "name": "中汽协·首页要闻",
+   "url": "http://127.0.0.1:8899/rss/site/caam.xml",
+   "items": 30,
+   "bytes": 30135,
+   "generated": "2026-09-28 17:29:21",
+   "ok": true
+  },
+  {
+   "name": "中汽研·汽车标准化新闻",
+   "url": "http://127.0.0.1:8899/rss/site/catarc_news.xml",
+   "items": 20,
+   "bytes": 15417,
+   "generated": "2026-09-28 17:29:21",
+   "ok": true
+  },
+  {
+   "name": "工信部·节能与综合利用司",
+   "url": "http://127.0.0.1:8899/rss/site/miit_jns.xml",
+   "items": 30,
+   "bytes": 28853,
+   "generated": "2026-09-28 17:29:24",
    "ok": true
   },
   {
@@ -168,15 +200,15 @@
    "url": "http://127.0.0.1:8899/rss/site/cbea.xml",
    "items": 30,
    "bytes": 16026,
-   "generated": "2026-09-28 17:01:06",
+   "generated": "2026-09-28 17:29:24",
    "ok": true
   },
   {
    "name": "维科网·智能汽车",
    "url": "http://127.0.0.1:8899/rss/site/ofweek.xml",
    "items": 20,
-   "bytes": 23194,
-   "generated": "2026-09-28 17:01:12",
+   "bytes": 25258,
+   "generated": "2026-09-28 17:29:27",
    "ok": true
   },
   {
@@ -184,11 +216,11 @@
    "url": "http://127.0.0.1:8899/rss/site/aibanglib.xml",
    "items": 15,
    "bytes": 7642,
-   "generated": "2026-09-28 17:01:13",
+   "generated": "2026-09-28 17:29:27",
    "ok": true
   }
  ],
- "pushed_at": "2026-09-28 17:02:51",
+ "pushed_at": "2026-09-28 17:31:03",
  "files": [
   {
    "path": "rss/miit.xml",
@@ -242,115 +274,115 @@
    "path": "rss/site/samr_gb.xml",
    "name": "全国标准信息公共服务平台·国家标准动态",
    "items": 30,
-   "generated": "2026-09-28 16:59:52"
+   "generated": "2026-09-28 17:28:24"
   },
   {
    "path": "rss/site/catarc_plan.xml",
    "name": "全国汽车标准化委员会·标准计划公告",
    "items": 30,
-   "generated": "2026-09-28 16:59:53"
+   "generated": "2026-09-28 17:28:24"
   },
   {
    "path": "rss/site/catarc_opinion.xml",
    "name": "全国汽车标准化委员会·公开征求意见",
    "items": 30,
-   "generated": "2026-09-28 16:59:53"
+   "generated": "2026-09-28 17:28:25"
   },
   {
    "path": "rss/site/catarc_release.xml",
    "name": "全国汽车标准化委员会·标准发布公告",
    "items": 30,
-   "generated": "2026-09-28 16:59:54"
+   "generated": "2026-09-28 17:28:26"
   },
   {
    "path": "rss/site/shmet_flash.xml",
    "name": "上海金属网·快讯",
    "items": 120,
-   "generated": "2026-09-28 17:00:01"
+   "generated": "2026-09-28 17:28:32"
   },
   {
    "path": "rss/site/sac_bzhyw.xml",
    "name": "国家标准化管理委员会·标准化要闻",
    "items": 20,
-   "generated": "2026-09-28 17:00:01"
+   "generated": "2026-09-28 17:28:33"
   },
   {
    "path": "rss/site/cencenelec.xml",
    "name": "CEN/CENELEC·新闻",
    "items": 10,
-   "generated": "2026-09-28 17:00:32"
+   "generated": "2026-09-28 17:28:51"
   },
   {
    "path": "rss/site/cnmn_news.xml",
    "name": "中国有色网·重点新闻",
    "items": 20,
-   "generated": "2026-09-28 17:00:32"
+   "generated": "2026-09-28 17:28:51"
   },
   {
    "path": "rss/site/cnmn_policy.xml",
    "name": "中国有色网·政策法规",
    "items": 20,
-   "generated": "2026-09-28 17:00:32"
+   "generated": "2026-09-28 17:28:52"
   },
   {
    "path": "rss/site/caev.xml",
    "name": "中国汽车动力电池产业创新联盟·动态",
    "items": 15,
-   "generated": "2026-09-28 17:00:39"
+   "generated": "2026-09-28 17:28:53"
   },
   {
    "path": "rss/site/cpcaauto.xml",
    "name": "乘用车市场信息联席会·行业新闻",
    "items": 20,
-   "generated": "2026-09-28 17:00:44"
+   "generated": "2026-09-28 17:28:58"
   },
   {
    "path": "rss/site/ciaps.xml",
    "name": "电池中国·行业资讯",
    "items": 20,
-   "generated": "2026-09-28 17:00:52"
+   "generated": "2026-09-28 17:29:08"
   },
   {
    "path": "rss/site/ciaps_hy.xml",
    "name": "电池中国·协会动态",
    "items": 19,
-   "generated": "2026-09-28 17:01:01"
+   "generated": "2026-09-28 17:29:18"
   },
   {
    "path": "rss/site/caam.xml",
    "name": "中汽协·首页要闻",
    "items": 30,
-   "generated": "2026-09-28 17:01:04"
+   "generated": "2026-09-28 17:29:21"
   },
   {
    "path": "rss/site/catarc_news.xml",
    "name": "中汽研·汽车标准化新闻",
    "items": 20,
-   "generated": "2026-09-28 17:01:04"
+   "generated": "2026-09-28 17:29:21"
   },
   {
    "path": "rss/site/miit_jns.xml",
    "name": "工信部·节能与综合利用司",
    "items": 30,
-   "generated": "2026-09-28 17:01:06"
+   "generated": "2026-09-28 17:29:24"
   },
   {
    "path": "rss/site/cbea.xml",
    "name": "电池网·首页要闻",
    "items": 30,
-   "generated": "2026-09-28 17:01:06"
+   "generated": "2026-09-28 17:29:24"
   },
   {
    "path": "rss/site/ofweek.xml",
    "name": "维科网·智能汽车",
    "items": 20,
-   "generated": "2026-09-28 17:01:12"
+   "generated": "2026-09-28 17:29:27"
   },
   {
    "path": "rss/site/aibanglib.xml",
    "name": "艾邦锂电网·资讯",
    "items": 15,
-   "generated": "2026-09-28 17:01:13"
+   "generated": "2026-09-28 17:29:27"
   }
  ]
 }
