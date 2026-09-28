@@ -4,10 +4,19 @@
 <link>http://www.cbea.com/</link>
 <description>电池网首页要闻；列表页本身不写日期，取同一张卡片配图文件名里的时间戳（/resources/u/images/www/20260928141141443_639.jpg → 2026-09-28 14:11:41）作 pubDate；没有配图的条目仍不写 pubDate。源站对本机偶发超时，失败时沿用上次缓存</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:42:14 +0800</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 16:58:13 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cbea.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>赔本也要建：今年车企和电池企业为什么都在“抢”补...</title>
+<link>http://www.cbea.com/djgc/202609/464841.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/464841.html</guid>
+<pubDate>Mon, 28 Sep 2026 15:46:19 +0800</pubDate>
+<description>补能，正在成为车企和电池企业2026年竞逐最激烈的一环。</description>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
 <item>
 <title>星恒电源新增5万吨固态电池配套锰基材料项目</title>
 <link>http://www.cbea.com/hydt/202609/900555.html</link>
@@ -68,15 +77,6 @@
 <guid isPermaLink="true">http://www.cbea.com/hydt/202609/957672.html</guid>
 <pubDate>Thu, 24 Sep 2026 15:22:55 +0800</pubDate>
 <description>近日，逸飞激光圆柱超级电容量产线顺利完成下线，即将交付给某行业头部客户。</description>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>破解续航瓶颈？宁德时代押注无人物流车换电赛道</title>
-<link>http://www.cbea.com/djgc/202609/693708.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/693708.html</guid>
-<pubDate>Wed, 23 Sep 2026 14:42:37 +0800</pubDate>
-<description>2026年9月20日，宁德时代全资子公司时代电服与上汽大通、易森动力、卓驭科技达成四方合作，计划推进5万台搭载换电解决方案的无人物流车规模化落...</description>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
