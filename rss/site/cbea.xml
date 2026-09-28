@@ -4,7 +4,7 @@
 <link>http://www.cbea.com/</link>
 <description>电池网首页要闻（列表页无日期，故 RSS 不写 pubDate）；源站对本机偶发超时，失败时沿用上次缓存</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 21 Sep 2026 10:03:43 +0800</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 14:12:58 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cbea.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -23,16 +23,16 @@
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>英钠新能源获经纬创投数千万元A+轮投资</title>
-<link>http://www.cbea.com/djgc/202609/711462.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/711462.html</guid>
+<title>湖南裕能扩大其西班牙项目锂电材料产能</title>
+<link>http://www.cbea.com/djgc/202609/196081.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/196081.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>百杰瑞：深耕锂盐赛道，布局三大生产基地</title>
-<link>http://www.cbea.com/djgc/202609/600188.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/600188.html</guid>
+<title>国家“力挺”复合集流体，安迈特科技抢占千亿赛道核...</title>
+<link>http://www.cbea.com/djgc/202609/057305.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/057305.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -79,30 +79,30 @@
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>干法电极设备为什么越来越“宽”？</title>
-<link>http://www.cbea.com/hydt/202609/038155.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202609/038155.html</guid>
+<title>逸飞激光圆柱超级电容装配线顺利下线 | 逸飞激光冠...</title>
+<link>http://www.cbea.com/hydt/202609/957672.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202609/957672.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>利元亨 TGV 玻璃通孔激光设备，助力国产先进封装破...</title>
-<link>http://www.cbea.com/djgc/202609/057417.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/057417.html</guid>
+<title>高能数造全固态电池湿法工艺小试线：成熟工艺下的产...</title>
+<link>http://www.cbea.com/hydt/202609/747390.html</link>
+<guid isPermaLink="true">http://www.cbea.com/hydt/202609/747390.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>固态电池实现重大“突破”，硫化锂仍是量产关键</title>
-<link>http://www.cbea.com/djgc/202609/983077.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/983077.html</guid>
+<title>1-8月锂电池出口超675亿美元，同比大增近40%</title>
+<link>http://www.cbea.com/djgc/202609/422395.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/422395.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>微宏动力携工程与矿山设备电池解决方案亮相2026印度...</title>
-<link>http://www.cbea.com/hydt/202609/673308.html</link>
-<guid isPermaLink="true">http://www.cbea.com/hydt/202609/673308.html</guid>
+<title>国轩高科低空电池首发，采用混合固液46大圆柱体系</title>
+<link>http://www.cbea.com/djgc/202609/539447.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/539447.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -135,6 +135,13 @@
 <source>电池网·首页要闻</source>
 </item>
 <item>
+<title>NFPP vs NFS，谁将主宰聚阴离子钠电赛道？</title>
+<link>http://www.cbea.com/djgc/202609/856403.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/856403.html</guid>
+<category>电芯材料</category>
+<source>电池网·首页要闻</source>
+</item>
+<item>
 <title>钠电量产僵局，被卡在10个百分点的良率鸿沟前！</title>
 <link>http://www.cbea.com/djgc/202609/843934.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202609/843934.html</guid>
@@ -142,16 +149,16 @@
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>亿纬锂能与中城能源达成战略合作</title>
-<link>http://www.cbea.com/djgc/202609/030204.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/030204.html</guid>
+<title>破解续航瓶颈？宁德时代押注无人物流车换电赛道</title>
+<link>http://www.cbea.com/djgc/202609/693708.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/693708.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
 <item>
-<title>零跑汽车又引入一家电池企业 明年销量目标直指200万辆</title>
-<link>http://www.cbea.com/djgc/202609/114789.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/114789.html</guid>
+<title>8月中国市场动力电池装机量Top10</title>
+<link>http://www.cbea.com/djgc/202609/661013.html</link>
+<guid isPermaLink="true">http://www.cbea.com/djgc/202609/661013.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
@@ -208,13 +215,6 @@
 <title>顺丰无人机“上天”，背后藏着一家公司十年的固态赌局</title>
 <link>http://www.cbea.com/djgc/202607/956104.html</link>
 <guid isPermaLink="true">http://www.cbea.com/djgc/202607/956104.html</guid>
-<category>电芯材料</category>
-<source>电池网·首页要闻</source>
-</item>
-<item>
-<title>人形机器人放量前夜，动力电池要跨越的两道“门槛”</title>
-<link>http://www.cbea.com/djgc/202609/662530.html</link>
-<guid isPermaLink="true">http://www.cbea.com/djgc/202609/662530.html</guid>
 <category>电芯材料</category>
 <source>电池网·首页要闻</source>
 </item>
