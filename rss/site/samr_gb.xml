@@ -4,10 +4,91 @@
 <link>https://std.samr.gov.cn/gb/search/gbQueryPage</link>
 <description>国家标准（含发布/实施日期、状态），按公开日期倒序；接口：std.samr.gov.cn gbQueryPage</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 17:28:24 +0800</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 13:44:43 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/samr_gb.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>GB/T 14253-2026 轻工机械通用技术条件</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B023B303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B023B303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 14253-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48102-2026 光伏组件耦合环境应力试验方法及性能要求</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0250303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0250303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48102-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2026-12-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48061-2026 竹质活性炭</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0263303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0263303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48061-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 44806.3-2026 集成电路 收发器的电磁兼容（EMC）评估 第3部分：控制器局域网（CAN）收发器</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0276303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0276303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 44806.3-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 24621.1-2026 低压成套开关设备和控制设备安全风险评估应用指南 第1部分：成套开关设备</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027A303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027A303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 24621.1-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48097-2026 数据中心冷板式液冷机柜通用规范</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0299303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0299303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48097-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48164.1-2026 半导体器件 碳化硅金属氧化物半导体场效应晶体管（SiC MOSFET）可靠性试验方法 第1部分：偏置温度不稳定性试验方法</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02A4303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02A4303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48164.1-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48181-2026 差压测量多参数检测变送器技术规范</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02C4303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02C4303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48181-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 22185-2026 体育场馆公共安全通用要求</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02D8303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02D8303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 22185-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
 <item>
 <title>GB/T 48156-2026 航空航天用MJ螺纹自调心桶形游动自锁螺母 尺寸</title>
 <link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0303303FE06397BE0A0ADA7D</link>
@@ -194,87 +275,6 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0222303FE06397BE0A0ADA7D</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 48135-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48185.1-2026 钢铁行业智能车间技术要求 第1部分：棒线材</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0223303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0223303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48185.1-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 20219.1-2026 硬质泡沫塑料 绝热用喷涂聚氨酯泡沫 第1部分：材料规范</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027D303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027D303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 20219.1-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48182-2026 智能服务 预测性维护 安全风险评价方法</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027E303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027E303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48182-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48183-2026 智能服务 预测性维护 检监测协同要求</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027F303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B027F303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48183-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48180-2026 化工用屏蔽电动机技术规范</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0280303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0280303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48180-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 30752-2026 道路施工与养护机械设备 沥青混合料搅拌设备 安全要求</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0224303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0224303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 30752-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 34614-2026 光伏玻璃 温和气候下城市环境自然曝露试验方法及性能评价</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0225303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0225303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 34614-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 33024-2026 柳编制品</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0226303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0226303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 33024-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48074.1-2026 有质量评定的射频（RF）体声波（BAW）滤波器 第1部分：总规范</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0227303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0227303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48074.1-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
 <category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>
