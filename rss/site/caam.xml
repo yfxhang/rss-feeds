@@ -4,7 +4,7 @@
 <link>http://www.caam.org.cn/</link>
 <description>中国汽车工业协会（中汽协）首页要闻；该站对任意栏目路径都返回首页，故取首页新闻列表；日期只在 &lt;span class=&quot;time&quot;&gt;[09.04]&lt;/span&gt; 里给月日，用 dt_md 补年份；逐篇抓正文</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:23:09 +0800</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 16:05:07 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/caam.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>

@@ -4,10 +4,28 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:23:56 +0800</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 16:05:49 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>不止调频，还能黑启动！超级电容+半固态电池混合储能项目在广州试运行成功</title>
+<link>https://www.aibanglib.com/a/32619</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32619</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<description>本项目充分发挥混合调频优势，半固态电池安全性更优，超级电容有…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>超级电容碳核心技术达国际领先，先进碳材料研究院揭牌</title>
+<link>https://www.aibanglib.com/a/32615</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32615</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<description>历经12年联合攻关，项目攻克高端储能碳材料工程化难题，部分核…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>超级电容活性炭厂商北海星石与南宁世纪星石签定战略合作协议</title>
 <link>https://www.aibanglib.com/a/32607</link>
@@ -77,24 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32571</guid>
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
 <description>公司在超级电容器用电解液及其溶质方面拥有核心制备工艺及配方的…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>思源电气：在数据中心应用场景中，超级电容作为主要技术方案正在进入批量应用阶段</title>
-<link>https://www.aibanglib.com/a/32561</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32561</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
-<description>思源电气在互动平台表示，公司超级电容业务在新型电力系统应用场…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>纳米纤维隔膜：超级电容器安全与效率的解决方案</title>
-<link>https://www.aibanglib.com/a/32565</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32565</guid>
-<pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
-<description>柔创纳米依托材料、工艺、装备全栈自研的技术路径，构建了以纳米…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
