@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>新能源汽车（本机聚合 · 近 48 小时）</title>
-<link>http://127.0.0.1:8899/rss/tag/新能源汽车.xml</link>
+<title>新能源汽车（云端聚合 · 近 48 小时）</title>
+<link>https://github.com/yfxhang/rss-feeds</link>
 <description>来源：中国能源网 + 工信部；关键词取自 input.xlsx 派生表（28 个）</description>
 <language>zh-cn</language>
 <item>
@@ -11,6 +11,6 @@
 <description>工业和信息化部等7部门28日联合印发《新型电池产业发展“十五五”规划》，提出到2030年，我国新体系电池研发取得重大进展，全固态电池初步实现规模化应用。</description>
 <category>新能源汽车</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:17:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:17:00 +0800</pubDate>
 </item>
 </channel></rss>

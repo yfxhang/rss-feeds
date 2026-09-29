@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>电芯（本机聚合 · 近 48 小时）</title>
-<link>http://127.0.0.1:8899/rss/tag/电芯.xml</link>
+<title>电芯（云端聚合 · 近 48 小时）</title>
+<link>https://github.com/yfxhang/rss-feeds</link>
 <description>来源：中国能源网 + 工信部；关键词取自 input.xlsx 派生表（29 个）</description>
 <language>zh-cn</language>
 <item>
@@ -11,7 +11,7 @@
 <description>据六安市发展和改革委员会发布消息，安徽伏特时代新能源有限公司项目迎来新进展——项目一期厂房和办公楼主体已完成，预计2026年10月设备进场进行生产调试。</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:50:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:50:00 +0800</pubDate>
 </item>
 <item>
 <title>高安全、大容量、超长循环寿命!手机、新能源汽车都将用上新型电池</title>
@@ -20,7 +20,7 @@
 <description>工业和信息化部、国家发展改革委等七部门近日联合印发《新型电池产业发展“十五五”规划》。未来5年，新型电池如何发展?将在哪些领域加速应用?一文了解↓↓</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:32:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:32:00 +0800</pubDate>
 </item>
 <item>
 <title>降碳减污协同增效 推进能源体系绿色低碳转型</title>
@@ -29,7 +29,25 @@
 <description>习近平总书记指出：“坚持‘双碳’引领，推动全面绿色转型。”《新型能源体系建设“十五五”规划》提出：“更好统筹发展和安全，以安全充裕为前提、经济可行为基础、科技创新为引领、体制改革为动力，加快建设清洁低碳安全高效的新型能源体系，确保能源的饭碗牢牢端在自己手里。</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:21:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:21:00 +0800</pubDate>
+</item>
+<item>
+<title>山西省召开全省煤炭安全稳产稳供工作推进会</title>
+<link>https://www.china5e.com/news/news-1209900-1.html</link>
+<guid isPermaLink="true">https://www.china5e.com/news/news-1209900-1.html</guid>
+<description>9月26日，山西省委副书记、省长卢东亮主持召开全省煤炭安全稳产稳供工作推进会。他强调，要深入学习贯彻习近平总书记关于安全生产和能源保供的重要指示精神，认真落实国家做好煤炭安全稳产稳供工作部署要求，按照省委要求，以强烈的责任感、使命感、紧迫感，更好统筹发展和安全，在严守安全底线前提下，全力推动复工复产、稳产稳供，加速扭转产量下滑趋势，加快重塑我省煤炭产业生态，为确保国家能源安全、满足民生用能需求贡献山西力量。省委常委、常务副省长董晓宇参加。</description>
+<category>电芯</category>
+<source>中国能源网</source>
+<pubDate>Mon, 28 Sep 2026 10:22:00 +0800</pubDate>
+</item>
+<item>
+<title>EnerVenue启用全球首条水系金属电池（AMC）大规模量产线</title>
+<link>https://www.china5e.com/news/news-1209895-1.html</link>
+<guid isPermaLink="true">https://www.china5e.com/news/news-1209895-1.html</guid>
+<description>该产线于常州建成，历时二十五周，年产能达250兆瓦时，实现水基镍氢电池的规模化生产——这款电池被设计为基础设施：30,000次循环，三十年服役寿命</description>
+<category>电芯</category>
+<source>中国能源网</source>
+<pubDate>Mon, 28 Sep 2026 09:49:00 +0800</pubDate>
 </item>
 <item>
 <title>工业和信息化部等四部门组织重点货车、客车、专用车、挂车及摩托车生产企业开展座谈 加强车辆产品安全管理</title>
@@ -41,31 +59,13 @@
 <pubDate>Mon, 28 Sep 2026 09:47:23 +0800</pubDate>
 </item>
 <item>
-<title>山西省召开全省煤炭安全稳产稳供工作推进会</title>
-<link>https://www.china5e.com/news/news-1209900-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209900-1.html</guid>
-<description>9月26日，山西省委副书记、省长卢东亮主持召开全省煤炭安全稳产稳供工作推进会。他强调，要深入学习贯彻习近平总书记关于安全生产和能源保供的重要指示精神，认真落实国家做好煤炭安全稳产稳供工作部署要求，按照省委要求，以强烈的责任感、使命感、紧迫感，更好统筹发展和安全，在严守安全底线前提下，全力推动复工复产、稳产稳供，加速扭转产量下滑趋势，加快重塑我省煤炭产业生态，为确保国家能源安全、满足民生用能需求贡献山西力量。省委常委、常务副省长董晓宇参加。</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 02:22:00 +0800</pubDate>
-</item>
-<item>
-<title>EnerVenue启用全球首条水系金属电池（AMC）大规模量产线</title>
-<link>https://www.china5e.com/news/news-1209895-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209895-1.html</guid>
-<description>该产线于常州建成，历时二十五周，年产能达250兆瓦时，实现水基镍氢电池的规模化生产——这款电池被设计为基础设施：30,000次循环，三十年服役寿命</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 01:49:00 +0800</pubDate>
-</item>
-<item>
 <title>强化保密教育淬炼思想 严守纪律筑牢安全防线 —— 国网巫溪供电公司开展保密专题教育培训</title>
 <link>https://www.china5e.com/news/news-1209886-1.html</link>
 <guid isPermaLink="true">https://www.china5e.com/news/news-1209886-1.html</guid>
 <description>,9 月 21 日,国网巫溪供电公司组织开展保密工作专题培训,为全体员工拧紧保密 “思想阀”,织密信息安全 “防护网”,夯实企业安全发展根基。</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 01:34:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 09:34:00 +0800</pubDate>
 </item>
 <item>
 <title>严把设备移交关口 筑牢安全用电防线 ——国网巫溪供电公司扎实推进客户工程移交设备检测</title>
@@ -74,7 +74,7 @@
 <description>9月22日,国网巫溪供电公司联合重庆渝电检测中心,对巫溪县南岸安置房小区配电工程拟移交电网的设备及材料开展专项质量检测,从严把好设备入网 “第一道关口”。</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 01:13:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 09:13:00 +0800</pubDate>
 </item>
 <item>
 <title>张振涛：二氧化碳储能，“十五五”有望迎来规模化商业化</title>
@@ -83,7 +83,7 @@
 <description>在“双碳”目标持续推进、风光新能源装机规模快速扩张的背景下，新型储能已成为构建新型电力系统不可或缺的关键环节。锂电池、抽水蓄能为大众熟知，二氧化碳储能则是近几年快速崛起的热门长时储能技术路线。围绕这项技术的原理、优势、产业化进展与政策机遇，在ESG创新年会(2026)上，中国科学院理化技术研究所二氧化碳储能技术专家张振涛接受了《企业观察报》记者的采访。他以通俗语言介绍了二氧化碳储能的技术逻辑，并客观分析了产业当前面临的瓶颈与未来前景。</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 00:57:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 08:57:00 +0800</pubDate>
 </item>
 <item>
 <title>新技术破解枢纽大电网安全运行难题</title>
@@ -92,7 +92,7 @@
 <description>9月28日讯，近日，由该公司牵头完成的“新型枢纽电网稳定提升协同控制关键技术与应用”研发项目，获得2026年中国电力企业联合会电力创新奖特等奖。</description>
 <category>电芯</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 00:07:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 08:07:00 +0800</pubDate>
 </item>
 <item>
 <title>极限真空，国产作答|长城DVE-Z高端真空泵油正式量产</title>

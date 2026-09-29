@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>政策法规（本机聚合 · 近 48 小时）</title>
-<link>http://127.0.0.1:8899/rss/tag/政策法规.xml</link>
+<title>政策法规（云端聚合 · 近 48 小时）</title>
+<link>https://github.com/yfxhang/rss-feeds</link>
 <description>来源：中国能源网 + 工信部；关键词取自 input.xlsx 派生表（6 个）</description>
 <language>zh-cn</language>
 <item>
@@ -11,7 +11,7 @@
 <description>补能，正在成为车企和电池企业2026年竞逐最激烈的一环。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 01:36:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 09:36:00 +0800</pubDate>
 </item>
 <item>
 <title>安徽10GWh锂电池项目即将投产</title>
@@ -20,7 +20,7 @@
 <description>据六安市发展和改革委员会发布消息，安徽伏特时代新能源有限公司项目迎来新进展——项目一期厂房和办公楼主体已完成，预计2026年10月设备进场进行生产调试。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:50:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:50:00 +0800</pubDate>
 </item>
 <item>
 <title>事关万亿级产业!七部门印发新型电池“十五五”规划</title>
@@ -29,7 +29,7 @@
 <description>9月28日，工业和信息化部、国家发展改革委、交通运输部等七部门联合制定的《新型电池产业发展“十五五”规划》正式发布。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:41:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:41:00 +0800</pubDate>
 </item>
 <item>
 <title>高安全、大容量、超长循环寿命!手机、新能源汽车都将用上新型电池</title>
@@ -38,7 +38,7 @@
 <description>工业和信息化部、国家发展改革委等七部门近日联合印发《新型电池产业发展“十五五”规划》。未来5年，新型电池如何发展?将在哪些领域加速应用?一文了解↓↓</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:32:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:32:00 +0800</pubDate>
 </item>
 <item>
 <title>事关新型电池产业发展，七部门印发规划</title>
@@ -47,7 +47,7 @@
 <description>工业和信息化部、国家发展改革委等七部门近日联合印发《新型电池产业发展“十五五”规划》。《规划》提出到2030年，我国新型电池产业规模实现稳步增长的目标。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:31:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:31:00 +0800</pubDate>
 </item>
 <item>
 <title>《新型电池产业发展“十五五”规划》发布</title>
@@ -56,7 +56,7 @@
 <description>工业和信息化部等7部门28日联合印发《新型电池产业发展“十五五”规划》，提出到2030年，我国新体系电池研发取得重大进展，全固态电池初步实现规模化应用。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:17:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:17:00 +0800</pubDate>
 </item>
 <item>
 <title>新型电池产业发展十五五规划发布</title>
@@ -65,7 +65,7 @@
 <description>9月29日讯，9月28日，工业和信息化部、国家发展改革委、交通运输部等七部门联合制定的《新型电池产业发展“十五五”规划》正式发布。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:13:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:13:00 +0800</pubDate>
 </item>
 <item>
 <title>投资超2300亿元!四川发布动力电池产业合作机会清单</title>
@@ -74,7 +74,7 @@
 <description>北极星储能网获悉，9月20日，四川省经济合作局发布《四川省动力电池产业合作机会清单》，共推出项目121个，包括强链补链延链项目88个、应用场景19个、资源利用项目14个。合作金额超2300亿元。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 02:01:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 10:01:00 +0800</pubDate>
 </item>
 <item>
 <title>EnerVenue启用全球首条水系金属电池（AMC）大规模量产线</title>
@@ -83,7 +83,7 @@
 <description>该产线于常州建成，历时二十五周，年产能达250兆瓦时，实现水基镍氢电池的规模化生产——这款电池被设计为基础设施：30,000次循环，三十年服役寿命</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 01:49:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 09:49:00 +0800</pubDate>
 </item>
 <item>
 <title>张振涛：二氧化碳储能，“十五五”有望迎来规模化商业化</title>
@@ -92,7 +92,7 @@
 <description>在“双碳”目标持续推进、风光新能源装机规模快速扩张的背景下，新型储能已成为构建新型电力系统不可或缺的关键环节。锂电池、抽水蓄能为大众熟知，二氧化碳储能则是近几年快速崛起的热门长时储能技术路线。围绕这项技术的原理、优势、产业化进展与政策机遇，在ESG创新年会(2026)上，中国科学院理化技术研究所二氧化碳储能技术专家张振涛接受了《企业观察报》记者的采访。他以通俗语言介绍了二氧化碳储能的技术逻辑，并客观分析了产业当前面临的瓶颈与未来前景。</description>
 <category>政策法规</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 00:57:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 08:57:00 +0800</pubDate>
 </item>
 <item>
 <title>动力电池重新定义全球购车逻辑</title>

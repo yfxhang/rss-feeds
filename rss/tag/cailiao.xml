@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>材料（本机聚合 · 近 48 小时）</title>
-<link>http://127.0.0.1:8899/rss/tag/材料.xml</link>
+<title>材料（云端聚合 · 近 48 小时）</title>
+<link>https://github.com/yfxhang/rss-feeds</link>
 <description>来源：中国能源网 + 工信部；关键词取自 input.xlsx 派生表（17 个）</description>
 <language>zh-cn</language>
 <item>
@@ -11,7 +11,7 @@
 <description>近日，全国风力发电标准化技术委员会第九届第二次会议暨2026年度工作会议在呼和浩特召开。会议以“聚力‘十五五’标准创新供给，赋能风电产业高质量发展”为主题，围绕国家标准制修订、技术创新、产业赋能、国际标准化等议题展开交流。</description>
 <category>材料</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 01:31:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 09:31:00 +0800</pubDate>
 </item>
 <item>
 <title>安徽10GWh锂电池项目即将投产</title>
@@ -20,7 +20,7 @@
 <description>据六安市发展和改革委员会发布消息，安徽伏特时代新能源有限公司项目迎来新进展——项目一期厂房和办公楼主体已完成，预计2026年10月设备进场进行生产调试。</description>
 <category>材料</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:50:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:50:00 +0800</pubDate>
 </item>
 <item>
 <title>降碳减污协同增效 推进能源体系绿色低碳转型</title>
@@ -29,7 +29,7 @@
 <description>习近平总书记指出：“坚持‘双碳’引领，推动全面绿色转型。”《新型能源体系建设“十五五”规划》提出：“更好统筹发展和安全，以安全充裕为前提、经济可行为基础、科技创新为引领、体制改革为动力，加快建设清洁低碳安全高效的新型能源体系，确保能源的饭碗牢牢端在自己手里。</description>
 <category>材料</category>
 <source>中国能源网</source>
-<pubDate>Tue, 29 Sep 2026 00:21:00 +0800</pubDate>
+<pubDate>Tue, 29 Sep 2026 08:21:00 +0800</pubDate>
 </item>
 <item>
 <title>EnerVenue启用全球首条水系金属电池（AMC）大规模量产线</title>
@@ -38,7 +38,7 @@
 <description>该产线于常州建成，历时二十五周，年产能达250兆瓦时，实现水基镍氢电池的规模化生产——这款电池被设计为基础设施：30,000次循环，三十年服役寿命</description>
 <category>材料</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 01:49:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 09:49:00 +0800</pubDate>
 </item>
 <item>
 <title>张振涛：二氧化碳储能，“十五五”有望迎来规模化商业化</title>
@@ -47,7 +47,7 @@
 <description>在“双碳”目标持续推进、风光新能源装机规模快速扩张的背景下，新型储能已成为构建新型电力系统不可或缺的关键环节。锂电池、抽水蓄能为大众熟知，二氧化碳储能则是近几年快速崛起的热门长时储能技术路线。围绕这项技术的原理、优势、产业化进展与政策机遇，在ESG创新年会(2026)上，中国科学院理化技术研究所二氧化碳储能技术专家张振涛接受了《企业观察报》记者的采访。他以通俗语言介绍了二氧化碳储能的技术逻辑，并客观分析了产业当前面临的瓶颈与未来前景。</description>
 <category>材料</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 00:57:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 08:57:00 +0800</pubDate>
 </item>
 <item>
 <title>新技术破解枢纽大电网安全运行难题</title>
@@ -56,7 +56,14 @@
 <description>9月28日讯，近日，由该公司牵头完成的“新型枢纽电网稳定提升协同控制关键技术与应用”研发项目，获得2026年中国电力企业联合会电力创新奖特等奖。</description>
 <category>材料</category>
 <source>中国能源网</source>
-<pubDate>Mon, 28 Sep 2026 00:07:00 +0800</pubDate>
+<pubDate>Mon, 28 Sep 2026 08:07:00 +0800</pubDate>
+</item>
+<item>
+<title>新世代BMWiX3顶配，为何由亿纬锂能独供？</title>
+<link>https://www.china5e.com/news/news-1209854-1.html</link>
+<guid isPermaLink="true">https://www.china5e.com/news/news-1209854-1.html</guid>
+<category>材料</category>
+<source>中国能源网</source>
 </item>
 <item>
 <title>第四十届润滑技术论坛在大连成功举办</title>

@@ -1,76 +1,61 @@
-# 本机 RSS 源镜像
+# 本机 / 云端 RSS 源镜像
 
-由本机（changan）定时生成后推送到此仓库，供「开悟」等平台抓取。每次推送为覆盖式更新。
+由 GitHub Actions 定时抓取生成后推送到此仓库（2026-09-29 起由云端生成，不再依赖本机开机），供「开悟」等平台抓取。每次推送为覆盖式更新。
 
-最近一次推送：2026-09-29 13:56:41
+最近一次推送：2026-09-29 14:23:57（北京时间）
 
-## 读取地址（三种任选，平台侧哪个能访问用哪个）
+## 读取地址（平台侧哪个能访问用哪个）
 
-1. raw.githubusercontent.com（GitHub 官方，国内可能被墙）：
-   `https://raw.githubusercontent.com/yfxhang/rss-feeds/main/<文件路径>`
-2. jsDelivr CDN（国内一般可访问，有缓存延迟）：
-   `https://cdn.jsdelivr.net/gh/yfxhang/rss-feeds@main/<文件路径>`
-3. ghproxy 前缀代理：
+1. ghproxy 前缀代理（平台当前主用，最实时）：
    `https://ghproxy.net/https://raw.githubusercontent.com/yfxhang/rss-feeds/main/<文件路径>`
+2. fastly jsDelivr CDN（有缓存延迟）：
+   `https://fastly.jsdelivr.net/gh/yfxhang/rss-feeds@main/<文件路径>`
+3. GitHub 官方 raw（国内常被墙）：
+   `https://raw.githubusercontent.com/yfxhang/rss-feeds/main/<文件路径>`
+
+机器可读清单：`index.json`（含每个源的条数与生成时间，可用于判断新鲜度）。
 
 ## 源清单
 
-| 源 | 仓库内路径 | 条数 | 本机生成时间 |
+| 源 | 仓库内路径 | 条数 | 本轮生成时间（北京） |
 |---|---|---|---|
-| 工信部·工信动态（清洗源） | `rss/miit.xml` | 60 | 2026-09-29 13:44:05 |
-| 中国能源网（自建 CSS 路由） | `rss/china5e.xml` | 257 | 2026-09-29 13:44:43 |
-| 标签聚合·矿产 | `rss/tag/kuangchan.xml` | 5 | 2026-09-29 13:44:43 |
-| 标签聚合·材料 | `rss/tag/cailiao.xml` | 12 | 2026-09-29 13:44:43 |
-| 标签聚合·电芯 | `rss/tag/dianxin.xml` | 15 | 2026-09-29 13:44:43 |
-| 标签聚合·电池回收 | `rss/tag/dianchihuishou.xml` | 7 | 2026-09-29 13:44:43 |
-| 标签聚合·新能源汽车 | `rss/tag/xinnengyuan.xml` | 1 | 2026-09-29 13:44:43 |
-| 标签聚合·政策法规 | `rss/tag/zhengce.xml` | 11 | 2026-09-29 13:44:43 |
-| 全国标准信息公共服务平台·国家标准动态 | `rss/site/samr_gb.xml` | 30 | 2026-09-29 13:44:43 |
-| 全国汽车标准化委员会·标准计划公告 | `rss/site/catarc_plan.xml` | 30 | 2026-09-29 13:44:44 |
-| 全国汽车标准化委员会·公开征求意见 | `rss/site/catarc_opinion.xml` | 30 | 2026-09-29 13:44:45 |
-| 全国汽车标准化委员会·标准发布公告 | `rss/site/catarc_release.xml` | 30 | 2026-09-29 13:44:46 |
-| 上海金属网·快讯 | `rss/site/shmet_flash.xml` | 120 | 2026-09-29 13:44:52 |
-| 国家标准化管理委员会·标准化要闻 | `rss/site/sac_bzhyw.xml` | 20 | 2026-09-29 13:44:53 |
-| CEN/CENELEC·新闻 | `rss/site/cencenelec.xml` | 10 | 2026-09-29 13:45:42 |
-| 中国有色网·重点新闻 | `rss/site/cnmn_news.xml` | 20 | 2026-09-29 13:45:43 |
-| 中国有色网·政策法规 | `rss/site/cnmn_policy.xml` | 20 | 2026-09-29 13:45:43 |
-| 中国汽车动力电池产业创新联盟·动态 | `rss/site/caev.xml` | 15 | 2026-09-29 13:45:46 |
-| 乘用车市场信息联席会·行业新闻 | `rss/site/cpcaauto.xml` | 20 | 2026-09-29 13:45:51 |
-| 电池中国·行业资讯 | `rss/site/ciaps.xml` | 20 | 2026-09-29 13:46:00 |
-| 电池中国·协会动态 | `rss/site/ciaps_hy.xml` | 19 | 2026-09-29 13:46:13 |
-| 中汽协·首页要闻 | `rss/site/caam.xml` | 30 | 2026-09-29 13:46:16 |
-| 中汽研·汽车标准化新闻 | `rss/site/catarc_news.xml` | 20 | 2026-09-29 13:46:17 |
-| 工信部·节能与综合利用司 | `rss/site/miit_jns.xml` | 30 | 2026-09-29 13:46:18 |
-| 电池网·首页要闻 | `rss/site/cbea.xml` | 30 | 2026-09-29 13:46:19 |
-| 维科网·智能汽车 | `rss/site/ofweek.xml` | 20 | 2026-09-29 13:46:24 |
-| 艾邦锂电网·资讯 | `rss/site/aibanglib.xml` | 15 | 2026-09-29 13:46:25 |
+| 工信部·工信动态（清洗源） | `rss/miit.xml` | 60 | 2026-09-29 14:19:02 |
+| 中国能源网（自建 CSS 路由） | `rss/china5e.xml` | 257 | 2026-09-29 14:20:54 |
+| 标签聚合·矿产 | `rss/tag/kuangchan.xml` | 6 | 2026-09-29 14:23:56 |
+| 标签聚合·材料 | `rss/tag/cailiao.xml` | 13 | 2026-09-29 14:23:56 |
+| 标签聚合·电芯 | `rss/tag/dianxin.xml` | 15 | 2026-09-29 14:23:56 |
+| 标签聚合·电池回收 | `rss/tag/dianchihuishou.xml` | 6 | 2026-09-29 14:23:56 |
+| 标签聚合·新能源汽车 | `rss/tag/xinnengyuan.xml` | 1 | 2026-09-29 14:23:56 |
+| 标签聚合·政策法规 | `rss/tag/zhengce.xml` | 11 | 2026-09-29 14:23:56 |
+| 全国标准信息公共服务平台·国家标准动态 | `rss/site/samr_gb.xml` | 30 | 2026-09-29 14:20:56 |
+| 全国汽车标准化委员会·标准计划公告 | `rss/site/catarc_plan.xml` | 30 | 2026-09-29 14:20:59 |
+| 全国汽车标准化委员会·公开征求意见 | `rss/site/catarc_opinion.xml` | 30 | 2026-09-29 14:21:00 |
+| 全国汽车标准化委员会·标准发布公告 | `rss/site/catarc_release.xml` | 30 | 2026-09-29 14:21:02 |
+| 上海金属网·快讯 | `rss/site/shmet_flash.xml` | 120 | 2026-09-29 14:21:19 |
+| 国家标准化管理委员会·标准化要闻 | `rss/site/sac_bzhyw.xml` | 20 | 2026-09-29 14:21:22 |
+| CEN/CENELEC·新闻 | `rss/site/cencenelec.xml` | 10 | 2026-09-29 14:21:31 |
+| 中国有色网·重点新闻 | `rss/site/cnmn_news.xml` | 20 | 2026-09-29 14:21:34 |
+| 中国有色网·政策法规 | `rss/site/cnmn_policy.xml` | 20 | 2026-09-29 14:21:36 |
+| 中国汽车动力电池产业创新联盟·动态 | `rss/site/caev.xml` | 15 | 2026-09-29 14:21:46 |
+| 乘用车市场信息联席会·行业新闻 | `rss/site/cpcaauto.xml` | 20 | 2026-09-29 14:22:02 |
+| 电池中国·行业资讯 | `rss/site/ciaps.xml` | 20 | 2026-09-29 14:22:32 |
+| 电池中国·协会动态 | `rss/site/ciaps_hy.xml` | 19 | 2026-09-29 14:22:59 |
+| 中汽协·首页要闻 | `rss/site/caam.xml` | 30 | 2026-09-29 14:23:09 |
+| 中汽研·汽车标准化新闻 | `rss/site/catarc_news.xml` | 20 | 2026-09-29 14:23:12 |
+| 工信部·节能与综合利用司 | `rss/site/miit_jns.xml` | 30 | 2026-09-29 14:23:23 |
+| 维科网·智能汽车 | `rss/site/ofweek.xml` | 20 | 2026-09-29 14:23:53 |
+| 艾邦锂电网·资讯 | `rss/site/aibanglib.xml` | 15 | 2026-09-29 14:23:56 |
 
-## 平台可直接订阅的原生源（不经本机）
+## 平台可直接订阅的原生源（不经本仓库）
 
 | 源 | URL |
 |---|---|
 | ITU（国际电信联盟）新闻 | https://www.itu.int/hub/feed/ |
 | IEEE Spectrum 新闻 | https://spectrum.ieee.org/feeds/feed.rss |
 | IEEE Spectrum 能源专题 | https://spectrum.ieee.org/feeds/topic/energy.rss |
-## 读取地址（按本机实测可用性排序，平台侧哪个能访问用哪个）
-
-1. **fastly.jsdelivr CDN（本机实测通，推荐）**：
-   `https://fastly.jsdelivr.net/gh/yfxhang/rss-feeds@main/<文件路径>`
-2. **ghproxy 前缀代理（本机实测通）**：
-   `https://ghproxy.net/https://raw.githubusercontent.com/yfxhang/rss-feeds/main/<文件路径>`
-3. cdn.jsdelivr CDN（备用，本机时通时断）：
-   `https://cdn.jsdelivr.net/gh/yfxhang/rss-feeds@main/<文件路径>`
-4. GitHub 官方 raw（国内常被墙，平台侧若能访问则最实时）：
-   `https://raw.githubusercontent.com/yfxhang/rss-feeds/main/<文件路径>`
-
-机器可读清单：`index.json`（含每个源的条数与生成时间，可用于判断新鲜度）。
 
 ## 说明
 
-
-- 工信部源为清洗版：源站原始 feed 是 13 位毫秒时间戳、2.1 万条、按栏目分块乱序，这里已转标准时间并按时间倒序裁到最近 60 条。
-- `rss/site/*.xml` 是「无公开 RSS 站点」的自建源（来源：无RSS源站点订阅方案调研_2026-09-20.pdf 的 A/B/C 档），抓取器在本机 `C:\HERMES\feedservice\site_feeds.py`。
-- 列表页没有发布时间的源（电池网）不写 `pubDate`，由阅读器按抓取时间入库；上海金属网快讯为高频道（全天 400+ 条），按 6 小时分段采样、每次最多 120 条。
-- 标签聚合源的关键词来自 `input.xlsx` 派生表，窗口 48 小时，每标签最多 60 条。
-- 机器不在线时不会推送，仓库里保留的是最后一次成功推送的内容（`index.json` 里有生成时间，可据此判断新鲜度）。
-- 机器可读的清单见 `index.json`。
+- 生成器代码在仓库 `feeds/`：`site_feeds.py`（无 RSS 站点自建源）、`miit_news.py`（工信部清洗）、`lib/china5e_rss.py`（中国能源网 CSS 路由）、`build_tags.py`（标签聚合）。
+- 某个源某轮抓不到时**保留上一版**，不会被空文件覆盖。
+- 中文文件名（标签、站点）在仓库内使用拼音/英文 slug，映射见 `feeds/stage_publish.py`。
