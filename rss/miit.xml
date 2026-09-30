@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>电器电子产品有害物质限制使用（中国RoHS）信息报送情况（截至2026年8月31日）</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9f2f36dfceeb48ec9acb3e7898c68fe1.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9f2f36dfceeb48ec9acb3e7898c68fe1.html</guid>
+<description>根据《电器电子产品有害物质限制使用管理办法》（工业和信息化部等8部门2016年第32号令）、《电器电子产品有害物质限制使用合格评定制度实施安排》（市场监管总局2019年第23号公告）、《电器电子产品有害物质限制使用达标管理目录（2026年版）》（工业和信息化部2026年第11号公告）相关规定，2019年11月1日后出厂、进口的电冰箱、洗衣机、电视机等十类产品，须开展电器电子产品有害物质限制使...</description>
+<pubDate>Tue, 29 Sep 2026 17:31:52 +0800</pubDate>
+</item>
+<item>
 <title>工业和信息化系统国际合作工作座谈会在哈尔滨召开</title>
 <link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b6f2e487b7a74338aa4999e8fd91ecc2.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b6f2e487b7a74338aa4999e8fd91ecc2.html</guid>
@@ -417,11 +424,4 @@
 <description>9月14日，工业和信息化部党组成员、副部长辛国斌在北京主持召开部分省份工业经济运行座谈会，了解各地区当前工业经济运行情况，分析研判工业经济形势，研究谋划2027年经济工作思路。</description>
 <pubDate>Tue, 15 Sep 2026 08:43:36 +0800</pubDate>
 </item>
-<item>
-<title>新疆通信管理局召开党的建设工作领导小组（扩大）会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_38d902f5e82d4f62aee3f7d52072af33.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_38d902f5e82d4f62aee3f7d52072af33.html</guid>
-<description>2026年9月7日，新疆维吾尔自治区通信管理局召开党的建设工作领导小组（扩大）会议，深入学习贯彻习近平党建思想和习近平总书记重要指示精神，认真落实工业和信息化部党的建设工作领导小组会议部署，总结全局树立和践行正确政绩观学习教育开展情况，研究部署巩固拓展学习教育成果工作。新疆维吾尔自治区通信管理局党组书记、局长冶成出席会议并讲话，全局党组成员及处级领导干部参加会议。</description>
-<pubDate>Mon, 14 Sep 2026 16:43:39 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19830 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19831 条）

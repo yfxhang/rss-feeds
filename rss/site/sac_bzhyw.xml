@@ -4,10 +4,18 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/index.html</link>
 <description>国家标准化管理委员会「标准化要闻」；页面本身是 jpaas 动态组件（无静态条目），本源直接调它的 build/unit 接口取列表片段</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 16:03:19 +0800</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 09:14:25 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/sac_bzhyw.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026年世界标准日祝词及海报 美好世界的共同愿景：聚焦联合国可持续发展目标7——经济适用的清洁能源</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d9a4e38ee7634e108ed4630a73ecb030.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d9a4e38ee7634e108ed4630a73ecb030.html</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
 <item>
 <title>纺织产品绿色评价国家标准10月1日起实施</title>
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_c1f8a847c66d41aa8713534f79ee94e0.html</link>
@@ -157,14 +165,6 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_6a9ac62f24b04d1286dbd43001cebf4c.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_6a9ac62f24b04d1286dbd43001cebf4c.html</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>第二届全国标准化知识竞赛决赛在北京举办</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_29185a04980b4c8e91bff562c230084b.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_29185a04980b4c8e91bff562c230084b.html</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
