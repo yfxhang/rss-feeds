@@ -4,10 +4,28 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Wed, 30 Sep 2026 10:15:51 +0800</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 00:32:05 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>Launch of the CEN/CLC Workshop 'Battery2Life - Interoperable BMS principles'</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-09-30_battery2life/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/2026-09-30_battery2life/</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+<description>A new CEN/CLC Workshop is being established to explore the options of second life batteries in the context of an interoperable Battery Management System (BMS). The Workshop stems from work being done in Battery2Life – a project aiming to bring innovation to the European battery industry. The Battery2Life project is concerned to answer the growing problem of the transition of batteries to their second life use. It recognises the need for more adaptable systems and smarter design, and the challenge of developing new methods for reconfiguration of used batteries in a way that is efficient and reliable. The consortium draws together partners from research, academia, industry, business, and standardisation. Together they seek to improve technological advances in BMS and system design as well as</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
+<item>
+<title>Call for Experts: Help Shape Europe's Future Standard for Transport Data Exchange</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/call-for-tender/2026-09-30_netex/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/call-for-tender/2026-09-30_netex/</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+<description>The European Commission, through the European Innovation Council and SMEs Executive Agency (EISMEA), is seeking experts to contribute to the development of the future harmonized EN 16614 Network Timetable Exchange (NeTEx) standard. This strategic initiative will support the implementation of key EU legislation on multimodal travel information and rail data interoperability, helping to build a more connected and digital European transport system. Why It Matters As passengers increasingly rely on digital journey planners, Mobility-as-a-Service (MaaS) applications, booking platforms, and ticketing services, the need for consistent and interoperable transport data has never been greater. The project will transform the current six-part CEN/TS 16614 (NeTEx) technical specification into a fully h</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>Improving protection for motorcycle police officers</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-etuc/</link>
@@ -63,20 +81,10 @@
 <source>CEN/CENELEC·新闻</source>
 </item>
 <item>
-<title>CEN and CENELEC contribute to Europe-Africa dialogue on greener ICT value chains</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-nairobi-workshop/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-nairobi-workshop/</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<description>On 24 September 2026, CEN and CENELEC participated in the ECOS and InDiCo-Global workshop &quot;Towards a Greener ICT Value Chain: Standards, Policies and Best Practices Dialogue for Europe and Africa&quot; in Nairobi, Kenya. Bringing together policymakers, standards bodies, environmental organizations, industry representatives and civil society stakeholders, the event provided a platform for exchange on standards and policies supporting greener and more circular ICT value chains. During the session on sharing best practices in standardization, the three European Standardization Organizations (ESOs) presented the European experience in fostering inclusive participation in standardization. The presentation highlighted how the involvement of environmental organizations, consumers, workers, SMEs and pu</description>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
 <title>CEN and CENELEC Activities</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-activities/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-activities/</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<description>We are pleased to inform you about the upcoming CEN and CENELEC activities in 2026. 1 October – CRA Standards Unlocked – EU Tour in the Hague The next stop of the CRA Standards Unlocked – EU Tour is taking place in The Hague on 1 October (hybrid event). This workshop helps SMEs understand, prepare for, and comply with the EU Cyber Resilience Act (CRA), translating regulatory requirements into practical guidance and tools and providing information about the ongoing standardization process and ways to engage in open consultations. Register here. 7 October – CRA Standards Unlocked – EU Tour in Bonn The next stop of the CRA Standards Unlocked – EU Tour is taking place in Bonn on 7 October. This workshop helps SMEs understand, prepare for, and comply with the EU Cyber Resilience Act (CRA), tran</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -85,14 +93,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-hzn-campaign-standards-behind-everyday-things/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-hzn-campaign-standards-behind-everyday-things/</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Meet young professionals in European Standardization: Markus Beckman from Sweden</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-09-24-yp-markus-beckman/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-09-24-yp-markus-beckman/</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
