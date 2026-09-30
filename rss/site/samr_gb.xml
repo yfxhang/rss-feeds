@@ -4,7 +4,7 @@
 <link>https://std.samr.gov.cn/gb/search/gbQueryPage</link>
 <description>国家标准（含发布/实施日期、状态），按公开日期倒序；接口：std.samr.gov.cn gbQueryPage</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 09:14:05 +0800</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 10:15:17 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/samr_gb.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -86,6 +86,33 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B02D8303FE06397BE0A0ADA7D</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 22185-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48104-2026 光伏组件报废评价技术要求</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0201303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0201303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48104-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 37977.53-2026 静电学 第5-3部分：电子器件的静电防护 静电放电敏感器件的包装性能和要求分类</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0209303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0209303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 37977.53-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2026-12-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 6495.12-2026 光伏器件 第12部分：钙钛矿光伏电池及组件的电流-电压（I-V）特性测量方法</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0235303FE06397BE0A0ADA7D</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0235303FE06397BE0A0ADA7D</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 6495.12-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
 <category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>
@@ -248,33 +275,6 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B021F303FE06397BE0A0ADA7D</guid>
 <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 19018-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2026-12-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48140-2026 汽车软件质量与缺陷管理规范</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0220303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0220303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48140-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2026-12-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48134-2026 综合客运枢纽服务规范</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0221303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0221303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48134-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2026-12-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 48135-2026 专业运动服装 攀岩服</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0222303FE06397BE0A0ADA7D</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B0222303FE06397BE0A0ADA7D</guid>
-<pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48135-2026；性质：推荐性；状态：即将实施；发布日期：2026-08-28；实施日期：2027-03-01</description>
 <category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>
