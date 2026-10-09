@@ -4,10 +4,18 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 16:31:28 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 16:45:26 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>长城皮卡9月全球销售15020辆 连续28年居国内销量榜首</title>
+<link>https://m.gasgoo.com/news/70474002.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474002.html</guid>
+<pubDate>Fri, 09 Oct 2026 16:42:39 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>通用汽车第三季度在华销量超35.8万辆，新能源占比突破60%</title>
 <link>https://m.gasgoo.com/news/70474346.html</link>
@@ -117,14 +125,6 @@
 <link>https://m.gasgoo.com/news/70474316.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474316.html</guid>
 <pubDate>Fri, 09 Oct 2026 08:15:12 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>又是大SUV？先别急着吐槽，年末这几款“9系”真有看头</title>
-<link>https://m.gasgoo.com/news/70474315.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474315.html</guid>
-<pubDate>Fri, 09 Oct 2026 08:11:03 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
