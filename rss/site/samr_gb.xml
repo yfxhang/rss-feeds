@@ -4,7 +4,7 @@
 <link>https://std.samr.gov.cn/gb/search/gbQueryPage</link>
 <description>国家标准（含发布/实施日期、状态），按公开日期倒序；接口：std.samr.gov.cn gbQueryPage</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:45:47 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:19:46 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/samr_gb.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -23,7 +23,7 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5CB12E0EFA732034E06397BE0A0A34FB</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 48223-2026；性质：推荐性；状态：即将实施；发布日期：2026-09-28；实施日期：2027-04-01</description>
-<category>矿产</category>
+<category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>
 <item>
@@ -68,7 +68,7 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5CB12E0EFB372034E06397BE0A0A34FB</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 23733-2026；性质：推荐性；状态：即将实施；发布日期：2026-09-28；实施日期：2027-04-01</description>
-<category>政策法规</category>
+<category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>
 <item>

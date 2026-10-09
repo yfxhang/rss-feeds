@@ -4,10 +4,74 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:46:06 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:20:27 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>立讯精密100%控股京西智行</title>
+<link>https://m.gasgoo.com/news/70474336.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474336.html</guid>
+<pubDate>Fri, 09 Oct 2026 14:43:29 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>全球化新突破！承泰科技获德系头部豪华车企定点</title>
+<link>https://m.gasgoo.com/news/70474335.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474335.html</guid>
+<pubDate>Fri, 09 Oct 2026 14:34:19 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>【国际快讯】汽油价格高涨推动菲律宾电动车销量激增；零跑推出全新混动车型计划；保时捷推出员工股权奖金计划，拟裁减9,000名员工</title>
+<link>https://m.gasgoo.com/news/70474333.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474333.html</guid>
+<pubDate>Fri, 09 Oct 2026 12:02:34 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>“反攻”？去巴黎</title>
+<link>https://m.gasgoo.com/news/70474331.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474331.html</guid>
+<pubDate>Fri, 09 Oct 2026 11:59:04 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>武汉睿驰再获1.8亿元增资，加码智能驾驶域控与车云协同AI</title>
+<link>https://m.gasgoo.com/news/70474329.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474329.html</guid>
+<pubDate>Fri, 09 Oct 2026 10:55:27 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>矢崎创新基地开展机器人协同试验 线性电机仓库CUEBUS与人形机器人接力作业</title>
+<link>https://m.gasgoo.com/news/70474325.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474325.html</guid>
+<pubDate>Fri, 09 Oct 2026 10:22:05 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>保时捷用100%回收原料制备电芯 实现电池闭环回收</title>
+<link>https://m.gasgoo.com/news/70474324.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474324.html</guid>
+<pubDate>Fri, 09 Oct 2026 10:19:40 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>速腾聚创今年总销量已突破130万，机器人业务持续快速放量</title>
+<link>https://m.gasgoo.com/news/70474322.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474322.html</guid>
+<pubDate>Fri, 09 Oct 2026 09:57:07 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>全新MINI COUNTRYMAN UNTAMED特别版全球首秀，2027年引入中国</title>
 <link>https://m.gasgoo.com/news/70474321.html</link>
@@ -65,87 +129,23 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>捷豹的第九条命，押在了这台车上</title>
-<link>https://m.gasgoo.com/news/70474310.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474310.html</guid>
-<pubDate>Fri, 09 Oct 2026 07:57:33 +0800</pubDate>
+<title>“反攻”？去巴黎</title>
+<link>https://m.gasgoo.com/news/70474331.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474331.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>历史性拐点！汽油车份额首次跌破50%，外资却“边打边缩”？</title>
-<link>https://m.gasgoo.com/news/70474309.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474309.html</guid>
-<pubDate>Fri, 09 Oct 2026 07:51:30 +0800</pubDate>
+<title>立讯精密100%控股京西智行</title>
+<link>https://m.gasgoo.com/news/70474336.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474336.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>尊界回应制动踏板支架问题：实际使用未现断裂，将提供免费升级</title>
-<link>https://m.gasgoo.com/news/70474279.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474279.html</guid>
-<pubDate>Thu, 08 Oct 2026 21:52:24 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>蔡司收购Ceres Holographics，加速全息技术产业化进程</title>
-<link>https://m.gasgoo.com/news/70474270.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474270.html</guid>
-<pubDate>Thu, 08 Oct 2026 18:12:54 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>小马智行官宣进军英国伦敦</title>
-<link>https://m.gasgoo.com/news/70474269.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474269.html</guid>
-<pubDate>Thu, 08 Oct 2026 17:15:20 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>中国一汽、丰田、广汽，三方正式签约！</title>
-<link>https://m.gasgoo.com/news/70474258.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474258.html</guid>
-<pubDate>Thu, 08 Oct 2026 16:46:06 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>无人驾驶车辆夹手？深圳交警：意外事件</title>
-<link>https://m.gasgoo.com/news/70474130.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474130.html</guid>
-<pubDate>Thu, 08 Oct 2026 16:20:13 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>特斯拉第三季度全球销量超预期</title>
-<link>https://m.gasgoo.com/news/70474257.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474257.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:59:36 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>车上冰箱只用5%，新能源配置堆砌该停了</title>
-<link>https://m.gasgoo.com/news/70474238.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474238.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>车圈造机器人：六七成同源，能复用的有多少</title>
-<link>https://m.gasgoo.com/news/70474221.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474221.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际快讯】英国考虑对中国电动车加征关税</title>
-<link>https://m.gasgoo.com/news/70474178.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474178.html</guid>
+<title>【国际快讯】零跑推出全新混动车型计划</title>
+<link>https://m.gasgoo.com/news/70474333.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474333.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

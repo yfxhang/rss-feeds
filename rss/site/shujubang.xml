@@ -4,61 +4,61 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:46:08 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:20:28 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>2026年汽车微控制器（MCU）及应用场景研究报告</title>
-<link>https://www.shujubang.com/detail/21518</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21518</guid>
-<pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-<description>汽车MCU研究：冗余安全需求增加，推动ASIL D等级MCU芯片出货量超亿颗</description>
+<title>7月座舱SoC市场：联发科安装量破10万，市占率达9.3%</title>
+<link>https://www.shujubang.com/detail/21531</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21531</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+<description>7月芯擎龍鹰一号安装量达5.5万颗，首次跻身SoC 芯片前四</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>高通SA8295P继任QCM8838，广汽传祺越7首发</title>
-<link>https://www.shujubang.com/detail/21524</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21524</guid>
-<pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-<description>SA8295P后继有人</description>
+<title>2026年ST、英飞凌和NXP 汽车业务分析报告</title>
+<link>https://www.shujubang.com/detail/21530</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21530</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<description>英飞凌、ST、NXP 的 SDV 卡位战</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>小米、极氪、蔚来的48V系统，48V系统即将爆发</title>
-<link>https://www.shujubang.com/detail/21523</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21523</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
-<description>48V才是真领先</description>
+<title>2026年智能驾驶域控制器和中央计算机(CCU)研究报告</title>
+<link>https://www.shujubang.com/detail/21529</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21529</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+<description>智能驾驶域控研究：One Chip中央计算平台方案快速上车</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>世界模型能落地么？世界模型推理延迟分析</title>
-<link>https://www.shujubang.com/detail/21519</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21519</guid>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
-<description>世界模型落地无望</description>
+<title>2026年汽车电子代工及汽车电子ECU产业全景研究报告</title>
+<link>https://www.shujubang.com/detail/21528</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21528</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+<description>汽车电子代工研究：EMS厂商和Tier1界限正趋于模糊，供应链模式由”链式”向”网状”演变</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>汽车出海数据与趋势周报（2026年9月第1期）</title>
-<link>https://www.shujubang.com/detail/21522</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21522</guid>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
-<description>智驾出海撞上“合规分水岭”：UN R171 落地，2027 或成全球 NOA 拐点</description>
+<title>2026年成都车展报告</title>
+<link>https://www.shujubang.com/detail/21527</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21527</guid>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+<description>2026成都车展：20 大趋势看懂下半年汽车智能化变革方向</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>小米L3团队首篇论文：超越人类的端到端自动驾驶</title>
-<link>https://www.shujubang.com/detail/21521</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21521</guid>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
-<description>走苹果的路</description>
+<title>7月 智驾域控榜单：零跑市占升至第二，福瑞泰克突破10万以下市场</title>
+<link>https://www.shujubang.com/detail/21526</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21526</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+<description>佐思汽研智驾数据库</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

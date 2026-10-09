@@ -4,7 +4,7 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:48:20 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:22:51 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -23,7 +23,7 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32619</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
 <description>本项目充分发挥混合调频优势，半固态电池安全性更优，超级电容有…</description>
-<category>新能源汽车</category>
+<category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
@@ -50,7 +50,7 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32605</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
 <description>全球首条！20Ah锂碳超级电容生产线正式投产</description>
-<category>矿产</category>
+<category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
@@ -59,7 +59,7 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32602</guid>
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
 <description>富华德~神州天玑牵头制定的《电动自行车用锂碳超级电容器及模组…</description>
-<category>电芯</category>
+<category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
@@ -68,7 +68,7 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32598</guid>
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
 <description>近日，由富华德～神州天玑研发的神州狮两轮电动车在广西东兴正式…</description>
-<category>新能源汽车</category>
+<category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
@@ -140,7 +140,7 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/29939</guid>
 <pubDate>Wed, 24 Dec 2025 00:00:00 +0800</pubDate>
 <description>电池作为电动汽车最重的系统之一，其轻量化直接关乎整车能效和续…</description>
-<category>电芯</category>
+<category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 </channel></rss>

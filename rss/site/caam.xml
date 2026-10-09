@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
 <title>中汽协·首页要闻</title>
 <link>http://www.caam.org.cn/</link>
-<description>中国汽车工业协会（中汽协）首页要闻；该站对任意栏目路径都返回首页，故取首页新闻列表；日期只在 &lt;span class=&quot;time&quot;&gt;[09.04]&lt;/span&gt; 里给月日，用 dt_md 补年份；逐篇抓正文。**坑**：首页长期挂着多年前旧文且列表页只写「当月日」（2023-10-10 的稿子仍写 [10.10]），补当年后伪装成今天，已加 drop_stale 按正文真实年份丢弃</description>
+<description>中国汽车工业协会（中汽协）首页要闻；该站对任意栏目路径都返回首页，故取首页新闻列表；日期只在 &lt;span class=&quot;time&quot;&gt;[09.04]&lt;/span&gt; 里给月日，用 dt_md 补年份；逐篇抓正文。**坑**：首页长期挂着多年前旧文且列表页只写「当月日」（2023-10-10 的稿子仍写 [10.10]），补当年会伪造出今天的日期，已启用 date_from_body 以正文真实年份矫正</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:47:46 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:22:17 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/caam.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -89,7 +89,7 @@
 <link>http://www.caam.org.cn/chn/10/cate_112/con_5236180.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_112/con_5236180.html</guid>
 <pubDate>Sun, 27 Sep 2026 08:00:00 +0800</pubDate>
-<category>政策法规</category>
+<category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
 <item>
@@ -97,7 +97,7 @@
 <link>http://www.caam.org.cn/chn/10/cate_112/con_5236179.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_112/con_5236179.html</guid>
 <pubDate>Sun, 27 Sep 2026 08:00:00 +0800</pubDate>
-<category>政策法规</category>
+<category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
 <item>
@@ -129,7 +129,7 @@
 <link>http://www.caam.org.cn/chn/10/cate_114/con_5237336.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_114/con_5237336.html</guid>
 <pubDate>Thu, 24 Sep 2026 08:00:00 +0800</pubDate>
-<category>政策法规</category>
+<category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
 <item>
@@ -137,7 +137,7 @@
 <link>http://www.caam.org.cn/chn/10/cate_114/con_5237335.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_114/con_5237335.html</guid>
 <pubDate>Thu, 24 Sep 2026 08:00:00 +0800</pubDate>
-<category>政策法规</category>
+<category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
 <item>
@@ -145,7 +145,7 @@
 <link>http://www.caam.org.cn/chn/10/cate_114/con_5237334.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_114/con_5237334.html</guid>
 <pubDate>Thu, 24 Sep 2026 08:00:00 +0800</pubDate>
-<category>政策法规</category>
+<category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
 <item>
@@ -177,7 +177,7 @@
 <link>http://www.caam.org.cn/chn/10/cate_110/con_5236156.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_110/con_5236156.html</guid>
 <pubDate>Sun, 13 Sep 2026 08:00:00 +0800</pubDate>
-<category>政策法规</category>
+<category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
 <item>
@@ -217,6 +217,42 @@
 <link>http://www.caam.org.cn/chn/8/cate_87/con_5236147.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/8/cate_87/con_5236147.html</guid>
 <pubDate>Tue, 08 Sep 2026 08:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>中汽协·首页要闻</source>
+</item>
+<item>
+<title>10月4日，为期四天的第46届中国（福州）国际汽车博览会在福州海峡国际会展中心圆满落下帷幕。</title>
+<link>http://www.caam.org.cn/chn/3/cate_25/con_5236897.html</link>
+<guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_25/con_5236897.html</guid>
+<pubDate>Sun, 05 Oct 2025 08:00:00 +0800</pubDate>
+<description>首页&gt; 协会工作&gt;展会信息 &gt;正文 10月4日，为期四天的第46届中国（福州）国际汽车博览会在福州海峡国际会展中心圆满落下帷幕。 发布时间：2025-10-05 来源：中汽协会品牌服务和展览部 本届车展以“逐AI而行，智向未来”为主题，集中展示了汽车产业最新科技成果，打造了一场集展览、体验、消费和文化于一体的行业盛会。作为福建省唯一获得全球展览业协会（UFI）认证的国家B级专业汽车展会，展会规模近10万平米。四天展期，共71个品牌参展，吸引了近33万人次到场参观，共计销售约1.8万辆车，成交金额高达55亿元，历经三个多月的全域预热，线上下曝光上亿人次。充分展现了福建汽车市场的蓬勃活力，也为整个东南地区汽车产业的发展注入了新动能。本届车展的权威性与专业性在开幕伊始便得以彰显。中国汽车工业协会副秘书长柳燕，福建省商务厅副厅长林本东，福州市商务局副局长黄武闽，原联合国工发组织福建项目办总协调员贺汪洋，福州广播电视台党委委员、总会计师、福州广电传媒集团公司监事会主席黄一峰，福建省东南竞争力研究院副院长、第46届福州国际车展组委会秘书长徐希真，福州会展会务集团总经理郑挺伟，福州天飚广告有限公司董事长、福建省机电商会展务部总经理郭风等领导与嘉宾共同出席了开幕仪式。紧扣“逐AI而行”主题，科技体验贯穿全场。最大的亮点在于，特斯拉机器人、宇树机器人、机器狗等智能设备不再局限于特定展区，而是主动“走进”各大车企展台，进行巡游表演与互动助阵。这位特殊的“嘉宾”所到之处皆人头攒动，有效集聚了展台人气，成为本届车展最受欢迎的流动风景线。同时下棋机器人也带来了全天候互动的乐趣。在数字化传播方面，本届车展成效显著。众多KOL（关键意见领袖） 及人气主播不仅直播现场盛况，更深度探入各个品牌展台，通过线上引流、线下深耕、全年联动的方式，为参展客户与消费者搭载全方位多角度的展示及交易平台。为品牌实现了精准的</description>
+<category>新能源汽车</category>
+<source>中汽协·首页要闻</source>
+</item>
+<item>
+<title>中国汽车工业协会带队赴欧洲进行交流访问</title>
+<link>http://www.caam.org.cn/chn/3/cate_26/con_5236190.html</link>
+<guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_26/con_5236190.html</guid>
+<pubDate>Tue, 10 Oct 2023 08:00:00 +0800</pubDate>
+<description>首页&gt; 协会工作&gt;国际合作 &gt;正文 中国汽车工业协会带队赴欧洲进行交流访问 发布时间：2023-10-10 来源：中汽协会行业发展部 当地时间2023年10月9日，由中国汽车工业协会组织的ESG及标准法规工作团队先后拜访了德国汽车工业协会(VDA)及Catena-X。 工作团队由中国汽车工业协会牵头，广州汽车集团股份有限公司、一汽解放汽车有限公司、吉利汽车控股有限公司、三花控股集团、责扬天下管理顾问有限公司等来自国内整车及零部件企业、咨询机构共11人组成。 团队与VDA围绕欧盟Fit for 55 Package，就欧盟交通运输行业的脱碳进程、电动汽车转型、生产与循环经济、原材料及可持续供应链管理相关的政策法规、最新进展及要求等进行探讨，就中欧双方的实践经验进行交流。未来，双方希望进一步加强沟通与合作，共同为中国及德国汽车行业的可持续发展的政策及产业链工作提升做出贡献。 团队与Catena-X就汽车行业供应链数据协同与共享进行交流学习。Catena-X由宝马、SAP、奔驰、德国电信、西门子等汽车行业关键企业发起，是汽车行业第一个开源的数据生态系统。此次交流，Catena-X介绍成立背景、平台进展及未来规划，双方就具体的实现路径进行充分讨论，下一步将继续就用户案例等进行分享及讨论。 未来一周中，工作团组还将前往布鲁塞尔，与欧洲汽车工业协会（ACEA）、欧洲企业社会责任协会（CSR Europe）、全球贸易协会（amfori）、贝卡尔特集团（Bekaert Group）进行交流访问。 最新新闻 · 中国汽车工业协会OICA技术委员会联席会成立筹备启动仪式在2026中国汽车论坛上成功举行 · 中国汽车工业协会带队赴欧洲进行交流访问 · 第四届中日智能网联汽车官民论坛成功召开 · 第三届中日智能网联汽车官民论坛召开 · 关于诚邀参加第三届中日智能网联汽车官民论坛的函 · 奥迪中国来</description>
+<category>新能源汽车</category>
+<source>中汽协·首页要闻</source>
+</item>
+<item>
+<title>交通运输部 国家发展和改革委员会 公安部 财政部 人力资源和社会保障部 自然资源部 国家金融监督管理总局 中国证券监督管理委员会 中华全国总工会 关于推进城市公共交通健康可持续发展的若干意见</title>
+<link>http://www.caam.org.cn/chn/9/cate_97/con_5236187.html</link>
+<guid isPermaLink="true">http://www.caam.org.cn/chn/9/cate_97/con_5236187.html</guid>
+<pubDate>Sun, 08 Oct 2023 08:00:00 +0800</pubDate>
+<description>首页&gt; 行业政策&gt;国家政策 &gt;正文 交通运输部 国家发展和改革委员会 公安部 财政部 人力资源和社会保障部 自然资源部 国家金融监督管理总局 中国证券监督管理委员会 中华全国总工会 关于推进城市公共交通健康可持续发展的若干意见 颁布日期：2023-10-08 时效性： 实施日期：2023-10-08 文 号：交运发〔2023〕144号 颁布单位：交通运输部 国家发展和改革委员会 公安部 财政部 人力资源和社会保障部 自然资源部 国家金融监督管理总局 中国证券监督管理委员会 中华全国总工会 各省、自治区、直辖市、新疆生产建设兵团交通运输厅（局、委）、发展改革委、公安厅（局）、财政厅（局）、人力资源和社会保障厅（局）、自然资源厅（局）、总工会，国家金融监管总局各监管局，中国证监会各派出机构：为全面贯彻落实党的二十大精神，加快建设交通强国，深入实施城市公共交通优先发展战略，加快推进城市公共交通健康可持续发展，现提出以下意见。一、完善城市公共交通支持政策（一）落实运营补贴补偿政策。各地要综合考虑城市规模、群众出行需求等因素，合理确定城市公共汽电车线路首末班时间、发车间隔等服务标准。压紧压实城市公共交通的地方主体责任，落实好城市公共交通作为市县级财政事权的支出责任。突出城市公共汽电车的基本公共服务属性，各地要在确定服务标准并开展服务质量评价的基础上，在不新增地方政府隐性债务的前提下，因地制宜建立并实施城市公共汽电车企业运营成本核算和补贴补偿制度，平等对待不同所有制运营主体，及时拨付相关资金，鼓励先行预拨部分资金。对于因执行低票价、减免票、经营冷僻线路、保障重大活动、抢险救灾及其他指令性任务等形成的政策性亏损，地方财政及时给予适当补贴补偿。各地要在落实法定乘车优惠政策的基础上，坚持量力而行，合理确定城市公共交通乘车优惠群体范围。鼓励有条件的地方对老年人按年龄给予综合津贴的方式替代老年人</description>
+<category>新能源汽车</category>
+<source>中汽协·首页要闻</source>
+</item>
+<item>
+<title>国际电信联盟（ITU）正式发布首个两化融合国际标准</title>
+<link>http://www.caam.org.cn/chn/10/cate_113/con_5228463.html</link>
+<guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_113/con_5228463.html</guid>
+<pubDate>Wed, 09 Oct 2019 08:00:00 +0800</pubDate>
+<description>首页&gt; 标准法规&gt;国际标准 &gt;正文 国际电信联盟（ITU）正式发布首个两化融合国际标准 发布时间：2019-10-09 来源：标准网 近日，国际电信联盟（ITU）正式发布首个两化融合国际标准ITU-T Y.Sup52《企业数字化转型过程中可持续竞争能力建设方法论》。 该国际标准以我国国家标准《信息化和工业化融合管理体系 基础和术语》（GB/T 23000-2017）《信息化和工业化融合管理体系 要求》（GB/T 23001-2017）的核心成果为基础，明确了两化融合的内涵、特征和基本要素，提出了基于两化融合管理体系基本框架的企业数字能力建设核心理念、关键过程和主要方法，可为企业开展技术应用、流程优化和管理变革，加速数字化转型提供指导。我国已有近14000家企业依据该标准提供的方法建设信息化环境下的新型能力，相关企业两化融合发展水平稳步提升，带动运营成本平均下降10.0%、经营利润平均增加11.2%，体现了该标准在引导企业实现数字经济时代可持续发展方面的重要价值。 英国、美国、日本、西班牙、埃及、马来西亚等国家有关组织和机构代表均对该国际标准给予了广泛关注和充分肯定，并为标准研制提供了支持。 最新新闻 · 世界汽车标准制定响起中国好声音！吉利成IATF组织唯一亚洲车企 · 欧盟或在2021年底开始制定欧7排放标准 · 我国主推的C-V2X成为全球车联网唯一的国际标准 · 英国明年或将允许自动驾驶汽车在高速公路行驶 · 特朗普政府放宽汽车燃油标准 · 国际电信联盟（ITU）正式发布首个两化融合国际标准 · 工业和信息化部办公厅关于印发2019年第一批行业标准制修订和外文版项目计划的通知 1 2 3 友情链接 ---- 合作协会 ---- 日本自动车工业会 欧洲汽车工业协会 美国汽车行动集团 德国汽车工业协会 泰国汽车零部件协会 印度汽车零部件协会 印度汽车工业协会 加拿大汽车零</description>
 <category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
