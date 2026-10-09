@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 04:39:42 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 09:10:37 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>Draft CWA for comment: Mathematical Simulation models for real time, SIMBOTs</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/workshop/20260408_hycool/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20260408_hycool/</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+<description>Data centres and server rooms are increasingly important in our digitised world. But such areas require an advanced upkeep and use a great amount of energy. Support for our IT infrastructures in an efficient and intelligent manner – digital and physical – is a necessity. For the past three years, the Hybrid COOLing &amp; management for IT project has been focussing its energies on the smart management of electricity consumption of server rooms in tertiary buildings. Its key goal is to develop a set of processes that can be replicated through standardization. In this context, the BDTA Building Digital Twin Association, consortium partner of the HYCOOl-IT project, has proposed a new CEN workshop. The workshop will centre around the concept of SIMBOT – an open source, semantic expression of mathe</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>Launch of the CEN Workshop 'UNITED CIRCLES - Feasibility to Finance Guidelines for Industrial-Urban Symbiosis within Hubs for Circularity'</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-10-06-unitedcircles/</link>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-academic-standards-day/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-academic-standards-day/</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<description>This autumn, EDU4Standards is bringing its Academic Standards Days to Ireland (15 October), Sweden (16 October), Belgium (26 October), Norway (18 November) and Finland (3 December). Designed for students, researchers, educators, and standards professionals, this series aims to increase interest and deepen the understanding of standardization within academia, laying the foundations to train a new generation of experts. Through presentations, panel discussions and workshops, participants will gain practical insights into standardization and connect with experts from academia, industry and the standards community. Full agendas, practical information and registration links are available on the EDU4Standards Academic Standards Days page. TAGS: Newsletter On the spot Education for Standardizatio</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -84,14 +92,6 @@
 <title>Advancing European standards and regulations for 3D bioprinting</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-psis-results/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-psis-results/</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>WE NORM THE FUTURE | Summit 2026: Standards for Europe’s future</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-austrian-standards/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-austrian-standards/</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>

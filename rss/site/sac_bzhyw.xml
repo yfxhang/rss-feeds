@@ -4,10 +4,18 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/index.html</link>
 <description>国家标准化管理委员会「标准化要闻」；页面本身是 jpaas 动态组件（无静态条目），本源直接调它的 build/unit 接口取列表片段</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 08 Oct 2026 04:39:33 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 09:10:28 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/sac_bzhyw.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>10月1日起，一批国家标准将实施</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_77d4ccfdfab1485abfe1e85630fcf320.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_77d4ccfdfab1485abfe1e85630fcf320.html</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
 <item>
 <title>2026年世界标准日祝词及海报 美好世界的共同愿景：聚焦联合国可持续发展目标7——经济适用的清洁能源</title>
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d9a4e38ee7634e108ed4630a73ecb030.html</link>
@@ -157,14 +165,6 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_3b5ce1ecd014405f9cba454c9db48de9.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_3b5ce1ecd014405f9cba454c9db48de9.html</guid>
 <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>9月1日起，一批国家标准将实施</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_6a9ac62f24b04d1286dbd43001cebf4c.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_6a9ac62f24b04d1286dbd43001cebf4c.html</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
