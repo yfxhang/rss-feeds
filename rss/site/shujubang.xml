@@ -4,7 +4,7 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 16:45:28 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 16:56:14 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -14,6 +14,14 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21538</guid>
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
 <description>真遥遥领先</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>佐思汽车研究2027年报告撰写计划</title>
+<link>https://www.shujubang.com/detail/21539</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21539</guid>
+<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
@@ -50,15 +58,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21536</guid>
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
 <description>本土供应商包揽前五，合计拿下48.8%市占率</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年ST、英飞凌和NXP 汽车业务分析报告</title>
-<link>https://www.shujubang.com/detail/21530</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21530</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<description>英飞凌、ST、NXP 的 SDV 卡位战</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
