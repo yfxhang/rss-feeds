@@ -1,254 +1,10 @@
+miit_news.py: 行业过滤 19847 -> 1071 条
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>工信部 · 工信动态（部领导活动/部属动态/司局动态/工信动态/地方动态）</title>
 <link>https://www.miit.gov.cn/xwfb/gxdt/index.html</link>
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
-<item>
-<title>《山东省信息通信行业发展“十五五”规划》发布</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_113092405b8d4a4187bc01b9de6fa732.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_113092405b8d4a4187bc01b9de6fa732.html</guid>
-<description>近日，山东省通信管理局向社会正式发布《山东省信息通信行业发展“十五五”规划》。</description>
-<pubDate>Thu, 08 Oct 2026 17:26:57 +0800</pubDate>
-</item>
-<item>
-<title>辽宁通信管理局举办2026年第三轮网络数据安全攻防演练暨防范治理电信网络诈骗技能大比武</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0793da6fe50b443bbd6770bec11b6a80.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0793da6fe50b443bbd6770bec11b6a80.html</guid>
-<description>近日，辽宁省通信管理局举办2026年第三轮网络数据安全攻防演练暨防范治理电信网络诈骗技能大比武。辽宁省通信管理局党组成员、副局长徐继承到演练现场观摩指导，辽宁省内各基础电信企业省、市公司相关工作人员近300人参加演练。演练分为理论赛和实操赛两部分。</description>
-<pubDate>Thu, 08 Oct 2026 17:26:53 +0800</pubDate>
-</item>
-<item>
-<title>重庆通信管理局成功举办2026年重庆网络安全宣传周电信日主题活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_28edaf0b33454bf29dd62545fdae8654.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_28edaf0b33454bf29dd62545fdae8654.html</guid>
-<description>近日，为扎实开展2026年重庆网络安全宣传周活动，深入践行“网络安全为人民，网络安全靠人民”，进一步营造浓厚宣传氛围。重庆市通信管理局联合重庆市经济信息委举办了2026年重庆网络安全宣传周电信日主题活动——新型工业化网络安全政策标准宣贯。重庆市通信管理局和重庆市经济信息委分别介绍了2026年重庆市新型工业化网络安全专项行动重点任务。</description>
-<pubDate>Thu, 08 Oct 2026 17:26:24 +0800</pubDate>
-</item>
-<item>
-<title>湖北通信管理局印发《湖北省信息通信行业发展“十五五”规划》</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_54fb6e73b0ce4b16905788606b3183bf.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_54fb6e73b0ce4b16905788606b3183bf.html</guid>
-<description>近日，湖北省通信管理局印发《湖北省信息通信行业发展“十五五”规划》（以下简称《规划》）。</description>
-<pubDate>Thu, 08 Oct 2026 17:26:24 +0800</pubDate>
-</item>
-<item>
-<title>中国代表团完成国际电信联盟无线电通信部门第六研究组会议参会任务</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_33bc9673f91945ca9a6c85e3cf62e6bc.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_33bc9673f91945ca9a6c85e3cf62e6bc.html</guid>
-<description>2026年9月21日至10月2日，国际电信联盟无线电通信部门第六研究组（SG6）及其下设WP6A、WP6B和WP6C工作组会议在瑞士日内瓦召开。本次会议是2027年世界无线电通信大会研究周期SG6及其下设工作组的第六次会议。SG6及其下设工作组主要研究广播电视相关事宜，包括向公众提供的视听、多媒体和数据业务。</description>
-<pubDate>Thu, 08 Oct 2026 11:05:58 +0800</pubDate>
-</item>
-<item>
-<title>内蒙古信息通信行业2026年网络安全宣传周电信日主题活动成功举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_631330b802254020ac4948fd718a3591.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_631330b802254020ac4948fd718a3591.html</guid>
-<description>近日，内蒙古自治区信息通信行业2026年网络安全宣传周电信日主题活动在呼和浩特成功举办。内蒙古自治区通信管理局、网信办、工业和信息化厅等相关单位及内蒙古自治区内基础电信企业、行业网络安全专家代表共计150余人参加活动。内蒙古自治区通信管理局党组书记、局长袁波出席活动并致辞，充分肯定近年来内蒙古自治区信息通信行业在网络安全管理工作中取得的成绩，分析当前面临的网络安全形势，并对下一步工作提出希望。</description>
-<pubDate>Thu, 08 Oct 2026 11:03:43 +0800</pubDate>
-</item>
-<item>
-<title>湖南信息通信行业召开2026年三季度总经理（董事长）座谈会</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e2940693199a4a8db19db30478e76ef1.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e2940693199a4a8db19db30478e76ef1.html</guid>
-<description>近日，湖南省通信管理局组织召开全省信息通信行业2026年三季度总经理（董事长）座谈会，湖南省通信管理局党组书记、局长谢小鹏主持会议并讲话。会议通报了行业“六重工作”2026年以来推进情况，交流行业树立和践行正确政绩观学习教育情况，研究讨论了“十五五”湖南省信息通信业发展规划编制、推进新一代通信网络建设、加强通信企业和电力企业战略合作等重点事项。</description>
-<pubDate>Thu, 08 Oct 2026 11:02:21 +0800</pubDate>
-</item>
-<item>
-<title>江苏一企业通过禁止化学武器组织现场视察</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3d3c795daff042229de8040c0015abb3.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3d3c795daff042229de8040c0015abb3.html</guid>
-<description>2026年9月28—30日，江苏省泰兴市兴安精细化工有限公司的第三类监控化学品生产设施接受禁止化学武器组织现场视察并顺利通过。视察结果表明，企业提交的宣布信息与企业生产经营活动一致，企业没有从事任何《禁止化学武器公约》禁止的活动。这是我国民用工业2026年接受的第20次现场视察，自履约以来累计接受的第562次现场视察。</description>
-<pubDate>Wed, 30 Sep 2026 16:56:46 +0800</pubDate>
-</item>
-<item>
-<title>工业和信息化部举行升国旗仪式 庆祝中华人民共和国成立77周年</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c37cffd9af9a4b3aa6379d153ed83620.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c37cffd9af9a4b3aa6379d153ed83620.html</guid>
-<description>2026年9月30日，工业和信息化部举行升国旗仪式，庆祝中华人民共和国成立77周年。部领导出席。上午8时，升国旗仪式正式开始。在激昂雄壮的《义勇军进行曲》声中，鲜艳的五星红旗缓缓升起。参加仪式的全体干部职工庄严肃立、精神抖擞，向国旗行注目礼，表达对伟大祖国的美好祝福。</description>
-<pubDate>Wed, 30 Sep 2026 16:48:41 +0800</pubDate>
-</item>
-<item>
-<title>浙江通信管理局开展“薪火相传·青锋砺践”主题活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_74bd4b23af214750a91b1d54993478f3.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_74bd4b23af214750a91b1d54993478f3.html</guid>
-<description>近日，为深入学习贯彻习近平总书记关于青年工作的重要思想，持续加强青年干部队伍建设，引导全局广大青年学思想、谈感悟、明方向，更好以正确政绩观引领干事创业、担当作为，浙江省通信管理局开展“薪火相传·青锋砺践”主题活动。浙江省通信管理局党组成员、副局长倪炯出席活动并讲话。</description>
-<pubDate>Wed, 30 Sep 2026 16:34:44 +0800</pubDate>
-</item>
-<item>
-<title>贵州开展基础电信企业合规经营专题培训</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_aa988e12f68e4ae69d0016673fd29001.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_aa988e12f68e4ae69d0016673fd29001.html</guid>
-<description>近日，为深入贯彻落实工业和信息化部“新风行动”工作部署，持续整治基础电信市场非理性竞争、侵害用户合法权益等扰乱市场秩序的突出问题，着力营造规范有序、和谐共赢的行业发展环境。贵州省基础电信企业合规经营专题培训会在贵州省贵阳市召开。培训邀请中国信息通信研究院专家现场授课，全省基础电信企业各层级机构共130余名管理和营销人员参加培训。</description>
-<pubDate>Wed, 30 Sep 2026 16:34:20 +0800</pubDate>
-</item>
-<item>
-<title>湖北通信管理局赴襄阳、十堰开展安全生产、网络运行安全、应急通信保障专项督导检查</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e699556fa4ea458c80e93588d784286d.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e699556fa4ea458c80e93588d784286d.html</guid>
-<description>近日，为认真落实工业和信息化部、湖北省委省政府有关工作部署，持续推动安全生产治本攻坚三年行动走深走实，扎实做好汉江秋汛防御及中秋国庆假期通信安全保障工作，筑牢行业安全生产防线，湖北省通信管理局党组成员、纪检组长、二级巡视员冉伟带队赴襄阳、十堰两地，开展安全生产、网络运行安全及应急通信保障综合督导检查。</description>
-<pubDate>Wed, 30 Sep 2026 15:59:12 +0800</pubDate>
-</item>
-<item>
-<title>河南通信管理局成功举办2026年国家网络安全宣传周河南省电信日活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_2563d2463c364efd8b504ce09d04e9f1.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_2563d2463c364efd8b504ce09d04e9f1.html</guid>
-<description>近日，河南省通信管理局组织开展2026年国家网络安全宣传周河南省电信日活动，聚焦“智能时代 网安护航”主题，分别在南阳、郑州市举办开幕式活动和第九届“天安杯”网络安全职业技能竞赛，进一步凝聚社会各界筑牢网络安全防线共识，助力数字河南、数智强省建设。</description>
-<pubDate>Wed, 30 Sep 2026 10:20:34 +0800</pubDate>
-</item>
-<item>
-<title>贵州通信管理局组织开展2026年国家网络安全宣传周信息通信业“电信日”活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_37cf1dc31edc47b3bd18a09ad33c4d0d.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_37cf1dc31edc47b3bd18a09ad33c4d0d.html</guid>
-<description>近日，为深入贯彻落实习近平总书记关于网络强国的重要思想，特别是习近平总书记关于网络安全工作“四个坚持”的重要指示精神，按照工业和信息化部和贵州省委关于2026年国家网络安全宣传周工作部署，贵州省通信管理局组织开展2026年国家网络安全宣传周信息通信业“电信日”主题活动。</description>
-<pubDate>Wed, 30 Sep 2026 10:20:32 +0800</pubDate>
-</item>
-<item>
-<title>安徽通信管理局召开行业总经理座谈会 深入研究新一代通信网规划建设等工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_eb3df4b641c94e99874a9ce8ade8fead.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_eb3df4b641c94e99874a9ce8ade8fead.html</guid>
-<description>近日，安徽省通信管理局组织召开全省通信行业总经理座谈会。安徽省通信管理局党组书记、局长谢全主持会议并讲话，安徽电信、安徽移动、安徽联通、安徽广电、安徽铁塔、中电信量子集团主要负责同志，全局领导班子成员参会。</description>
-<pubDate>Wed, 30 Sep 2026 10:20:32 +0800</pubDate>
-</item>
-<item>
-<title>中国代表团完成国际电信联盟无线电通信部门第七研究组会议参会任务</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0fe9e00f19604613915aefa430864f6d.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0fe9e00f19604613915aefa430864f6d.html</guid>
-<description>2026年9月14至25日，国际电信联盟无线电通信部门（ITU-R）第七研究组（SG7）及其下设WP7B、WP7C和WP7D工作组会议在瑞士日内瓦召开。本次会议是2027年世界无线电通信大会（WRC-27）研究周期SG7及其下设工作组的第六次会议。SG7及下设工作组主要负责研究遥感、标准时间和频率信号、空间研究、深空探测以及射电天文等科学业务使用频谱相关事宜。</description>
-<pubDate>Wed, 30 Sep 2026 09:25:39 +0800</pubDate>
-</item>
-<item>
-<title>我国成功发射卫星互联网低轨26组卫星</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_572363ad485245119b5fe38bac97d6bc.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_572363ad485245119b5fe38bac97d6bc.html</guid>
-<description>2026年9月23日，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨26组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。前期，工业和信息化部指导完成了相关卫星的国内频率协调，批量颁发了空间无线电台执照和无线电频率使用许可，为卫星互联网项目的顺利实施提供了有力支撑。</description>
-<pubDate>Wed, 30 Sep 2026 09:15:50 +0800</pubDate>
-</item>
-<item>
-<title>工业和信息化部等四部门组织重点货车、客车、专用车、挂车及摩托车生产企业开展座谈 加强车辆产品安全管理</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8d7302e5e03a4c75b41a5820fd7871ad.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8d7302e5e03a4c75b41a5820fd7871ad.html</guid>
-<description>为深入开展道路机动车辆产品生产一致性和质量提升专项行动（以下简称质量提升专项行动），守牢产品安全底线，规范产业竞争秩序，保障公共安全和公民生命财产安全，近日，工业和信息化部装备工业一司、公安部交通管理局、生态环境部大气环境司、市场监管总局质量发展局（以下简称四部门相关司局）组织重点货车、客车、专用车、挂车及摩托车生产企业开展座谈，通报车辆产品安全形势，部署开展产品安全隐患排查和监督检查等重点工作。</description>
-<pubDate>Wed, 30 Sep 2026 09:15:50 +0800</pubDate>
-</item>
-<item>
-<title>中国与挪威主管部门间第二次卫星网络协调会谈顺利举行</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_09ef85a08e03436da18125bdc47e23a9.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_09ef85a08e03436da18125bdc47e23a9.html</guid>
-<description>2026年9月21日至23日，工业和信息化部无线电管理局与挪威通信管理局在挪威奥斯陆举行了第二次主管部门间卫星网络协调会谈。双方在国际电信联盟《无线电规则》框架下，就高低轨多个卫星系统的30余项议题开展协商，涉及卫星固定、卫星移动等多种业务，涵盖L、S、C、X、Ku、Ka和Q/V等多个频段。双方充分交换意见并达成多项共识，共同签署了会议纪要。</description>
-<pubDate>Wed, 30 Sep 2026 09:15:50 +0800</pubDate>
-</item>
-<item>
-<title>电器电子产品有害物质限制使用（中国RoHS）信息报送情况（截至2026年8月31日）</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9f2f36dfceeb48ec9acb3e7898c68fe1.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9f2f36dfceeb48ec9acb3e7898c68fe1.html</guid>
-<description>根据《电器电子产品有害物质限制使用管理办法》（工业和信息化部等8部门2016年第32号令）、《电器电子产品有害物质限制使用合格评定制度实施安排》（市场监管总局2019年第23号公告）、《电器电子产品有害物质限制使用达标管理目录（2026年版）》（工业和信息化部2026年第11号公告）相关规定，2019年11月1日后出厂、进口的电冰箱、洗衣机、电视机等十类产品，须开展电器电子产品有害物质限制使...</description>
-<pubDate>Tue, 29 Sep 2026 17:31:52 +0800</pubDate>
-</item>
-<item>
-<title>工业和信息化系统国际合作工作座谈会在哈尔滨召开</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b6f2e487b7a74338aa4999e8fd91ecc2.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b6f2e487b7a74338aa4999e8fd91ecc2.html</guid>
-<description>9月28日，工业和信息化系统国际合作工作座谈会在黑龙江省哈尔滨市召开。会议深入学习贯彻习近平外交思想，贯彻落实习近平总书记关于发展先进制造业的重要指示和全国先进制造业大会精神，总结近期工业和信息化领域国际合作工作，研究部署下一阶段重点工作。工业和信息化部副部长熊继军出席会议并讲话。会议指出，工业和信息化国际合作是依托产业合作服务国家外交大局、以高水平对外开放推进先进制造业的重要支撑。</description>
-<pubDate>Tue, 29 Sep 2026 14:46:28 +0800</pubDate>
-</item>
-<item>
-<title>哈工大共同承办中国国际大学生创新大赛（2026）首届俄罗斯区域赛</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/bsdt/art/2026/art_31d7da79daee4fd98c3db8980037613a.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/bsdt/art/2026/art_31d7da79daee4fd98c3db8980037613a.html</guid>
-<description>作为“中俄教育年”框架下重点人文科教交流活动，近日，由哈尔滨工业大学、莫斯科国立大学、黑龙江大学、西北工业大学共同承办的中国国际大学生创新大赛（2026）首届俄罗斯区域赛现场总决赛暨颁奖典礼在莫斯科举行。大赛吸引了来自俄罗斯、白俄罗斯等国家的102所高校、518支青年创新创业团队报名参赛。</description>
-<pubDate>Mon, 28 Sep 2026 17:32:19 +0800</pubDate>
-</item>
-<item>
-<title>北京通信管理局召开党组（扩大）会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_c8525f09cbde448eb1fe2aca05d0eb52.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_c8525f09cbde448eb1fe2aca05d0eb52.html</guid>
-<description>近日，北京市通信管理局召开党组（扩大）会议，深入学习贯彻习近平总书记重要指示精神，认真落实中央党的建设工作领导小组会议精神、工业和信息化部党的建设工作领导小组（扩大）会议精神，全面总结全局树立和践行正确政绩观学习教育开展情况，研究部署巩固拓展学习教育成果工作。北京市通信管理局党组书记、局长陆建文主持会议并讲话，全局党组成员出席会议，处级以上党员干部列席会议。</description>
-<pubDate>Thu, 24 Sep 2026 16:38:53 +0800</pubDate>
-</item>
-<item>
-<title>贵州通信管理局密集推进重点工作 加快新一代通信网建设与算网融合发展</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_eaae896b4ed6458cbc704d1c92ebf58a.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_eaae896b4ed6458cbc704d1c92ebf58a.html</guid>
-<description>为深入贯彻落实党中央、国务院及工业和信息化部、贵州省委省政府关于“六张网”建设的决策部署，抢抓“十五五”开局战略机遇，近期，贵州省通信管理局聚焦新一代通信网建设、算网深度融合发展，密集开展调研和项目谋划储备，并扎实推进专项工作，以务实举措推动信息通信业更好发挥先导性、基础性、战略性作用。一是深入开展新一代通信网建设和算网融合发展调研，推动通信网络更好支撑算力网络发展。</description>
-<pubDate>Thu, 24 Sep 2026 16:31:36 +0800</pubDate>
-</item>
-<item>
-<title>四川部署实施信息通信网络运行安全强基提质三年行动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8d57241d33fd47f9ab836fe99f34576a.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8d57241d33fd47f9ab836fe99f34576a.html</guid>
-<description>网络运行安全事关国家安全、经济发展大局和人民群众切身利益，是建设网络强国、数字中国的重要基石。</description>
-<pubDate>Thu, 24 Sep 2026 16:31:22 +0800</pubDate>
-</item>
-<item>
-<title>2026年中国国际信息通信展览会在京开幕</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2fc0c942477d4a2694137f8fe8d17f47.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2fc0c942477d4a2694137f8fe8d17f47.html</guid>
-<description>9月23日，2026年中国国际信息通信展览会在北京开幕。工业和信息化部党组成员、副部长余晓晖出席开幕式并致辞。余晓晖在致辞中表示，党的十八大以来，信息通信业坚持以习近平新时代中国特色社会主义思想为指导，锐意进取、砥砺前行，推动基础设施量质齐升、技术创新不断突破、融合应用纵深拓展、治理体系敏捷高效，行业综合实力和服务能力显著提升。</description>
-<pubDate>Thu, 24 Sep 2026 11:18:00 +0800</pubDate>
-</item>
-<item>
-<title>辽宁禁化武履约能力培训班在沈阳举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b68980dd94b74bb0b0abdb4010bc064b.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b68980dd94b74bb0b0abdb4010bc064b.html</guid>
-<description>2026年9月18日，辽宁省工业和信息化厅在沈阳市举办2026年全省禁化武履约能力培训班。来自全省各市县履约主管部门、部分化工园区、各级履约专家及重点监控化学品企业的140余名工作人员参训。本次培训班旨在主动适配禁化武组织视察新趋势、新变化、新标准，进一步提升全省履约队伍专业素养和行政执法能力，扎实做好数据宣布、现场视察应对等重点履约工作，筑牢全省禁化武履约工作基础。</description>
-<pubDate>Thu, 24 Sep 2026 09:30:45 +0800</pubDate>
-</item>
-<item>
-<title>2025年度摩托车产品生产一致性监督检查公开曝光一批典型案例</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3b05d1812a0449c3ade5020147edcfcc.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3b05d1812a0449c3ade5020147edcfcc.html</guid>
-<description>为规范摩托车产业竞争秩序，守牢摩托车产品生产一致性和质量安全底线，切实保障消费者合法权益，前期，工业和信息化部装备工业一司组织开展了2025年度摩托车产品生产一致性监督检查。</description>
-<pubDate>Wed, 23 Sep 2026 17:41:12 +0800</pubDate>
-</item>
-<item>
-<title>2026年全国工业和信息化绿色低碳发展座谈会在湖北宜昌召开</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_72adb220ddf04e19af9d2a42ea925e65.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_72adb220ddf04e19af9d2a42ea925e65.html</guid>
-<description>9月23日，2026年全国工业和信息化绿色低碳发展座谈会在湖北省宜昌市召开。会议深入学习贯彻习近平总书记关于发展先进制造业的重要指示和全国先进制造业大会精神，认真落实全国工业和信息化主管部门负责同志座谈会要求，研究部署工业和信息化领域绿色低碳发展重点工作。</description>
-<pubDate>Wed, 23 Sep 2026 17:41:10 +0800</pubDate>
-</item>
-<item>
-<title>科技成果赋智企业“深度行”（上海站）活动成功举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d962c2632f1e444793f146d0a0f21adb.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d962c2632f1e444793f146d0a0f21adb.html</guid>
-<description>2026年9月15日，科技成果赋智企业“深度行”（上海站）活动成功举办。活动旨在推动石化领域产业链、创新链、资金链深度融合，助力石化行业先进适用技术推广，促进科技创新和产业创新融合发展。活动集中发布可落地、可合作的前沿科技成果160余项，覆盖新能源、新材料、绿色化工、生物医药、人工智能等重点赛道，面向化工“专精特新”企业精准输送技术供给，破解科研成果“最后一公里”难题。</description>
-<pubDate>Wed, 23 Sep 2026 17:41:08 +0800</pubDate>
-</item>
-<item>
-<title>南理工深化校企交流合作，赴南钢集团开展集体学习</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/bsdt/art/2026/art_1278868bce6940469bced8281071ac6a.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/bsdt/art/2026/art_1278868bce6940469bced8281071ac6a.html</guid>
-<description>近日，南京理工大学为深入学习贯彻习近平总书记关于制造强国战略的重要论述和关于网络强国的重要思想，深化校企交流合作、推动产教融合走深走实，校党委理论学习中心组赴南京钢铁集团有限公司开展集体学习。</description>
-<pubDate>Wed, 23 Sep 2026 17:30:49 +0800</pubDate>
-</item>
-<item>
-<title>江苏信息通信业开展2026年国家网络安全宣传周暨反诈集中宣传活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_1b7be603e6884fe29259042b9d13180c.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_1b7be603e6884fe29259042b9d13180c.html</guid>
-<description>本次活动由江苏省通信管理局发起，江苏省公安厅、省人民检察院、省高级人民法院、人民银行江苏省分行联合指导，江苏省信息通信行业反诈联盟主办。南京公安、南京邮电大学、江苏省内各基础电信企业、移动转售企业及头部互联网企业共同参与。</description>
-<pubDate>Wed, 23 Sep 2026 17:30:39 +0800</pubDate>
-</item>
-<item>
-<title>内蒙古自治区信息通信业圆满完成2026年应急通信保障无预通知实战演练</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6979f27711f54093970b77269a82c0f6.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6979f27711f54093970b77269a82c0f6.html</guid>
-<description>近日，为深入贯彻落实防灾减灾救灾工作要求，切实提升极端自然灾害条件下应急通信保障能力，检验重点地区地震应急通信保障预案可行性，内蒙古自治区通信管理局在阿拉善盟组织开展2026年应急通信保障无预通知实战演练。此次演练突出“不预通知、不设脚本、不预留准备时间”的实战导向，旨在真实检验各电信企业应急队伍的突发响应和处置能力。</description>
-<pubDate>Wed, 23 Sep 2026 17:18:15 +0800</pubDate>
-</item>
-<item>
-<title>四川信息通信业全力做好攀枝花盐边“9·19”泥石流灾害应急通信保障工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f25fbd63cada4ca48d5a5ec81f09202c.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f25fbd63cada4ca48d5a5ec81f09202c.html</guid>
-<description>2026年9月19日6时30分，攀枝花市盐边县六合村突发泥石流灾害，造成攀枝花市盐边县2人遇难3人失联，基站退服3个，光缆中断2.5皮长公里。灾情发生后，四川省通信管理局第一时间组织攀枝花市通信发展办公室及属地应急保障队伍赶赴受灾区域开展应急通信保障工作，依托四川省空天地通信综合管理平台，为四川翼龙应急通信无人机增援任务提供空中通信基站服务。</description>
-<pubDate>Wed, 23 Sep 2026 16:25:04 +0800</pubDate>
-</item>
-<item>
-<title>2026（第二届）激光制造与增材制造创新发展大会在北京举行</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c5f5534e098b4ad1b4934d959eba6e27.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c5f5534e098b4ad1b4934d959eba6e27.html</guid>
-<description>9月22日，2026（第二届）激光制造与增材制造创新发展大会在北京举行。工业和信息化部高新技术司副司长毛俊锋，山东大学副校长刘兆军、中国机械科学研究总院集团有限公司副总经理李爱国出席会议并致辞。会上，发布《激光制造与增材制造行业高质量发展倡议》。</description>
-<pubDate>Wed, 23 Sep 2026 14:55:26 +0800</pubDate>
-</item>
 <item>
 <title>第二次中国—新西兰新能源汽车对话在京举行</title>
 <link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_55606919f95b41e6b3ea25919661a1f2.html</link>
@@ -257,171 +13,412 @@
 <pubDate>Wed, 23 Sep 2026 10:01:54 +0800</pubDate>
 </item>
 <item>
-<title>工业和信息化部财务司开展“行业走进金融机构（第三期）”行动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_fee5dac5f9bf4961bcd0eacd9860b8d3.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_fee5dac5f9bf4961bcd0eacd9860b8d3.html</guid>
-<description>为深入学习贯彻习近平总书记关于发展先进制造业的重要指示和全国先进制造业大会精神，着力营造先进制造业发展的良好产融生态，2026年9月18日，财务司在中信银行开展“行业走进金融机构（第三期）”行动。财务司青年理论学习小组参加此次行动。第三期行动聚焦工业母机、人形机器人与具身智能领域发展趋势和政策，邀请部装备工业一司、中国信通院有关业务负责同志和专家进行深度解读。</description>
-<pubDate>Wed, 23 Sep 2026 09:07:54 +0800</pubDate>
+<title>电动自行车充电桩强制性国家标准正式发布 规范电动自行车配套充电设施安全技术指标</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1060bd1ebd9f40febcf5db864751ae89.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1060bd1ebd9f40febcf5db864751ae89.html</guid>
+<description>为贯彻落实国务院电动自行车安全隐患全链条整治行动部署，提升电动自行车充电桩本质安全水平，工业和信息化部、市场监管总局会同自然资源部、住房城乡建设部、国家能源局、国家消防救援局组织制定的强制性国家标准GB 47371—2026《电动自行车充电桩安全技术规范》已于2026年3月31日正式发布，将于2027年4月1日实施。</description>
+<pubDate>Mon, 07 Sep 2026 09:50:56 +0800</pubDate>
 </item>
 <item>
-<title>工业和信息化部等三部门印发《轻工纺织产业发展“十五五”规划》</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cec67fdd643b4f3cb1f88677c2d6c9a1.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cec67fdd643b4f3cb1f88677c2d6c9a1.html</guid>
-<description>轻工纺织产业是国民经济的传统优势产业、重要民生产业，在国际上具有较强竞争力，在稳增长、促就业、扩消费、惠民生等方面发挥重要作用。为推动轻工纺织产业高质量发展，工业和信息化部等3部门近日印发《轻工纺织产业发展“十五五”规划》（以下简称《规划》）。</description>
-<pubDate>Wed, 23 Sep 2026 08:56:25 +0800</pubDate>
+<title>2025年度汽车产品生产一致性监督检查公开曝光一批典型案例</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_a43ea66768274ec7a17b95949e0d4a88.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_a43ea66768274ec7a17b95949e0d4a88.html</guid>
+<description>为规范汽车产业竞争秩序，守牢汽车产品生产一致性和质量安全底线，切实保障消费者合法权益，前期，工业和信息化部装备工业一司组织开展了2025年度汽车产品生产一致性监督检查。</description>
+<pubDate>Fri, 04 Sep 2026 17:34:24 +0800</pubDate>
 </item>
 <item>
-<title>新疆通信管理局以提升“七种能力”为导向创新开展青年学习标兵评选</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f6f8b56a8e9d437a92a8e1bd8a97304f.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f6f8b56a8e9d437a92a8e1bd8a97304f.html</guid>
-<description>2026年9月14日，为深入学习贯彻习近平总书记关于做好新时代青年工作的重要论述，认真落实工业和信息化部、新疆维吾尔自治区关于加强青年干部队伍建设的工作要求，新疆维吾尔自治区通信管理局创新组织青年学习标兵评选活动，树立重学习、强能力、干实事的鲜明导向，为推动全局事业高质量发展注入青春动能。新疆维吾尔自治区通信管理局党组成员、副局长付洪杰出席活动并讲话。</description>
-<pubDate>Tue, 22 Sep 2026 16:38:47 +0800</pubDate>
+<title>李乐成会见美中贸易全国委员会董事会代表团</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b7f82fc6ed564fa0a0387751fef5daa2.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_b7f82fc6ed564fa0a0387751fef5daa2.html</guid>
+<description>2026年9月1日，工业和信息化部部长李乐成在北京会见美中贸易全国委员会董事会主席麦凯恩率领的代表团。双方就加强新能源汽车、信息技术、人工智能、医药健康等领域合作进行了交流。李乐成表示，习近平主席和特朗普总统共同确定“中美建设性战略稳定关系”新定位，为下阶段中美关系作出了重要战略指引。工业和信息化部愿同美方落实两国元首会晤共识，加强务实合作，为双边关系发展打造更多坚实支撑。</description>
+<pubDate>Tue, 01 Sep 2026 21:37:02 +0800</pubDate>
 </item>
 <item>
-<title>辽宁通信管理局召开通信行业发展“十五五”规划终审会议擘画未来五年发展蓝图</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_472c83c75f8e4e3797d2f59ce0712f6c.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_472c83c75f8e4e3797d2f59ce0712f6c.html</guid>
-<description>近日，辽宁省通信管理局组织召开规划终审会，深入贯彻落实党的二十届四中全会精神，紧扣高质量发展首要任务，组织行业专家、相关部门代表及电信企业相关负责人，对《辽宁省信息通信行业发展“十五五”规划（送审稿）》进行最终评审论证。</description>
-<pubDate>Tue, 22 Sep 2026 16:38:46 +0800</pubDate>
+<title>节能与综合利用司组织召开工业资源综合利用基地建设工作交流会</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3d2a7fbfa0194753bf84fa6993d0cc57.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3d2a7fbfa0194753bf84fa6993d0cc57.html</guid>
+<description>为贯彻《中华人民共和国生态环境法典》，落实国务院《固体废物综合治理行动计划》，提升重点产废地区工业资源综合利用水平，8月26—27日，工业和信息化部节能与综合利用司组织召开工业资源综合利用基地建设工作交流会，会议采用线上线下相结合的形式举行。有关省市工业和信息化主管部门、工业资源综合利用基地代表、行业专家等参加会议。</description>
+<pubDate>Mon, 31 Aug 2026 17:20:24 +0800</pubDate>
 </item>
 <item>
-<title>海南通信管理局牵头联合多部门开展防范治理电信网络诈骗现场宣传公益行活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6600464e7e6646f7abad84d3c4dfd8e6.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6600464e7e6646f7abad84d3c4dfd8e6.html</guid>
-<description>近日，为深入贯彻《反电信网络诈骗法》，落实工业和信息化部有关反诈工作部署，海南省通信管理局联合多部门集中开展防范治理电信网络诈骗系列现场宣传公益行活动，扎实做好2026年国家网络安全宣传周“电信日”预热宣传，持续提升群众与青年学生识诈、防诈、反诈意识。海南省通信管理局联合国家金融监督管理总局海南监管局，在万绿园海口会展工场举办反诈现场宣传活动。</description>
-<pubDate>Tue, 22 Sep 2026 15:17:30 +0800</pubDate>
+<title>工业和信息化部绿色低碳标准化技术委员会成立</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3f3988321b044aeb8a19ea9316f9af0f.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3f3988321b044aeb8a19ea9316f9af0f.html</guid>
+<description>为进一步发挥标准对推动工业绿色低碳发展的支撑和引领作用，工业和信息化部绿色低碳标准化技术委员会（以下简称“绿标委”）成立，第一届绿标委由来自政府部门、部属单位、科研院所、高校、行业协会及龙头企业的71名委员组成，秘书处设在中国电子技术标准化研究院。近日，绿标委审议通过了章程、秘书处工作细则、标准制修订工作程序等制度文件，推动绿标委工作制度化、规范化运行。</description>
+<pubDate>Tue, 25 Aug 2026 15:32:26 +0800</pubDate>
 </item>
 <item>
-<title>贵州通信管理局开展重点工业企业网络安全“体检” 筑牢工业领域网络安全防线</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_71582b5067c04fdea45c498d66301bac.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_71582b5067c04fdea45c498d66301bac.html</guid>
-<description>为深入贯彻落实《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，全面掌握贵州省内重点工业企业网络安全态势，根据工业和信息化部及贵州省委、省政府相关工作部署，贵州省通信管理局开展省内重点工业企业网络安全威胁监测工作，首次向各企业下发“一企一策”监测情况通报，为企业做好网络安全“体检”，提升企业网络安全防护能力。</description>
-<pubDate>Tue, 22 Sep 2026 14:59:08 +0800</pubDate>
+<title>李乐成调研盐湖产业和工业绿色低碳发展</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_fa5d00560bce4889ac5e4cfbf83f2bf4.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_fa5d00560bce4889ac5e4cfbf83f2bf4.html</guid>
+<description>近日，工业和信息化部党组书记、部长李乐成赴青海、甘肃、宁夏等地调研盐湖产业和工业绿色低碳发展情况。在青海格尔木市，李乐成先后到青海盐湖镁业、钾肥、锂电公司，调研盐湖金属镁一体化、钾肥、锂盐等项目生产情况。</description>
+<pubDate>Fri, 14 Aug 2026 15:45:33 +0800</pubDate>
 </item>
 <item>
-<title>2026中国无线电大会在河北雄安新区开幕</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_550d7b8ee2424dc18d40c92c63a0a01e.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_550d7b8ee2424dc18d40c92c63a0a01e.html</guid>
-<description>9月21日，2026中国无线电大会在河北雄安新区开幕。工业和信息化部党组成员、副部长谢远生，河北省副省长赵大春出席开幕式并致辞。会议指出，习近平总书记近日就发展先进制造业作出重要指示强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑。习近平总书记的重要指示深刻阐述了发展先进制造业的重大意义、方向路径和重点任务，具有很强的战略性、指导性、针对性，为做好相关工作提供了重要遵循。</description>
-<pubDate>Tue, 22 Sep 2026 12:45:05 +0800</pubDate>
+<title>第十届金砖国家工业部长会议在印度斋浦尔召开</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_f456e4f55daa44d8a9f524d7f7959d90.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_f456e4f55daa44d8a9f524d7f7959d90.html</guid>
+<description>2026年8月6日，第十届金砖国家工业部长会议在印度斋浦尔召开，中国工业和信息化部总工程师王卫明出席会议并发言。金砖各国工业主管部门及联合国工业发展组织代表围绕中小企业发展、光伏产业转型、初创企业赋能、物流体系建设等议题深入交流。王卫明表示，深化产业务实合作、共筑发展韧性、以创新驱动成长，成为金砖国家共同的选择。</description>
+<pubDate>Fri, 07 Aug 2026 15:24:14 +0800</pubDate>
 </item>
 <item>
-<title>青海通信管理局召开树立和践行正确政绩观学习教育总结会</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_4f0cdf25297e4505b303dd4ef080a288.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_4f0cdf25297e4505b303dd4ef080a288.html</guid>
-<description>近日，青海省通信管理局召开树立和践行正确政绩观学习教育总结会，青海省通信管理局党组书记、局长李毅作总结讲话，全局党员干部参会。会议深入学习习近平党建思想和习近平总书记重要指示精神，学习中央党的建设工作领导小组会议精神，认真落实工业和信息化部、青海省委党的建设工作领导小组会议要求，总结全局树立和践行正确政绩观学习教育开展情况，研究部署巩固拓展学习教育成果工作。</description>
-<pubDate>Mon, 21 Sep 2026 17:23:07 +0800</pubDate>
+<title>《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_16d1319a933d4ffd8501e60dc4d88491.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_16d1319a933d4ffd8501e60dc4d88491.html</guid>
+<description>2026年7月30日，工业和信息化部组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》（GB 44721—2026）强制性国家标准由国家市场监督管理总局、国家标准化管理委员会批准发布，拟于2027年7月1日起正式实施。近年来，新一轮科技革命与产业变革持续深化，我国自动驾驶技术加速迭代突破，智能网联汽车道路测试示范有序推进，2025年两款L3级（有条件自动驾驶）车型获得附条件准入许可。</description>
+<pubDate>Tue, 04 Aug 2026 17:27:02 +0800</pubDate>
 </item>
 <item>
-<title>工业和信息化部等五部门组织开展2026年度国家绿色算力设施推荐工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cbd9a41d5f834b9a928205c30766f028.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cbd9a41d5f834b9a928205c30766f028.html</guid>
-<description>近日，为贯彻落实中共中央办公厅、国务院办公厅《关于更高水平更高质量做好节能降碳工作的意见》，支持发展绿色低碳、集约循环的算力设施，加快数字基础设施节能降碳，工业和信息化部等五部门联合印发《关于组织开展2026年度国家绿色算力设施推荐工作的通知》（工信厅联节函〔2026〕433号，以下简称《通知》），组织开展国家绿色算力设施推荐工作。</description>
-<pubDate>Mon, 21 Sep 2026 11:36:42 +0800</pubDate>
+<title>工业和信息化部等三部门组织开展2026年度重点行业能效、碳效领跑者企业推荐工作</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_2ffc92a1bf824f5da581e2dcda36d116.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_2ffc92a1bf824f5da581e2dcda36d116.html</guid>
+<description>近日，为贯彻落实党中央、国务院关于碳达峰碳中和的工作部署，工业和信息化部办公厅、国家发展改革委办公厅、市场监管总局办公厅联合印发《关于组织开展2026年度重点行业能效、碳效领跑者企业推荐工作的通知》（工信厅联节函〔2026〕372号，以下简称《通知》），明确了重点行业能效、碳效领跑者企业的推荐范围、申报要求、工作程序等。</description>
+<pubDate>Mon, 03 Aug 2026 15:32:57 +0800</pubDate>
 </item>
 <item>
-<title>李乐成主持召开中小企业圆桌会 强调健全主动发现机制 做好对企服务</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ad9f71a8dd3f4ec4a8b045d02823042a.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_ad9f71a8dd3f4ec4a8b045d02823042a.html</guid>
-<description>2026年9月20日，工业和信息化部党组书记、部长李乐成主持召开第十六次中小企业圆桌会议，深入学习贯彻习近平总书记关于发展先进制造业的重要指示和全国先进制造业大会精神，围绕健全优质中小企业主动发现机制、提升精准服务水平听取意见建议。部党组成员、副部长柯吉欣出席会议。</description>
-<pubDate>Sun, 20 Sep 2026 17:49:16 +0800</pubDate>
+<title>工业和信息化部装备工业一司赴奇瑞、蔚来、江汽开展监督检查</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_a010059b3086418bac0964165fc2c1af.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_a010059b3086418bac0964165fc2c1af.html</guid>
+<description>7月30-31日，为进一步规范汽车产业竞争秩序、提升汽车产品生产一致性和质量安全水平，工业和信息化部装备工业一司赴奇瑞汽车股份有限公司、蔚来汽车科技（安徽）有限公司、安徽江淮汽车集团股份有限公司开展道路机动车辆生产企业产品安全保障能力和生产一致性监督检查，重点检查企业智能网联汽车安全保障能力、设计开发及生产能力、生产一致性保证能力等生产准入条件保持情况，并现场随机抽取样车、动力电池等，转送至...</description>
+<pubDate>Fri, 31 Jul 2026 17:26:21 +0800</pubDate>
 </item>
 <item>
-<title>海南通信管理局召开党组（扩大）会议 总结树立和践行正确政绩观学习教育</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_26c4277f3531453086b812ab1e1d8535.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_26c4277f3531453086b812ab1e1d8535.html</guid>
-<description>近日，海南省通信管理局召开党组（扩大）会议，深入学习习近平总书记关于树立和践行正确政绩观学习教育的重要指示精神，认真传达工业和信息化部党的建设工作领导小组（扩大）会议精神，总结全局学习教育成效，研究部署巩固拓展学习教育成果工作。班子成员、处级以上干部参加会议。</description>
-<pubDate>Sun, 20 Sep 2026 17:34:07 +0800</pubDate>
+<title>《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e28beb9f8fe94a92ba0a3a67c39eea20.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e28beb9f8fe94a92ba0a3a67c39eea20.html</guid>
+<description>2026年6月27日，工业和信息化部组织制定并归口的《智能网联汽车 组合驾驶辅助系统安全要求》（GB 47955—2026）强制性国家标准由国家市场监督管理总局、国家标准化管理委员会批准发布，拟于2027年1月1日起正式实施。组合驾驶辅助系统是指在驾驶人持续观察交通状况并控制车辆的前提下，辅助驾驶人在特定的设计运行条件下执行车辆横向和纵向控制的系统。</description>
+<pubDate>Thu, 02 Jul 2026 10:10:29 +0800</pubDate>
 </item>
 <item>
-<title>青海通信管理局举办信息通信业优秀中青年干部培训班—传承““两弹一星”精神”凝聚砥砺奋进力量</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0f7dd3da494b44c0835870c6849c4019.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0f7dd3da494b44c0835870c6849c4019.html</guid>
-<description>近日，为深入学习贯彻习近平新时代中国特色社会主义思想特别是习近平党建思想，传承弘扬“两弹一星”精神，进一步坚定理想信念、加强党性锻炼、提升履职能力，教育引导党员干部树立和践行正确政绩观，青海省信息通信业“传承‘两弹一星’精神，凝聚砥砺奋进力量”优秀中青年干部培训班在青海两弹一星干部学院举办。</description>
-<pubDate>Sun, 20 Sep 2026 17:34:07 +0800</pubDate>
+<title>工业和信息化部、商务部等五部门联合启动2026年新能源汽车下乡活动</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_352714e8c8024dd99957867de040e81a.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_352714e8c8024dd99957867de040e81a.html</guid>
+<description>6月25日，工业和信息化部、商务部会同国家发展改革委、农业农村部、国家能源局在新疆塔城、海南澄迈同时启动2026年新能源汽车下乡活动。在党中央坚强领导下，有关各方共同努力，推动我国新能源汽车产业发展取得积极成效，产品性能大幅提升，配套环境日益完备，具备了大规模推广应用的良好条件。</description>
+<pubDate>Fri, 26 Jun 2026 14:43:33 +0800</pubDate>
 </item>
 <item>
-<title>江西通信管理局部署“人工智能+信息通信”创新发展专项行动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6051e1e6e8284b8aa1ae1f2dfcf3b321.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6051e1e6e8284b8aa1ae1f2dfcf3b321.html</guid>
-<description>近日，为抢抓人工智能发展机遇，推动人工智能与信息通信融合创新发展，按照工业和信息化部及江西省“人工智能+”相关工作部署要求，江西省通信管理局联合省工业和信息化厅印发了《江西省“人工智能+信息通信”创新发展行动计划（2026‑2028年）》（以下简称《行动计划》）。</description>
-<pubDate>Sun, 20 Sep 2026 17:34:07 +0800</pubDate>
+<title>我国牵头制定的联合国自动驾驶系统全球技术法规获批发布</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_708b7727cc4544e8bc2f335cdc92b531.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_708b7727cc4544e8bc2f335cdc92b531.html</guid>
+<description>2026年6月22—26日，联合国世界车辆法规协调组织（UN/WP.29）第199次全体会议在瑞士日内瓦召开。会上，由中国、欧盟、英国、美国、加拿大和日本共同牵头制定的联合国自动驾驶系统全球技术法规（ADSGTR）经全体缔约方投票表决，正式获批发布。近年来，自动驾驶技术加速迭代升级和产业化应用，世界主要国家和地区均将其作为汽车产业未来发展的战略制高点，纷纷出台规划政策、加强法规研制。</description>
+<pubDate>Thu, 25 Jun 2026 14:22:32 +0800</pubDate>
 </item>
 <item>
-<title>青海通信管理局举办学习贯彻习近平党建思想专题辅导讲座</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_b8ec87d5567748578ca49a332e101d42.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_b8ec87d5567748578ca49a332e101d42.html</guid>
-<description>近日，青海省通信管理局邀请青海省委党校朱文伟教授作学习贯彻习近平党建思想专题辅导讲座。青海省通信管理局党组书记、局长李毅出席，全省各基础电信企业党建纪检部门负责人、行业学会协会党员代表及全局党员干部参加讲座。</description>
-<pubDate>Sun, 20 Sep 2026 17:34:07 +0800</pubDate>
+<title>2026年全国节能宣传周工业和信息化领域活动一览（6月18日）</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_83cff88c68314f8aa7c4afd23ffba4f8.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_83cff88c68314f8aa7c4afd23ffba4f8.html</guid>
+<pubDate>Mon, 22 Jun 2026 14:05:22 +0800</pubDate>
 </item>
 <item>
-<title>重庆通信管理局扎实谋划加快推动新一代通信网建设</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8e2ac10e9ca242d18ad33ba018adcea5.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8e2ac10e9ca242d18ad33ba018adcea5.html</guid>
-<description>为贯彻落实全国投资工作推进会精神，落实工业和信息化部及重庆市委、市政府“六张网”建设工作安排，重庆市通信管理局牵头组建重庆市信息通信业加快新一代通信网建设工作专班并召开第一次会议，传达学习近期“六张网”建设有关会议精神，研究专班工作分工，谋划行业加快新一代通信网建设有关任务和措施。</description>
-<pubDate>Sun, 20 Sep 2026 17:23:06 +0800</pubDate>
+<title>2026年全国节能宣传周工业和信息化领域活动一览（6月17日）</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_16c1f6d3ea7742afbc574f79a39468f3.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_16c1f6d3ea7742afbc574f79a39468f3.html</guid>
+<pubDate>Mon, 22 Jun 2026 09:24:23 +0800</pubDate>
 </item>
 <item>
-<title>江西通信管理局发布《江西省“十五五”信息通信行业发展规划》</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_2377e97d0abd4347ab402252bebe8806.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_2377e97d0abd4347ab402252bebe8806.html</guid>
-<description>近日，江西省通信管理局正式发布《江西省“十五五”信息通信行业发展规划》（以下简称《规划》）。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，深入贯彻习近平总书记考察江西重要讲话精神，聚焦“走在前、勇争先、善作为”的目标要求，以巩固提升信息通信行业竞争优势和领先地位为主线，全面推进江西省信息通信行业现代化，助力谱写中国式现代化江西篇章。</description>
-<pubDate>Sun, 20 Sep 2026 15:18:05 +0800</pubDate>
+<title>2026年全国节能宣传周工业和信息化领域活动一览（6月16日）</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_a4b9cebfc23c44a7aa95945b57a8a703.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_a4b9cebfc23c44a7aa95945b57a8a703.html</guid>
+<pubDate>Thu, 18 Jun 2026 09:37:23 +0800</pubDate>
 </item>
 <item>
-<title>2026年空间无线电管理业务培训班在雄安举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8d18c64f89fd4a07b26f19b5e6155fc3.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8d18c64f89fd4a07b26f19b5e6155fc3.html</guid>
-<description>2026年9月15-16日，为进一步提升卫星操作单位熟练掌握国内空间无线电管理相关政策法规和国际无线电规则的能力，助力我国商业航天高质量发展，工业和信息化部无线电管理局在河北雄安新区举办空间无线电管理业务培训班，来自70余家卫星操作单位的代表参加培训。</description>
-<pubDate>Sun, 20 Sep 2026 09:02:59 +0800</pubDate>
+<title>重点工业产品碳足迹主题活动在北京举办</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b70582b3aac04fd1a94d54e8bee4de60.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b70582b3aac04fd1a94d54e8bee4de60.html</guid>
+<description>2026年6月17日是全国低碳日，重点工业产品碳足迹主题活动当日在北京市举办。工业和信息化部节能与综合利用司、国家发展改革委资源节约和环境保护司、生态环境部应对气候变化司、国务院国资委社会责任局、市场监管总局认证监督管理司有关工作负责同志，地方工业和信息化主管部门、行业协会、科研院所、产品碳足迹企业等代表约200人参加现场活动。</description>
+<pubDate>Thu, 18 Jun 2026 09:37:22 +0800</pubDate>
 </item>
 <item>
-<title>网络关键设备安全检测结果（第26批）</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_f05cd19e57c04478affadfc16f2cacca.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_f05cd19e57c04478affadfc16f2cacca.html</guid>
-<description>根据《中华人民共和国网络安全法》《关于调整〈网络关键设备和网络安全专用产品目录〉的公告》（国家互联网信息办公室、工业和信息化部、公安部、国家认证认可监督管理委员会公告2023年 第2号）《关于发布承担网络关键设备和网络安全专用产品安全认证和安全检测任务机构名录（第一批）的公告》（国家认监委、工业和信息化部、公安部、国家互联网信息办公室公告2018年第12号），现将由具备资格的机构按照《网络关...</description>
-<pubDate>Sun, 20 Sep 2026 08:20:01 +0800</pubDate>
+<title>节能与综合利用司、机关服务局开展2026年节能宣传周部机关现场活动</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e78b0a2ca12c4d219f0ab1992e1d6470.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e78b0a2ca12c4d219f0ab1992e1d6470.html</guid>
+<description>为落实《关于开展2026年全国节能宣传周和全国低碳日活动的通知》，围绕“节能新起点 低碳向未来”活动主题，积极开展节能宣传活动，广泛传播绿色发展理念，节能宣传周首日，节能与综合利用司、机关服务局共同在部机关西单办公区组织开展节能宣传周现场活动。</description>
+<pubDate>Wed, 17 Jun 2026 09:31:31 +0800</pubDate>
 </item>
 <item>
-<title>江西一企业通过禁止化学武器组织现场视察</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c33a57082a154cf28147acd6dae45c3d.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c33a57082a154cf28147acd6dae45c3d.html</guid>
-<description>2026年9月13—17日，位于江西省九江市的江西理文化工有限公司的第二类监控化学品生产、消耗设施接受禁止化学武器组织现场视察并顺利通过。视察结果表明，企业提交的宣布信息与企业生产经营活动一致，企业没有从事任何《禁止化学武器公约》禁止的活动。这是我国民用工业2026年接受的第19次现场视察，自履约以来累计接受的第561次现场视察。</description>
-<pubDate>Fri, 18 Sep 2026 17:16:39 +0800</pubDate>
+<title>2026年全国节能宣传周工业和信息化领域活动一览（6月15日）</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8566838e6f874cf49813f2fbbae3a343.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8566838e6f874cf49813f2fbbae3a343.html</guid>
+<pubDate>Wed, 17 Jun 2026 09:31:26 +0800</pubDate>
 </item>
 <item>
-<title>安徽通信管理局召开行业总经理座谈会 深入研究新一代通信网规划建设等工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e16582d11fcd4533b54b1c78427833a0.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e16582d11fcd4533b54b1c78427833a0.html</guid>
-<description>近日，安徽省通信管理局组织召开全省通信行业总经理座谈会。安徽省通信管理局党组书记、局长谢全主持会议并讲话，安徽电信、安徽移动、安徽联通、安徽广电、安徽铁塔、中电信量子集团主要负责同志，安徽省通信管理局领导班子成员参会。</description>
-<pubDate>Fri, 18 Sep 2026 16:58:50 +0800</pubDate>
+<title>节能新起点 低碳向未来 ——2026年全国节能宣传周工业和信息化系统宣传视频</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_98592b05b20148f99c3b5830421feb5f.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_98592b05b20148f99c3b5830421feb5f.html</guid>
+<description>2026年6月15日至21日是全国节能宣传周，活动主题为“节能新起点 低碳向未来”。6月17日是全国低碳日，活动主题为“绿色转型 全民同行”。习近平总书记指出，推动经济社会发展绿色化、低碳化是实现高质量发展的关键环节。工业是推动高质量发展的重要引擎，也是绿色低碳发展的主阵地。</description>
+<pubDate>Mon, 15 Jun 2026 16:05:50 +0800</pubDate>
 </item>
 <item>
-<title>工业和信息化部召开党组会议和干部大会 学习贯彻习近平总书记重要指示和全国先进制造业大会精神</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6aff1cc2d094936aaca2f131389d3f8.html</guid>
-<description>20269月18日上午，工业和信息化部先后召开党组会议和干部大会，学习贯彻习近平总书记关于发展先进制造业的重要指示和全国先进制造业大会精神，研究贯彻落实举措。部党组书记、部长李乐成出席会议并讲话，部领导辛国斌、叶民、熊继军、柯吉欣、单忠德、余晓晖、高东升、钟志红、王卫明出席会议。会议指出，全国先进制造业大会是党中央决定召开的一次重要会议，也是首次以先进制造业为主题召开的全国性会议。</description>
-<pubDate>Fri, 18 Sep 2026 16:46:07 +0800</pubDate>
+<title>两部门约谈提醒涉嫌非理性竞争汽车生产企业</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0269c5d07fd2487eb274069fba8f0e3e.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_0269c5d07fd2487eb274069fba8f0e3e.html</guid>
+<description>6月11日，工业和信息化部、市场监管总局对涉嫌存在非理性竞争行为的汽车生产企业进行约谈提醒，要求企业严格遵守《中华人民共和国价格法》《关于制止低价倾销行为的规定》等法律法规规章，按照《汽车行业价格行为合规指南》要求，加强价格合规建设，强化产品质量管控，切实保护消费者合法权益，共同维护优质优价、良性竞争的市场秩序。</description>
+<pubDate>Fri, 12 Jun 2026 09:37:48 +0800</pubDate>
 </item>
 <item>
-<title>上海通信管理局召开会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_aa49539f6ba046209de97c0f61fe4936.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_aa49539f6ba046209de97c0f61fe4936.html</guid>
-<description>近日，上海市通信管理局召开2026年度第十次党组理论学习中心组（扩大）学习会，深入学习贯彻习近平党建思想和习近平总书记关于树立和践行正确政绩观的重要指示精神，认真落实工业和信息化部党的建设工作领导小组（扩大）会议精神，全面总结树立和践行正确政绩观学习教育情况，部署巩固拓展学习教育成果工作。</description>
-<pubDate>Fri, 18 Sep 2026 16:45:25 +0800</pubDate>
+<title>李乐成主持召开全国新能源汽车动力电池回收利用工作专班第二次会议</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2acd23983b00410ebb19a8dd460fa6b6.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_2acd23983b00410ebb19a8dd460fa6b6.html</guid>
+<description>2026年5月28日，全国新能源汽车动力电池回收利用工作专班召集人、工业和信息化部党组书记、部长李乐成主持召开专班第二次会议，深入学习贯彻习近平总书记重要指示批示精神，系统总结2025年新能源汽车动力电池回收利用体系建设工作进展，部署做好2026年重点工作。工作专班成员单位负责同志参加会议。</description>
+<pubDate>Thu, 28 May 2026 17:23:02 +0800</pubDate>
 </item>
 <item>
-<title>陕西通信管理局召开党的建设工作领导小组（扩大） 会议总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_b57c942ca10640ff9afef617ef38a528.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_b57c942ca10640ff9afef617ef38a528.html</guid>
-<description>近日，陕西省通信管理局召开党的建设工作领导小组（扩大）会议，深入学习贯彻习近平党建思想和习近平总书记重要指示精神，认真落实中央党的建设工作领导小组会议精神和工业和信息化部党的建设工作领导小组（扩大）会议精神，总结全局树立和践行正确政绩观学习教育开展情况，研究部署巩固拓展学习教育成果工作。会议指出，在全党开展树立和践行正确政绩观学习教育，是今年党的建设的重要任务。</description>
-<pubDate>Fri, 18 Sep 2026 15:51:34 +0800</pubDate>
+<title>2026年汽车标准化工作要点</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_202b76b65f354309a28d38686d988108.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_202b76b65f354309a28d38686d988108.html</guid>
+<description>全面贯彻党的二十大和二十届历次全会精神，认真落实全国新型工业化推进大会部署要求，按照《国家标准化发展纲要》《工业和信息化部2026年标准化工作要点》等文件要求，为进一步健全汽车标准体系，提升标准供给质量，深化标准国际合作，以高水平标准促进高质量发展，确保“十五五”开好局、起好步，特制定本年度汽车标准化工作要点。一、谋篇布局，强化标准体系顶层设计（一）完善汽车标准体系规划。</description>
+<pubDate>Wed, 27 May 2026 09:24:53 +0800</pubDate>
 </item>
 <item>
-<title>江苏通信管理局召开党组（扩大）会议 总结树立和践行正确政绩观学习教育 部署巩固拓展学习教育成果工作</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9db8c03c83784e2b97f6ae401ffddd64.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9db8c03c83784e2b97f6ae401ffddd64.html</guid>
-<description>近日，江苏省通信管理局召开党组（扩大）会议，传达学习习近平总书记关于树立和践行正确政绩观学习教育的重要指示精神，学习贯彻部党的建设工作领导小组（扩大）会议、江苏省委常委会会议暨省委党的建设工作领导小组会议精神，总结全局学习教育开展情况，研究部署巩固拓展学习教育成果、建立树立和践行正确政绩观长效机制工作。局党组书记、局长许继金主持会议并讲话，全局党组成员，局机关、直属单位处级干部参加会议。</description>
-<pubDate>Fri, 18 Sep 2026 15:50:59 +0800</pubDate>
+<title>科技成果赋智化工企业“深度行”活动在大连成功举办</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e8d455603feb4f61a3bbeffff1612a4b.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_e8d455603feb4f61a3bbeffff1612a4b.html</guid>
+<description>2026年5月22日，科技成果转化及产学研合作创新论坛暨科技成果赋智化工企业“深度行”活动在大连成功举办。活动聚焦石油和化工行业科技成果转化、产学研协同创新、专精特新企业培育、绿色低碳转型与关键技术攻关等议题，通过主旨致辞、专家报告、经验交流、成果对接等多种形式，畅通科技成果产业化渠道，深化政产学研用融合，推动石油和化工行业产业链、供应链、创新链协同升级。</description>
+<pubDate>Tue, 26 May 2026 16:34:53 +0800</pubDate>
+</item>
+<item>
+<title>三部门召开加强新能源汽车安全管理工作视频会</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_24a6b470a50c43b38d885b034484e5be.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_24a6b470a50c43b38d885b034484e5be.html</guid>
+<description>5月14日，工业和信息化部装备工业一司、国家市场监督管理总局质量发展局、国家消防救援局消防监督司（以下统称三部门）联合召开加强新能源汽车安全管理工作视频会，研究部署本年度新能源汽车安全管理工作。会议指出，近年来，在党中央、国务院的坚强领导下，有关各方攻坚克难、锐意进取，共同推动我国新能源汽车产业发展取得显著成效，成绩来之不易，需要倍加珍惜。</description>
+<pubDate>Fri, 15 May 2026 09:50:30 +0800</pubDate>
+</item>
+<item>
+<title>节能与综合利用司组织开展新能源汽车动力电池回收利用行业调研及座谈</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_84dbe3f64f864607b1934fb2974054b1.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_84dbe3f64f864607b1934fb2974054b1.html</guid>
+<description>为深入贯彻落实中央领导同志重要指示精神，2026年5月12—13日，节能与综合利用司主要负责同志带队赴广东省广州市、深圳市开展新能源汽车动力电池回收利用行业调研，与相关行业重点企业、专家等进行座谈，听取有关意见建议。赛迪研究院、中国资源循环集团、广东省工信厅等单位参加调研活动。</description>
+<pubDate>Thu, 14 May 2026 15:28:17 +0800</pubDate>
+</item>
+<item>
+<title>电动自行车锂离子电池回收利用政策宣贯会在京召开</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_274e261c1417457ab8073ba13f5030a9.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_274e261c1417457ab8073ba13f5030a9.html</guid>
+<description>2026年5月8日，电动自行车锂离子电池回收利用体系政策宣贯会在京召开。工业和信息化部节能与综合利用司、消费品工业司，中华全国供销合作总社经济发展与改革部，国家消防救援局消防监督司，北京、山西、江苏、浙江、山东、广东、广西等7个重点地区工业和信息化主管部门和供销合作社，相关行业企业、协会、科研机构等100余位代表参会。</description>
+<pubDate>Sat, 09 May 2026 14:22:25 +0800</pubDate>
+</item>
+<item>
+<title>两部门与内蒙古自治区、呼和浩特市有关部门座谈交流功能型无人车测试示范工作</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_6870bd77990c4223a95df0ba282efa49.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_6870bd77990c4223a95df0ba282efa49.html</guid>
+<description>5月8日，工业和信息化部装备工业一司、公安部交通管理局与内蒙古自治区、呼和浩特市有关部门，围绕功能型无人车测试示范工作进行座谈交流。两部门强调要严格落实4月14日智能网联汽车道路测试与示范应用工作会议精神，深入开展自查整改，规范有序开展道路测试示范相关工作。</description>
+<pubDate>Sat, 09 May 2026 08:29:57 +0800</pubDate>
+</item>
+<item>
+<title>辛国斌会见欧洲汽车工业协会秘书长狄薇斯</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_9b29852a77374fddb20aa92b46dc6408.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_9b29852a77374fddb20aa92b46dc6408.html</guid>
+<description>4月28日，工业和信息化部副部长辛国斌在北京会见欧洲汽车工业协会秘书长狄薇斯，双方就中欧汽车工业政策、产业合作等议题进行交流。辛国斌表示，今年是“十五五”规划开局之年，中国将继续扩大高水平对外开放，支持包括欧洲车企在内的外国车企来华发展，共同构建开放包容、合作共赢的产业生态。希望欧洲汽车工业协会继续发挥好纽带桥梁作用，引导行业企业投资中国、深耕中国。</description>
+<pubDate>Tue, 28 Apr 2026 17:29:52 +0800</pubDate>
+</item>
+<item>
+<title>第六届全国汽车标准化技术委员会成立大会在京召开</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d7740e6c58d442fbaeb6dc3e9ed0d35e.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_d7740e6c58d442fbaeb6dc3e9ed0d35e.html</guid>
+<description>4月16日，第六届全国汽车标准化技术委员会（以下简称“全国汽标委”）成立大会在北京召开，工业和信息化部党组成员、副部长辛国斌出席大会并讲话。辛国斌充分肯定了第五届全国汽标委在健全汽车技术标准体系、优化标准供给质量、提升标准国际影响力等方面取得的成绩，以及在促进产品质量提升和产业技术进步、支撑我国汽车产业形成全球竞争优势方面发挥的重要作用。</description>
+<pubDate>Fri, 17 Apr 2026 16:19:07 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部等三部门召开智能网联汽车道路测试与示范应用工作会议</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/art/2026/art_859c158b53ba47c4aa77a5383079245c.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/art/2026/art_859c158b53ba47c4aa77a5383079245c.html</guid>
+<description>2026年4月14日，工业和信息化部装备工业一司、公安部交通管理局、交通运输部运输服务司联合组织召开智能网联汽车道路测试与示范应用工作会议，部署开展自查整改，加强安全监管工作。会议强调，要深入贯彻落实党中央、国务院决策部署，进一步提高政治站位，坚持统筹发展和安全，稳妥有序开展智能网联汽车道路测试与示范应用。</description>
+<pubDate>Tue, 14 Apr 2026 21:44:47 +0800</pubDate>
+</item>
+<item>
+<title>科研成果赋智企业“深度行”活动（潍坊站）成功举办</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_4fd5068eb8674996a1d9efa062c72734.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_4fd5068eb8674996a1d9efa062c72734.html</guid>
+<description>2026年3月27日，科技成果赋智企业“深度行”活动（潍坊站）暨第三届医药化工环保安全技术公共服务平台研讨会成功举办。本次“深度行”以“智享安全、绿色低碳，赋能行业环境、健康、安全提升”为核心主题，聚焦医药化工行业本质安全、绿色低碳、数智转型三大关键方向，举办特邀致辞、创新展示、深度分析、技术分享等多种形式活动。</description>
+<pubDate>Wed, 01 Apr 2026 14:19:02 +0800</pubDate>
+</item>
+<item>
+<title>全国新能源汽车动力电池溯源信息平台启动会在天津召开</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_da6858a6f72c40ae9581f7d3fa630ae7.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_da6858a6f72c40ae9581f7d3fa630ae7.html</guid>
+<description>2026年3月31日，全国新能源汽车动力电池溯源信息平台启动会在天津召开。来自动力电池、新能源汽车、换电租赁、报废机动车回收拆解、综合利用等企业，以及有关行业协会、国际机构等单位的500余名代表参会。会上，节能与综合利用司有关同志介绍了新能源汽车废旧动力电池回收利用相关工作进展情况及下一步工作考虑。</description>
+<pubDate>Wed, 01 Apr 2026 08:33:22 +0800</pubDate>
+</item>
+<item>
+<title>中国磷化工产业链节能与绿色低碳提升项目推进会在合肥召开</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_00e0f7f710684375b2146f815891f03d.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_00e0f7f710684375b2146f815891f03d.html</guid>
+<description>2026年3月26日，中国磷化工产业链节能与绿色低碳提升项目推进会在安徽合肥召开。工业和信息化部节能与综合利用司有关负责同志，湖北、四川、贵州、云南四省工信主管部门，以及磷化工产业链上下游重点企业、研究机构、高校等代表参加。</description>
+<pubDate>Tue, 31 Mar 2026 11:17:32 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部负责人会见苹果、高通、SK海力士、大众汽车、梅赛德斯-奔驰、西门子等跨国企业和商协会负责人</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_af1a5077c5eb419c9306f48a4ce05075.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_af1a5077c5eb419c9306f48a4ce05075.html</guid>
+<description>近日，工业和信息化部部长李乐成，副部长辛国斌、熊继军，在北京分别会见了来华出席中国发展高层论坛2026年年会的苹果公司首席执行官蒂姆·库克，高通公司总裁兼首席执行官克里斯蒂亚诺·安蒙，SK海力士株式会社社长、首席执行官郭鲁正，大众汽车集团管理董事会主席奥博穆，梅赛德斯-奔驰集团董事会主席康林松，西门子公司董事会主席、总裁兼首席执行官博乐仁，福德士河集团董事长安德鲁·福瑞斯特，格罗方德公司首席...</description>
+<pubDate>Mon, 23 Mar 2026 23:00:20 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部举行《节能装备高质量发展实施方案（2026—2028年）》新闻发布会</title>
+<link>http://www.miit.gov.cn/xwfb/xwfbh/bxwfbh/art/2026/art_4e9257192fe743ca84c33ffc78e94e0c.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/xwfbh/bxwfbh/art/2026/art_4e9257192fe743ca84c33ffc78e94e0c.html</guid>
+<description>3月20日，工业和信息化部举行《节能装备高质量发展实施方案（2026—2028年）》新闻发布会。工业和信息化部节能与综合利用司司长王鹏、国家发展改革委资源节约和环境保护司副司长李泰、国务院国资委社会责任局副局长张晓松、中国机械工业联合会副会长罗俊杰出席发布会，介绍有关情况并回答记者提问。本次新闻发布会由工业和信息化部新闻发言人、办公厅副主任龚宪主持。</description>
+<pubDate>Fri, 20 Mar 2026 17:03:11 +0800</pubDate>
+</item>
+<item>
+<title>四部门联合印发《节能装备高质量发展实施方案（2026—2028年）》</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_80b48617a9f84d9bbc4889bf8150df74.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_80b48617a9f84d9bbc4889bf8150df74.html</guid>
+<description>近日，工业和信息化部、国家发展改革委、国务院国资委、国家能源局等四部门联合印发《节能装备高质量发展实施方案（2026—2028年）》（工信部联节〔2026〕44号，以下简称《实施方案》），持续提升通用性强、用能量大、发展前景突出的节能装备能效水平，加强节能装备供给与应用。《中华人民共和国节约能源法》提出，国家鼓励工业企业采用高效、节能的电动机、锅炉、窑炉、风机、泵类等设备。</description>
+<pubDate>Fri, 20 Mar 2026 10:07:55 +0800</pubDate>
+</item>
+<item>
+<title>第五次中韩产业合作部长级对话在京举行</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c18a2ddefbc74472aba94c1846903e1d.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c18a2ddefbc74472aba94c1846903e1d.html</guid>
+<description>3月18日，第五次中韩产业合作部长级对话在北京举行。工业和信息化部部长李乐成与韩国产业通商部部长金正官共同出席会议，双方围绕半导体、锂电池、工业绿色发展、银发经济等议题进行深入交流。李乐成表示，本次对话是落实新年伊始中韩两国领导人在京会晤重要共识的切实举措。中韩产业合作势头好、韧性强，已形成优势互补、深度融合的良好格局，在全球产业分工中占据重要地位。</description>
+<pubDate>Wed, 18 Mar 2026 21:45:50 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部等八部门联合发文 推进汽车数据高效便利安全跨境流动</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1dfbd751a68340fd981b26c10cf83d11.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1dfbd751a68340fd981b26c10cf83d11.html</guid>
+<description>为贯彻落实党中央、国务院决策部署，推动建立高效便利安全的汽车数据跨境流动机制，提升汽车数据出境便利化水平，推动构建汽车产业高质量发展和高水平安全良性互动格局，工业和信息化部、国家网信办、国家发展改革委、国家数据局、公安部、自然资源部、交通运输部、市场监管总局八部门近日联合印发《汽车数据出境安全指引（2026版）》（以下简称《安全指引》）。</description>
+<pubDate>Tue, 03 Feb 2026 17:00:04 +0800</pubDate>
+</item>
+<item>
+<title>五部门联合印发《关于开展零碳工厂建设工作的指导意见》</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_34d9b4fbf1dd4431b3bd2ad3ccf2bb37.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_34d9b4fbf1dd4431b3bd2ad3ccf2bb37.html</guid>
+<description>近日，工业和信息化部、国家发展改革委、生态环境部、国务院国资委、国家能源局联合印发《关于开展零碳工厂建设工作的指导意见》（工信部联节〔2026〕13号，以下简称《指导意见》），深挖工业和信息化领域节能降碳潜力，带动重点行业领域减碳增效和绿色低碳转型，培育发展新质生产力。《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》提出“建设零碳工厂和园区”。</description>
+<pubDate>Mon, 19 Jan 2026 14:18:05 +0800</pubDate>
+</item>
+<item>
+<title>李乐成主持召开节能与新能源汽车产业发展部际联席会议2026年度工作会议</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_e79466fd11644f5097642b792e804551.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_e79466fd11644f5097642b792e804551.html</guid>
+<description>2026年1月13日下午，节能与新能源汽车产业发展部际联席会议2026年度工作会议在京召开。联席会议召集人，工业和信息化部党组书记、部长李乐成主持会议并讲话。会议深入学习贯彻习近平总书记重要指示批示精神，贯彻落实中央经济工作会议部署，总结2025年及“十四五”工作情况，研究讨论《“十五五”智能网联新能源汽车产业发展规划》（以下简称《规划》），并对2026年重点工作作出部署。</description>
+<pubDate>Wed, 14 Jan 2026 09:48:50 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部装备工业一司负责人就《关于开展汽车动力电池碳足迹申报工作的通知》答记者问</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_061de575a835472ca2c7deda3577d7c0.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_061de575a835472ca2c7deda3577d7c0.html</guid>
+<description>2025年12月30日，工业和信息化部印发《关于开展汽车动力电池碳足迹申报工作的通知》（工信厅通装函〔2025〕551号）（以下简称《通知》），工业和信息化部装备工业一司相关负责人就《通知》有关问题回答了记者提问。问题1：《通知》的出台背景是什么？答：实现碳达峰、碳中和，是以习近平同志为核心的党中央统筹国内国际两个大局作出的重大战略决策，是我国在新发展阶段推动高质量发展的必由之路。</description>
+<pubDate>Wed, 31 Dec 2025 15:26:23 +0800</pubDate>
+</item>
+<item>
+<title>2025年度“节能服务进企业”暨重点行业能效“领跑者”企业经验交流活动在山东青岛举办</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_fc3570074fb24cac892b933084238ed3.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_fc3570074fb24cac892b933084238ed3.html</guid>
+<description>为充分发挥能效标杆引领示范作用，加快重点行业企业节能降碳改造，2025年12月26日，2025年度“节能服务进企业”暨重点行业能效“领跑者”企业经验交流活动在山东青岛举办。工业和信息化部节能与综合利用司、国家发展改革委资源节约和环境保护司、市场监管总局计量司有关负责同志，以及地方工业和信息化主管部门、行业协会、科研院所、能效“领跑者”企业等代表约150人参加。</description>
+<pubDate>Tue, 30 Dec 2025 14:43:23 +0800</pubDate>
+</item>
+<item>
+<title>强制性国家标准《移动电源安全技术规范》论证会在京召开</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_4f1f1160edca463fb2059a606a6f3d14.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_4f1f1160edca463fb2059a606a6f3d14.html</guid>
+<description>2025年12月24日，强制性国家标准《移动电源安全技术规范》论证会在京召开。工业和信息化部电子信息司司长杨旭东、副司长王世江、电子基础处处长李婷出席会议。中国电子技术标准化研究院副院长郭楠主持会议。会议指出，移动电源等锂电池产品是关系到人民群众生命财产安全的重要电子产品，也是我国参与电子信息制造业国际竞争的优势产业载体。</description>
+<pubDate>Thu, 25 Dec 2025 09:18:13 +0800</pubDate>
+</item>
+<item>
+<title>以重点行业能效“领跑”推动工业节能降碳再上新台阶</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_f5a9faa2672245d2b09124069536138e.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_f5a9faa2672245d2b09124069536138e.html</guid>
+<description>近日，工业和信息化部会同国家发展改革委、市场监管总局发布2025年度重点行业能效“领跑者”企业名单，煤制焦炭、烧碱、聚氯乙烯、纯碱、子午线轮胎、钢铁、铁合金冶炼、铜冶炼、铅冶炼、锌冶炼、电解铝、工业硅、水泥熟料、聚酯涤纶等14个细分行业30家企业入选。</description>
+<pubDate>Tue, 23 Dec 2025 14:37:36 +0800</pubDate>
+</item>
+<item>
+<title>熊继军会见摩洛哥工业与贸易大臣梅祖尔</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_ab33bbbf936646d3bd0b2f7b900cc583.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_ab33bbbf936646d3bd0b2f7b900cc583.html</guid>
+<description>2025年12月16日，工业和信息化部副部长熊继军在北京会见摩洛哥工业与贸易大臣梅祖尔，就加强中摩产业务实合作进行交流。熊继军表示，在中摩两国元首战略引领下，中摩战略伙伴关系持续提质升级。工业和信息化部愿与摩方一道，在中非合作论坛、中阿合作论坛框架下积极开展政策交流，共同落实中非、中阿合作成果，推动企业在汽车、工业绿色发展、产业园区等领域广泛开展务实合作，共促产业转型升级。</description>
+<pubDate>Wed, 17 Dec 2025 14:43:15 +0800</pubDate>
+</item>
+<item>
+<title>制造业知识产权强链护链大会在重庆成功举办</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_1a889ce309054b838ab5003fcd8b6f1a.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_1a889ce309054b838ab5003fcd8b6f1a.html</guid>
+<description>2025年12月12日，科技成果赋智企业“深度行”系列活动—制造业知识产权强链护链大会在重庆市高新区西部科学城成功举办。大会以“赋智惠企，新质重庆”为主题，汇聚专家学者、行业嘉宾与产业链代表，聚焦电子信息、生物医药、智能装备、汽车零部件、新材料等产业，深入探讨知识产权赋能制造业高质量发展。</description>
+<pubDate>Wed, 17 Dec 2025 11:28:13 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部许可两款L3级自动驾驶车型产品</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_f734c7074580470593d4018742997640.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_f734c7074580470593d4018742997640.html</guid>
+<description>近期，重庆长安汽车股份有限公司和北汽蓝谷麦格纳汽车有限公司两家汽车企业向我部提交了搭载L3级有条件自动驾驶功能的智能网联汽车产品准入申请，根据《道路机动车辆生产企业及产品准入管理办法》等有关规定，经受理、审查、公示等程序，我部于第401批《公告》附条件许可了相关产品。</description>
+<pubDate>Mon, 15 Dec 2025 17:20:47 +0800</pubDate>
+</item>
+<item>
+<title>锂亚硫酰氯电池进出口优化监管措施出台</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_39a614d34ddc4560b77d430b3460ce0b.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_39a614d34ddc4560b77d430b3460ce0b.html</guid>
+<description>2025年12月9日，工业和信息化部会同商务部、海关总署联合印发《关于优化锂亚硫酰氯电池进出口监管措施的通知》（工信部联安全函〔2025〕335号）。自2026年1月1日起，第三类监控化学品亚硫酰氯灌装含量不超过1千克的单个锂亚硫酰氯电池或电池组无需办理《监控化学品进出口核准单》和《两用物项和技术进出口许可证》，其他锂亚硫酰氯电池或电池组仍按有关规定办理进出口审批手续。</description>
+<pubDate>Fri, 12 Dec 2025 16:48:50 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部碳达峰碳中和工作领导小组会议在京召开</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_c787ce7c5a904c4cb7b8057444a9d3dd.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_c787ce7c5a904c4cb7b8057444a9d3dd.html</guid>
+<description>2025年12月5日，工业和信息化部碳达峰碳中和工作领导小组会议在京召开。会议坚持以习近平生态文明思想为指导，深入贯彻落实党中央、国务院决策部署，总结工作推进情况，研究部署下一步重点任务。工业和信息化部党组书记、部长、部碳达峰碳中和工作领导小组组长李乐成出席会议并讲话，部党组成员、副部长、领导小组副组长谢远生主持会议。会议指出，实现碳达峰碳中和是以习近平同志为核心的党中央作出的重大战略决策。</description>
+<pubDate>Fri, 05 Dec 2025 21:48:34 +0800</pubDate>
+</item>
+<item>
+<title>首次中新新能源汽车对话在新西兰惠灵顿召开</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_5d65a8b61bc3437f8f88c7e8f8b6a0d8.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_5d65a8b61bc3437f8f88c7e8f8b6a0d8.html</guid>
+<description>当地时间2025年12月3日，工业和信息化部副部长辛国斌与新西兰交通部副首席执行官西沃恩·劳特利奇在惠灵顿共同主持召开首次中新新能源汽车对话。辛国斌表示，习近平主席在与拉克森总理会晤时强调，中新双方要把合作放在双边关系中更加突出的位置。</description>
+<pubDate>Thu, 04 Dec 2025 14:28:57 +0800</pubDate>
+</item>
+<item>
+<title>载客车辆（M1类）落实《汽车有害物质和可回收利用率管理要求》的符合性情况清单（第十六批）</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_87695f6cc0d447ebb8102f55af42f05f.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_87695f6cc0d447ebb8102f55af42f05f.html</guid>
+<description>依据《汽车有害物质和可回收利用率管理要求》（工业和信息化部公告2015年第38号），现将载客车辆（M1类）有害物质使用、可回收利用率计算方法分别对照国家标准《汽车禁用物质要求》和《道路车辆可再利用率和可回收利用率要求及计算方法》的符合性情况（第十六批）予以公告。</description>
+<pubDate>Tue, 02 Dec 2025 09:46:51 +0800</pubDate>
+</item>
+<item>
+<title>李乐成会见智利矿业部部长奥罗拉·威廉姆斯</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_658f7b23e57c4809b4b2932bb4ab3e3e.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_658f7b23e57c4809b4b2932bb4ab3e3e.html</guid>
+<description>11月24日，工业和信息化部部长李乐成在京会见智利矿业部部长奥罗拉·威廉姆斯，就加强矿产资源开发利用合作交换意见。李乐成表示，中智双方在矿产领域优势互补，长期保持良好合作。中方愿与智方一道，认真落实两国元首达成的重要共识，支持两国企业深化务实合作，携手推动技术创新，加快绿色低碳转型，共同促进矿产资源开发与生态环境保护协调发展。</description>
+<pubDate>Mon, 24 Nov 2025 22:14:14 +0800</pubDate>
+</item>
+<item>
+<title>我国牵头制定的联合国全球技术法规《电动重型车辆车载电池耐久性》获表决通过</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_7224c8c3042c405fa250d24b1dec7b5b.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2025/art_7224c8c3042c405fa250d24b1dec7b5b.html</guid>
+<description>2025年11月11日至14日，联合国世界车辆法规协调论坛（UN/WP.29）第197次全体会议在瑞士日内瓦召开。会议期间，由中国、美国、日本和欧盟共同牵头制定的联合国全球技术法规（UN GTR）《电动重型车辆车载电池耐久性》经各缔约方投票表决通过、正式发布实施。</description>
+<pubDate>Mon, 24 Nov 2025 14:52:30 +0800</pubDate>
+</item>
+<item>
+<title>2025世界动力电池大会在四川宜宾举办</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_775e0c2fd1254cd8bc244a4e6da7b296.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_775e0c2fd1254cd8bc244a4e6da7b296.html</guid>
+<description>11月12－13日，2025世界动力电池大会在四川省宜宾市举办。中国科学技术协会主席万钢，四川省委书记、省人大常委会主任王晓晖，工业和信息化部党组成员、副部长辛国斌出席并致辞。大会由四川省委副书记、省长施小琳主持，国家市场监督管理总局党组成员、副局长束为，四川省委常委、秘书长陈炜，副省长陈书平出席大会。</description>
+<pubDate>Thu, 13 Nov 2025 11:06:40 +0800</pubDate>
+</item>
+<item>
+<title>谢远生会见智利矿业部副部长苏伊娜·查万</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_0f77a9e5639a40d8b4c59d9e71b7f928.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_0f77a9e5639a40d8b4c59d9e71b7f928.html</guid>
+<description>2025年10月23日，工业和信息化部副部长谢远生在京会见智利矿业部副部长苏伊娜·查万，就加强矿业领域合作交换意见。谢远生表示，中智双方在有色矿产资源产业方面互补性强，具有较大的合作潜力。中方愿与智方一道，落实好两国元首会晤达成的重要共识，在矿业加工冶炼技术、绿色化发展、数字化转型等方面开展交流合作，推动双方矿业向数字化、智能化、绿色化、低碳化协同发展，共同维护全球矿产资源产业链和供应链安全稳定。</description>
+<pubDate>Thu, 23 Oct 2025 22:35:34 +0800</pubDate>
+</item>
+<item>
+<title>李乐成在2025世界智能网联汽车大会巡展并调研</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_bd633eb6880d4b7aa8f8dfd0ba564082.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_bd633eb6880d4b7aa8f8dfd0ba564082.html</guid>
+<description>2025年10月17日，工业和信息化部党组书记、部长李乐成到2025世界智能网联汽车大会巡展并调研。李乐成来到车企展台，查看新车型产品性能和市场销售情况，并到中信科智联、滴滴自动驾驶、“车路云一体化”实践与应用、华为等展区详细了解智能座舱、驾驶自动化、网联云控等技术研发应用情况，其间听取了北京市高级别自动驾驶示范区建设情况介绍。李乐成对企业研发和示范区建设取得的创新成果给予充分肯定。</description>
+<pubDate>Fri, 17 Oct 2025 21:29:10 +0800</pubDate>
+</item>
+<item>
+<title>2025世界智能网联汽车大会在北京开幕</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_aadc7b6df1f847c29ebcdddd6928acc7.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_aadc7b6df1f847c29ebcdddd6928acc7.html</guid>
+<description>10月16日，2025世界智能网联汽车大会在北京亦庄开幕。中共中央政治局委员、北京市委书记尹力，交通运输部党组书记、部长刘伟，工业和信息化部党组成员、副部长辛国斌出席大会并致辞。中国科学技术协会主席万钢作主旨报告。</description>
+<pubDate>Thu, 16 Oct 2025 17:53:45 +0800</pubDate>
+</item>
+<item>
+<title>李乐成会见韩国国土交通部部长金润德</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_8f439f51f1d741db9b3d82545feb4f01.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2025/art_8f439f51f1d741db9b3d82545feb4f01.html</guid>
+<description>10月16日，工业和信息化部部长李乐成在京会见来华出席2025世界智能网联汽车大会的韩国国土交通部部长金润德，双方围绕进一步加强智能网联汽车领域合作交换意见。李乐成表示，工业和信息化部愿与韩方一道，推动落实两国领导人重要共识，进一步加强智能网联汽车战略对接和政策交流，支持两国企业深化技术、标准、投资、贸易等方面务实合作，在国际标准法规框架下加强协调，助力两国汽车产业实现互利共赢发展。</description>
+<pubDate>Thu, 16 Oct 2025 17:53:45 +0800</pubDate>
 </item>
 </channel></rss>miit_news.py: 输出 60 条（源站共 19847 条）

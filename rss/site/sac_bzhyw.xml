@@ -4,7 +4,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/index.html</link>
 <description>国家标准化管理委员会「标准化要闻」；页面本身是 jpaas 动态组件（无静态条目），本源直接调它的 build/unit 接口取列表片段</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 09 Oct 2026 09:20:26 +0800</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 09:46:10 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/sac_bzhyw.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -13,7 +13,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_77d4ccfdfab1485abfe1e85630fcf320.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_77d4ccfdfab1485abfe1e85630fcf320.html</guid>
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -29,7 +29,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_c1f8a847c66d41aa8713534f79ee94e0.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_c1f8a847c66d41aa8713534f79ee94e0.html</guid>
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -61,7 +61,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_0f69877c6e3e4aaa983bc0c3b2ff4ff7.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_0f69877c6e3e4aaa983bc0c3b2ff4ff7.html</guid>
 <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -69,7 +69,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_b3993f3fc80542e0b6e8a3af1fb0bf35.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_b3993f3fc80542e0b6e8a3af1fb0bf35.html</guid>
 <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -77,7 +77,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_8a06bf34634445ffb5a3ae2a5e8344d6.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_8a06bf34634445ffb5a3ae2a5e8344d6.html</guid>
 <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -85,7 +85,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_4ee37b766bd547558126bd81333fde97.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_4ee37b766bd547558126bd81333fde97.html</guid>
 <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -101,7 +101,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_396ddba9e97f4596b648bc9c89076251.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_396ddba9e97f4596b648bc9c89076251.html</guid>
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>矿产</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -117,7 +117,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_ec272aba1dd340849866a6724c1ca9a8.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_ec272aba1dd340849866a6724c1ca9a8.html</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -125,7 +125,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_733dc9348f9d485287df7ed1540e9476.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_733dc9348f9d485287df7ed1540e9476.html</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -133,7 +133,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7d1ba501db0a4e69a3f1cabd38ecb767.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7d1ba501db0a4e69a3f1cabd38ecb767.html</guid>
 <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -141,7 +141,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d89ad90e938d4ff2869e14539e6409bd.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d89ad90e938d4ff2869e14539e6409bd.html</guid>
 <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -149,7 +149,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_76e370cc3b824ac785cbee4d972d42dc.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_76e370cc3b824ac785cbee4d972d42dc.html</guid>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -157,7 +157,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_8978fad543814c7483cf697b3fba8a09.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_8978fad543814c7483cf697b3fba8a09.html</guid>
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 <item>
@@ -165,7 +165,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_3b5ce1ecd014405f9cba454c9db48de9.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_3b5ce1ecd014405f9cba454c9db48de9.html</guid>
 <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
+<category>政策法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>
 </channel></rss>

@@ -2,71 +2,8 @@
 <rss version="2.0"><channel>
 <title>电芯（云端聚合 · 近 48 小时）</title>
 <link>https://github.com/yfxhang/rss-feeds</link>
-<description>来源：中国能源网 + 工信部；关键词取自 input.xlsx 派生表（29 个）</description>
+<description>来源：全部自建源（22 个）；关键词取自 input.xlsx 派生表（29 个）</description>
 <language>zh-cn</language>
-<item>
-<title>三门核电累计安全发电量突破1500亿度</title>
-<link>https://www.china5e.com/news/news-1210118-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210118-1.html</guid>
-<description>10月9日讯，截至2026年10月5日0时，三门核电一期工程1、2号机组累计安全发电量突破1500亿度，相当于节约标准煤超过4200万吨，减排二氧化碳超过1.1亿吨。</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Fri, 09 Oct 2026 08:29:00 +0800</pubDate>
-</item>
-<item>
-<title>华集源新零售丨锂电池门店投入预算全展示</title>
-<link>https://www.china5e.com/news/news-1210110-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210110-1.html</guid>
-<description>在锂电池创业赛道上，绝大多数意向创业者最关心的，从来不是风口有多热，而是投入是否可控、收益是否稳健。</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Thu, 08 Oct 2026 19:34:00 +0800</pubDate>
-</item>
-<item>
-<title>辽宁通信管理局举办2026年第三轮网络数据安全攻防演练暨防范治理电信网络诈骗技能大比武</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0793da6fe50b443bbd6770bec11b6a80.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0793da6fe50b443bbd6770bec11b6a80.html</guid>
-<description>近日，辽宁省通信管理局举办2026年第三轮网络数据安全攻防演练暨防范治理电信网络诈骗技能大比武。辽宁省通信管理局党组成员、副局长徐继承到演练现场观摩指导，辽宁省内各基础电信企业省、市公司相关工作人员近300人参加演练。演练分为理论赛和实操赛两部分。</description>
-<category>电芯</category>
-<source>工信部</source>
-<pubDate>Thu, 08 Oct 2026 17:26:53 +0800</pubDate>
-</item>
-<item>
-<title>重庆通信管理局成功举办2026年重庆网络安全宣传周电信日主题活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_28edaf0b33454bf29dd62545fdae8654.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_28edaf0b33454bf29dd62545fdae8654.html</guid>
-<description>近日，为扎实开展2026年重庆网络安全宣传周活动，深入践行“网络安全为人民，网络安全靠人民”，进一步营造浓厚宣传氛围。重庆市通信管理局联合重庆市经济信息委举办了2026年重庆网络安全宣传周电信日主题活动——新型工业化网络安全政策标准宣贯。重庆市通信管理局和重庆市经济信息委分别介绍了2026年重庆市新型工业化网络安全专项行动重点任务。</description>
-<category>电芯</category>
-<source>工信部</source>
-<pubDate>Thu, 08 Oct 2026 17:26:24 +0800</pubDate>
-</item>
-<item>
-<title>内蒙古信息通信行业2026年网络安全宣传周电信日主题活动成功举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_631330b802254020ac4948fd718a3591.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_631330b802254020ac4948fd718a3591.html</guid>
-<description>近日，内蒙古自治区信息通信行业2026年网络安全宣传周电信日主题活动在呼和浩特成功举办。内蒙古自治区通信管理局、网信办、工业和信息化厅等相关单位及内蒙古自治区内基础电信企业、行业网络安全专家代表共计150余人参加活动。内蒙古自治区通信管理局党组书记、局长袁波出席活动并致辞，充分肯定近年来内蒙古自治区信息通信行业在网络安全管理工作中取得的成绩，分析当前面临的网络安全形势，并对下一步工作提出希望。</description>
-<category>电芯</category>
-<source>工信部</source>
-<pubDate>Thu, 08 Oct 2026 11:03:43 +0800</pubDate>
-</item>
-<item>
-<title>3100万吨增量可期!山西加快煤矿安全复工复产</title>
-<link>https://www.china5e.com/news/news-1210094-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210094-1.html</guid>
-<description>日前，山西省召开全省煤炭安全稳产稳供工作推进会，提出在严守安全底线前提下，全力推动煤矿复工复产、稳产稳供，加速扭转产量下滑趋势，加快重塑煤炭产业生态，为确保国家能源安全、满足民生用能需求贡献山西力量。</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Thu, 08 Oct 2026 10:46:00 +0800</pubDate>
-</item>
-<item>
-<title>运销集团蒲白分公司启动2026年“百日安全行动”</title>
-<link>https://www.china5e.com/news/news-1210090-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210090-1.html</guid>
-<description>近日，蒲白分公司举行2026年“百日安全行动”启动仪式，全面启动以“认清新形势、锚定零目标，系统防风险、全员保安全”为主题的专项行动，动员全体干部职工统一思想、压实责任，为四季度安全生产开好头、起好步。</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Thu, 08 Oct 2026 10:22:00 +0800</pubDate>
-</item>
 <item>
 <title>小圆柱电池迎来“全极耳时刻”</title>
 <link>https://www.china5e.com/news/news-1210079-1.html</link>
@@ -77,84 +14,12 @@
 <pubDate>Thu, 08 Oct 2026 09:33:00 +0800</pubDate>
 </item>
 <item>
-<title>千小时“耐力测试”过关，这套装置攻克海水制氢与海洋战略元素协同联产技术难题!</title>
-<link>https://www.china5e.com/news/news-1210076-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210076-1.html</guid>
-<description>9月28日，山东日照岚山区海水资源战略开发中试基地，首台套热耦合海水制氢联产战略元素系统装置连续稳定运行超过1000小时。</description>
+<title>宝马德国巴伐利亚新电池组装工厂正式投产</title>
+<link>https://www.cpcaauto.com/newslist.php?types=news&amp;amp;id=14501</link>
+<guid isPermaLink="true">https://www.cpcaauto.com/newslist.php?types=news&amp;amp;id=14501</guid>
+<description>宝马德国巴伐利亚新电池组装工厂正式投产 发布时间：2026-10-08 15:10:09 浏览量：607次 来源:易车原创报道 宝马日前宣布，位于巴伐利亚伊尔巴赫-施特拉斯基兴的新电池组装工厂正式投运并进入量产阶段，该工厂占地60公顷，总投资约10亿欧元，将为新世代宝马i3供应第六代高压电池。据了解，巴伐利亚伊尔巴赫-施特拉斯基兴工厂于2024年4月动工建设、2026年3月启动试产，运营可完全不使用化石燃料且无需用水。采购的电芯部分采用回收的钴、锂、镍。伊尔巴赫-施特拉斯基兴工厂满负荷运转后，将有约1600名员工在两条生产线上工作，每天生产数百块高压电池。 上一篇：通用汽车富锂锰基电池将在合资工厂量产</description>
 <category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Thu, 08 Oct 2026 09:30:00 +0800</pubDate>
-</item>
-<item>
-<title>宝丰能源(600989)深度研究报告：稳居煤制烯烃产能规模行业第一 经营业绩连创新高</title>
-<link>https://www.china5e.com/news/news-1210071-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210071-1.html</guid>
-<description>1、企业简介：民营煤制烯烃龙头，一体化循环经济模式突出宁夏宝丰能源集团股份有限公司(证券简称：宝丰能源，证券代码：600989.SH)成立于2005 年(据公开工商登记信息)，于2019 年5 月在上海证券交易所主板上市。公司注册地址位于宁夏银川市宁东能源化工基地宝丰循环经济工业园区，法定代表人为刘元管。</description>
-<category>电芯</category>
-<source>中国能源网</source>
-<pubDate>Thu, 08 Oct 2026 09:04:00 +0800</pubDate>
-</item>
-<item>
-<title>丰宁公司：开展消防疏散演练 实战筑牢安全防线</title>
-<link>https://www.china5e.com/news/news-1210019-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1210019-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>抓实烟叶仓储管理 筑牢收购安全屏障</title>
-<link>https://www.china5e.com/news/news-1209978-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209978-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>安徽10GWh锂电池项目即将投产</title>
-<link>https://www.china5e.com/news/news-1209937-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209937-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>高安全、大容量、超长循环寿命!手机、新能源汽车都将用上新型电池</title>
-<link>https://www.china5e.com/news/news-1209932-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209932-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>EnerVenue启用全球首条水系金属电池（AMC）大规模量产线</title>
-<link>https://www.china5e.com/news/news-1209895-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209895-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>新技术破解枢纽大电网安全运行难题</title>
-<link>https://www.china5e.com/news/news-1209866-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209866-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>极限真空，国产作答|长城DVE-Z高端真空泵油正式量产</title>
-<link>https://www.china5e.com/news/news-1209839-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209839-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>从智慧人居到绿色算力：欧瑞博以热能存储循环技术推动“热电算协同”</title>
-<link>https://www.china5e.com/news/news-1209831-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209831-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
-</item>
-<item>
-<title>内蒙古一产煤大区启动煤矿安全大检查，严防超能力生产</title>
-<link>https://www.china5e.com/news/news-1209809-1.html</link>
-<guid isPermaLink="true">https://www.china5e.com/news/news-1209809-1.html</guid>
-<category>电芯</category>
-<source>中国能源网</source>
+<source>乘用车市场信息联席会·行业新闻</source>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
 </item>
 </channel></rss>

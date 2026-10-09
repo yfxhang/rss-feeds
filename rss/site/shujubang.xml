@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>佐思汽研·研究报告与资讯</title>
+<link>https://www.shujubang.com/</link>
+<description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
+<language>zh-cn</language>
+<lastBuildDate>Fri, 09 Oct 2026 09:46:08 +0800</lastBuildDate>
+<atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
+<ttl>60</ttl>
+<generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026年汽车微控制器（MCU）及应用场景研究报告</title>
+<link>https://www.shujubang.com/detail/21518</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21518</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+<description>汽车MCU研究：冗余安全需求增加，推动ASIL D等级MCU芯片出货量超亿颗</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>高通SA8295P继任QCM8838，广汽传祺越7首发</title>
+<link>https://www.shujubang.com/detail/21524</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21524</guid>
+<pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+<description>SA8295P后继有人</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>小米、极氪、蔚来的48V系统，48V系统即将爆发</title>
+<link>https://www.shujubang.com/detail/21523</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21523</guid>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+<description>48V才是真领先</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>世界模型能落地么？世界模型推理延迟分析</title>
+<link>https://www.shujubang.com/detail/21519</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21519</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+<description>世界模型落地无望</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>汽车出海数据与趋势周报（2026年9月第1期）</title>
+<link>https://www.shujubang.com/detail/21522</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21522</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+<description>智驾出海撞上“合规分水岭”：UN R171 落地，2027 或成全球 NOA 拐点</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>小米L3团队首篇论文：超越人类的端到端自动驾驶</title>
+<link>https://www.shujubang.com/detail/21521</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21521</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+<description>走苹果的路</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+</channel></rss>
