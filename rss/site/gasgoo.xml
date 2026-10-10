@@ -4,10 +4,18 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 15:28:29 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 15:41:44 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>猛士X700首台量产车在襄阳下线</title>
+<link>https://m.gasgoo.com/news/70474442.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474442.html</guid>
+<pubDate>Sat, 10 Oct 2026 15:23:46 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>Seeds | 巨蟹智能完成超亿元新一轮融资</title>
 <link>https://m.gasgoo.com/news/70474434.html</link>
@@ -117,14 +125,6 @@
 <link>https://m.gasgoo.com/news/70474370.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474370.html</guid>
 <pubDate>Sat, 10 Oct 2026 08:27:51 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>宝马集团调查显示美国电动汽车买家续航期望高于实际需求</title>
-<link>https://m.gasgoo.com/news/70474398.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474398.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:26:06 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
