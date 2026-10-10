@@ -4,7 +4,7 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 16:07:32 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 20:50:28 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -13,6 +13,15 @@
 <link>https://www.shujubang.com/detail/21540</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21540</guid>
 <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>比亚迪大唐EV之EEA电子电气架构分析</title>
+<link>https://www.shujubang.com/detail/21541</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21541</guid>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+<description>不次于五十万豪华车</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
@@ -48,15 +57,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21537</guid>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
 <description>AIBOX市场空间不大</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>7月座舱SoC市场：联发科安装量破10万，市占率达9.3%</title>
-<link>https://www.shujubang.com/detail/21531</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21531</guid>
-<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-<description>7月芯擎龍鹰一号安装量达5.5万颗，首次跻身SoC 芯片前四</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
