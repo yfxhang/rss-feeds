@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 08:40:31 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 08:49:32 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>阿尔法·罗密欧发布Cuorerosso概念车内饰预告</title>
+<link>https://m.gasgoo.com/news/70474400.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474400.html</guid>
+<pubDate>Sat, 10 Oct 2026 08:41:12 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>特斯拉在欧洲更改驾驶辅助套件名称以推动欧盟审批</title>
+<link>https://m.gasgoo.com/news/70474385.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474385.html</guid>
+<pubDate>Sat, 10 Oct 2026 08:29:28 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>三菱汽车将于10月19日在泰国公布第五代帕杰罗售价</title>
 <link>https://m.gasgoo.com/news/70474370.html</link>
@@ -109,22 +125,6 @@
 <link>https://m.gasgoo.com/news/70474405.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474405.html</guid>
 <pubDate>Sat, 10 Oct 2026 07:49:35 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>小鹏刘培、小米刘桢，三大新势力老将联手救神龙！</title>
-<link>https://m.gasgoo.com/news/70474404.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474404.html</guid>
-<pubDate>Sat, 10 Oct 2026 07:40:11 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>涨价函又又又来了，汽车业站上成本“高墙”</title>
-<link>https://m.gasgoo.com/news/70474358.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474358.html</guid>
-<pubDate>Sat, 10 Oct 2026 07:36:13 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
