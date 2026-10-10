@@ -4,10 +4,42 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 10:07:41 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 11:36:47 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>斩获欧洲设计大奖，浩思动力X-Range C15打开增程市场新空间</title>
+<link>https://m.gasgoo.com/news/70474425.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474425.html</guid>
+<pubDate>Sat, 10 Oct 2026 11:07:48 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>岚图2026秋招，扩容释放500+岗位</title>
+<link>https://m.gasgoo.com/news/70474421.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474421.html</guid>
+<pubDate>Sat, 10 Oct 2026 10:40:34 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>欧盟称中国将大幅削减对欧混合动力汽车出口</title>
+<link>https://m.gasgoo.com/news/70474420.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474420.html</guid>
+<pubDate>Sat, 10 Oct 2026 10:21:21 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>小鹏G9L将于巴黎车展全球上市，计划登陆64个国家和地区</title>
+<link>https://m.gasgoo.com/news/70474418.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474418.html</guid>
+<pubDate>Sat, 10 Oct 2026 10:05:22 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>吉利汽车正式宣布进军加拿大市场</title>
 <link>https://m.gasgoo.com/news/70474415.html</link>
@@ -97,38 +129,6 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>2026年8月TOP30 SUV销量投诉量对应点评</title>
-<link>https://m.gasgoo.com/news/70474410.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474410.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:13:03 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>2026年8月TOP30轿车销量投诉量对应点评</title>
-<link>https://m.gasgoo.com/news/70474409.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474409.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:10:13 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【独家看点】排大长队 供需错配 新能源车节假日高速公路补能“潮汐式拥堵”如何破解？</title>
-<link>https://m.gasgoo.com/news/70474408.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474408.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:05:52 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>前8月全球动力电池装车量TOP10：宁德时代独占4成 一中企增速翻倍</title>
-<link>https://m.gasgoo.com/news/70474407.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474407.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:04:12 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
 <title>涨价函又又又来了，汽车业站上成本“高墙”</title>
 <link>https://m.gasgoo.com/news/70474358.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474358.html</guid>
@@ -136,16 +136,16 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>“反攻”？去巴黎</title>
-<link>https://m.gasgoo.com/news/70474331.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474331.html</guid>
+<title>欧盟称中国将大幅削减对欧混合动力汽车出口</title>
+<link>https://m.gasgoo.com/news/70474420.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474420.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>【国际快讯】菲律宾电动车销量激增</title>
-<link>https://m.gasgoo.com/news/70474333.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474333.html</guid>
+<title>墨西哥9月汽车出口同比下降12%</title>
+<link>https://m.gasgoo.com/news/70474419.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474419.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

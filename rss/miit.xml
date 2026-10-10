@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>我国成功发射卫星互联网低轨27组卫星</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_6a9b3eb13621415fb1d438e179946e1f.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_6a9b3eb13621415fb1d438e179946e1f.html</guid>
+<description>2026年10月10日，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨27组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。前期，工业和信息化部指导完成了相关卫星的国内频率协调，批量颁发了空间无线电台执照和无线电频率使用许可，为卫星互联网项目的顺利实施提供了有力支撑。</description>
+<pubDate>Sat, 10 Oct 2026 10:31:57 +0800</pubDate>
+</item>
+<item>
 <title>宁夏通信管理局举办2026年国家网络安全宣传周“电信日”政策宣贯培训会</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e6cc05a7b861405bbd9639e819a13567.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_e6cc05a7b861405bbd9639e819a13567.html</guid>
@@ -417,11 +424,4 @@
 <description>根据《中华人民共和国网络安全法》《关于调整〈网络关键设备和网络安全专用产品目录〉的公告》（国家互联网信息办公室、工业和信息化部、公安部、国家认证认可监督管理委员会公告2023年 第2号）《关于发布承担网络关键设备和网络安全专用产品安全认证和安全检测任务机构名录（第一批）的公告》（国家认监委、工业和信息化部、公安部、国家互联网信息办公室公告2018年第12号），现将由具备资格的机构按照《网络关...</description>
 <pubDate>Sun, 20 Sep 2026 08:20:01 +0800</pubDate>
 </item>
-<item>
-<title>江西一企业通过禁止化学武器组织现场视察</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c33a57082a154cf28147acd6dae45c3d.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c33a57082a154cf28147acd6dae45c3d.html</guid>
-<description>2026年9月13—17日，位于江西省九江市的江西理文化工有限公司的第二类监控化学品生产、消耗设施接受禁止化学武器组织现场视察并顺利通过。视察结果表明，企业提交的宣布信息与企业生产经营活动一致，企业没有从事任何《禁止化学武器公约》禁止的活动。这是我国民用工业2026年接受的第19次现场视察，自履约以来累计接受的第561次现场视察。</description>
-<pubDate>Fri, 18 Sep 2026 17:16:39 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19852 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19853 条）
