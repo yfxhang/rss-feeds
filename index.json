@@ -1,186 +1,192 @@
 {
- "pushed_at": "2026-10-10 15:54:58",
+ "pushed_at": "2026-10-10 16:08:40",
  "generated_by": "github-actions (kaiwu-news-trigger)",
  "files": [
   {
    "path": "rss/miit.xml",
    "name": "工信部·工信动态（清洗源）",
    "items": 60,
-   "generated": "2026-10-10 15:52:10"
+   "generated": "2026-10-10 16:05:45"
   },
   {
    "path": "rss/china5e.xml",
    "name": "中国能源网（自建 CSS 路由）",
    "items": 260,
-   "generated": "2026-10-10 15:53:53"
+   "generated": "2026-10-10 16:07:28"
   },
   {
    "path": "rss/tag/kuangchan.xml",
    "name": "标签聚合·矿产",
    "items": 4,
-   "generated": "2026-10-10 15:54:57"
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/tag/cailiao.xml",
    "name": "标签聚合·材料",
    "items": 25,
-   "generated": "2026-10-10 15:54:57"
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/tag/dianxin.xml",
    "name": "标签聚合·电芯",
    "items": 24,
-   "generated": "2026-10-10 15:54:57"
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/tag/dianchihuishou.xml",
    "name": "标签聚合·电池回收",
    "items": 5,
-   "generated": "2026-10-10 15:54:57"
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/tag/xinnengyuan.xml",
    "name": "标签聚合·新能源汽车",
    "items": 2,
-   "generated": "2026-10-10 15:54:57"
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/tag/zhengce.xml",
    "name": "标签聚合·政策法规",
    "items": 15,
-   "generated": "2026-10-10 15:54:57"
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/site/samr_gb.xml",
    "name": "全国标准信息公共服务平台·国家标准动态",
    "items": 30,
-   "generated": "2026-10-10 15:53:56"
+   "generated": "2026-10-10 16:07:31"
   },
   {
    "path": "rss/site/catarc_plan.xml",
    "name": "全国汽车标准化委员会·标准计划公告",
    "items": 30,
-   "generated": "2026-10-10 15:53:56"
+   "generated": "2026-10-10 16:07:31"
   },
   {
    "path": "rss/site/catarc_opinion.xml",
    "name": "全国汽车标准化委员会·公开征求意见",
    "items": 30,
-   "generated": "2026-10-10 15:53:57"
+   "generated": "2026-10-10 16:07:31"
   },
   {
    "path": "rss/site/catarc_release.xml",
    "name": "全国汽车标准化委员会·标准发布公告",
    "items": 30,
-   "generated": "2026-10-10 15:53:56"
+   "generated": "2026-10-10 16:07:31"
   },
   {
    "path": "rss/site/shmet_flash.xml",
    "name": "上海金属网·快讯",
    "items": 400,
-   "generated": "2026-10-10 15:54:44"
+   "generated": "2026-10-10 16:08:22"
   },
   {
    "path": "rss/site/shmet_flash_a.xml",
    "name": "上海金属网·快讯A（新）",
    "items": 173,
-   "generated": "2026-10-10 15:54:48"
+   "generated": "2026-10-10 16:08:20"
   },
   {
    "path": "rss/site/shmet_flash_b.xml",
    "name": "上海金属网·快讯B（中）",
    "items": 173,
-   "generated": "2026-10-10 15:54:44"
+   "generated": "2026-10-10 16:08:19"
   },
   {
    "path": "rss/site/shmet_flash_c.xml",
    "name": "上海金属网·快讯C（旧）",
    "items": 174,
-   "generated": "2026-10-10 15:54:56"
+   "generated": "2026-10-10 16:08:21"
   },
   {
    "path": "rss/site/gasgoo.xml",
    "name": "盖世汽车·最新资讯",
    "items": 18,
-   "generated": "2026-10-10 15:54:00"
+   "generated": "2026-10-10 16:07:35"
   },
   {
    "path": "rss/site/shujubang.xml",
    "name": "佐思汽研·研究报告与资讯",
    "items": 6,
-   "generated": "2026-10-10 15:53:58"
+   "generated": "2026-10-10 16:07:32"
   },
   {
    "path": "rss/site/sac_bzhyw.xml",
    "name": "国家标准化管理委员会·标准化要闻",
    "items": 20,
-   "generated": "2026-10-10 15:53:58"
+   "generated": "2026-10-10 16:07:32"
   },
   {
    "path": "rss/site/cencenelec.xml",
    "name": "CEN/CENELEC·新闻",
    "items": 10,
-   "generated": "2026-10-10 15:54:06"
+   "generated": "2026-10-10 16:07:42"
   },
   {
    "path": "rss/site/cnmn_news.xml",
    "name": "中国有色网·重点新闻",
    "items": 20,
-   "generated": "2026-10-10 15:54:00"
+   "generated": "2026-10-10 16:07:34"
   },
   {
    "path": "rss/site/cnmn_policy.xml",
    "name": "中国有色网·政策法规",
    "items": 20,
-   "generated": "2026-10-10 15:54:00"
+   "generated": "2026-10-10 16:07:34"
   },
   {
    "path": "rss/site/caev.xml",
    "name": "中国汽车动力电池产业创新联盟·动态",
    "items": 15,
-   "generated": "2026-10-10 15:54:12"
+   "generated": "2026-10-10 16:07:43"
   },
   {
    "path": "rss/site/cpcaauto.xml",
    "name": "乘用车市场信息联席会·行业新闻",
    "items": 20,
-   "generated": "2026-10-10 15:54:11"
+   "generated": "2026-10-10 16:07:45"
   },
   {
    "path": "rss/site/ciaps.xml",
    "name": "电池中国·行业资讯",
    "items": 20,
-   "generated": "2026-10-10 15:54:29"
+   "generated": "2026-10-10 16:08:02"
   },
   {
    "path": "rss/site/ciaps_hy.xml",
    "name": "电池中国·协会动态",
    "items": 19,
-   "generated": "2026-10-10 15:54:33"
+   "generated": "2026-10-10 16:08:11"
   },
   {
    "path": "rss/site/caam.xml",
    "name": "中汽协·首页要闻",
    "items": 30,
-   "generated": "2026-10-10 15:54:22"
+   "generated": "2026-10-10 16:07:54"
   },
   {
    "path": "rss/site/catarc_news.xml",
    "name": "中汽研·汽车标准化新闻",
    "items": 20,
-   "generated": "2026-10-10 15:54:14"
+   "generated": "2026-10-10 16:07:47"
   },
   {
    "path": "rss/site/miit_jns.xml",
    "name": "工信部·节能与综合利用司",
    "items": 30,
-   "generated": "2026-10-10 15:54:26"
+   "generated": "2026-10-10 16:07:54"
+  },
+  {
+   "path": "rss/site/ofweek.xml",
+   "name": "维科网·智能汽车",
+   "items": 560,
+   "generated": "2026-10-10 16:08:39"
   },
   {
    "path": "rss/site/aibanglib.xml",
    "name": "艾邦锂电网·资讯",
    "items": 15,
-   "generated": "2026-10-10 15:54:32"
+   "generated": "2026-10-10 16:08:05"
   }
  ]
 }

@@ -4,10 +4,46 @@
 <link>https://www.ofweek.com/CATList-8100-CHANGYIEXINWE.html</link>
 <description>维科网 CATList-8100（智能汽车频道）；源站 GBK 编码，已转码；2026-10-10 开启分页（单页仅 20 条，只抓首页无法覆盖到前一天 00:00）</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 15:42:52 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 16:08:39 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/ofweek.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>忙里偷闲五年干出一个科创IPO：申报前夜，这位80后向研究所递辞呈</title>
+<link>https://ee.ofweek.com/2026-10/ART-12003-2801-30706411.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2801-30706411.html</guid>
+<pubDate>Sat, 10 Oct 2026 15:47:00 +0800</pubDate>
+<description>作者：见微 出品:#市值财经 从成立到冲刺科创板上会，上海羲禾科技股份有限公司（简称：羲禾科技）只用了五年 5 个月。 还有谁有过类似的火箭速度？ 寒武纪从成立到科创板上会仅四年多；摩尔线程从正式运营到科创板上会，实际也不到五年。 不同的是，羲禾科技居然还是位80后 “忙里偷闲” 打拼出来的公司。 PART 01 IPO前夜，他向研究所递辞呈 01 据招股书披露，羲禾科技实控人武爱民2008年至2026年1月历任中国科学院上海微系统与信息技术研究所（简称：上海微系统所）助理研究员、副研究员、研究员，直到羲禾科技IPO获上交所受理前夕才辞去该所职位。 2021 年公司成立后，武爱民他一边担任董事长、总经理，一边保留研究所研究员身份，交叉任职超过四年。而且，他在上海微系统所这并非只挂名 ——2022年8月，上海微系统所官网仍以 “武爱民研究员团队” 名义发布硅基异质集成片上发光研究成果，可见其当时仍在实际参与研究所科研。 这也意味着，羲禾科技并非真正从零起步，其背后与武爱民原任职单位之间有着千丝万缕的关系。 图为：2022年8月，武爱民以上海微系统所研究员身份参与发表论文 这从一次专利交易或许便可以看出。 2022年1月，即公司成立次年，武爱民代表 “硅光高速收发芯片项目” 研发团队与某科研单位签署协议，约定研发团队及羲禾科技可免费、独占使用相关专利，并享有优先购买安排。 所谓独占许可，意味着该科研单位原则上不能再将相同专利授权给其他竞争者，足见双方都认可其商业排他价值；而羲禾科技此前握有的本就是一份免费独占许可，后来购买专利，主要是把 “使用权” 升级为 “完整所有权”，厘清 IPO 前技术权属与职务发明的边界。 图片来源：羲禾科技招股书 文件虽匿名写作 “某科研单位”，但结合武爱民 2008 年至 2026 年 1 月一直在该所任职、协议又由其代表团队签署，该单位大概率就是</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>蓝牙6.0标准和边缘AI ，搅动蓝牙芯片市场格局</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23004-8420-30706410.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23004-8420-30706410.html</guid>
+<pubDate>Sat, 10 Oct 2026 15:45:00 +0800</pubDate>
+<description>作者：Sophia物联网智库 编译 从耳机、键盘、鼠标等消费电子产品，到可穿戴设备、智能家居、医疗健康、工业设备以及资产追踪，蓝牙凭借低功耗、低成本和成熟的生态体系，早已渗透到大量终端设备之中。 更值得关注的是，随着蓝牙 6.0 引入的信道探测（Channel Sounding）、面向未来的高数据吞吐能力，以及环境物联网（Ambient IoT）和能量采集等技术方向，蓝牙产业正在进入一个新的发展阶段，其应用边界不断向定位、数字钥匙、精准测距、资产追踪以及超低功耗物联网等领域延伸。 在这一背景下，日本市场研究机构 Techno Systems Research（TSR）最新发布的《2026 Wireless Connectivity Market Analysis》不仅关注蓝牙芯片整体市场规模和出货趋势，也进一步拆解了数据蓝牙、BLE 单模 SoC、蓝牙新标准以及边缘 AI 等细分方向。由于 TSR 比较强调产业链一线调研，而不是单纯依靠公开数据库做市场推算，因此其发布的行业数据和产业洞察往往具有较高的参考价值，笔者将对其中的部分信息进行分享，包括： 蓝牙 IC 出货量预计将从 2025 年的 83 亿颗增长至 2032 年的 103 亿颗 市场增长动力正从音频领域转向数据蓝牙（Data Bluetooth）和物联网应用 边缘 AI 正在进一步提升 BLE SoC 在连接之外的价值，尤其是在工业、医疗健康和智能家居等应用领域 物联网应用拓展带动数据蓝牙市场增长 TSR 预计，全球蓝牙芯片出货量将从 2025 年的 83 亿颗增长至 2032 年的 103 亿颗，期间复合年增长率（CAGR）为 3.2%。 由于离散式蓝牙芯片市场规模庞大且已经较为成熟，所以相比于增长数据本身，增加格局的变化更加值得关注。2025 年，音频蓝牙 SoC 仍将是最大的细分市场，占据 61% 的市场份</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>邓承浩姜海荣搭班一年，深蓝为何还没爆款？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30706409.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30706409.html</guid>
+<pubDate>Sat, 10 Oct 2026 15:43:00 +0800</pubDate>
+<description>深蓝的标签是什么？提到深蓝，消费者能想到什么？这个问题，邓承浩和姜海荣都还没有给出足够有说服力的答案。 作者|张先森 编辑|杨 铭 9月28日，深蓝汽车第100万辆整车量产下线。从2022年首款车型上市算起，这家车企用4年跑完了从0到100万的里程。 几乎在同一时间，长安汽车推进阿维塔与深蓝的实质性整合，成立AD协同发展部，将两大品牌在研发、供应链、制造等环节深度打通。随后，阿维塔高层调整落地，陈卓出任董事长，雍军接任总裁，原董事长王辉调任长安汽车执行副总裁，重心转向海外。 真正值得玩味的，是整合方案里的一条，深蓝撤销研发、营销、人力、财务等多个业务单元，相关职能收归AD协同发展部。营销，恰是姜海荣被请来深蓝要补的那块短板。 此时，距离姜海荣出任深蓝汽车CEO已经过去一年。这位前荣耀中国区CMO，带来营销方法论与ICT经验，仍未完全改写这家车企爆款缺失、品牌标签模糊、降本与盈利迫切等问题——最终，深蓝成为长安加速重新排布手中的新能源棋子。而姜海荣本人，也从一个被充分授权的“营销破局者”，进入了一个权限边界被重新划定的新阶段。 1 组合搭班一年，深蓝成效几何？ 2025年9月之前，深蓝汽车是邓承浩一个人挑大梁的状态。2022年深蓝品牌创立之初，他便出任CEO，全面主导品牌前期建设。这位自称“邓工”的技术派掌舵者深知自己的短板：“我是做产品和技术出身的，市场和营销是我相对欠缺的地方。”尤其是，去年开机广告昏招，让深蓝和邓承浩先后公开道歉。 姜海荣，被邓承浩认为是解决深蓝营销屡屡失序的人选。彼时，深蓝正在搭建华为的IPD与IPMS体系，“最好的学习就是把在华为干这个事的人叫来。”姜海荣在华为和荣耀征战二十年，十年技术研发、十年市场营销，既懂产品又通市场，既扎根过中国也打拼过海外。邓承浩负责产品与技术，姜海荣主攻市场与营销，这对组合被寄望为深蓝补上最后一块短板。 接到邓承浩的邀约时</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>蓝牙6.0标准和边缘AI,搅动蓝牙芯片市场格局</title>
+<link>https://ee.ofweek.com/2026-10/ART-8420-2804-30706408.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2804-30706408.html</guid>
+<pubDate>Sat, 10 Oct 2026 15:43:00 +0800</pubDate>
+<description>作者：Sophia物联网智库 编译 从耳机、键盘、鼠标等消费电子产品，到可穿戴设备、智能家居、医疗健康、工业设备以及资产追踪，蓝牙凭借低功耗、低成本和成熟的生态体系，早已渗透到大量终端设备之中。 更值得关注的是，随着蓝牙 6.0 引入的信道探测（Channel Sounding）、面向未来的高数据吞吐能力，以及环境物联网（Ambient IoT）和能量采集等技术方向，蓝牙产业正在进入一个新的发展阶段，其应用边界不断向定位、数字钥匙、精准测距、资产追踪以及超低功耗物联网等领域延伸。 在这一背景下，日本市场研究机构 Techno Systems Research（TSR）最新发布的《2026 Wireless Connectivity Market Analysis》不仅关注蓝牙芯片整体市场规模和出货趋势，也进一步拆解了数据蓝牙、BLE 单模 SoC、蓝牙新标准以及边缘 AI 等细分方向。由于 TSR 比较强调产业链一线调研，而不是单纯依靠公开数据库做市场推算，因此其发布的行业数据和产业洞察往往具有较高的参考价值，笔者将对其中的部分信息进行分享，包括： 蓝牙 IC 出货量预计将从 2025 年的 83 亿颗增长至 2032 年的 103 亿颗 市场增长动力正从音频领域转向数据蓝牙（Data Bluetooth）和物联网应用 边缘 AI 正在进一步提升 BLE SoC 在连接之外的价值，尤其是在工业、医疗健康和智能家居等应用领域 物联网应用拓展带动数据蓝牙市场增长 TSR 预计，全球蓝牙芯片出货量将从 2025 年的 83 亿颗增长至 2032 年的 103 亿颗，期间复合年增长率（CAGR）为 3.2%。 由于离散式蓝牙芯片市场规模庞大且已经较为成熟，所以相比于增长数据本身，增加格局的变化更加值得关注。2025 年，音频蓝牙 SoC 仍将是最大的细分市场，占据 61% 的市场份</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
 <item>
 <title>Meta新AI被扒皮：号称全自动打电话，实则全程真人代劳</title>
 <link>https://cloud.ofweek.com/news/2026-10/ART-178802-8110-30706407.html</link>
@@ -49,7 +85,6 @@
 <link>https://www.ofweek.com/im/2026-10/ART-201929-8420-30706403.html</link>
 <guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201929-8420-30706403.html</guid>
 <pubDate>Sat, 10 Oct 2026 15:21:00 +0800</pubDate>
-<description>2026年前三季度，A股迎来123家新上市公司（文末看名单）。火石星览产业智能体分析发现，六条制造链占近八成份额，北交所扛起半壁江山，55个城市分享这场资本盛宴。 先看三组数字 78%——机械设备、电子、汽车、基础化工、医药生物、电力设备六个行业合计96家，占比近八成。资本市场的项目供给，已经和新质生产力的产业口径高度绑定。 50.4%——北交所独揽62家，超过沪深两市创业板与科创板之和，成为本轮IPO扩容的最大阵地。 339——按城市份额计算的集中度指数（HHI）仅为339（0—10000口径），属于高度分散。Top8城市合计51家，占比41.5%；Top20城市合计80家，占比65%。但与此同时，有27个城市只分到1家上市公司——长尾极宽。 01 区域分布 城市多极分散，省份双极收拢 从区域分布来看，浙江26家、江苏23家、广东18家，三省合计占比超55%。123家A股上市企业分布在55个城市。 来源：火石星览产业智能体 苏州以11家居全国城市之首，其中汽车零部件3家、机械设备3家、医药生物3家、电子1家、电力设备1家，体现“零部件+医疗器械+仪器仪表”的复合制造结构。 深圳以9家（若计入注册地在香港的华润新能源则为10家）并列第二。产业结构多元，涉及存储（大普微）、面板（惠科股份）、PCB与电子设计服务（嘉立创）、医疗器械（北芯生命）、电池装备（尚水智能）、化妆品原料（维琪科技）、跨境电商（千岸科技）等。 无锡是单位产业浓度最高的城市，5家新上市公司中，3家为半导体主业，单位产业集中度60%。 62家北交所新股中，除了苏州6家、常州4家、杭州4家、绍兴3家、无锡3家等制造业强市，还覆盖了鹤壁、黄冈、朝阳、娄底、岳阳、辽阳等传统意义上离资本市场核心监管辖区较远的城市。 总体来看，资本市场的上市机会在城市维度上较为分散，但在省份维度上仍集中在长三角与珠三角。 02 六条制</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -58,7 +93,6 @@
 <link>https://fiber.ofweek.com/2026-10/ART-210022-8420-30706400.html</link>
 <guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210022-8420-30706400.html</guid>
 <pubDate>Sat, 10 Oct 2026 14:59:00 +0800</pubDate>
-<description>近年来，随着全球显示面板产业逐渐向我国大陆转移，我国OLED显示面板产能持续扩张。在此背景下，OCA光学胶市场空间不断扩展，这将为4-联苯甲醇丙烯酸酯行业发展带来机遇。 密集波分复用，简称DWDM，是波分复用（WDM）技术的密集化分支，利用不同波长的激光在一根光纤上同时传输多个数据信号。密集波分复用属于光纤数据传输技术，是光纤网络的重要组成部分，是现有光纤骨干网络提高带宽的核心激光技术。 根据相邻信道波长间隔的大小来划分，波分复用（WDM）技术主要分为粗波分复用（CWDM）、密集波分复用（DWDM）两大类。粗波分复用的波长间隔较大，而密集波分复用的波长间隔较小，能够支持40通道以上的大容量数据传输。 密集波分复用设备主要包括光发射机（实现固定波长光信号的转换）、光合波器与光分波器（完成固定波长光信号的合波与分波）、光放大器（位于光传输段中间位置，对光信号进行放大）、光接收机（将光信号转换为电信号）等。 密集波分复用设备广泛应用于光纤通信系统的长途干线、城域网及5G网络等领域。密集波分复用设备在骨干传输网中，是构建大容量、高速率骨干光传输网络的核心设备；在数据中心领域，可以实现数据中心之间的高密度、低时延连接，支撑云计算、大数据等应用的实时交互需求；在5G前传与城域网方面，广泛应用于5G前传网络、城域网、光纤接入网等场景。 根据新思界产业研究中心发布的《2026-2030年全球及中国密集波分复用（DWDM）设备行业研究及十五五规划分析报告》显示，2025年，全球密集波分复用（DWDM）设备市场规模约为97.86亿美元，预计发展到2032年将增长至207.34亿美元，期间年复合增长率为11.32%。人工智能产业快速爆发，市场对数据实时处理、低时延传输的需求持续提升，密集波分复用设备能够大幅提升光纤传输容量与数据交互效率，支撑大模型训练、实时推理等超高带宽算力业务稳定运行，市场发</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -67,7 +101,6 @@
 <link>https://sensor.ofweek.com/2026-10/ART-81012-12003-30706402.html</link>
 <guid isPermaLink="true">https://sensor.ofweek.com/2026-10/ART-81012-12003-30706402.html</guid>
 <pubDate>Sat, 10 Oct 2026 14:59:00 +0800</pubDate>
-<description>撰稿 | 贝多 来源 | 贝多商业&amp;贝多财经 一根机械臂要在杂乱的实训台上精准抓起一只马克杯，靠的不只是算法，它得先&quot;看见&quot;杯子的三维位置、姿态和边缘。 在具身智能爆发的2026年，机器人&quot;看见&quot;世界的能力，正成为整条产业链最稀缺的底层资源。而中国有一家公司，专门做这件事。 9月24日，奥比中光科技集团股份有限公司（以下简称“奥比中光”，688322.SH）向港交所主板递交H股上市申请，高盛、海通国际担任联席保荐人。 这家2022年7月登陆科创板的&quot;3D视觉第一股&quot;，正式开启&quot;A+H&quot;双平台之路。 一、全球第一的“机器人之眼”，29%份额 天眼查显示，奥比中光成立于2013年1月18日，注册资本约4.01亿元，法定代表人为黄源浩，主营业务为&quot;3D视觉感知产品的设计、研发、生产和销售&quot;；公司董事长、实际控制人均为黄源浩。 招股书披露，按2025年收入计，奥比中光在全球机器人3D视觉感知市场排名第一，市场份额达29.0%。更细的口径里，它稳居亚太地区服务机器人3D视觉传感器市占率第一，国内占有率超过70%。 在韩国商用和工业移动机器人3D视觉市场，份额亦约72%。一个看似小众的赛道，被它做成了全球第一。 技术底座是这套领先的底气。奥比中光构建了&quot;芯片+算法+光机&quot;全栈能力，已完成超过10款芯片流片，涵盖iToF、dToF感光芯片及专用ASIC算力芯片；自研MX6800深度引擎芯片搭载于Gemini系列产品，支持主被动融合成像，可在强光、暗光等复杂环境下稳定输出高精度三维数据。 技术路线覆盖结构光、iToF、dToF、双目视觉、激光雷达及工业三维测量，是国内少数具备全链条3D视觉解决方案能力的企业。 客户名单或许是它最硬的背书。奥比中光的Gemini双目系列和Femto深度相机已进入智元、宇树、优必选、天工、蚂蚁灵波、加速进化、灵心巧手、魔法原子等多家人形机器人头部企业的供应链。</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -76,7 +109,6 @@
 <link>https://iot.ofweek.com/2026-10/ART-132200-12003-30706401.html</link>
 <guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132200-12003-30706401.html</guid>
 <pubDate>Sat, 10 Oct 2026 14:59:00 +0800</pubDate>
-<description>文｜老鱼儿 编辑｜杨旭然 只需要对着手机或者其他智能终端说出一句“我想去某地”，AI会自动读懂你的出行意图，帮你梳理行程、规划路线，并且直接预约网约车。当你走出家门，一辆Robotaxi已经在路边等候，不需要你动手操作任何APP，车辆自动把你送到目的地。 这样过去只存在于科幻电影里的AI式出行，如今正在中国城市的街头初见雏形。 网经社电子商务研究中心《2025年度中国移动出行市场数据报告》显示，2025年中国网约车市场规模约为4119亿元，同比增长6.07%，增速相比2024年8.19%继续收窄；国内网约车用户规模维持在5.39亿人，和前一年持平，用户增长已经触顶，传统流量红利基本耗尽。 当整个行业开始告别快速增长的黄金时代，网约车行业必须寻找新的增长故事，AI Agent驱动的智能化出行，就是这个新故事的主线。 过去三年，大模型带来的AI浪潮让出行赛道发生了一系列变化。行业已经从封闭园区内的技术实验阶段，迈入正式的商业化落地阶段。 更深层次来看，这场变革带来的是整条出行产业链的瓦解与重构，以及链条上各个环节权力结构的重新改写，新的决定性力量已经在悄然酝酿。 本文是来自《巨潮WAVE》内容团队的深度价值文章，欢迎您多平台关注。 闭环 2026年9月，曹操出行密集完成多轮与智能终端的合作落地，这可能是目前在AI领域动作最多、态势最为激进的一家出行公司： 9月14日，豆包手机助手消费者版正式发布，搭载在努比亚NaviX Ultra手机上，曹操出行成为首批接入这套系统的出行服务商； 9月15日，曹操出行AI打车服务接入荣耀YOYO智能体，用户直接向YOYO说出用车需求，智能体就能够自动识别起点、终点，匹配运力，规划车型与路线，完成下单； 9月17日的OPPO开发者大会上，曹操出行再次官宣AI打车服务接入OPPO小布Next，在现场完成全流程演示； 9月22日，曹操出行在阿里巴巴云</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -4461,198 +4493,6 @@
 <link>https://tele.ofweek.com/2026-10/ART-8320503-8420-30705832.html</link>
 <guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-8420-30705832.html</guid>
 <pubDate>Thu, 08 Oct 2026 16:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>脱离Meta独立运营后 Manus官宣拿下超5亿美元融资</title>
-<link>https://iot.ofweek.com/2026-10/ART-132214-12005-30705831.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132214-12005-30705831.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:58:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>电动车盈利破局：十项结构性设计措施，实现10%–25%材料降本</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30705830.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30705830.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:57:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>分流产能压力、对冲价格战，中国汽车在海外打开增长空间</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30705829.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30705829.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:56:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>“宁王”座下, 车企的三次大撤退</title>
-<link>https://dianyuan.ofweek.com/2026-10/ART-8321001-8420-30705828.html</link>
-<guid isPermaLink="true">https://dianyuan.ofweek.com/2026-10/ART-8321001-8420-30705828.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:55:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>“宁王”座下，车企的三次大撤退</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36001-8420-30705827.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8420-30705827.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>嘴上踩刹车，脚下踩油门: 海外AI巨头的减速承诺为何总在路上？</title>
-<link>https://www.ofweek.com/security/2026-10/ART-510009-12003-30705826.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/security/2026-10/ART-510009-12003-30705826.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:53:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>嘴上踩刹车，脚下踩油门：海外AI巨头的减速承诺为何总在路上？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178806-12003-30705825.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178806-12003-30705825.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:52:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>非侵入脑机接口康复企业「迈联医疗」获B轮1亿元融资</title>
-<link>https://www.ofweek.com/medical/2026-10/ART-103122-8420-30705824.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/medical/2026-10/ART-103122-8420-30705824.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:51:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>从“卖机柜”到“卖Token”: AIDC的估值锚点换到了哪里？</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30705823.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30705823.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:49:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>从“卖机柜”到“卖Token”：AIDC的估值锚点换到了哪里？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30705822.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30705822.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:48:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>华为赛力斯“复婚”！保卫“汽车第一城”，重庆的底牌与暗礁</title>
-<link>https://www.ofweek.com/smartcity/2026-10/ART-201815-12003-30705821.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/smartcity/2026-10/ART-201815-12003-30705821.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:45:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>保时捷2035战略：除了裁员和削减车型，会继续加大燃油车研发</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8460-30705820.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8460-30705820.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:43:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>全球市场，燃油车销量占比跌破50%，比亚迪超丰田指日可待？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8500-30705819.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8500-30705819.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:42:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>长假高速服务区充电桩需要抢，增程和插混车主要不要让？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71011-8420-30705818.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71011-8420-30705818.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:42:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>9月车企销量：传统品牌“比奇吉”持续领先，新势力零跑卫冕冠军</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12004-30705817.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12004-30705817.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:41:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>喊话中国车企赴美建厂，是机遇还是陷阱</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30705816.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30705816.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:40:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>特斯拉FSD监督版为何迟迟难以落地</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8110-30705815.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8110-30705815.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:39:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>出海热潮背后，准入规则这门课该补考了</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30705814.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30705814.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:38:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>华为把专利卖给高通，美国拦得住吗？</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-8420-30705813.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-8420-30705813.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:37:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>王耀：从自动驾驶、可信数据空间到具身智能 | 刊首语</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8470-30705812.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8470-30705812.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:37:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>高通否认给华为交钱，但彭博社曝光的680项专利名单，藏不住了</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-12002-30705811.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-12002-30705811.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:35:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>车企集体抱团取暖，会改变什么？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30705810.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30705810.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:35:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>免费洗车，排队充电：同一个高速，两张脸</title>
-<link>https://dianyuan.ofweek.com/2026-10/ART-8321002-12003-30705809.html</link>
-<guid isPermaLink="true">https://dianyuan.ofweek.com/2026-10/ART-8321002-12003-30705809.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>Marvell: 远期指引狂飙，究竟是 “信心” 还是 “画饼”？</title>
-<link>https://ee.ofweek.com/2026-10/ART-12008-2812-30705808.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12008-2812-30705808.html</guid>
-<pubDate>Thu, 08 Oct 2026 15:29:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
