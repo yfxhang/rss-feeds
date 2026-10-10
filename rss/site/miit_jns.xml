@@ -4,7 +4,7 @@
 <link>https://www.miit.gov.cn/jgsj/jns/index.html</link>
 <description>工信部节能与综合利用司（原 jpaas RSS 接口已返回 9 字节空内容，改抓司局栏目页）；逐篇抓正文</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 12:46:37 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 13:49:18 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/miit_jns.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>

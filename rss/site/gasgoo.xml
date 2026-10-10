@@ -4,12 +4,20 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 12:44:46 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 13:47:22 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>中欧达成混动贸易谅解：中国混动车对欧出口四年内或减半</title>
+<title>配置竞争的话语权，从来不在车企</title>
+<link>https://m.gasgoo.com/news/70474431.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474431.html</guid>
+<pubDate>Sat, 10 Oct 2026 13:24:52 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>中欧达成混动车贸易谅解：中国混动车对欧出口四年内或减半</title>
 <link>https://m.gasgoo.com/news/70474428.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474428.html</guid>
 <pubDate>Sat, 10 Oct 2026 12:27:44 +0800</pubDate>
@@ -121,10 +129,9 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>美国国家公路交通安全管理局计划更新车辆照明安全标准</title>
-<link>https://m.gasgoo.com/news/70474389.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474389.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:22:33 +0800</pubDate>
+<title>中欧达成贸易谅解：对欧出口混动车或减半</title>
+<link>https://m.gasgoo.com/news/70474428.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474428.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
@@ -136,16 +143,9 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>欧盟称中国将大幅削减对欧混合动力汽车出口</title>
-<link>https://m.gasgoo.com/news/70474420.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474420.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>墨西哥9月汽车出口同比下降12%</title>
-<link>https://m.gasgoo.com/news/70474419.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474419.html</guid>
+<title>国际|加拿大工会呼吁对华EV加征100%关税</title>
+<link>https://m.gasgoo.com/news/70474429.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474429.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
