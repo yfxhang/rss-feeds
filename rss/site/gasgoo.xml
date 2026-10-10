@@ -4,10 +4,42 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 08:08:53 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 08:22:00 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026年8月TOP30 SUV销量投诉量对应点评</title>
+<link>https://m.gasgoo.com/news/70474410.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474410.html</guid>
+<pubDate>Sat, 10 Oct 2026 08:13:03 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>2026年8月TOP30轿车销量投诉量对应点评</title>
+<link>https://m.gasgoo.com/news/70474409.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474409.html</guid>
+<pubDate>Sat, 10 Oct 2026 08:10:13 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>【独家看点】排大长队 供需错配 新能源车节假日高速公路补能“潮汐式拥堵”如何破解？</title>
+<link>https://m.gasgoo.com/news/70474408.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474408.html</guid>
+<pubDate>Sat, 10 Oct 2026 08:05:52 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>前8月全球动力电池装车量TOP10：宁德时代独占4成 一中企增速翻倍</title>
+<link>https://m.gasgoo.com/news/70474407.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474407.html</guid>
+<pubDate>Sat, 10 Oct 2026 08:04:12 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>佛瑞亚海拉斩获两项量产订单</title>
 <link>https://m.gasgoo.com/news/70474406.html</link>
@@ -97,34 +129,9 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>2026款理想i6将于10月28日发布，官方公布六大升级</title>
-<link>https://m.gasgoo.com/news/70474345.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474345.html</guid>
-<pubDate>Fri, 09 Oct 2026 15:33:08 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>立讯精密100%控股京西智行</title>
-<link>https://m.gasgoo.com/news/70474336.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474336.html</guid>
-<pubDate>Fri, 09 Oct 2026 14:43:29 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>全球化新突破！承泰科技获德系头部豪华车企定点</title>
-<link>https://m.gasgoo.com/news/70474335.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474335.html</guid>
-<pubDate>Fri, 09 Oct 2026 14:34:19 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际快讯】汽油价格高涨推动菲律宾电动车销量激增；零跑推出全新混动车型计划；保时捷推出员工股权奖金计划，拟裁减9,000名员工</title>
-<link>https://m.gasgoo.com/news/70474333.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474333.html</guid>
-<pubDate>Fri, 09 Oct 2026 12:02:34 +0800</pubDate>
+<title>涨价函又又又来了，汽车业站上成本“高墙”</title>
+<link>https://m.gasgoo.com/news/70474358.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474358.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
@@ -136,14 +143,7 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>立讯精密100%控股京西智行</title>
-<link>https://m.gasgoo.com/news/70474336.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474336.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际快讯】零跑推出全新混动车型计划</title>
+<title>【国际快讯】菲律宾电动车销量激增</title>
 <link>https://m.gasgoo.com/news/70474333.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474333.html</guid>
 <category>新能源汽车</category>
