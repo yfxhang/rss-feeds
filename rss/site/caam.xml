@@ -4,7 +4,7 @@
 <link>http://www.caam.org.cn/</link>
 <description>中国汽车工业协会（中汽协）首页要闻；该站对任意栏目路径都返回首页，故取首页新闻列表；日期只在 &lt;span class=&quot;time&quot;&gt;[09.04]&lt;/span&gt; 里给月日，用 dt_md 补年份；逐篇抓正文。**坑**：首页长期挂着多年前旧文且列表页只写「当月日」（2023-10-10 的稿子仍写 [10.10]），补当年会伪造出今天的日期，已启用 date_from_body 以正文真实年份矫正</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 14:48:56 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 15:01:00 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/caam.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
