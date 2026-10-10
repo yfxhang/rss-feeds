@@ -4,10 +4,19 @@
 <link>https://www.shmet.com/newsFlash/newsFlash.html</link>
 <description>上海金属网快讯分片 C/3（时间最早一片）；平台单节点 80,000 字符上限的分片适配</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 14:38:52 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 14:49:28 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shmet_flash_c.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>【快讯】SHMET10月09日讯，上海黄金交易所黄金T+D 10月8日（周四）晚盘收盘上涨0.12%报893.04元/克</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753188</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753188</guid>
+<pubDate>Fri, 09 Oct 2026 02:31:20 +0800</pubDate>
+<description>【快讯】SHMET10月09日讯，上海黄金交易所黄金T+D 10月8日（周四）晚盘收盘上涨0.12%报893.04元/克；上海黄金交易所白银T+D 10月8日（周四）晚盘收盘下跌0.55%报14372.0元/千克。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
 <item>
 <title>【快讯】SHMET10月09日讯，委内瑞拉临时总统罗德里格斯：截至目前，石油产量已增长8%。</title>
 <link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753189</link>
@@ -212,15 +221,6 @@
 <guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753148</guid>
 <pubDate>Fri, 09 Oct 2026 01:46:59 +0800</pubDate>
 <description>【快讯】SHMET10月09日讯，美联储穆萨莱姆：通胀居高不下，是由持续的需求压力和供应冲击驱动的。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月09日讯，美联储穆萨莱姆表示，需要进一步收紧货币政策以使通胀回到目标。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753147</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753147</guid>
-<pubDate>Fri, 09 Oct 2026 01:46:53 +0800</pubDate>
-<description>【快讯】SHMET10月09日讯，美联储穆萨莱姆表示，需要进一步收紧货币政策以使通胀回到目标。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
@@ -495,6 +495,51 @@
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
+<title>【快讯】SHMET10月08日讯，美国国会预算办公室主任：债务稳定所需的增长预测假设利率为4%至5%。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753034</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753034</guid>
+<pubDate>Thu, 08 Oct 2026 23:09:15 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国国会预算办公室主任：债务稳定所需的增长预测假设利率为4%至5%。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，美国国会预算办公室主任：GDP增速需达到5%至6%，才能通过增长来稳定债务。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753035</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753035</guid>
+<pubDate>Thu, 08 Oct 2026 23:08:04 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国国会预算办公室主任：GDP增速需达到5%至6%，才能通过增长来稳定债务。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>WTI原油期货涨5.5% 升至93美元/桶上方</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753032</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753032</guid>
+<pubDate>Thu, 08 Oct 2026 23:05:48 +0800</pubDate>
+<description>【WTI原油期货涨5.5% 升至93美元/桶上方】SHMET10月08日讯，国际原油价格继续高企，WTI原油期货价格涨5.46%，报93.102美元/桶；布伦特原油期货价格涨5.52%，报105.729美元/桶。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，印度航空公司：鉴于地区形势的发展，已取消10月10日前往返利雅得的航班。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753026</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753026</guid>
+<pubDate>Thu, 08 Oct 2026 23:03:41 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，印度航空公司：鉴于地区形势的发展，已取消10月10日前往返利雅得的航班。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，墨西哥央行会议纪要：大多数成员强调，汇率升值与较低的通胀压力持续一致。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753027</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753027</guid>
+<pubDate>Thu, 08 Oct 2026 23:03:40 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，墨西哥央行会议纪要：大多数成员强调，汇率升值与较低的通胀压力持续一致。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
 <title>【快讯】SHMET10月08日讯，壳牌(SHEL.N)发言人：壳牌已部分重启位于卡塔尔拉斯拉凡工业城的珍珠GTL工厂，以</title>
 <link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753028</link>
 <guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=753028</guid>
@@ -720,47 +765,209 @@
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>懂车帝：网传暴力测试是谣言，百公里刹车实验并非极端工况</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752997</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752997</guid>
-<pubDate>Thu, 08 Oct 2026 22:19:26 +0800</pubDate>
-<description>【懂车帝：网传暴力测试是谣言，百公里刹车实验并非极端工况】SHMET10月08日讯，懂车帝实测曝出尊界V800三次出现刹车踏板支架断裂，部分网友称节目内容系极端工况，驾驶员脚踩刹车踏板力度过大。懂车帝有关人员表示，百公里刹车实验并非极端工况，很多人在高速驾驶场景下都会遇到，是汽车实测最基本的科目之一。本次节目中出现的相关车型制动踏板支架断裂属首次出现，且连续三次实验在同一位置出现相似断裂现象，存在一定安全隐患。针对三辆测试车刹车踏板支架断裂时显示的踏板力，懂车帝方面表示，网传暴力测试并不存在，而是正常的刹车踏板大力制动。网友关注的“4589N”踏板力数值，实为高速摄像机拍摄实验画面时，因摄像机</description>
+<title>【快讯】SHMET10月08日讯，惠誉评级：意大利的国防和能源支出并不意味着财政政策转变。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752881</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752881</guid>
+<pubDate>Thu, 08 Oct 2026 20:33:33 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，惠誉评级：意大利的国防和能源支出并不意味着财政政策转变。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬在启程前往土库曼斯坦前表示，保护里海海洋环境、</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752996</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752996</guid>
-<pubDate>Thu, 08 Oct 2026 22:19:09 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬在启程前往土库曼斯坦前表示，保护里海海洋环境、反对单边主义、发展与地区国家的多边合作，是此次访问的主要议题。</description>
+<title>【快讯】SHMET10月08日讯，美国国务卿鲁比奥：如果我们希望北约继续为我们服务，就需要保持其强大。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752883</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752883</guid>
+<pubDate>Thu, 08 Oct 2026 20:33:17 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国国务卿鲁比奥：如果我们希望北约继续为我们服务，就需要保持其强大。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬抵达土库曼斯坦，将与俄罗斯总统普京举行双边会晤</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752995</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752995</guid>
-<pubDate>Thu, 08 Oct 2026 22:19:08 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，据伊朗塔斯尼姆通讯社：伊朗总统佩泽希齐扬抵达土库曼斯坦，将与俄罗斯总统普京举行双边会晤和讨论。</description>
+<title>【快讯】SHMET10月08日讯，美国国务卿鲁比奥：我们期待未来深化美国与葡萄牙的关系。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752885</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752885</guid>
+<pubDate>Thu, 08 Oct 2026 20:32:34 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国国务卿鲁比奥：我们期待未来深化美国与葡萄牙的关系。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，葡萄牙2027年预算草案将经济增长预期定为2.1%。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752998</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752998</guid>
-<pubDate>Thu, 08 Oct 2026 22:18:54 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，葡萄牙2027年预算草案将经济增长预期定为2.1%。</description>
+<title>【快讯】SHMET10月08日讯，英国央行行长贝利：能源成本向更广泛通胀传导的证据目前相对较弱，但存在风险。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752886</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752886</guid>
+<pubDate>Thu, 08 Oct 2026 20:32:13 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，英国央行行长贝利：能源成本向更广泛通胀传导的证据目前相对较弱，但存在风险。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，纳斯达克中国金龙指数跌幅扩大，现跌0.5%，最新报5608.77点。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752994</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752994</guid>
-<pubDate>Thu, 08 Oct 2026 22:17:04 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，纳斯达克中国金龙指数跌幅扩大，现跌0.5%，最新报5608.77点。</description>
+<title>【快讯】SHMET10月08日讯，美国至10月3日当周初请失业金人数 19.7万人，预期20万人，前值由19.7万人修正</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752878</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752878</guid>
+<pubDate>Thu, 08 Oct 2026 20:30:50 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国至10月3日当周初请失业金人数 19.7万人，预期20万人，前值由19.7万人修正为19.9万人。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，美国至10月3日当周初请失业金人数四周均值 19.8万人，前值由20万人修正为20.0</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752879</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752879</guid>
+<pubDate>Thu, 08 Oct 2026 20:30:45 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国至10月3日当周初请失业金人数四周均值 19.8万人，前值由20万人修正为20.05万人。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，英国央行行长贝利：市场波动仍远未恢复正常，但我们并未看到流动性不足或紧张状况。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752877</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752877</guid>
+<pubDate>Thu, 08 Oct 2026 20:30:36 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，英国央行行长贝利：市场波动仍远未恢复正常，但我们并未看到流动性不足或紧张状况。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，美国上周首次申领失业救济人数为197,000人，预估为200,000人。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752876</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752876</guid>
+<pubDate>Thu, 08 Oct 2026 20:30:32 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国上周首次申领失业救济人数为197,000人，预估为200,000人。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>广州国际商业港开工建设</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752871</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752871</guid>
+<pubDate>Thu, 08 Oct 2026 20:25:50 +0800</pubDate>
+<description>【广州国际商业港开工建设】SHMET10月08日讯，10月8日，广州国际商业港在广州市花都区花山镇正式动工。广州国际商业港紧邻白云国际机场，地处空港经济区核心辐射范围，整体范围986公顷。项目聚焦平台经济、时尚消费、科技电子、先进制造等领域招商，已与超百家企业签订意向合作协议。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>力拓确认收购Aurukun铝土矿等待批准</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752590</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752590</guid>
+<pubDate>Thu, 08 Oct 2026 20:25:48 +0800</pubDate>
+<description>【力拓确认收购Aurukun铝土矿等待批准】外电10月8日消息，力拓确认已同意从 Glencore 和 Mitsubishi 手中收购 Aurukun 铝土矿项目。然而，该项目目前仍处于矿产开发许可证之下，采矿租约尚未授予。此次收购价格未披露，仍有待昆士兰政府和其他澳大利亚监管机构的批准。该公司补充说，如果收购继续进行，它将与州和联邦机构协商评估适当的监管批准途径，并在下一阶段的规划和开发中与传统所有者密切合作。（上海金属网编译）</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，英国央行行长贝利：我们正看到市场波动加剧。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752872</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752872</guid>
+<pubDate>Thu, 08 Oct 2026 20:25:47 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，英国央行行长贝利：我们正看到市场波动加剧。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>印尼能矿部：2027年RKAB评估将提速</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752538</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752538</guid>
+<pubDate>Thu, 08 Oct 2026 20:25:16 +0800</pubDate>
+<description>【印尼能矿部：2027年RKAB评估将提速】SHMET10月8日讯，10月6日，印尼能源与矿产资源部（ESDM）表示，2027年工作计划和预算（RKAB）评估将比2026年更快，并承诺公平决定镍矿石生产配额。矿产和煤炭总局矿产开发辅导司司长Cecep Mochammad Yasin在10月6日的“BIG Downstream Insight”活动中表示，目标是在法规截止期限前发放2027年镍矿石RKAB，避免评估拖到最长期限，争取早期完成。 Cecep透露，矿产和煤炭总局已要求镍矿企业提交明年生产计划，以便提前评估冶炼厂矿石需求和上游产能，这样企业在提交RKAB申请时就能明确将获得的配额。他表</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>格陵兰矿业完成斯卡尔加德项目2026年野外工作</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752652</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752652</guid>
+<pubDate>Thu, 08 Oct 2026 20:23:04 +0800</pubDate>
+<description>【格陵兰矿业完成斯卡尔加德项目2026年野外工作】SHMET10月8日讯，格陵兰矿业公司1日宣布，其位于格陵兰东南部的斯卡尔加德项目2026年野外工作已经完成，钒钛磁铁矿、铁和镓潜力正在评价之中。此次野外工作完成了4480米的金刚钻探，产生了斯卡尔加德项目首个大直径岩心，将用于选冶加工试验；同时公司在已经填图并刻槽取样的铂钯金矿段已经采集了105吨以上的大样，这已经远超以前采集的两个800公斤的小型大样。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>美国IDFC评估在智利建设铜精炼厂可行性</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752655</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752655</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:55 +0800</pubDate>
+<description>【美国IDFC评估在智利建设铜精炼厂可行性】SHMET10月8日讯，美国国际开发融资公司（IDFC）正在评估在智利建设新的铜精炼厂的可行性，美国正在推进新建关键矿产供应链。美国驻智利大使布兰登·贾德在智利太平洋基金会线上会议上称，IDFC正同多个实体磋商在智利建设炼厂的可行性，以便该国能够冶炼更多铜并控制供应链的关键环节。贾德透露，2026年中以来，IDFC一直在智利寻找能够提高铜附加值的可行项目。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>TNR Gold收到股东Altius的收购要约</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752677</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752677</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:46 +0800</pubDate>
+<description>【TNR Gold收到股东Altius的收购要约】外电10月8日消息，在多伦多证券交易所创业板上市的TNR Gold已与股东Altius Minerals Corporation达成排他性安排，此前Altius主动提出了一项不具约束力的建议，涉及可能收购其尚未持有的TNR全部普通股。 Altius持有TNR约12.7%的股份。 由TNR独立董事组成的特别委员会已审查该建议，并与顾问协商后继续对其进行评估，以确定其认为最符合公司及其股东利益的行动方案。 TNR拥有Shotgun金矿项目90%的权益——这是一个位于美国阿拉斯加的高级阶段勘探项目。它还持有Ganfeng Lithium位于阿根廷的M</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>Civmec获Alcoa镓生产厂建设合同</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752659</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752659</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:46 +0800</pubDate>
+<description>【Civmec获Alcoa镓生产厂建设合同】外电10月8日消息，Civmec Limited获得价值超过2.2亿澳元（1.53亿美元）的新合同和续约，包括Alcoa位于西澳大利亚Wagerup氧化铝炼厂的镓生产厂建设合同。该项目于2026年7月获得最终投资决定，8月在奠基仪式后开始施工。Civmec将为该厂执行土建、结构、机械、管道、电气和仪表工程，工作还包括工艺厂房、储罐、实验室及配套基础设施。（上海金属网编译）</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>潍坊年产60万吨磷酸铁锂项目环评批准</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752678</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752678</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:25 +0800</pubDate>
+<description>【潍坊年产60万吨磷酸铁锂项目环评批准】SHMET10月8日讯，10月8日，潍坊市生态环境局发布关于年产60万吨磷酸铁锂项目生态环境影响报告已批准公告。据了解该项目建设单位为（潍坊）新能源材料科技有限公司，项目位于寿光市羊口先进制造业园区，属于新建项目。 主要建设内容包括新建生产车间、仓库及配套变电所、循环水、脱盐水、空分空压装置等辅助设施，购置粗磨机、细磨机、空压机、泵等国产设备。项目分三期建设，一期建设完成后形成12万t/a磷酸铁锂生产能力，二期建设完成后形成24万t/a磷酸铁锂生产能力，三期建设完成后形成24万t/a磷酸铁锂生产能力。全部建设完成后，形成60万t/a磷酸铁锂生产能力。项目</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>江铜银山矿业井下铜系统-578m北沿脉巷道与废石井安全贯通</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752701</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752701</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:20 +0800</pubDate>
+<description>【江铜银山矿业井下铜系统-578m北沿脉巷道与废石井安全贯通】SHMET10月8日讯，近日，江铜银山矿业井下铜系统-578m中段、-678m中段开拓工程（一标段）与废石混合井实现安全贯通，标志着项目井下通风、运输及作业布局完成优化升级，为后续施工及安全生产筑牢基础。 据悉，井下铜系统-578m中段、-678m中段开拓工程是银山矿业重点基建控制性项目，承担完善井下生产系统、提升采矿效率、改善作业环境的重要任务。项目建成后，将优化深部开采布局，完善采掘配套体系，为矿山规模化、标准化、安全化生产，高效开发深部资源提供有力支撑。 此次贯通后，一标段将形成独立稳定的通风系统，有效化解原有通风不良、高温高</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>中国铜业锌基物料绿色冶炼技术达国际领先水平</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752719</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752719</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:13 +0800</pubDate>
+<description>【中国铜业锌基物料绿色冶炼技术达国际领先水平】SHMET10月8日讯，近日，中国铜业所属呼伦贝尔驰宏牵头完成的“多杂难处理锌基物料绿色冶炼与资源高效回收技术及应用”项目，顺利通过中国有色金属工业协会组织的科技成果评价，专家组一致认定整体技术达到国际领先水平。该项目构建了以氧压浸出-矿化沉铁为核心的短流程绿色冶炼新技术体系，建成国内规模最大的多杂难处理锌基物料绿色冶炼标杆工程，实现年产14万吨锌、6万吨铅。（中国有色金属报）</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>楚能联合海马汽车成立郑州楚界汽车公司</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752750</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752750</guid>
+<pubDate>Thu, 08 Oct 2026 20:22:07 +0800</pubDate>
+<description>【楚能联合海马汽车成立郑州楚界汽车公司】SHMET10月8日讯，9月20日，郑州楚界汽车研发有限公司正式成立，注册资本100万元，由海马汽车和楚能汽车分别持股51%、49%。新公司的经营范围覆盖工程和技术研究、汽车零部件研发、新能源汽车整车销售、汽车零配件批发等全链条环节。这次合资公司的成立，意味着楚能不再只做电池供应商，而是通过与拥有成熟整车生产资质和制造经验的海马汽车合作，快速补齐整车研发、生产、资质申报的关键短板。（起点锂电）</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，美国至10月3日当周初请失业金人数将于十分钟后公布。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752867</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752867</guid>
+<pubDate>Thu, 08 Oct 2026 20:21:55 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，美国至10月3日当周初请失业金人数将于十分钟后公布。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>Nespresso终止纸质胶囊专注铝制胶囊</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752772</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752772</guid>
+<pubDate>Thu, 08 Oct 2026 20:21:25 +0800</pubDate>
+<description>【Nespresso终止纸质胶囊专注铝制胶囊】外电10月8日消息，Nespresso在收到客户关于保质期和整体产品体验的反馈后，决定将重心从纸质胶囊转向铝制胶囊，并停止纸质胶囊系列。这家雀巢子公司表示，其经验表明铝能为新鲜烘焙的咖啡提供更好的保护。公司委托进行的生命周期分析显示，纸质胶囊的碳足迹为79克二氧化碳当量，铝制胶囊为81克，两者几乎相同。公司计划更加关注铝回收，目前法国80%的人口已可通过标准回收计划回收Nespresso胶囊，瑞士这一比例为73%。（上海金属网编译）</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>10月锂电排产增速放缓</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752793</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752793</guid>
+<pubDate>Thu, 08 Oct 2026 20:21:17 +0800</pubDate>
+<description>【10月锂电排产增速放缓】SHMET10月8日讯，10月锂电产业链排产增速明显放缓，7家电芯样本企业合计排产214.6GWh，环比仅上涨2.4%，其中铁锂排产191.3GWh环比增长3%，三元电芯排产23.3GWh环比下滑2.3%。上游材料环节同样增速收敛，三元正极排产环比上涨5.6%，磷酸铁锂微增0.9%，钴酸锂下滑0.7%，负极排产22.7万吨环比增长3.7%，隔膜23.2亿平环比提升0.4%，电解液15万吨环比增长2%。（真锂研究）</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
@@ -828,209 +1035,65 @@
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>民航局：进一步完善航段航班量评审指标 引导航空公司合理安排运力投放</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752859</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752859</guid>
-<pubDate>Thu, 08 Oct 2026 20:19:25 +0800</pubDate>
-<description>【民航局：进一步完善航段航班量评审指标 引导航空公司合理安排运力投放】SHMET10月08日讯，民航局日前印发《国内航线航班评审优化措施》。《优化措施》针对部分航线市场承运人过度集中、竞争同质化等问题，对航段市场准入、航段航班量管理、航班计划安排、经营许可退出等方面作出系统安排。《优化措施》提出，在航段市场准入方面，根据承运人数量、客座率、旅客运输量等指标实施调控，引导承运人合理进入航段市场，促进资源有序配置；在航段航班量管理方面，进一步完善评审指标，给予骨干网、基础网航线支持措施，引导航空公司合理安排运力投放；在经营许可管理方面，明确持续符合许可条件、航班执行率计算、航班主动交回和主动注销鼓</description>
+<title>安徽“奇瑞系”20GWh电池项目封顶</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752635</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752635</guid>
+<pubDate>Thu, 08 Oct 2026 17:08:46 +0800</pubDate>
+<description>【安徽“奇瑞系”20GWh电池项目封顶】SHMET10月8日讯，近日，奇瑞旗下安徽得壹能源宿州年产20GWh动力电池项目厂房顺利封顶。该项目位于安徽省宿州市砀山县，固定资产投资40亿元，总建筑面积22.05万㎡，包含电芯车间、包膜PACK车间及附属设施。该项目聚焦高性能、高安全、长寿命动力及储能电池研发与制造，是皖北地区重点新能源产业项目。该项目电芯车间单体建筑面积达12.4万平方米，是780米×140米的超大型钢结构厂房，规划建设高自动化领先生产线，重点布局187Ah、166Ah刀片电池产品以及684Ah储能电池，充分满足业主单位生产研发需求。（电池中国）</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利：当冲击变得更加频繁、潜在增长减弱，并且冲击的接连发生导致政府债务水平</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752861</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752861</guid>
-<pubDate>Thu, 08 Oct 2026 20:19:16 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利：当冲击变得更加频繁、潜在增长减弱，并且冲击的接连发生导致政府债务水平上升时，政府利用资产负债表来缓冲严重经济下滑的难度将大大增加。</description>
+<title>【快讯】SHMET10月08日讯，香港交易所信息显示，摩根大通在天齐锂业H股的持股比例于10月05日从13.02%降至1</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752639</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752639</guid>
+<pubDate>Thu, 08 Oct 2026 17:08:40 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，香港交易所信息显示，摩根大通在天齐锂业H股的持股比例于10月05日从13.02%降至12.62%，卖出的平均股价为27.7695港元。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，当地州长称，俄罗斯库尔斯克地区发生无人机袭击，造成一人死亡。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752860</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752860</guid>
-<pubDate>Thu, 08 Oct 2026 20:19:12 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，当地州长称，俄罗斯库尔斯克地区发生无人机袭击，造成一人死亡。</description>
+<title>【快讯】SHMET10月08日讯，香港交易所信息显示，贝莱德在中国人寿H股的持股比例于10月05日从6.20%降至5.9</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752638</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752638</guid>
+<pubDate>Thu, 08 Oct 2026 17:08:25 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，香港交易所信息显示，贝莱德在中国人寿H股的持股比例于10月05日从6.20%降至5.92%。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利：我们必须增强核心市场的韧性。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752862</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752862</guid>
-<pubDate>Thu, 08 Oct 2026 20:18:28 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利：我们必须增强核心市场的韧性。</description>
+<title>【快讯】SHMET10月08日讯，伊拉克将11月向北美和南美出口的巴士拉中质原油官方售价定为较阿格斯含硫原油升水3.10</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752637</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752637</guid>
+<pubDate>Thu, 08 Oct 2026 17:08:02 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，伊拉克将11月向北美和南美出口的巴士拉中质原油官方售价定为较阿格斯含硫原油升水3.10美元/桶。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利：加强中央清算、设定适当的最低折扣率以及强化风险管理，都值得考虑。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752863</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752863</guid>
-<pubDate>Thu, 08 Oct 2026 20:18:18 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利：加强中央清算、设定适当的最低折扣率以及强化风险管理，都值得考虑。</description>
+<title>【快讯】SHMET10月08日讯，伊拉克将11月向欧洲出口的巴士拉中质原油官方售价定为较即期布伦特原油价格贴水3.85美</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752631</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752631</guid>
+<pubDate>Thu, 08 Oct 2026 17:07:42 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，伊拉克将11月向欧洲出口的巴士拉中质原油官方售价定为较即期布伦特原油价格贴水3.85美元/桶。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利：政府债务被更大程度地吸收，随之而来的是更大的脆弱性。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752864</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752864</guid>
-<pubDate>Thu, 08 Oct 2026 20:18:04 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利：政府债务被更大程度地吸收，随之而来的是更大的脆弱性。</description>
+<title>【快讯】SHMET10月08日讯，香港交易所信息显示，摩根大通在中际旭创H股的持股比例于10月05日从13.94%升至1</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752630</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752630</guid>
+<pubDate>Thu, 08 Oct 2026 17:07:31 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，香港交易所信息显示，摩根大通在中际旭创H股的持股比例于10月05日从13.94%升至14.36%，购买的平均股价为1103.6612港元。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利：货币政策需要坚定不移地致力于将通胀恢复至目标水平。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752855</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752855</guid>
-<pubDate>Thu, 08 Oct 2026 20:17:50 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利：货币政策需要坚定不移地致力于将通胀恢复至目标水平。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，印度财政部税务司秘书：商品和服务税委员会指出，自今年4月1日起黄金就没有豁免。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752854</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752854</guid>
-<pubDate>Thu, 08 Oct 2026 20:17:34 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，印度财政部税务司秘书：商品和服务税委员会指出，自今年4月1日起黄金就没有豁免。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利：政策制定者应加强核心金融市场，以便在未来冲击中能够吸收而不放大这些冲</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752856</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752856</guid>
-<pubDate>Thu, 08 Oct 2026 20:17:12 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利：政策制定者应加强核心金融市场，以便在未来冲击中能够吸收而不放大这些冲击。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>Green River锂项目目标年产1万吨碳酸锂</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752850</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752850</guid>
-<pubDate>Thu, 08 Oct 2026 20:15:03 +0800</pubDate>
-<description>【Green River锂项目目标年产1万吨碳酸锂】外电10月7日消息，Anson Resources（安森资源公司）计划Green River锂项目在20年运营寿命内年产10000吨电池级碳酸锂。犹他州激励措施已将项目基准税前净现值（NPV）从13.7亿美元提升至15.2亿美元，税后从8.96亿美元提升至10.4亿美元。激励使项目税前NPV增加10.9%，税后增加16.7%。这强化了Green River项目的投资主张，正值Anson推进项目最终可行性研究并与战略投资者和潜在项目融资方接触。项目估计建设成本仍为5.69亿美元。Anson正推进项目最终可行性研究，并与战略投资者和潜在项目融资方</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>Fortuna收购Bambadji扩展Diamba Sud金矿</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752849</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752849</guid>
-<pubDate>Thu, 08 Oct 2026 20:15:03 +0800</pubDate>
-<description>【Fortuna收购Bambadji扩展Diamba Sud金矿】外电10月7日消息，Fortuna Mining表示，通过收购紧邻的190平方公里Bambadji项目，大幅扩展其位于塞内加尔的Diamba Sud金矿项目，在盛产黄金的塞内加尔-马里剪切带整合约60公里前景走向。此次收购是Fortuna Mining在西非黄金资产组合的重要扩张，有助于提升Diamba Sud项目的资源潜力和开发规模。公司表示，Bambadji项目与Diamba Sud项目相邻，整合后的矿权区将形成更大的勘探和开发平台。Fortuna Mining将继续推进Diamba Sud项目的勘探和开发工作，并评估Bam</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>Fortuna旗下Séguéla金矿三季度产33,744盎司</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752848</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752848</guid>
-<pubDate>Thu, 08 Oct 2026 20:15:03 +0800</pubDate>
-<description>【Fortuna旗下Séguéla金矿三季度产33,744盎司】外电10月7日消息，Fortuna Mining公布的数据显示，旗下科特迪瓦Séguéla金矿第三季度开采矿石340,714吨，平均金品位2.69克/吨，产金33,744盎司，低于二季度的41,683盎司，反映碾磨吨数、入选品位和回收率下降。今年前九个月，Séguéla金矿累计产金117,443盎司，仍有望达到全年产量指引低端。第三季度，Fortuna Mining批准将Séguéla选厂扩建30%，支持从2028年下半年起年黄金产量超过200,000盎司的增长目标。该扩建计划将提升选厂处理能力，为Séguéla矿中长期产量增长奠</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>Fortuna三季度产69,665金当量盎司，同比减少</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752847</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752847</guid>
-<pubDate>Thu, 08 Oct 2026 20:15:03 +0800</pubDate>
-<description>【Fortuna三季度产69,665金当量盎司，同比减少】外电10月7日消息，上市企业Fortuna Mining公布第三季度生产业绩，当季黄金当量产量为69,665盎司，低于今年二季度的72,217盎司和2025年三季度的72,462盎司。今年前九个月，公司黄金当量产量累计214,754盎司，仍有望实现全年产量指引28.1万至30.5万盎司。Fortuna Mining在西非和拉丁美洲拥有三座在产矿山。公司表示，尽管三季度产量环比和同比均有所下降，但整体生产进度仍处于实现年度目标的轨道上，全年产量指引维持不变。公司未在本次更新中披露三季度财务数据，市场将关注其后续季度报告中的成本及现金流表现</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>Lithium Africa旗下Springbok锂项目钻获4.11%氧化锂</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752846</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752846</guid>
-<pubDate>Thu, 08 Oct 2026 20:13:20 +0800</pubDate>
-<description>【Lithium Africa旗下Springbok锂项目钻获4.11%氧化锂】外电10月7日消息，Lithium Africa旗下Springbok项目Norrabees I矿首次钻探结果返回：从18.5米深处见矿7.5米，氧化锂品位1.97%（其中从同一深度6米品位2.27%）；从2米深处见矿4米，氧化锂品位2.25%。单个样品氧化锂品位最高达4.11%（真宽度尚不清楚）。这些结果、历史钻探及正在进行的钻探预计将支持MRE和PEA的编制。公司目标2027年上半年完成首次矿产资源量估算（MRE），随后进行初步经济评估（PEA）。Springbok项目位于南非北开普省，拥有5公顷采矿许可，位于</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>Lithium Africa推进南非Springbok锂项目</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752845</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752845</guid>
-<pubDate>Thu, 08 Oct 2026 20:13:20 +0800</pubDate>
-<description>【Lithium Africa推进南非Springbok锂项目】外电10月7日消息，上市企业Lithium Africa决定推进其位于南非北开普省的Springbok项目，目标2027年下半年首次生产锂辉石精矿。公司此前一直在评估对Norrabees I现有此前开采伟晶岩库存进行直运矿石（DSO）销售，但现已决定将该物料与新开采伟晶岩一起通过现场重介质分离（DMS）选厂加工。该决定基于公司对第三方完成的13吨库存物料两阶段DMS测试的审查。Norrabees I采矿已获项目现有采矿许可批准，DMS选厂建设需要额外批准，公司已启动该流程。（上海金属网编译）</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>国内主要市场铅锭库存调查统计（20261008）</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752844</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752844</guid>
-<pubDate>Thu, 08 Oct 2026 20:13:20 +0800</pubDate>
-<description>【国内主要市场铅锭库存调查统计（20261008）】SHMET10月08日讯，据Mysteel调研统计，截止2026年10月8日全国主要市场铅锭社会库存为4.56万吨，较9月30日减少0.14万吨，较9月28日减少0.25万吨。本周上海和江苏地区库存小幅增加，其中上海地区库存增加0.05万吨，江苏地区库存增加0.01万吨；而天津地区受下游蓄企提货影响，库存减少0.2万吨；其余地区库存本期暂无波动。节后下游采买仓单情绪有所回落，加之临近交割期，在交仓影响下，预计短期社库或会小幅累积。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，上海黄金交易所黄金T+D 10月8日（周四）晚盘盘初下跌1.2%报891.5元/克；上</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752843</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752843</guid>
-<pubDate>Thu, 08 Oct 2026 20:07:14 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，上海黄金交易所黄金T+D 10月8日（周四）晚盘盘初下跌1.2%报891.5元/克；上海黄金交易所白银T+D 10月8日（周四）晚盘盘初下跌3.33%报14365.0元/千克。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，英国央行行长贝利将于十分钟后发表讲话。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752839</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752839</guid>
-<pubDate>Thu, 08 Oct 2026 20:05:46 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，英国央行行长贝利将于十分钟后发表讲话。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，惠誉：确认乍得评级为“B-”，前景展望稳定。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752838</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752838</guid>
-<pubDate>Thu, 08 Oct 2026 20:05:38 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，惠誉：确认乍得评级为“B-”，前景展望稳定。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>伊朗外长称与美方谈判仍在继续</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752841</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752841</guid>
-<pubDate>Thu, 08 Oct 2026 20:04:29 +0800</pubDate>
-<description>【伊朗外长称与美方谈判仍在继续】SHMET10月08日讯，据伊朗塔斯尼姆通讯社8日报道，伊朗外交部长阿拉格齐当日接受采访时说，伊朗与美方的谈判仍在继续。伊朗仍在评估美对“七日内重开霍尔木兹海峡”提议的回应，将在几天内作出回复。 (新华社)</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，惠誉：考虑到苏丹的冲突持续加剧，乍得东部边界的不确定性也在增加。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752842</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752842</guid>
-<pubDate>Thu, 08 Oct 2026 20:04:06 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，惠誉：考虑到苏丹的冲突持续加剧，乍得东部边界的不确定性也在增加。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>东山精密：相关政策传闻暂未对公司当期经营业绩产生影响 已提前布局多区域产能与多元化供应链方案</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752840</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752840</guid>
-<pubDate>Thu, 08 Oct 2026 20:04:00 +0800</pubDate>
-<description>【东山精密：相关政策传闻暂未对公司当期经营业绩产生影响 已提前布局多区域产能与多元化供应链方案】SHMET10月08日讯，东山精密(002384.SZ)发布投资者关系活动记录表公告，有投资者提问：市场上关于光芯片采购限制的相关传闻对公司有什么影响？东山精密表示，市场上提及的 65%美国原产物料比例相关说法属于非官方市场传闻，并非监管机构正式发布生效的政策要求。公司光模块业务所用光芯片部分为自研自产，在光模块整体BOM成本中占比不超过 10%，其余绝大多数物料采购可更好适配原产地比例要求，整体合规空间充足，未来也可通过供应链优化进一步满足相关要求，同时公司未来不排除在美国布局产能。有投资者提问：</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，法国财长莱斯库尔：法国国债市场并未失灵。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752837</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752837</guid>
-<pubDate>Thu, 08 Oct 2026 20:02:04 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，法国财长莱斯库尔：法国国债市场并未失灵。</description>
+<title>总投资约10亿欧元 宝马德国电池工厂投产</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752629</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752629</guid>
+<pubDate>Thu, 08 Oct 2026 17:06:50 +0800</pubDate>
+<description>【总投资约10亿欧元 宝马德国电池工厂投产】SHMET10月8日讯，宝马德国当地时间10月1日宣布，其位于巴伐利亚伊尔巴赫-施特拉斯基兴的新电池组装工厂已投产运行，所产第六代高压电池将用于新世代i3。工厂占地面积60公顷，投资总额约10亿欧元（现汇率约合75.62亿元人民币）。该工厂于2024年4月开工，2026年3月进入试产，生产运营可完全不依赖化石燃料且无需用水；所采购的电芯中，部分钴、锂、镍来自回收材料。达到满负荷运转后，约1600名员工将在两条生产线上作业，每日可产出数百块高压电池。（电池中国）</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
@@ -1242,65 +1305,101 @@
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>1.8万亿美元私募信贷市场再迎考验 低利率时期贷款集中到期</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752604</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752604</guid>
-<pubDate>Thu, 08 Oct 2026 16:53:20 +0800</pubDate>
-<description>【1.8万亿美元私募信贷市场再迎考验 低利率时期贷款集中到期】SHMET10月08日讯，周四，在新加坡举行的一场论坛上，多位投资者警告称，随着低利率时期大量举债的企业逐渐迎来贷款到期日，私募信贷借款人可能面临日益严峻的再融资压力。资产管理公司Lord,Abbett&amp;Co.合伙人兼私人投资主管史蒂夫·库彭海默表示，2021年和2022年发放的贷款尤其容易受到再融资风险的冲击，因为这些贷款是在基准利率接近零的环境下完成承销和定价的。他周四在2026年米尔肯亚洲峰会的一场小组讨论中指出，随着这批早期贷款逐渐到期，借款人可能承受更大的财务压力，违约风险也将随之上升。库彭海默表示：“我确实认为，我们目前</description>
+<title>美银重申阿斯麦“买入”评级及首选股地位 目标价升至2915美元</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752411</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752411</guid>
+<pubDate>Thu, 08 Oct 2026 14:15:16 +0800</pubDate>
+<description>【美银重申阿斯麦“买入”评级及首选股地位 目标价升至2915美元】SHMET10月08日讯，美银证券发布研报称，阿斯麦管理层在第二季业绩电话会议透露将采取更高价值定价策略，根据估算，产品平均售价每提升5%约可带动每股盈利增厚8%，而投入成本同步升约2.5%；若产品售价提升5%而成本不变，对盈利的增量贡献可达约10%。该行按偏保守假设，预测阿斯麦产品平均售价于2028年将提升约5%，而成本料升约2.5%，将2028年收入及每股盈利预测分别上调8.7%及13%，至765.7亿欧元及85.2欧元，相关调整主要反映DUV、EUV及IBM产品定价提升约5%、EUV出货量由110台上调至120台，以及干式</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，意大利总理梅洛尼将面临信任投票，花旗称政治风险事件将加剧债市震荡。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752607</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752607</guid>
-<pubDate>Thu, 08 Oct 2026 16:52:54 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，意大利总理梅洛尼将面临信任投票，花旗称政治风险事件将加剧债市震荡。</description>
+<title>节后北交所三个月持有期基金密集发行 机构看好布局窗口</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752413</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752413</guid>
+<pubDate>Thu, 08 Oct 2026 14:14:35 +0800</pubDate>
+<description>【节后北交所三个月持有期基金密集发行 机构看好布局窗口】SHMET10月08日讯，国庆假期后，首批北交所三个月持有期主题基金进入密集发行期。根据发行安排，富国基金旗下北交所三个月持有期基金募集时间为10月8日至10月21日；华夏基金、汇添富基金相关产品发售时间为10月12日至10月23日；南方、嘉实北交所三个月持有期基金则定于10月12日至10月30日发售。上述基金单只募集上限均为5亿元。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>【快讯】SHMET10月08日讯，据港交所文件：渣打银行于10月7日在其他交易所回购总计366,725股，金额为800万</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752608</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752608</guid>
-<pubDate>Thu, 08 Oct 2026 16:52:51 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，据港交所文件：渣打银行于10月7日在其他交易所回购总计366,725股，金额为800万英镑。</description>
+<title>花旗：2030年CPU市场规模料达3000亿美元 将AMD目标价升至800美元</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752408</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752408</guid>
+<pubDate>Thu, 08 Oct 2026 14:13:34 +0800</pubDate>
+<description>【花旗：2030年CPU市场规模料达3000亿美元 将AMD目标价升至800美元】SHMET10月08日讯，花旗发布研报称，市场上多款个人AI代理产品相继登场，包括Muse、Dots、Instinct、GrokBot及GeminiSpark，预期CPU总潜在市场规模(TAM)可由2025年的290亿美元拓展至2030年的3000亿美元，年均复合增长率达60%。花旗认为，与多数处于闲置状态传统聊天式AI不同，AI代理可持续运作，有望带来几何级的算力需求增长，将AMD目标价由575美元上调至800美元，维持“买入”评级，预期其为CPU复兴的主要受惠者，英特尔将是次要受惠者；并重申对英伟达的“买入”</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>机构：第二季度全球晶圆代工2.0市场营收966亿美元 同比增长25%</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752603</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752603</guid>
-<pubDate>Thu, 08 Oct 2026 16:52:47 +0800</pubDate>
-<description>【机构：第二季度全球晶圆代工2.0市场营收966亿美元 同比增长25%】SHMET10月8日讯，根据Counterpoint Research最新发布的晶圆代工供应追踪报告，2026年第二季度全球晶圆代工2.0市场营收同比增长25%、环比增长11%，达到966亿美元。市场增速较上一季度有所提升，主要受AIGPU持续增长的需求以及AI基础设施扩张推动，其中包括定制化ASIC、服务器CPU、网络芯片和电源管理IC等。（新浪财经）</description>
+<title>海南封关运作后首个国庆假期 迎来免税消费热</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752409</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752409</guid>
+<pubDate>Thu, 08 Oct 2026 14:13:13 +0800</pubDate>
+<description>【海南封关运作后首个国庆假期 迎来免税消费热】SHMET10月08日讯，今年国庆是海南自贸港封关运作后的首个国庆假期，海南的离岛免税市场迎来了一波消费热潮。据海口海关统计，10月1日—7日，海南离岛免税购物金额8.55亿元，销售商品近70万件；购物人数达12.3万人次，同比增长10.41%。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>美的集团：截至9月30日累计回购金额达99.4亿元</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752606</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752606</guid>
-<pubDate>Thu, 08 Oct 2026 16:52:36 +0800</pubDate>
-<description>【美的集团：截至9月30日累计回购金额达99.4亿元】SHMET10月08日讯，美的集团(000333.SZ)公告称，截至2026年9月30日，公司通过集中竞价方式累计回购A股股份1.23亿股，占总股本1.61%，成交价区间为73.66元至87.71元/股，支付总金额99.4亿元。本次回购方案已变更用途为注销减资，符合相关法规及既定方案。</description>
+<title>【快讯】SHMET10月08日讯，英国外交部：我们重申东耶路撒冷属于被占领土的立场。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752410</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752410</guid>
+<pubDate>Thu, 08 Oct 2026 14:12:25 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，英国外交部：我们重申东耶路撒冷属于被占领土的立场。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>黄坤明：深圳要举全市之力加速推进人工智能和机器人产业发展</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752605</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752605</guid>
-<pubDate>Thu, 08 Oct 2026 16:52:18 +0800</pubDate>
-<description>【黄坤明：深圳要举全市之力加速推进人工智能和机器人产业发展】SHMET10月08日讯，广东省委书记黄坤明10月8日到深圳市，深入口岸枢纽和平台企业进行调研。黄坤明在调研中指出，四季度是完成年度目标任务、打好全年收官战的关键期、攻坚期。深圳要全力以赴拼经济稳增长，进一步强化经济运行调度，聚焦重点企业、重点产业精准施策，突出做好项目建设和储备，更好激发民间投资活力，着力扩大有效益的投资，持续激发有潜能的消费，不断巩固经济向新向优向好态势。要把培优壮大实体经济牢牢抓在手上，发挥优势做大做强先进制造业，举全市之力加速推进人工智能和机器人产业发展，一体强化技术、要素、场景建设，努力在培育智能经济上走在前</description>
+<title>日本政府拟为农民提供5.4%的销售补贴</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752407</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752407</guid>
+<pubDate>Thu, 08 Oct 2026 14:10:08 +0800</pubDate>
+<description>【日本政府拟为农民提供5.4%的销售补贴】SHMET10月08日讯，据日本共同社报道，多位相关人士透露，日本政府正协调研究一项方案，计划针对因2027年4月起将饮食料品消费税率从8%下调至1%而收入减少的中小微型农户，发放相当于不含税销售额5.4%的补贴。此举旨在根据经营规模弥补收入损失，从而防止农户放弃务农。该政策涵盖全国约80万户农户，林业和渔业从业者也将获得补贴。预计所需资金约为2000亿日元，将列入2027年度的初始预算。这将导致财政负担进一步加重，而在消费税减税导致每年5万亿日元税收缺口的基础上，财政压力将进一步增大。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
 <item>
-<title>美欧国债收益率继续攀升，美债逼近24年高位，法国债务危机担忧加剧</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752601</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752601</guid>
-<pubDate>Thu, 08 Oct 2026 16:51:52 +0800</pubDate>
-<description>【美欧国债收益率继续攀升，美债逼近24年高位，法国债务危机担忧加剧】SHMET10月08日讯，美国国债和欧元区政府债券收益率周四欧洲交易时段早盘上涨，美国借贷成本徘徊在周三触及的数十年高位附近。欧洲方面，法国国债表现继续弱于其他欧元区国家的国债。投资者对法国债务仍持谨慎态度，主要担忧法国政府能否实现2027年将财政赤字降至GDP 5%的目标。资产管理公司MainSky Asset Management董事会主席埃克哈德·舒尔特指出，法国财政状况已经到了关键时刻。舒尔特表示：“按照目前名义经济增长与利息成本的组合情况，法国庞大的债务规模正以每年约8%的速度增长。”他警告称：“如果这一趋势持续下去</description>
+<title>【快讯】SHMET10月08日讯，日本共同社：日本计划为农民提供5.4%的销售补贴。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752406</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752406</guid>
+<pubDate>Thu, 08 Oct 2026 14:06:57 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，日本共同社：日本计划为农民提供5.4%的销售补贴。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，欧洲央行执委奇波洛内：或许有些人最初担心数字欧元的目的是取代现金，但事实并非如此。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752404</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752404</guid>
+<pubDate>Thu, 08 Oct 2026 14:04:36 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，欧洲央行执委奇波洛内：或许有些人最初担心数字欧元的目的是取代现金，但事实并非如此。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>【快讯】SHMET10月08日讯，欧洲央行执委奇波洛内：超过80%的人支持单一货币。人们信任欧元，我们的共同货币。</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752405</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752405</guid>
+<pubDate>Thu, 08 Oct 2026 14:04:07 +0800</pubDate>
+<description>【快讯】SHMET10月08日讯，欧洲央行执委奇波洛内：超过80%的人支持单一货币。人们信任欧元，我们的共同货币。</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>孟加拉国批准31亿美元贷款，用于石油与液化天然气进口融资</title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752400</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752400</guid>
+<pubDate>Thu, 08 Oct 2026 14:04:03 +0800</pubDate>
+<description>【孟加拉国批准31亿美元贷款，用于石油与液化天然气进口融资】SHMET10月08日讯，委员会文件显示，孟加拉国非优惠贷款委员会批准由国际伊斯兰贸易融资公司提供31亿美元融资方案，用于2026至2027财年燃料与液化天然气进口。其中25亿美元专项拨付孟加拉石油公司采购成品油，6亿美元交由孟加拉石油天然气公司采购液化天然气。每笔资金须在六个月后全额偿还。利息按6个月期担保隔夜融资利率（SOFR）加1.70个百分点计算，另收取每年0.20%的管理费。注：截至10月1日，6个月期SOFR约为3.68%。国际伊斯兰贸易融资公司自行出资6亿美元。剩余25亿美元由孟加拉国央行联合融资安排。双方于6月29日开</description>
+<category>矿产</category>
+<source>上海金属网·快讯C（旧）</source>
+</item>
+<item>
+<title>法国将释放1000万桶柴油战略储备应对高油价 </title>
+<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752399</link>
+<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752399</guid>
+<pubDate>Thu, 08 Oct 2026 14:04:03 +0800</pubDate>
+<description>【法国将释放1000万桶柴油战略储备应对高油价 】SHMET10月08日讯，法国总理塞巴斯蒂安·勒科尔尼7日在总理府发表电视讲话时宣布，法国政府将在未来三个月内从战略储备中释放1000万桶柴油至国内市场，预计可使加油站柴油零售价每升下降12至18欧分。勒科尔尼说，这批柴油在国际油价大幅上涨前购入，将按成本价向法国燃油经销商供应，从而推动终端零售价格下降。勒科尔尼还说，今年冬季法国电价“不应上涨”，法国电力公司将最大限度调动发电能力，维持电力价格稳定。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
@@ -1472,105 +1571,6 @@
 <guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752384</guid>
 <pubDate>Thu, 08 Oct 2026 13:56:02 +0800</pubDate>
 <description>【油气概念震荡走强 山东墨龙逼近涨停】SHMET10月08日讯，油气概念震荡走强，山东墨龙逼近涨停，首华燃气、中曼石油、通源石油跟涨。消息面上，布伦特原油突破101美元/桶，日内涨0.86%；上期所燃油主力合约大涨16%。周二欧洲天然气价格上涨，涨幅最高达5.5%，至每兆瓦时77.55欧元。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，纽约期银日内跌超1.00%，现报59.69美元/盎司。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752382</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752382</guid>
-<pubDate>Thu, 08 Oct 2026 13:52:01 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，纽约期银日内跌超1.00%，现报59.69美元/盎司。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>韦丹塔旗下Sijimali铝土矿获运营许可</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752379</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752379</guid>
-<pubDate>Thu, 08 Oct 2026 13:51:58 +0800</pubDate>
-<description>【韦丹塔旗下Sijimali铝土矿获运营许可】外电10月7日消息，Vedanta Aluminium Metal Limited（韦丹塔铝金属公司）表示，公司已获得Sijimali铝土矿区块的运营许可（Consent to Operate）。该批准支持公司持续进行的产能扩张和原材料计划。BALCO二季度电力销售达491百万单位，同比增长58%（上年同期310百万单位），但环比下降6%（一季度520百万单位）。整体而言，二季度业绩标志着季度和半年度铝及氧化铝产量均创纪录，新产能爬产和现有运营改善支撑了更高产出。公司表示，Sijimali铝土矿许可将增强原材料安全，支持铝产量继续增长。此次产量增长</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>韦丹塔铝业2027财年第二季度氧化铝产量达创纪录89.5万吨</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752378</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752378</guid>
-<pubDate>Thu, 08 Oct 2026 13:51:58 +0800</pubDate>
-<description>【韦丹塔铝业2027财年第二季度氧化铝产量达创纪录89.5万吨】外电10月7日消息，Vedanta Aluminium Metal Limited（韦丹塔铝金属公司）表示，2027财年二季度（截止9月30日底的三个月）氧化铝产量达创纪录89.5万吨，同比增长37%（上年同期65.3万吨），环比增长8%（一季度82.6万吨）。2027财年上半年氧化铝产量1,72.1万吨，同比增长39%（上年同期1,24万吨），反映公司扩建回路爬产和稳定。增值产品产量亦创季度纪录43.2万吨，同比增长31%（上年同期32.9万吨），环比增长11%（一季度38.9万吨）。2027财年上半年增值产品产量增长22%至8</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>韦丹塔铝业2027财年第二季度铝产量创新高64.9万吨</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752377</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752377</guid>
-<pubDate>Thu, 08 Oct 2026 13:51:58 +0800</pubDate>
-<description>【韦丹塔铝业2027财年第二季度铝产量创新高64.9万吨】外电10月7日消息，印度最大铝生产商Vedanta Aluminium Metal Limited（韦丹塔铝金属公司）公布2027财年二季度（截止9月30日底的三个月）创纪录产量，铝产量达64.9万吨，同比增长5%（上年同期61.7万吨），环比增长3%（一季度63.2,万吨）。2027财年上半年铝产量达创纪录1,28.1万吨，同比增长5%（上年同期1,22.2万吨）。公司表示，产量增长得益于新冶炼产能及现有生产线效率提升。BALCO铝产量同比增长19%至17.8万吨，因公司称之为中国以外全球首座的525 kA电解槽第二区域投产，使运营产</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，德国8月季调后贸易帐将于十分钟后公布。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752381</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752381</guid>
-<pubDate>Thu, 08 Oct 2026 13:50:33 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，德国8月季调后贸易帐将于十分钟后公布。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，上证综指午后跌幅扩大至1%。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752380</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752380</guid>
-<pubDate>Thu, 08 Oct 2026 13:50:24 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，上证综指午后跌幅扩大至1%。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，新加坡海峡时报指数继续下跌，最新下跌3.4%，报5417.84。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752375</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752375</guid>
-<pubDate>Thu, 08 Oct 2026 13:45:10 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，新加坡海峡时报指数继续下跌，最新下跌3.4%，报5417.84。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，截至目前，南向资金净买入额达60亿港元。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752376</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752376</guid>
-<pubDate>Thu, 08 Oct 2026 13:44:24 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，截至目前，南向资金净买入额达60亿港元。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>今日重点关注的财经数据与事件：2026年10月8日 周四</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752373</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752373</guid>
-<pubDate>Thu, 08 Oct 2026 13:41:48 +0800</pubDate>
-<description>【今日重点关注的财经数据与事件：2026年10月8日 周四】SHMET10月08日讯，① 14:00 德国8月季调后贸易帐② 19:30 欧洲央行公布9月货币政策会议纪要③ 20:15 英国央行行长贝利发表讲话④ 20:30 美国至10月3日当周初请失业金人数⑤ 22:00 美国8月批发销售月率⑥ 22:30 美国至10月2日当周EIA天然气库存⑦ 次日01:40 美联储穆萨莱姆发表讲话</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，恒生科技指数下跌2%至4,109.87点。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752374</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752374</guid>
-<pubDate>Thu, 08 Oct 2026 13:40:47 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，恒生科技指数下跌2%至4,109.87点。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月08日讯，台交所加权股价指数收低1%报49,313.44点。</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752371</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=752371</guid>
-<pubDate>Thu, 08 Oct 2026 13:35:33 +0800</pubDate>
-<description>【快讯】SHMET10月08日讯，台交所加权股价指数收低1%报49,313.44点。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
