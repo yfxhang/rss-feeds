@@ -4,10 +4,18 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 11:36:47 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 12:03:03 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>雷诺携多款新车及三款概念车亮相2026巴黎车展</title>
+<link>https://m.gasgoo.com/news/70474427.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474427.html</guid>
+<pubDate>Sat, 10 Oct 2026 11:41:40 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>斩获欧洲设计大奖，浩思动力X-Range C15打开增程市场新空间</title>
 <link>https://m.gasgoo.com/news/70474425.html</link>
@@ -117,14 +125,6 @@
 <link>https://m.gasgoo.com/news/70474402.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474402.html</guid>
 <pubDate>Sat, 10 Oct 2026 08:19:19 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>本田公布下一代混合动力系统细节，新系统命名为“Honda Hybrid”</title>
-<link>https://m.gasgoo.com/news/70474403.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474403.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:16:30 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
