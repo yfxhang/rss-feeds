@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 12:03:03 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 12:36:32 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>中欧达成混动贸易谅解：中国混动车对欧出口四年内或减半</title>
+<link>https://m.gasgoo.com/news/70474428.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474428.html</guid>
+<pubDate>Sat, 10 Oct 2026 12:27:44 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>【国际快讯】中欧就混动汽车出口达成协议；加拿大工会Unifor呼吁对中国EV加征100%附加税；吉利汽车正式进入加拿大市场</title>
+<link>https://m.gasgoo.com/news/70474429.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474429.html</guid>
+<pubDate>Sat, 10 Oct 2026 12:08:32 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>雷诺携多款新车及三款概念车亮相2026巴黎车展</title>
 <link>https://m.gasgoo.com/news/70474427.html</link>
@@ -109,22 +125,6 @@
 <link>https://m.gasgoo.com/news/70474389.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474389.html</guid>
 <pubDate>Sat, 10 Oct 2026 08:22:33 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>雪佛兰上调2027款科尔维特全系车型售价</title>
-<link>https://m.gasgoo.com/news/70474397.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474397.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:21:06 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>大众汽车发布新款ID Tiguan 计划于2027年初在欧洲上市</title>
-<link>https://m.gasgoo.com/news/70474402.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474402.html</guid>
-<pubDate>Sat, 10 Oct 2026 08:19:19 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
