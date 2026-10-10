@@ -4,7 +4,7 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/index.html</link>
 <description>国家标准化管理委员会「标准化要闻」；页面本身是 jpaas 动态组件（无静态条目），本源直接调它的 build/unit 接口取列表片段</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 00:17:12 +0800</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 07:56:46 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/sac_bzhyw.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
