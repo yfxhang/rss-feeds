@@ -4,7 +4,7 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Mon, 12 Oct 2026 07:53:00 +0800</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 07:56:37 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -13,7 +13,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/workshop/20260408_hycool/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20260408_hycool/</guid>
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-<description>Data centres and server rooms are increasingly important in our digitised world. But such areas require an advanced upkeep and use a great amount of energy. Support for our IT infrastructures in an efficient and intelligent manner – digital and physical – is a necessity. For the past three years, the Hybrid COOLing &amp; management for IT project has been focussing its energies on the smart management of electricity consumption of server rooms in tertiary buildings. Its key goal is to develop a set of processes that can be replicated through standardization. In this context, the BDTA Building Digital Twin Association, consortium partner of the HYCOOl-IT project, has proposed a new CEN workshop. The workshop will centre around the concept of SIMBOT – an open source, semantic expression of mathe</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -67,6 +66,7 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-etuc/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-etuc/</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<description>Motorcycle protective clothing certified to the highest protection standard under the EN 17092 series is primarily designed with recreational riders in mind. However, whether this standard adequately addresses the elevated occupational hazards faced by professional riders, such as police officers, is a growing concern. Unlike leisure riders, motorcycle police officers operate routinely in high-risk environments, responding to emergencies, conducting escorts, and patrolling in all weather conditions. Under the Personal Protective Equipment (PPE) Regulation, equipment must be suitable for the specific operational risks of the user. Applying a recreational standard to professional workers falls short of this 'fit for purpose' mandate. These concerns are particularly critical because the previ</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -75,6 +75,7 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-anec/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-anec/</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+<description>ANEC welcomed the adoption of a new European Standard for learning towers, also known as ‘kitchen helpers’. EN 18122 ‘High chairs and learning towers – Learning towers – Requirements and test methods’ was developed by CEN/TC 364 ‘High chairs and learning towers’, following a proposal from ANEC. ANEC raised the issue in 2021, as their analysis suggested that the products themselves not only presented fall and entrapment (and possibly other) hazards, but could also give rise to hazards by providing access to dangers such as thermal injuries, lacerations and poisonings when used close to kitchen work surfaces and in bathrooms. As the products were not covered by standards, ANEC asked CEN to consider the safety of these products to urgently reduce the risk of injury to children. ANEC was activ</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
