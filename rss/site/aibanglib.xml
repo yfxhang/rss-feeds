@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 09:03:48 +0800</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 09:51:22 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>清研电子干法电极：固态电池2030量产绕不开的制造工艺</title>
+<link>https://www.aibanglib.com/a/32652</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32652</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+<description>近期，工业和信息化部等七部门联合印发《新型电池产业发展“十五…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>超级电容电极材料厂商动量材料完成新一轮融资</title>
 <link>https://www.aibanglib.com/a/32645</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32580</guid>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
 <description>今天给大家分享一下超级电容适配 MW 级算力供电核心痛点，内…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>先导基电拟合资设立控股子公司元朔基电，开展超级电容、中高压开关柜、变压器等装备端业务</title>
-<link>https://www.aibanglib.com/a/32577</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32577</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
-<description>元朔基电计划承接集团在材料端的验证经验与产业积累，向新材料部…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
