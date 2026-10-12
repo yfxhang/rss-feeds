@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 08:26:50 +0800</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 08:47:45 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>因时机器人发布OmniPicker 3</title>
+<link>https://m.gasgoo.com/news/70474518.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474518.html</guid>
+<pubDate>Mon, 12 Oct 2026 08:31:06 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>车圈的“造人”生意：第二曲线，还是纸面富贵？</title>
+<link>https://m.gasgoo.com/news/70474451.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474451.html</guid>
+<pubDate>Mon, 12 Oct 2026 08:21:10 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>39亿亏损下，改款理想i6能否力挽狂澜？</title>
 <link>https://m.gasgoo.com/news/70474517.html</link>
@@ -113,39 +129,23 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>盖世周报 | 立讯精密100%控股京西智行；佛瑞亚海拉斩获两大订单</title>
-<link>https://m.gasgoo.com/news/70474433.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474433.html</guid>
-<pubDate>Sun, 11 Oct 2026 07:00:00 +0800</pubDate>
+<title>车圈“造人”：第二曲线，还是纸面富贵？</title>
+<link>https://m.gasgoo.com/news/70474451.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474451.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>江阳磁材深度解析：钐铁氮永磁的性能优势及车用产业化瓶颈</title>
-<link>https://m.gasgoo.com/news/70474472.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474472.html</guid>
-<pubDate>Sat, 10 Oct 2026 19:30:23 +0800</pubDate>
+<title>E周|吉利进加拿大；中国削减对欧混动车出口</title>
+<link>https://m.gasgoo.com/news/70474473.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474473.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>中欧达成贸易谅解：对欧出口混动车或减半</title>
-<link>https://m.gasgoo.com/news/70474428.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474428.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>涨价函又又又来了，汽车业站上成本“高墙”</title>
-<link>https://m.gasgoo.com/news/70474358.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474358.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>国际|加拿大工会呼吁对华EV加征100%关税</title>
-<link>https://m.gasgoo.com/news/70474429.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474429.html</guid>
+<title>小智|比亚迪人形机器人外观专利公布</title>
+<link>https://m.gasgoo.com/news/70474426.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474426.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

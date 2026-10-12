@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>陕西通信管理局开展“网络安全为人民 网络安全靠人民”宣传志愿服务活动</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_17b7d149b32a491892b7bfe6ce7facda.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_17b7d149b32a491892b7bfe6ce7facda.html</guid>
+<description>近日，为深入学习贯彻党的二十大和二十届历次全会精神，全面落实习近平总书记关于网络强国的重要思想，深化落实《陕西省通信管理局关于开展陕西省信息通信行业第十三届国家网络安全宣传周活动的通知》要求，践行社会主义核心价值观，陕西省通信管理局组织基础电信企业的省市公司在渭南市中心广场，开展了以“网络安全为人民 网络安全靠人民”为主题的志愿服务活动，旨在深入宣传普及网络安全知识，提升广大群众的网络安全意...</description>
+<pubDate>Mon, 12 Oct 2026 08:40:16 +0800</pubDate>
+</item>
+<item>
 <title>河南通信管理局开展新一代通信网规划建设专题调研</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_a39ab8f7fc7d473e8fbd25c33fcd155e.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_a39ab8f7fc7d473e8fbd25c33fcd155e.html</guid>
@@ -417,11 +424,4 @@
 <description>近日，江西省通信管理局正式发布《江西省“十五五”信息通信行业发展规划》（以下简称《规划》）。《规划》坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届历次全会精神，深入贯彻习近平总书记考察江西重要讲话精神，聚焦“走在前、勇争先、善作为”的目标要求，以巩固提升信息通信行业竞争优势和领先地位为主线，全面推进江西省信息通信行业现代化，助力谱写中国式现代化江西篇章。</description>
 <pubDate>Sun, 20 Sep 2026 15:18:05 +0800</pubDate>
 </item>
-<item>
-<title>2026年空间无线电管理业务培训班在雄安举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8d18c64f89fd4a07b26f19b5e6155fc3.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_8d18c64f89fd4a07b26f19b5e6155fc3.html</guid>
-<description>2026年9月15-16日，为进一步提升卫星操作单位熟练掌握国内空间无线电管理相关政策法规和国际无线电规则的能力，助力我国商业航天高质量发展，工业和信息化部无线电管理局在河北雄安新区举办空间无线电管理业务培训班，来自70余家卫星操作单位的代表参加培训。</description>
-<pubDate>Sun, 20 Sep 2026 09:02:59 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19854 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19855 条）
