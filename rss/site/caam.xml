@@ -4,7 +4,7 @@
 <link>http://www.caam.org.cn/</link>
 <description>中国汽车工业协会（中汽协）首页要闻；该站对任意栏目路径都返回首页，故取首页新闻列表；日期只在 &lt;span class=&quot;time&quot;&gt;[09.04]&lt;/span&gt; 里给月日，用 dt_md 补年份；逐篇抓正文。**坑**：首页长期挂着多年前旧文且列表页只写「当月日」（2023-10-10 的稿子仍写 [10.10]），补当年会伪造出今天的日期，已启用 date_from_body 以正文真实年份矫正</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 09:58:45 +0800</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 06:41:28 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/caam.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -148,6 +148,14 @@
 <source>中汽协·首页要闻</source>
 </item>
 <item>
+<title>2026年三季度汽车行业重点企业经济运行交流会议在济南召开</title>
+<link>http://www.caam.org.cn/chn/3/cate_24/con_5237322.html</link>
+<guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_24/con_5237322.html</guid>
+<pubDate>Wed, 23 Sep 2026 08:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>中汽协·首页要闻</source>
+</item>
+<item>
 <title>关于2026中国汽车芯片创新成果推荐名单的公示</title>
 <link>http://www.caam.org.cn/chn/5/cate_69/con_5237321.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/5/cate_69/con_5237321.html</guid>
@@ -200,14 +208,6 @@
 <link>http://www.caam.org.cn/chn/3/cate_28/con_5236508.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_28/con_5236508.html</guid>
 <pubDate>Thu, 10 Sep 2026 08:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>中汽协·首页要闻</source>
-</item>
-<item>
-<title>共建生态，智领未来！2027上海车展明春4月在沪盛大启幕</title>
-<link>http://www.caam.org.cn/chn/3/cate_24/con_5237308.html</link>
-<guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_24/con_5237308.html</guid>
-<pubDate>Tue, 08 Sep 2026 08:00:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>

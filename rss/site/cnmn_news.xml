@@ -4,10 +4,66 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 09:58:27 +0800</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 06:41:13 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>中国有色金属工业协会硅业分会年度工作会在包头召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474534</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474534</guid>
+<pubDate>Mon, 12 Oct 2026 16:33:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026年中国硅业大会暨光储协同高质量发展研讨会在包头举行</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474533</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474533</guid>
+<pubDate>Mon, 12 Oct 2026 16:25:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中央社会工作部办公厅印发《全国性行业协会商会负责人人选审核工作程序》</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474514</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474514</guid>
+<pubDate>Mon, 12 Oct 2026 15:08:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中钨高新两部作品获评2026年中央企业基层理论宣讲微视频优秀奖</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474487</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474487</guid>
+<pubDate>Mon, 12 Oct 2026 10:48:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中国恩菲EPC总承包的延东铜矿选矿工程完成投料试车</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</guid>
+<pubDate>Mon, 12 Oct 2026 10:47:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中国恩菲EPC总承包的延东铜矿选矿工程完成投料试车</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474486</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474486</guid>
+<pubDate>Mon, 12 Oct 2026 10:47:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>奋进七十载 启航新征程 中条山集团高质量发展大会召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474483</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474483</guid>
+<pubDate>Mon, 12 Oct 2026 10:41:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>这一片格桑花海 西矿稀贵金属公司以实干书写砥砺奋进新答卷</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474433</link>
@@ -109,62 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474338</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474338</guid>
 <pubDate>Tue, 29 Sep 2026 10:15:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>41金11银4铜 中国创参加世界技能大赛最好成绩</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474323</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474323</guid>
-<pubDate>Mon, 28 Sep 2026 10:47:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>第48届世界技能大赛在上海圆满闭幕</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474321</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474321</guid>
-<pubDate>Mon, 28 Sep 2026 10:46:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>深化主流媒体系统性变革 共探融合发展新路径——中国行业报协会重庆调研交流座谈会在渝举办</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474316</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474316</guid>
-<pubDate>Sun, 27 Sep 2026 09:46:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>工业和信息化部：一体化推进优质中小企业“选种、育苗、培优”</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474265</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474265</guid>
-<pubDate>Thu, 24 Sep 2026 09:21:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中铝集团举办在京单位首届职工运动会</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474264</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474264</guid>
-<pubDate>Thu, 24 Sep 2026 09:20:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>“说到做到”——听嘉能可科技高管讲述他们产品的故事</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474263</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474263</guid>
-<pubDate>Thu, 24 Sep 2026 09:17:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>一场属于行业媒体新闻摄影的文化盛事 “逐梦‘十五五’ 载誉‘十四五’”经济建设成就新闻图片展在重庆启幕</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474262</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474262</guid>
-<pubDate>Thu, 24 Sep 2026 09:16:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
