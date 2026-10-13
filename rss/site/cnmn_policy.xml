@@ -4,10 +4,18 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=13</link>
 <description>中国有色网政策法规（id=13），XPath 自建源</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 07:55:14 +0800</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 11:12:41 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_policy.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>中共中央、国务院印发《关于发展新质生产力的意见》</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474537</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474537</guid>
+<pubDate>Tue, 13 Oct 2026 10:20:00 +0800</pubDate>
+<category>政策法规</category>
+<source>中国有色网·政策法规</source>
+</item>
 <item>
 <title>工信部等七部门联合印发《新型电池产业发展“十五五”规划》</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474484</link>
@@ -157,14 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=470046</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=470046</guid>
 <pubDate>Tue, 14 Apr 2026 10:04:00 +0800</pubDate>
-<category>政策法规</category>
-<source>中国有色网·政策法规</source>
-</item>
-<item>
-<title>国务院印发《中国（内蒙古）自由贸易试验区总体方案》</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=469993</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=469993</guid>
-<pubDate>Mon, 13 Apr 2026 10:45:00 +0800</pubDate>
 <category>政策法规</category>
 <source>中国有色网·政策法规</source>
 </item>

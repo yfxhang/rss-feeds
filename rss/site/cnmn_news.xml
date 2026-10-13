@@ -4,10 +4,34 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 07:55:14 +0800</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 11:12:41 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026上海衍生品市场论坛即将开幕</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474539</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474539</guid>
+<pubDate>Tue, 13 Oct 2026 10:22:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>雪域高原 聚力增储上产—— 中色股份央地协同打造青海战略资源基地</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474538</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474538</guid>
+<pubDate>Tue, 13 Oct 2026 10:21:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>豫光集团：“六好”经营聚合力 “六效”驱动开新局</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474536</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474536</guid>
+<pubDate>Tue, 13 Oct 2026 10:19:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>中国有色金属工业协会硅业分会年度工作会在包头召开</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474534</link>
@@ -141,30 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474343</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474343</guid>
 <pubDate>Tue, 29 Sep 2026 10:32:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中国五矿合唱大赛（北部赛区）举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474340</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474340</guid>
-<pubDate>Tue, 29 Sep 2026 10:24:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>深化产业工人队伍建设 培养更多大国工匠和高技能人才 中国有色集团第八届职工技能竞赛决赛圆满落幕</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474339</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474339</guid>
-<pubDate>Tue, 29 Sep 2026 10:23:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>首届氧化铝智能制造技术与产业升级大会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474338</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474338</guid>
-<pubDate>Tue, 29 Sep 2026 10:15:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

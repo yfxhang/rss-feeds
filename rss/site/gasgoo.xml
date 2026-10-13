@@ -4,10 +4,122 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 07:55:13 +0800</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 11:12:38 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>宝维塔工博会两大发布，柔性制造与车载电子测试同步提速</title>
+<link>https://m.gasgoo.com/news/70474636.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474636.html</guid>
+<pubDate>Tue, 13 Oct 2026 10:50:20 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>轻舟智航城市NOA亮相巴黎车展，已完成巴黎城区多场景路测</title>
+<link>https://m.gasgoo.com/news/70474635.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474635.html</guid>
+<pubDate>Tue, 13 Oct 2026 10:27:56 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>尊界发布最新检测说明：最高3000N加载试验未见裂纹和损坏</title>
+<link>https://m.gasgoo.com/news/70474634.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474634.html</guid>
+<pubDate>Tue, 13 Oct 2026 10:20:33 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>东风风行TK系列巴黎车展首发，欧洲工厂计划明年一季度量产</title>
+<link>https://m.gasgoo.com/news/70474633.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474633.html</guid>
+<pubDate>Tue, 13 Oct 2026 08:57:19 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>广汽加码欧洲本地化布局，AION UT Cross巴黎车展首秀</title>
+<link>https://m.gasgoo.com/news/70474627.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474627.html</guid>
+<pubDate>Tue, 13 Oct 2026 08:52:13 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>灵巧智能与施耐德电气达成战略合作，推动具身智能工业落地</title>
+<link>https://m.gasgoo.com/news/70474626.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474626.html</guid>
+<pubDate>Tue, 13 Oct 2026 08:46:26 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>吉利汽车集团首秀巴黎车展，三大品牌欧盟月销量首破万辆</title>
+<link>https://m.gasgoo.com/news/70474624.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474624.html</guid>
+<pubDate>Tue, 13 Oct 2026 08:24:04 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>全球独立第三方多合一电驱冠军再出发，格雷博双新赛道加速兑现</title>
+<link>https://m.gasgoo.com/news/70474435.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474435.html</guid>
+<pubDate>Tue, 13 Oct 2026 08:07:35 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>新势力音响命名大起底：名字升级，还是体验升级？</title>
+<link>https://m.gasgoo.com/news/70474592.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474592.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:55:37 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>汽车监管再加严，车企高管扎堆发声！谁在实干，谁在趁乱作秀？</title>
+<link>https://m.gasgoo.com/news/70474591.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474591.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:55:31 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>9月二手车保值率：BBA三年全跌破50%，新能源前2年反超燃油！</title>
+<link>https://m.gasgoo.com/news/70474590.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474590.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:45:36 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>全新smart精灵2号巴黎车展全球首秀 鎏金高定版限量发售</title>
+<link>https://m.gasgoo.com/news/70474567.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474567.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:39:32 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>“不参加巴黎车展，就卖不出去”</title>
+<link>https://m.gasgoo.com/news/70474593.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474593.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:37:52 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>巴黎车展进退录：22家中国品牌大举进发，老玩家却纷纷离场</title>
+<link>https://m.gasgoo.com/news/70474589.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474589.html</guid>
+<pubDate>Tue, 13 Oct 2026 07:32:43 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>华为乾崑国庆出行报告：一场关于“信任”的降维打击</title>
 <link>https://m.gasgoo.com/news/70474551.html</link>
@@ -17,118 +129,6 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>理想汽车亮相2026年巴黎国际汽车展览会 理想i6欧洲首秀 2027年第一季度正式登陆欧洲市场</title>
-<link>https://m.gasgoo.com/news/70474594.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474594.html</guid>
-<pubDate>Mon, 12 Oct 2026 22:24:45 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>​阿维塔三款车型亮相巴黎车展，2027年正式进军欧洲市场</title>
-<link>https://m.gasgoo.com/news/70474588.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474588.html</guid>
-<pubDate>Mon, 12 Oct 2026 21:15:49 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>法雷奥亮相2026巴黎车展，集中展示智能驾驶与800V电动化技术</title>
-<link>https://m.gasgoo.com/news/70474587.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474587.html</guid>
-<pubDate>Mon, 12 Oct 2026 21:07:29 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>零跑汽车携全新产品阵容亮相2026巴黎车展，持续深化欧洲市场布局</title>
-<link>https://m.gasgoo.com/news/70474586.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474586.html</guid>
-<pubDate>Mon, 12 Oct 2026 20:50:33 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>理想超充7天充电136万次，非理想品牌用户占比近六成</title>
-<link>https://m.gasgoo.com/news/70474585.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474585.html</guid>
-<pubDate>Mon, 12 Oct 2026 20:21:05 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>电车“大床房”，真需求还是发布会表演？</title>
-<link>https://m.gasgoo.com/news/70474584.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474584.html</guid>
-<pubDate>Mon, 12 Oct 2026 19:58:49 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>问界亮相巴黎车展 官宣2027年秋季进入欧洲市场</title>
-<link>https://m.gasgoo.com/news/70474569.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474569.html</guid>
-<pubDate>Mon, 12 Oct 2026 18:17:48 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>车市“金九”哑火，油电加速换位</title>
-<link>https://m.gasgoo.com/news/70474568.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474568.html</guid>
-<pubDate>Mon, 12 Oct 2026 18:13:50 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>充电量暴涨51%，&quot;充电难&quot;的吐槽声反而小了？</title>
-<link>https://m.gasgoo.com/news/70474566.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474566.html</guid>
-<pubDate>Mon, 12 Oct 2026 18:03:44 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>Seeds | “复旦MOSS之父”邱锡鹏创办，模思智能完成超 10 亿元 Pre-A 轮</title>
-<link>https://m.gasgoo.com/news/70474565.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474565.html</guid>
-<pubDate>Mon, 12 Oct 2026 17:40:10 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>东京警署拟设立自动驾驶专项部门，负责许可审批与事故处置</title>
-<link>https://m.gasgoo.com/news/70474564.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474564.html</guid>
-<pubDate>Mon, 12 Oct 2026 17:27:24 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>2026年8月轿车/SUV车型销量榜：银河星愿领跑轿车市场，比亚迪元登顶SUV榜单丨盖世汽车研究院</title>
-<link>https://m.gasgoo.com/news/70474562.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474562.html</guid>
-<pubDate>Mon, 12 Oct 2026 17:08:17 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>联合研究团队研发MOF材料 可以通过改变其金属“配方”调节材料特性</title>
-<link>https://m.gasgoo.com/news/70474560.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474560.html</guid>
-<pubDate>Mon, 12 Oct 2026 16:56:10 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>欧盟项目推出用于可持续交通的轻量化生物复合材料</title>
-<link>https://m.gasgoo.com/news/70474559.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474559.html</guid>
-<pubDate>Mon, 12 Oct 2026 16:54:30 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
 <title>车市“金九”哑火，油电加速换位</title>
 <link>https://m.gasgoo.com/news/70474568.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474568.html</guid>
@@ -143,9 +143,9 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>&quot;充电难&quot;的吐槽声小了？</title>
-<link>https://m.gasgoo.com/news/70474566.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474566.html</guid>
+<title>尊界发布最新检测说明：未见裂纹和损坏</title>
+<link>https://m.gasgoo.com/news/70474634.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474634.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
