@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 11:13:12 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:56:33 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>一文了解超级电容器的基础知识</title>
+<link>https://www.aibanglib.com/a/32674</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32674</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+<description>今天带大家了解一下超级电容器的基础知识，文章来源于Nippo…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>一颗“海绵”决定超级电容性能上限：多孔炭材料深度解析</title>
 <link>https://www.aibanglib.com/a/32667</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32598</guid>
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
 <description>近日，由富华德～神州天玑研发的神州狮两轮电动车在广西东兴正式…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>东阳光：超级电容全产业链自给自足</title>
-<link>https://www.aibanglib.com/a/32591</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32591</guid>
-<pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
-<description>东阳光已建立覆盖“电子元器件及材料—氟氯化工—液冷解决方案—…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

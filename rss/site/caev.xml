@@ -4,7 +4,7 @@
 <link>http://www.caev.org.cn/newslist/alliance.html</link>
 <description>动力电池联盟（caev.org.cn）联盟动态，XPath 自建源</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 11:12:50 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:56:11 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/caev.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -63,15 +63,6 @@
 <source>中国汽车动力电池产业创新联盟·动态</source>
 </item>
 <item>
-<title>车载光通信工作组成立大会暨关键技术研讨会成功召开</title>
-<link>http://www.caev.org.cn/newslist/a7369.html</link>
-<guid isPermaLink="true">http://www.caev.org.cn/newslist/a7369.html</guid>
-<pubDate>Sun, 14 Jun 2026 00:00:00 +0800</pubDate>
-<description>会议现场 为加快推动车载光通信技术在智能网联新能源汽车上的应用与产业生态建设，“车载光通信工作组成立大会暨关键技术研讨会”于2026年6月14日下午在深圳成功召开。本次会议由电动汽车联盟主办，北京理工大学深圳汽车研究院承办，长飞光纤光缆股份有限公司、连讯通信（天津）有限公司、中国国际光电博览会、深圳市坪安智慧园区运营服务有限公司协办。中国工程院院士、北京理工大学深圳汽车研究院院长孙逢春，中国工程院院士、比亚迪股份有限公司首席科学家廉玉波，中国汽车工程学会副秘书长、电动汽车联盟秘书长赵立金，电动汽车联盟技术专家委员会主任、中国汽车工程研究院股份有限公司原董事长李开国，中国信息通信科技集团有限公司党委委员、副总经理、总工程师陈山枝，俄罗斯工程院外籍院士、交通运输部公路科学研究院汽车运输研究中心主任周炜等院士专家出席会议，共有来自整车，光通信零部件企业和科技公司，以及高校与科研院所的150余名嘉宾参加会议。会议由电动汽车联盟副秘书长刘国芳和北京理工大学深圳汽车研究院执行院长王文伟主持。 孙逢春院士 中国工程院院士、北京理工大学深圳汽车研究院院长 孙逢春院士在致辞中指出，“电力、算力、速率”构建了汽车核心技术格局。面对车载数据激增，传统铜缆通信已然难堪重任。从“铜缆传输”迈向“光纤互联”，这场技术迭代已是大势所趋。工作组的成立将推动标准统合、技术创新与产业布局，打通产业链壁垒，攻克关键卡脖子技术，助力自动驾驶与智能座舱发展。研究院作为主任单位，将全力支撑工作组工作，推动成果转化，共创汽车产业高质量发展新篇章。 赵立金 中国汽车工程学会副秘书长、电动汽车联盟秘书长 赵立金副秘书长在致辞中指出，当前我国新能源汽车正加速迈向智能化、网联化下半场，传统铜缆通信已逼近物理极限，车载光通信凭借带宽大、抗干扰、轻量化等优势成为关键使能技术。我国光通信产业链领先，具备换道超车的战略机遇。工作组将聚</description>
-<category>电芯制造</category>
-<source>中国汽车动力电池产业创新联盟·动态</source>
-</item>
-<item>
 <title>《基于RISC-V架构的汽车控制芯片技术规范》团体标准正式立项</title>
 <link>http://www.caev.org.cn/newslist/a7367.html</link>
 <guid isPermaLink="true">http://www.caev.org.cn/newslist/a7367.html</guid>
@@ -85,6 +76,7 @@
 <link>http://www.caev.org.cn/newslist/a7363.html</link>
 <guid isPermaLink="true">http://www.caev.org.cn/newslist/a7363.html</guid>
 <pubDate>Wed, 27 May 2026 00:00:00 +0800</pubDate>
+<description>各相关单位： 当前，汽车与具身智能融合加速落地，全球车企密集布局相关产品并推进技术攻关，感知决策、灵巧操作等核心能力持续突破，依托汽车产业供应链协同优势，逐步向多场景延伸。但行业面临技术路线不统一、数据接口异构等痛点，制约规模化发展。为凝聚行业共识、破解发展瓶颈、完善标准体系，现面向行业广泛征集具身智能机器人团体标准需求，诚邀产业链各单位积极参与，共同构建适配汽车产业的具身智能机器人标准体系，支撑产业高质量发展。 一、征集原则 1、贴合产业，完善体系 健全完善构建覆盖全产业链的具身智能标准体系，聚焦汽车与具身智能融合发展痛点，紧扣汽车产业技术创新和市场需求，填补现有标准空白。 2、科学可行，适度超前 基于行业实践经验和科技创新成果，确保征集的标准需求具备技术先进性、经济合理性和可操作性，研制适度超前的团体标准，重点是行业共性、急迫的标准，引领产业技术发展。 二、征集范围 1、基础通用类 术语、定义、分类、分级（含汽车具身智能机器人分级体系）； 统一接口（机械/电气/通信/数据/控制）、协议、编码； 通用性能指标体系、测试环境与基准数据集规范。 2、核心零部件与关键技术类 感知：视觉、力控、触觉、多模态融合、环境感知与定位； 驱动与执行：柔性关节、力矩电机、减速器、灵巧手、移动底盘； 智能大脑：具身操作系统、端云协同架构、大模型接入规范、AI Agent接口； 安全：功能安全、预期功能安全、碰撞/人机协作安全、信息安全与数据合规。 3、汽车及关键零部件制造场景类 焊接、喷涂、总装、搬运、质检、工装换装机器人技术要求； 多机器人协同、数字孪生、产线集成规范； 生产数据采集、分析及设备预测性维护规范。 4、汽车座舱与出行服务场景类（车内/车外服务） 座舱服务机器人（交互、陪护、助理、安防）技术与测评； 车载具身交互（语音/视觉/触控/手势/情感）多模态标准； 自动驾驶+具身机器人</description>
 <category>电芯制造</category>
 <source>中国汽车动力电池产业创新联盟·动态</source>
 </item>
@@ -133,6 +125,14 @@
 <link>http://www.caev.org.cn/newslist/a7341.html</link>
 <guid isPermaLink="true">http://www.caev.org.cn/newslist/a7341.html</guid>
 <pubDate>Sun, 26 Apr 2026 00:00:00 +0800</pubDate>
+<category>电芯制造</category>
+<source>中国汽车动力电池产业创新联盟·动态</source>
+</item>
+<item>
+<title>电动汽车联盟获评A级活跃度产业技术创新战略联盟</title>
+<link>http://www.caev.org.cn/newslist/a7340.html</link>
+<guid isPermaLink="true">http://www.caev.org.cn/newslist/a7340.html</guid>
+<pubDate>Fri, 24 Apr 2026 00:00:00 +0800</pubDate>
 <category>电芯制造</category>
 <source>中国汽车动力电池产业创新联盟·动态</source>
 </item>

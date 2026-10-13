@@ -4,10 +4,37 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 13 Oct 2026 11:12:39 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:55:58 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>48V区域Zone域控制器设计，eFuse成为标配</title>
+<link>https://www.shujubang.com/detail/21543</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21543</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+<description>中国引领全球汽车电子潮流</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>汽车新技术月度监测与分析报告2026年10月期</title>
+<link>https://www.shujubang.com/detail/21544</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21544</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+<description>强标推动下，e-Call、直连通信、DMS、DSSCDA &amp; DSSAD等将快速上车|新技术月报2026年10月期</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>2026年中国OEM主机厂数据能力分析报告</title>
+<link>https://www.shujubang.com/detail/21542</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21542</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+<description>主机厂数据能力研究：24 OEM × 9 能力域，谁在领跑？</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>具身智能机器人产业链全景图（10月版）</title>
 <link>https://www.shujubang.com/detail/21540</link>
@@ -31,32 +58,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21538</guid>
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
 <description>真遥遥领先</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>佐思汽车研究2027年报告撰写计划</title>
-<link>https://www.shujubang.com/detail/21539</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21539</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年车路云一体化和C-V2X行业研究报告</title>
-<link>https://www.shujubang.com/detail/21532</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21532</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-<description>车路云与C-V2X研究：“顶层规划+试点强制+测评绑定” 三层推进体系 ，产业拐点将近</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>英特尔与长安合作，AI BOX到底有没有市场？</title>
-<link>https://www.shujubang.com/detail/21537</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21537</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-<description>AIBOX市场空间不大</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
