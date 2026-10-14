@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 04:55:59 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 08:03:40 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>东风汽车与兵器工业集团签署战略合作协议</title>
+<link>https://m.gasgoo.com/news/70474733.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474733.html</guid>
+<pubDate>Wed, 14 Oct 2026 07:53:45 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>博世创新工场与米链共创达成战略合作，共建创投孵化平台</title>
+<link>https://m.gasgoo.com/news/70474732.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474732.html</guid>
+<pubDate>Wed, 14 Oct 2026 07:27:27 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>在25万元级，能买到D级旗舰了</title>
 <link>https://m.gasgoo.com/news/70474685.html</link>
@@ -109,22 +125,6 @@
 <link>https://m.gasgoo.com/news/70474494.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474494.html</guid>
 <pubDate>Tue, 13 Oct 2026 16:01:06 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>标致发布RCZ Vision概念车，展示全固态电池与线控技术</title>
-<link>https://m.gasgoo.com/news/70474659.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474659.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:58:48 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>本田越南发布2026款本田City，计划于10月14日上市</title>
-<link>https://m.gasgoo.com/news/70474599.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474599.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:53:57 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
