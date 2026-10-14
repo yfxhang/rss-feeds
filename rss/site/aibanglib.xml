@@ -4,16 +4,43 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 10:04:49 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 20:17:06 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>隔膜材料企业源启膜创获天使轮融资，产品适用于超级电容器、高功率电池等万亿级市场</title>
+<link>https://www.aibanglib.com/a/32711</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32711</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<description>近日，武汉市源启膜创新材料有限公司（下称“源启膜创”）完成天…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>中创新航牵手德国汉高，两大龙头联合攻关先进材料与下一代电池技术</title>
+<link>https://www.aibanglib.com/a/32703</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32703</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<description>近日，全球胶粘剂巨头——汉高，与电池龙头企业——中创新航，在…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>一文了解超级电容器的基础知识</title>
 <link>https://www.aibanglib.com/a/32674</link>
 <guid isPermaLink="true">https://www.aibanglib.com/a/32674</guid>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
 <description>今天带大家了解一下超级电容器的基础知识，文章来源于Nippo…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>温州宏丰拟定增2.71亿元扩产铜箔，规划6条锂电铜箔+2条电子铜箔产线</title>
+<link>https://www.aibanglib.com/a/32684</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32684</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+<description>温州宏丰近日披露2026年度向特定对象发行A股股票募集资金使…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
@@ -27,11 +54,29 @@
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
+<title>赛力斯宁德时代深化战略合作 | 问界交付120万台，航空级气凝胶成为高端电池“标配”</title>
+<link>https://www.aibanglib.com/a/32692</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32692</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+<description>10月10日，赛力斯集团与宁德时代在重庆签署长期战略合作深化…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
 <title>清研电子干法电极：固态电池2030量产绕不开的制造工艺</title>
 <link>https://www.aibanglib.com/a/32652</link>
 <guid isPermaLink="true">https://www.aibanglib.com/a/32652</guid>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
 <description>近期，工业和信息化部等七部门联合印发《新型电池产业发展“十五…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>鹏辉能源风鹏电芯587Ah下线：大电芯时代的热安全与隔热材料机遇</title>
+<link>https://www.aibanglib.com/a/32697</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32697</guid>
+<pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate>
+<description>10月10日上午10点，鹏辉能源在衢州零碳工厂二期厂房内举行…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
@@ -50,51 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32619</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
 <description>本项目充分发挥混合调频优势，半固态电池安全性更优，超级电容有…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>超级电容碳核心技术达国际领先，先进碳材料研究院揭牌</title>
-<link>https://www.aibanglib.com/a/32615</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32615</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<description>历经12年联合攻关，项目攻克高端储能碳材料工程化难题，部分核…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>超级电容活性炭厂商北海星石与南宁世纪星石签定战略合作协议</title>
-<link>https://www.aibanglib.com/a/32607</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32607</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-<description>北海星石是超级电容活性炭技术及生产能力领先企业之一，拥有数十…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>全球首条！20Ah锂碳超级电容生产线正式投产</title>
-<link>https://www.aibanglib.com/a/32605</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32605</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
-<description>全球首条！20Ah锂碳超级电容生产线正式投产</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>富华德~神州天玑牵头制定的《电动自行车用锂碳超级电容器及模组通用规范》团体标准正式发布</title>
-<link>https://www.aibanglib.com/a/32602</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32602</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-<description>富华德~神州天玑牵头制定的《电动自行车用锂碳超级电容器及模组…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>国内首个锂碳超级电容两轮车示范项目在广西东兴投入使用</title>
-<link>https://www.aibanglib.com/a/32598</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32598</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-<description>近日，由富华德～神州天玑研发的神州狮两轮电动车在广西东兴正式…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

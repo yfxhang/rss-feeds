@@ -4,10 +4,18 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 10:04:20 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 20:12:32 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>观影像盛宴 探融合新路——行业媒体总编室负责人齐聚重庆共话主流媒体系统性变革</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474595</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474595</guid>
+<pubDate>Wed, 14 Oct 2026 14:40:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>2026上海衍生品市场论坛即将开幕</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474539</link>
@@ -66,16 +74,16 @@
 </item>
 <item>
 <title>中国恩菲EPC总承包的延东铜矿选矿工程完成投料试车</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474486</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474486</guid>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</guid>
 <pubDate>Mon, 12 Oct 2026 10:47:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
 <title>中国恩菲EPC总承包的延东铜矿选矿工程完成投料试车</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</guid>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474486</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474486</guid>
 <pubDate>Mon, 12 Oct 2026 10:47:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
@@ -157,14 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474388</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474388</guid>
 <pubDate>Wed, 30 Sep 2026 09:03:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>魏桥创业集团入选2026中国工业数据治理“领跑者”企业名单</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474343</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474343</guid>
-<pubDate>Tue, 29 Sep 2026 10:32:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
