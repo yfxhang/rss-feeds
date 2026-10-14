@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 14 Oct 2026 09:59:59 +0800</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 10:04:18 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>具身智能领域首批两项国家标准发布，国地中心参与研制</title>
+<link>https://m.gasgoo.com/news/70474708.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474708.html</guid>
+<pubDate>Wed, 14 Oct 2026 09:57:05 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>华沿机器人发布具身智能运动基座</title>
+<link>https://m.gasgoo.com/news/70474715.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474715.html</guid>
+<pubDate>Wed, 14 Oct 2026 09:55:50 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>智元投入超2亿元入局高校具身智能，首批合作20余所高校</title>
 <link>https://m.gasgoo.com/news/70474737.html</link>
@@ -109,22 +125,6 @@
 <link>https://m.gasgoo.com/news/70474667.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474667.html</guid>
 <pubDate>Tue, 13 Oct 2026 16:10:12 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>通用汽车申请车载系统专利 或许能助驾驶员缓解压力</title>
-<link>https://m.gasgoo.com/news/70474665.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474665.html</guid>
-<pubDate>Tue, 13 Oct 2026 16:08:50 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>NVIDIA发布Isaac ROS 5.0，将AI智能体引入机器人开发</title>
-<link>https://m.gasgoo.com/news/70474481.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474481.html</guid>
-<pubDate>Tue, 13 Oct 2026 16:07:15 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
