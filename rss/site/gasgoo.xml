@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 21:10:03 +0800</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 03:36:03 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>长飞先进技术发布会召开 瞄准车规主驱及AI数据中心</title>
+<link>https://m.gasgoo.com/news/70474975.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474975.html</guid>
+<pubDate>Fri, 16 Oct 2026 00:45:44 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>工信部等三部门联合调查尊界V800刹车踏板支架断裂问题</title>
+<link>https://m.gasgoo.com/news/70474972.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474972.html</guid>
+<pubDate>Thu, 15 Oct 2026 23:42:26 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>森萨塔科技推出OmniNode™，面向商用车辆的即用型高压配电解决方案</title>
 <link>https://m.gasgoo.com/news/70474943.html</link>
@@ -109,22 +125,6 @@
 <link>https://m.gasgoo.com/news/70474918.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474918.html</guid>
 <pubDate>Thu, 15 Oct 2026 15:17:10 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际快讯】英国拒绝欧盟施压，暂不对中国电动车加征关税；小鹏希望到2030年在欧洲销量超过福特和欧宝</title>
-<link>https://m.gasgoo.com/news/70474878.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474878.html</guid>
-<pubDate>Thu, 15 Oct 2026 12:02:47 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>Seeds | 浙大系Physical AGI公司，新元体获数千万元种子轮融资</title>
-<link>https://m.gasgoo.com/news/70474872.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474872.html</guid>
-<pubDate>Thu, 15 Oct 2026 11:15:40 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
