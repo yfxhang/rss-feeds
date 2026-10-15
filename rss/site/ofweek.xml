@@ -4,16 +4,1367 @@
 <link>https://www.ofweek.com/CATList-8100-CHANGYIEXINWE.html</link>
 <description>维科网 CATList-8100（智能汽车频道）；源站 GBK 编码，已转码；2026-10-10 开启分页（单页仅 20 条，只抓首页无法覆盖到前一天 00:00）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 08:56:42 +0800</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:41:09 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/ofweek.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>三季报 | 沪电股份净利翻倍，高阶PCB量价齐升</title>
+<link>https://ee.ofweek.com/2026-10/ART-12003-2816-30707308.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2816-30707308.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:40:00 +0800</pubDate>
+<description>作者｜任天勤 编辑｜陈肖冉 真正考验还在扩产之后 净利润翻倍，单季环比再增五成，沪电股份（002463.SZ）交出了一份不容忽视的业绩预告。 不过，PCB终究是制造业，订单、良率、材料和产能缺一不可。 单季净利环比加速上行 10月14日晚间，沪电股份发布2026年前三季度业绩预告。 预计归母净利润54.50亿元至57.00亿元，同比增长100.54%至109.74%；扣非净利润53.60亿元至55.50亿元，同比增长100.27%至107.36%。 图片来源：沪电股份公告 扣非利润与归母净利润基本同步，说明这轮增长主要来自主业，并非依靠补贴、投资收益或资产处置等非经常性损益支撑。 真正值得注意的是第三季度。沪电股份2026年上半年归母净利润29.23亿元，其中第二季度为16.81亿元。据此推算，第三季度归母净利润约25.27亿元至27.77亿元，环比增长50.33%至65.20%。单季盈利不仅创出新高，而且出现明显加速。 公告给出的原因很直接，高速交换机、AI服务器、高性能计算和智能汽车需求增长，产品结构继续向高附加值方向倾斜；同时，泰国子公司跨过产能爬坡阶段，前三季度实现扭亏为盈。 市场对此并非毫无预期。10月14日，沪电股份收报115元，下跌0.78%，成交额52.91亿元，总市值约2213亿元；年内累计涨超50%，市盈率（TTM）约43.7倍。由于公告在收盘后披露，当日股价尚未反映这份预告。 业绩确实很强，但估值也不算便宜。按照前三季度净利润区间中枢55.75亿元粗略计算，当前市值约为前三季度利润的40倍。 换句话说，市场买的不只是今年利润翻倍，还包括未来几年AI算力基础设施继续高投入、沪电股份保持技术领先以及新增产能顺利释放。 技术门槛决定量产格局 风险恰恰藏在景气之中。PCB行业正在迎来一轮密集扩产，沪电股份自己在投资者交流中也提醒，新增产能陆续落地后，成熟技术平</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>智能体安全, 正成为金融AI的新门槛</title>
+<link>https://www.ofweek.com/security/2026-10/ART-510009-8420-30707307.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/security/2026-10/ART-510009-8420-30707307.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:32:00 +0800</pubDate>
+<description>图片来源：即梦 10月12日，浙商证券发布招标公告，拟采购第三方网络安全机构的评测服务，对公司部署的AI智能体开展合规安全测评。 公告列出了“评测强制依据清单”：GB/T 45654-2025《网络安全技术 生成式人工智能服务安全基本要求》、《人工智能安全治理框架》2.0版、《网络安全法》、《数据安全法》、《个人信息保护法》、《生成式人工智能服务管理暂行办法》，以及《证券期货业网络和信息安全管理办法》等。 既有国家层面的上位法，也有生成式人工智能专项管理办法，还有证券期货业的行业规章；既有已经生效的国家标准，也有去年9月更新的治理框架。 这传递出一个信号：智能体安全评测，不是一个由供需双方自行定义边界的技术评估，而是需要逐条对照法规与标准、结论可留痕的合规动作。 从招标数据来看，过去金融机构在智能体上的投入，主要在“建”——建平台、建场景、建中台。但从今年6月开始，另一个方向的采购开始持续出现：把已经建起来的智能体“管起来”。 零壹智库在8月金融智能体观察文章（《金融智能体采购换挡：大单回归，券商爆发》）中提到，平台类采购逐步退场，智能体观测、安全治理、风险测试等运维管控类需求快速兴起。 8月后，也有券商和银行针对智能体安全扫描、管理、评测等需求进行专门招标。 01 多点落地，基金、券商、银行启动智能体安全采购 金融业围绕安全与智能体的采购，包含两类性质不同的需求。 一类是智能体自身的安全治理，覆盖安全扫描、可观测、测试、评测，以及运行过程中的权限与行为管控；另一类是用智能体去做安全运营、合规管理，即把智能体当作执行安全工作的工具。 两者在招投标统计中常被归入同一个“安全”大类，但前者买的是智能体自身的风险可控，后者买的是安全工作的效率提升。本文关注的是前一类。 去年12月，华夏基金曾发布过智能体安全评测采购需求，半年之后才观察到银行和券商的此类采购信息，且开始有持续性。 </description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>智能体安全，正成为金融AI的新门槛</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178806-8420-30707305.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178806-8420-30707305.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:31:00 +0800</pubDate>
+<description>图片来源：即梦 10月12日，浙商证券发布招标公告，拟采购第三方网络安全机构的评测服务，对公司部署的AI智能体开展合规安全测评。 公告列出了“评测强制依据清单”：GB/T 45654-2025《网络安全技术 生成式人工智能服务安全基本要求》、《人工智能安全治理框架》2.0版、《网络安全法》、《数据安全法》、《个人信息保护法》、《生成式人工智能服务管理暂行办法》，以及《证券期货业网络和信息安全管理办法》等。 既有国家层面的上位法，也有生成式人工智能专项管理办法，还有证券期货业的行业规章；既有已经生效的国家标准，也有去年9月更新的治理框架。 这传递出一个信号：智能体安全评测，不是一个由供需双方自行定义边界的技术评估，而是需要逐条对照法规与标准、结论可留痕的合规动作。 从招标数据来看，过去金融机构在智能体上的投入，主要在“建”——建平台、建场景、建中台。但从今年6月开始，另一个方向的采购开始持续出现：把已经建起来的智能体“管起来”。 零壹智库在8月金融智能体观察文章（《金融智能体采购换挡：大单回归，券商爆发》）中提到，平台类采购逐步退场，智能体观测、安全治理、风险测试等运维管控类需求快速兴起。 8月后，也有券商和银行针对智能体安全扫描、管理、评测等需求进行专门招标。 01 多点落地，基金、券商、银行启动智能体安全采购 金融业围绕安全与智能体的采购，包含两类性质不同的需求。 一类是智能体自身的安全治理，覆盖安全扫描、可观测、测试、评测，以及运行过程中的权限与行为管控；另一类是用智能体去做安全运营、合规管理，即把智能体当作执行安全工作的工具。 两者在招投标统计中常被归入同一个“安全”大类，但前者买的是智能体自身的风险可控，后者买的是安全工作的效率提升。本文关注的是前一类。 去年12月，华夏基金曾发布过智能体安全评测采购需求，半年之后才观察到银行和券商的此类采购信息，且开始有持续性。 </description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>两个月蒸发2811亿！宇树科技估值挤泡沫，人形机器人迎来商业化大考</title>
+<link>https://robot.ofweek.com/2026-10/ART-898890-12001-30707304.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-12001-30707304.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:28:00 +0800</pubDate>
+<description>文/杨剑勇 宇树科技从上市首日以1100元价格开盘，对应市值达到4449亿元。时至今日，已回落至405元，较高点抹去63%涨幅，市值缩水至1638亿元，短短两个月，市值蒸发2811亿。作为可对比的公司，优必选与宇树科技的营收体量差距不大，然而其市值仅有316亿港元。 增速显著放缓，扣非利润承压 整体来说，宇树科技由此前的狂欢步入挤泡沫阶段，尤其收入结构无法支撑此前如此之高的估值。2026年上半年营收11.52亿元，同比增长48.54%；净利润为2.74亿元，同比增长955.59%，但扣非净利润同比下降19.34%，折射出主业盈利承压。 尤为核心的是，营收增速呈现放缓态势。要知道，2023年-2025年期间，宇树科技年复合增长率达到226%。其中，2025年营收16.99亿元，同比增长332%。然而，2026年上半年营业收入同比增速已降至48%。 当然，主要营收基数大幅提升、行业热度逐步缓和及市场竞争日趋激烈等多重因素影响。同时，期间费用的较快增长，扣非后净利润出现了同比下降的情况。 我国人形机器人领跑全球，宇树科技位居第二 宇树科技所处人形机器人赛道，尽管尚处于前期阶段，但展现出强劲的市场潜力。根据IDC最新的报告显示，2026上半年，全球人形机器人出货量接近2.5万台，同比增长432%，预计到2030年全球人形机器人出货量将超过75万台，市场将进入规模化应用加速发展阶段。 值得注意的是，在人形机器人这个新兴赛道，我国企业走在全球前列，主要在于我国是人形机器人落地最快的市场之一，商业化落地方面处于全球前列。 2026年上半年，我国人形机器人出货量超1.9万台，同比增长426%，占全球市场比重约77.9%，成为全球人形机器人市场增长的重要驱动力。其中，宇树科技出货量超5000台，位居第二，排在市场首位的是智元。 需要指出的是，人形机器人已成为宇树科技重要收入来源，2025年贡</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>梁文锋盯上机器人, 大模型要取代具身模型？</title>
+<link>https://iot.ofweek.com/2026-10/ART-132200-8420-30707302.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132200-8420-30707302.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:10:00 +0800</pubDate>
+<description>作者钱江 编辑山茶 有界Unknown 原创 终于，DeepSeek也要干具身智能了。 近期，有消息称，梁文锋正在接触多家具身智能创业公司，考虑进入这一领域。 2026年以来，大模型公司下场做具身智能几乎已成为一种时髦，OpenAI自不必说，谷歌近期更新的新模型Gemini 4 Argon也把重点放在了机器人操控上。 具身智能是大模型的下一站几乎成为行业共识，DeepSeek显然也是这么认为的。 梁文锋曾在一份流传于2026年5月的投资者交流会记录中，描述自己设想中的AGI技术路线：从语言模型、思维链（CoT）、Agent，到持续学习、AI自我迭代，最后是具身智能。 在这张路线图的尽头，AI不再只是屏幕里的聊天助手，而是真正走进人的日常生活。“到具身智能之后，它就走进现实世界，可以给你做家务，可以给你养老。” 但梁文锋也清楚，走到这一步并不容易。他尤其强调技术路线的先后顺序，如果反过来，先从具身智能入手，“那么这里自己会做得很累，这是一个很苦的活。” 如今，距离这番表态不过数月，梁文锋就被传出开始接触机器人公司。那个曾被他放在AGI路线图最后的方向，似乎正在被提前提上日程。 变化究竟发生在哪里？对于DeepSeek这样的通用大模型公司而言，进入物理世界，又是否有了一条不同于以往的路？ 01PART 01 通用大模型，走进物理世界 几乎就在梁文锋被曝接触机器人公司的同一时间，王兴兴对通用大模型走向物理世界，给出了一个乐观的判断。 10月12日，王兴兴在第26届中国工博会上透露，宇树已用GPT-6测试多款机器人，“效果实际上非常不错”。他判断，具身智能的临界点最快一两年内到来，明年的GPT-7甚至可能“直接把具身智能问题打穿”。 过去几年，机器人行业一直在尝试训练专门的具身模型，主要有两种技术思路：一种是“大小脑分开”，大模型负责感知和决策，底层控制系统负责动作；另一种是以VL</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>执掌腾讯AI的姚顺雨, 坐到了马化腾旁边</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30707303.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30707303.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:10:00 +0800</pubDate>
+<description>作者｜张谦 编辑｜胡展嘉 运营｜陈佳慧 出品｜零态LingTai 头图｜腾讯AI大会现场 10月8日，国庆长假后第一个工作日，深圳腾讯总部迎来一场高规格调研。《广东新闻联播》的镜头里，一个细节被科技圈反复放大：座谈会上，马化腾右手边，坐着一张年轻的面孔——1998年出生的腾讯首席AI科学家姚顺雨。 按惯例，这种场合坐在创始人身边的，应该是跟随腾讯多年的集团高管。但这一次，邻座属于一个入职还不到一年的年轻人。马化腾近年极少公开露面，他的每一次出现本身就是一种表态，而这一次，比露面更值得咀嚼的，是他把身边的位置留给了谁。 这也许是2026年中国互联网最有意味的一个画面：27岁创办腾讯的人，和27岁执掌腾讯AI的人，坐在了一起。 中间隔着的27年，恰好是中国互联网从拨号上网走到大模型的全部历程。一个是用连接定义了上一个时代的人，一个是被寄予厚望去定义下一个时代的人。 天才的成长曲线 姚顺雨的履历，几乎是一部为标准答案写就的天才少年成长史。 天眼查综合媒体信息显示，安徽合肥人，高中就读于合肥一中。2015年，他以704分、安徽理科第三名的高考成绩进入清华姚班——那个由图灵奖得主姚期智创办、被称为“中国计算机科学最高殿堂”的地方。 在这里，他师从姚班学长、深度学习大牛吴佳俊，开始系统性接触通用人工智能，还赴MIT交换开阔眼界。2019年，他赴普林斯顿大学读博，原本主攻计算机视觉，但他判断自然语言处理更有潜力，果断改道NLP与强化学习，师从Karthik Narasimhan。彼时Transformer架构横空出世刚两年，这个转向，让他精准踩中了此后十年AI最大的浪潮。 博士毕业后，姚顺雨加入OpenAI，参与Operator、DeepResearch和计算机使用智能体等重点项目——这些正是OpenAI从“聊天机器人”迈向“智能体”的关键战役。 而真正让他在学术圈声名鹊起的，是他提出的</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>梁文锋盯上机器人，大模型要取代具身模型？</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321205-8420-30707301.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-8420-30707301.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:09:00 +0800</pubDate>
+<description>作者钱江 编辑山茶 有界Unknown 原创 终于，DeepSeek也要干具身智能了。 近期，有消息称，梁文锋正在接触多家具身智能创业公司，考虑进入这一领域。 2026年以来，大模型公司下场做具身智能几乎已成为一种时髦，OpenAI自不必说，谷歌近期更新的新模型Gemini 4 Argon也把重点放在了机器人操控上。 具身智能是大模型的下一站几乎成为行业共识，DeepSeek显然也是这么认为的。 梁文锋曾在一份流传于2026年5月的投资者交流会记录中，描述自己设想中的AGI技术路线：从语言模型、思维链（CoT）、Agent，到持续学习、AI自我迭代，最后是具身智能。 在这张路线图的尽头，AI不再只是屏幕里的聊天助手，而是真正走进人的日常生活。“到具身智能之后，它就走进现实世界，可以给你做家务，可以给你养老。” 但梁文锋也清楚，走到这一步并不容易。他尤其强调技术路线的先后顺序，如果反过来，先从具身智能入手，“那么这里自己会做得很累，这是一个很苦的活。” 如今，距离这番表态不过数月，梁文锋就被传出开始接触机器人公司。那个曾被他放在AGI路线图最后的方向，似乎正在被提前提上日程。 变化究竟发生在哪里？对于DeepSeek这样的通用大模型公司而言，进入物理世界，又是否有了一条不同于以往的路？ 01PART 01 通用大模型，走进物理世界 几乎就在梁文锋被曝接触机器人公司的同一时间，王兴兴对通用大模型走向物理世界，给出了一个乐观的判断。 10月12日，王兴兴在第26届中国工博会上透露，宇树已用GPT-6测试多款机器人，“效果实际上非常不错”。他判断，具身智能的临界点最快一两年内到来，明年的GPT-7甚至可能“直接把具身智能问题打穿”。 过去几年，机器人行业一直在尝试训练专门的具身模型，主要有两种技术思路：一种是“大小脑分开”，大模型负责感知和决策，底层控制系统负责动作；另一种是以VL</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>执掌腾讯AI的姚顺雨，坐到了马化腾旁边</title>
+<link>https://iot.ofweek.com/2026-10/ART-132215-8420-30707300.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8420-30707300.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:06:00 +0800</pubDate>
+<description>作者｜张谦 编辑｜胡展嘉 运营｜陈佳慧 出品｜零态LingTai 头图｜腾讯AI大会现场 10月8日，国庆长假后第一个工作日，深圳腾讯总部迎来一场高规格调研。《广东新闻联播》的镜头里，一个细节被科技圈反复放大：座谈会上，马化腾右手边，坐着一张年轻的面孔——1998年出生的腾讯首席AI科学家姚顺雨。 按惯例，这种场合坐在创始人身边的，应该是跟随腾讯多年的集团高管。但这一次，邻座属于一个入职还不到一年的年轻人。马化腾近年极少公开露面，他的每一次出现本身就是一种表态，而这一次，比露面更值得咀嚼的，是他把身边的位置留给了谁。 这也许是2026年中国互联网最有意味的一个画面：27岁创办腾讯的人，和27岁执掌腾讯AI的人，坐在了一起。 中间隔着的27年，恰好是中国互联网从拨号上网走到大模型的全部历程。一个是用连接定义了上一个时代的人，一个是被寄予厚望去定义下一个时代的人。 天才的成长曲线 姚顺雨的履历，几乎是一部为标准答案写就的天才少年成长史。 天眼查综合媒体信息显示，安徽合肥人，高中就读于合肥一中。2015年，他以704分、安徽理科第三名的高考成绩进入清华姚班——那个由图灵奖得主姚期智创办、被称为“中国计算机科学最高殿堂”的地方。 在这里，他师从姚班学长、深度学习大牛吴佳俊，开始系统性接触通用人工智能，还赴MIT交换开阔眼界。2019年，他赴普林斯顿大学读博，原本主攻计算机视觉，但他判断自然语言处理更有潜力，果断改道NLP与强化学习，师从Karthik Narasimhan。彼时Transformer架构横空出世刚两年，这个转向，让他精准踩中了此后十年AI最大的浪潮。 博士毕业后，姚顺雨加入OpenAI，参与Operator、DeepResearch和计算机使用智能体等重点项目——这些正是OpenAI从“聊天机器人”迈向“智能体”的关键战役。 而真正让他在学术圈声名鹊起的，是他提出的</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>意图经济，杀不死中国的注意力经济</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30707299.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30707299.html</guid>
+<pubDate>Thu, 15 Oct 2026 16:05:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>98年清华博导「刘子鸣」斩获数亿元融资！顺为资本、BV百度风投都是资方</title>
+<link>https://iot.ofweek.com/2026-10/ART-132240-8420-30707298.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132240-8420-30707298.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:54:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>哈工深唯一持股的机器人大脑公司，刚拿下亿元融资！</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321205-12003-30707297.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-12003-30707297.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:53:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>两个博士给AI当老师，年入6.7亿，估值207亿</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707296.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707296.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:49:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>15分钟扫描一个真实世界：禾赛Kosmo想解决机器人最缺的数据问题</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23013-12003-30707293.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-12003-30707293.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:31:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>从激光雷达到机器人关节：禾赛为什么要做物理 AI 的基础设施？</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321201-8420-30707294.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321201-8420-30707294.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:31:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>天合UVID最新综述：UV紫外衰减还可以恢复？</title>
+<link>https://solar.ofweek.com/2026-10/ART-260018-8330-30707292.html</link>
+<guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260018-8330-30707292.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:31:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>从激光雷达到机器人关节：禾赛为什么要做物理 AI 的基础设施？</title>
+<link>https://laser.ofweek.com/2026-10/ART-240001-8420-30707291.html</link>
+<guid isPermaLink="true">https://laser.ofweek.com/2026-10/ART-240001-8420-30707291.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:29:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>小鹏巴黎车展宣布卖技术，中国车企把技术卖给谁？</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70112-12003-30707290.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70112-12003-30707290.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:27:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>15分钟扫描一个真实世界：禾赛Kosmo想解决机器人最缺的数据问题</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321205-12003-30707289.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-12003-30707289.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:25:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>超20个中国品牌亮相巴黎车展，出海进入“留得下来”阶段</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30707288.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30707288.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:14:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>炭黑行业正在分化：传统产能承压, 新型功能炭黑迎来哪些机会？</title>
+<link>https://www.ofweek.com/im/2026-10/ART-201930-8420-30707285.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201930-8420-30707285.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:06:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>炭黑行业正在分化：传统产能承压，新型功能炭黑迎来哪些机会？</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180422-8420-30707284.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180422-8420-30707284.html</guid>
+<pubDate>Thu, 15 Oct 2026 15:05:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>从光纤到芯片，康宁如何构建下一代AI 网络？</title>
+<link>https://fiber.ofweek.com/2026-10/ART-8100-2100-30707287.html</link>
+<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-8100-2100-30707287.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:57:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>终止收购！东百集团收购快灵光电计划“闪停”</title>
+<link>https://fiber.ofweek.com/2026-10/ART-8100-2100-30707286.html</link>
+<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-8100-2100-30707286.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:56:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>暴跌20%！三星守住全球第一，小米守住国产第一</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30707283.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30707283.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:39:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>Anthropic新规背后, 人类何必为难AI？</title>
+<link>https://iot.ofweek.com/2026-10/ART-132200-8420-30707282.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132200-8420-30707282.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:35:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>Anthropic新规背后，人类何必为难AI？</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707281.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707281.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:34:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>Gemini 4 Argon能将视频变成三维仿真场景，XR的空间计算会变天吗 ？</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8140-30707280.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8140-30707280.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:32:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>Gemini 4 Argon能将视频变成三维仿真场景，XR的空间计算会变天吗？</title>
+<link>https://vr.ofweek.com/news/2026-10/ART-815008-8140-30707279.html</link>
+<guid isPermaLink="true">https://vr.ofweek.com/news/2026-10/ART-815008-8140-30707279.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:31:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>焦虑的印奇, 赌上一部手机</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707278.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707278.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:30:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>焦虑的印奇，赌上一部手机</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30707277.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30707277.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:27:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>为什么在手机旁说了想买什么，后面就疯狂推送？</title>
+<link>https://iot.ofweek.com/2026-10/ART-132215-8110-30707276.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8110-30707276.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:26:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>自主品牌进击下，丰田的守擂与新生 | 封面故事：日系车企站在转型十字路口(二)</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30707275.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30707275.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:24:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>方盒子冠军换代12.59万起售，全新旅行者7有多能打？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8110-30707274.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8110-30707274.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:23:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>萝卜快跑迪拜开跑：无人驾驶的下半场，拼的是“过日子”！小马智行、文远知行可以佐证</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707270.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707270.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:20:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>从规模领先到体系引领：新型电池产业的“十五五”开局</title>
+<link>https://chuneng.ofweek.com/news/2026-10/ART-180220-8420-30707269.html</link>
+<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180220-8420-30707269.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:18:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>【聚焦】电子级三甲基铝（TMA）市场集中度高 需求市场发展主要受半导体及光伏行业带动</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180420-8420-30707268.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180420-8420-30707268.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:15:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>AI竞争升级, 个人Agent添火</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707267.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707267.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:14:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>AI竞争升级，个人Agent添火</title>
+<link>https://iot.ofweek.com/2026-10/ART-132216-8420-30707266.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132216-8420-30707266.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:13:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>伤害不大，侮辱性极强：ARM败了，但只赔偿高通2美元</title>
+<link>https://ee.ofweek.com/2026-10/ART-8460-2801-30707265.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8460-2801-30707265.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:12:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>内存涨价冲击手机行业！全球手机出货量暴跌20% 三星苹果合拿45%份额</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30707264.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30707264.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:12:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>商用机器人公司值得更高估值｜巨潮</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321202-8420-30707263.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321202-8420-30707263.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:12:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>台达亮相2026中国工博会 聚焦电力重构低碳智造</title>
+<link>https://chuneng.ofweek.com/news/2026-10/ART-180226-8120-30707271.html</link>
+<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180226-8120-30707271.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:08:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>企查查撤回IPO，会员生意迎来AI考题</title>
+<link>https://iot.ofweek.com/2026-10/ART-132215-12003-30707262.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-12003-30707262.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:07:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>太打脸了！所有国产机加起来，都卖不过苹果iPhone18 Pro</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8500-30707261.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8500-30707261.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:05:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>AI太“贵”了，连腾讯都开始借钱了</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178801-12003-30707260.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-12003-30707260.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:05:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>具身智能变天！灵巧手不再卷自由度：“大脑”跟不上、成本控不住</title>
+<link>https://robot.ofweek.com/2026-10/ART-898890-8420-30707259.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8420-30707259.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:02:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>适合于激光雷达和激光测距的款高精度时间测量(TDC)芯片-MS1004</title>
+<link>https://ee.ofweek.com/2026-10/ART-8210-2817-30707258.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8210-2817-30707258.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:01:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>从54个月到18个月，“速成车”有多速成？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8500-30707257.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8500-30707257.html</guid>
+<pubDate>Thu, 15 Oct 2026 14:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>荣盛石化利润暴增8倍，谁在买单 | 三季报</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180423-12003-30707256.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180423-12003-30707256.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:59:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>从造“机场”到建“基建”，大疆在下一盘什么棋？</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23009-8420-30707253.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23009-8420-30707253.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:47:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中国科学家造出理论上不存在材料 超强石墨烯膜</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180424-8110-30707252.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180424-8110-30707252.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:41:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>智能手机集体涨价潮下, SK海力士股价为何会逆势暴跌？</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-12003-30707251.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12003-30707251.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:39:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>智能手机集体涨价潮下，SK海力士股价为何会逆势暴跌？</title>
+<link>https://ee.ofweek.com/2026-10/ART-12003-2801-30707250.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2801-30707250.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:38:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>吉利与蔚来深度捆绑，增加换电的胜算</title>
+<link>https://nev.ofweek.com/2026-10/ART-71011-8460-30707249.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71011-8460-30707249.html</guid>
+<pubDate>Thu, 15 Oct 2026 13:38:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中材科技吓了市场一大跳</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180422-12003-30707247.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180422-12003-30707247.html</guid>
+<pubDate>Thu, 15 Oct 2026 12:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>单人做剧时代到来 万兴科技一手好牌贵在打好</title>
+<link>https://iot.ofweek.com/2026-10/ART-132214-12003-30707246.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132214-12003-30707246.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:58:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>看懂股价受捧逻辑 本末科技下半场“自证”启幕</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321201-12003-30707243.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321201-12003-30707243.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:55:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>一汽和零跑，焊在一起了？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71011-12003-30707242.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71011-12003-30707242.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:54:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>泓毅股份IPO获注册批文：扩产如何匹配整车需求</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30707241.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30707241.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:49:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>ASML、美国真的要慌了，国产EUV光源样机亮相，90%国产率</title>
+<link>https://ee.ofweek.com/2026-10/ART-8420-2801-30707240.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2801-30707240.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:46:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中国汽车走得越远，越要敬畏质量</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30707239.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30707239.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:45:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>锂电龙头前三季度盈利暴增超3065%！</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36002-8120-30707244.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36002-8120-30707244.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:45:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>巨湾技研GWh级全固态电池产线投产：一条液态产线的“换芯”</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30707245.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30707245.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:44:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>4年后超越丰田大众成为“全球第一”，比亚迪从哪里找到640万增量？ | 明镜pro</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30707238.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30707238.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:43:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>里程碑达成！苹果市值突破5万亿美元</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-12001-30707237.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12001-30707237.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:42:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>苹果砍不砍单, 都要关注果链的存货！</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23014-12004-30707235.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23014-12004-30707235.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:41:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>苹果砍不砍单，都要关注果链的存货！</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-12004-30707234.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12004-30707234.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:41:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>四季度家电厂商的头等大事</title>
+<link>https://smarthome.ofweek.com/2026-10/ART-91009-8420-30707233.html</link>
+<guid isPermaLink="true">https://smarthome.ofweek.com/2026-10/ART-91009-8420-30707233.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:39:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>恐慌砸出来的赔率：这一轮存储下跌，还是底吗？</title>
+<link>https://ee.ofweek.com/2026-10/ART-12001-2801-30707232.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12001-2801-30707232.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:38:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>微信下场，短剧不再只看红果的报价</title>
+<link>https://iot.ofweek.com/2026-10/ART-132214-8420-30707231.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132214-8420-30707231.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:34:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>复旦团队斩获超10亿融资！「模思智能」要做能“在场”的AI？</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30707230.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30707230.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:31:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>电动两轮车 | 前三季度内销同比下降4.8%，Q3正式转正，至暗时刻已经过去？</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70111-12004-30707229.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70111-12004-30707229.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:26:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>非洲支付之王IPO：年入36亿，估值285亿</title>
+<link>https://iot.ofweek.com/2026-10/ART-132213-12005-30707227.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132213-12005-30707227.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:25:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>【智能化】九识RoboVan通过泰国首个国家级L4无人车测试</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707226.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707226.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:25:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>出货量突破200GWh，海辰储能以全链条一体化加速领跑全球长时储能</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36001-8120-30707236.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8120-30707236.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:24:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>告别概念！安谋科技极术社区工博会秀出小型具身样机，个人AI Agent终端照进现实</title>
+<link>https://www.ofweek.com/im/2026-10/ART-201900-8460-30707228.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201900-8460-30707228.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:23:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>DigiKey 推出《未来工厂》第 6 季，探索 AI 基础设施与工业连通能力</title>
+<link>https://ee.ofweek.com/2026-10/ART-8110-2803-30707225.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8110-2803-30707225.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:22:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>密集推进13年质保，宁德时代对公交行业悄然许下了承诺</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36001-8420-30707224.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8420-30707224.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:22:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>德国康佳特携手桦汉深化aReady.YOURS ，共推“解决方案即服务”加速落地</title>
+<link>https://ee.ofweek.com/2026-10/ART-8460-2808-30707223.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8460-2808-30707223.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:18:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>塔克热系统推出 PCX-DG 系列热电制冷器，采用双面柔性材料，最大限度提高测试系统可靠性</title>
+<link>https://ee.ofweek.com/2026-10/ART-8110-2815-30707222.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8110-2815-30707222.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:16:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>南北丰田整合关键期，黄坚回归担重任</title>
+<link>https://nev.ofweek.com/2026-10/ART-71011-8460-30707219.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71011-8460-30707219.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:16:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>印尼镍矿配额削减三成, 全球镍市却转向过剩</title>
+<link>https://chuneng.ofweek.com/news/2026-10/ART-180220-8420-30707220.html</link>
+<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180220-8420-30707220.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:15:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>印尼镍矿配额削减三成，全球镍市却转向过剩</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180420-8420-30707218.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180420-8420-30707218.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:15:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>放下先锋美学，阿维塔贴近大众</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8110-30707217.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8110-30707217.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:15:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>机器人还没找好工作，小鹏为什么先建工厂？</title>
+<link>https://robot.ofweek.com/2026-10/ART-898890-8420-30707216.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8420-30707216.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:14:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>79岁老干妈陶华碧，为何能靠AI狂赚54亿？</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178803-12003-30707215.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-12003-30707215.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:09:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>恩捷股份交卷牵动板块异动，锂电仍需持长期主义</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36001-12001-30707214.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-12001-30707214.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:09:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>【每日科创】联瑞新材：AI算力越猛，“填料艺术家”越关键</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23008-12003-30707213.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23008-12003-30707213.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:05:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>【风口词典】半导体硅片：三年首次全尺寸涨价</title>
+<link>https://semi.ofweek.com/2026-10/ART-202539-8420-30707212.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202539-8420-30707212.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:04:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>工博会2026丨它石智航联合创始人陈同庆：从模型到产线，让机器人在真实场景创造真实价值</title>
+<link>https://www.ofweek.com/im/2026-10/ART-201900-8460-30707221.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201900-8460-30707221.html</guid>
+<pubDate>Thu, 15 Oct 2026 11:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>三年收入复合增长率超760%，硅光集成芯片厂商冲击科创板</title>
+<link>https://fiber.ofweek.com/2026-10/ART-210008-12003-30707211.html</link>
+<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210008-12003-30707211.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:55:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>突发！豆包想操纵手机，被腾讯和阿里们集体“封杀”</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8110-30707210.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8110-30707210.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:54:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>风光储重构高耗能产业：便宜才是底层逻辑，4万亿用电大盘的替代浪潮刚起步</title>
+<link>https://power.ofweek.com/2026-10/ART-35018-8420-30707209.html</link>
+<guid isPermaLink="true">https://power.ofweek.com/2026-10/ART-35018-8420-30707209.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:52:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中国新能源车到底有多强？从8个月全球市场销量说起</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-12004-30707208.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12004-30707208.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:48:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>阿斯麦: 光刻机产能也紧俏了，ASML离涨价还有多远？</title>
+<link>https://semi.ofweek.com/2026-10/ART-202540-12003-30707206.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202540-12003-30707206.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:46:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>阿斯麦：光刻机产能也紧俏了，ASML离涨价还有多远？</title>
+<link>https://ee.ofweek.com/2026-10/ART-12003-2816-30707205.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2816-30707205.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:46:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>生态比拼，AI的下一站</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707204.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707204.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:44:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>单车成本比国内贵7.3万元，欧洲无论如何都挡不住中国车</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30707203.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30707203.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:40:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>没有在中国卖车的雷诺，凭什么成为欧洲最大的赢家？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30707202.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30707202.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:39:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>当具身智能缺粮：一台空间相机能不能喂饱物理AI？</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23013-8110-30707201.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-8110-30707201.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:30:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>今年双11，告别算数题？</title>
+<link>https://tele.ofweek.com/2026-10/ART-8320506-12003-30707200.html</link>
+<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320506-12003-30707200.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:25:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>【数据显微镜】700元/吨的试探：钛白粉第六轮挺价</title>
+<link>https://ecep.ofweek.com/2026-10/ART-93001-12003-30707196.html</link>
+<guid isPermaLink="true">https://ecep.ofweek.com/2026-10/ART-93001-12003-30707196.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:20:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>规模与质量协同跃升，海辰储能累计出货量破200GWh</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36001-8120-30707207.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8120-30707207.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:20:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中兴通讯：H1净利跌超四成, 算力业务难破低毛利困局</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178804-12003-30707199.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-12003-30707199.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:20:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>OPPO成了 Manus第一个国内客户 ？</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178808-8110-30707197.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178808-8110-30707197.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:19:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>OPPO成了 Manus第一个国内客户？</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8110-30707195.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8110-30707195.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:18:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>时隔一年，海辰储能累计出货量首破200GWh</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30707198.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30707198.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:17:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>退税退坡，上汽或成出口缓冲机制「最薄」的中国车企</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30707194.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30707194.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:17:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中兴通讯：H1净利跌超四成，算力业务难破低毛利困局</title>
+<link>https://tele.ofweek.com/2026-10/ART-8320501-12003-30707193.html</link>
+<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320501-12003-30707193.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:17:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>七大声明同日刷屏！欧洲的阳谋，中国车企被套上“温柔枷锁”</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-8480-30707192.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8480-30707192.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:16:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>219.5亿港元，三峰环境拿下6000吨/日超级垃圾焚烧项目</title>
+<link>https://ecep.ofweek.com/2026-10/ART-93011-12003-30707191.html</link>
+<guid isPermaLink="true">https://ecep.ofweek.com/2026-10/ART-93011-12003-30707191.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:14:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>巴黎车展: 5 家中国智驾开上街头，出海号角吹响了</title>
+<link>https://nev.ofweek.com/2026-10/ART-77015-8420-30707190.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-77015-8420-30707190.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:13:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>巴黎车展：5 家中国智驾开上街头，出海号角吹响了</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707189.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707189.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:12:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>离谱！懂车帝被曝2025年营收245亿，毛利率高达69%？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71011-12003-30707184.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71011-12003-30707184.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:10:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>任正非曾“讽刺”余承东：家人都用iPhone！余承东：现在都用华为了，哈哈！</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30707183.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30707183.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:08:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>余承东尴尬了！智界RX“首月”销量379辆，对标YU7还有戏吗？</title>
+<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30707182.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30707182.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:06:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>施瓦辛格熔了F.02人形机器人，Figure在烧什么</title>
+<link>https://robot.ofweek.com/2026-10/ART-898890-8110-30707181.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8110-30707181.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:03:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>锂电池热失控氢气监测预警技术解决方案</title>
+<link>https://ee.ofweek.com/2026-10/ART-8110-2806-30707180.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8110-2806-30707180.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:02:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>“机器人之眼”收入成谜，股东套现7.8亿，奥比中光278倍PE谁在买单？</title>
+<link>https://sensor.ofweek.com/2026-10/ART-81012-12003-30707179.html</link>
+<guid isPermaLink="true">https://sensor.ofweek.com/2026-10/ART-81012-12003-30707179.html</guid>
+<pubDate>Thu, 15 Oct 2026 10:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>特斯拉Optimus万圣节预告露底牌：V3灵巧手22自由度，卡量产的关键环节</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321201-8110-30707178.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321201-8110-30707178.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:59:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>德国少年遥控人形机器人性骚扰少女，警方该抓谁？具身智能伦理迎来考验</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321206-8110-30707177.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321206-8110-30707177.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:58:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>特斯拉将发布Roadster，会有Optimus消息? 马斯克：时机至关重要！</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23013-8460-30707176.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-8460-30707176.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:56:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>特斯拉将发布Roadster，会有Optimus消息？马斯克：时机至关重要！</title>
+<link>https://robot.ofweek.com/2026-10/ART-898890-8460-30707175.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8460-30707175.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:56:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>半年狂揽323亿后，立讯精密为何还要买下一家亏损的底盘厂？</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70112-12003-30707174.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70112-12003-30707174.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:55:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>999元！酷派要出安卓首款阔直板，这配置有点抽象啊</title>
+<link>https://display.ofweek.com/2026-10/ART-8321307-8110-30707173.html</link>
+<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8321307-8110-30707173.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:55:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>为什么加塞智驾车时, 智驾车总会让行？</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70109-8140-30707172.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8140-30707172.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:53:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>焦作万方320亿元重组失败，标的公司是全国第二大镓企业</title>
+<link>https://xincailiao.ofweek.com/news/2026-10/ART-180420-12003-30707171.html</link>
+<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180420-12003-30707171.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:53:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>西门子医疗，剥离通用超声，押注介入影像！</title>
+<link>https://www.ofweek.com/medical/2026-10/ART-8130-1111-30707185.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/medical/2026-10/ART-8130-1111-30707185.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:53:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>为什么加塞智驾车时，智驾车总会让行？</title>
+<link>https://nev.ofweek.com/2026-10/ART-77015-8140-30707170.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-77015-8140-30707170.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:51:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>中国电建打响秘鲁第一枪！96.9兆瓦光伏提前投产，南美市场规则正在被中企改写</title>
+<link>https://solar.ofweek.com/2026-10/ART-260002-12003-30707169.html</link>
+<guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260002-12003-30707169.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:51:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>获亿元天使轮融资！又一家AI芯片公司押注3D存算融合</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707186.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707186.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:50:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>苹果站上五万亿美元门槛</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-12001-30707168.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12001-30707168.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:50:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>年内融资超亿元！成立三年，这家GaN激光芯片厂商冲刺量产</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707187.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707187.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:49:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>AI带娃真香？孩子还没长大，先被算法「圈养」了</title>
+<link>https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30707167.html</link>
+<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30707167.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:49:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>董事长为尊界“喊冤”背后：伯特利曾参与起草新国标，奇瑞才是大客户</title>
+<link>https://nev.ofweek.com/2026-10/ART-71009-12001-30707165.html</link>
+<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71009-12001-30707165.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:47:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>科创丨五年从11亿涨到377亿, RISC-V赛道跑出港股第一股</title>
+<link>https://ee.ofweek.com/2026-10/ART-8420-2816-30707166.html</link>
+<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2816-30707166.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:46:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>科创丨五年从11亿涨到377亿，RISC-V赛道跑出港股第一股</title>
+<link>https://semi.ofweek.com/2026-10/ART-202530-8420-30707163.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202530-8420-30707163.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:45:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>碳酸锂跌破11万！ 矿企硬扛、电池厂被截流、储能商两头受气</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36002-12001-30707162.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36002-12001-30707162.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:44:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>风电彻底变天！《北京倡议》之后，可靠替代、多元转化、生态出海成行业新大考！</title>
+<link>https://power.ofweek.com/2026-10/ART-35020-12007-30707161.html</link>
+<guid isPermaLink="true">https://power.ofweek.com/2026-10/ART-35020-12007-30707161.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:44:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>融资近20亿！兆易创新入场，这家RISC-V芯片厂商押注服务器CPU</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707188.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707188.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:41:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>深度丨国产大模型密集交卷, 牌桌上的90后开始接管核心战场</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707160.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707160.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:41:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>深度丨国产大模型密集交卷，牌桌上的90后开始接管核心战场</title>
+<link>https://iot.ofweek.com/2026-10/ART-132215-8420-30707159.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8420-30707159.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:40:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>SK海力士HBM4扩产急刹车！设备订单延期：通用DRAM成新宠</title>
+<link>https://semi.ofweek.com/2026-10/ART-202540-8110-30707158.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202540-8110-30707158.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:40:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>很想进步的九阳，准备走到“九连阳”</title>
+<link>https://smarthome.ofweek.com/2026-10/ART-91003-12003-30707157.html</link>
+<guid isPermaLink="true">https://smarthome.ofweek.com/2026-10/ART-91003-12003-30707157.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:37:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>融资超6亿！成立5年，这家功率半导体厂商押注金刚石封装</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707164.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707164.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:36:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>热点丨2026诺奖落定光遗传学, 脑机接口补上“精准写入”拼图</title>
+<link>https://optics.ofweek.com/2026-10/ART-250006-8140-30707153.html</link>
+<guid isPermaLink="true">https://optics.ofweek.com/2026-10/ART-250006-8140-30707153.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:35:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>全球大厂的“去英伟达”实验</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30707152.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30707152.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:35:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>热点丨2026诺奖落定光遗传学，脑机接口补上“精准写入”拼图</title>
+<link>https://www.ofweek.com/medical/2026-10/ART-103124-8140-30707151.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/medical/2026-10/ART-103124-8140-30707151.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:34:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>23亿元C轮融资！成立三年半，这家清华系独角兽即将冲刺IPO？</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707154.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707154.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:33:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>价格从“元”降到“分”，AI视频的下半场开打了</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30707150.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30707150.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:31:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>AI公司的IPO，开始集体踩刹车了</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707148.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30707148.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:28:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>双十一增长换挡？独家专访｜人大重阳刘英：2026诺奖视角下，内需如何破局</title>
+<link>https://iot.ofweek.com/2026-10/ART-132216-8610-30707147.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132216-8610-30707147.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:27:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>李泽湘投的国内无人船领导者，连中两标，金额超千万！</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321206-8120-30707155.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321206-8120-30707155.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:27:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>突发！DeepSeek崩上热搜</title>
+<link>https://www.ofweek.com/ai/2026-10/ART-201718-8120-30707306.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/ai/2026-10/ART-201718-8120-30707306.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:24:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>出货量跌超 20% 后, OPPO 把 AI“外包” 给 Manus</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178808-8420-30707140.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178808-8420-30707140.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:23:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>出货量跌超 20% 后，OPPO 把 AI“外包” 给 Manus</title>
+<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30707139.html</link>
+<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30707139.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:22:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>英福康首秀湾芯展：真空度之外，半导体工艺还需要看见什么？</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707149.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707149.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:20:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>Anthropic尽调后放弃，亚马逊为何还在追Decart？</title>
+<link>https://iot.ofweek.com/2026-10/ART-132215-8460-30707138.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8460-30707138.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:20:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>超10亿元C+轮融资！这家晶圆级光学厂商押注20亿元产线</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707141.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707141.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:19:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>超亿元A轮融资！这家芯片封装基板厂商瞄准AI算力</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707142.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707142.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:17:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>WorkBuddy赢了产品赛马, 腾讯还没赢下AI办公</title>
+<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707135.html</link>
+<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30707135.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:16:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>锂电大厂收购上市公司股权</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30707137.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30707137.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:15:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>成立8个月融资超亿元！这家国产高速互连芯片厂商押注超算</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707143.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707143.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:15:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>WorkBuddy赢了产品赛马，腾讯还没赢下AI办公</title>
+<link>https://iot.ofweek.com/2026-10/ART-132215-8420-30707134.html</link>
+<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8420-30707134.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:14:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>一年两笔大额融资！这家激光雷达芯片厂商估值达28.4亿</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707144.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707144.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:13:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>突发！锂电设备巨头被立案</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30707136.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30707136.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:13:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>获亿元级A轮！这家国产半导体设备厂商已推进A+轮</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707145.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707145.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:10:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>“圳”启“芯”程 智创未来！ 2026湾芯展盛大启幕！</title>
+<link>https://semi.ofweek.com/2026-10/ART-202541-8120-30707146.html</link>
+<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-8120-30707146.html</guid>
+<pubDate>Thu, 15 Oct 2026 09:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
 <item>
 <title>董事长掌舵三年辞职！这一能源国企人事大调整</title>
 <link>https://solar.ofweek.com/2026-10/ART-260006-12000-30707127.html</link>
 <guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260006-12000-30707127.html</guid>
 <pubDate>Thu, 15 Oct 2026 07:55:00 +0800</pubDate>
-<description>10月12日晚，国家能源集团长源电力股份有限公司（000966.SZ）披露，公司董事会当日收到董事长王冬的书面辞职报告。因工作调动，王冬申请辞去董事长、董事及董事会相关专门委员会职务，辞职后不再担任公司及控股子公司任何职务。 公告显示，其辞职报告自送达董事会之日起即时生效，公司董事会人数仍高于法定最低要求，生产经营不受影响。截至发稿，公司尚未披露新任董事长人选。 掌舵三年，因工作调动离场 公开资料显示，王冬生于1968年2月，满族，硕士学位，高级政工师、主任编辑出身，职业生涯长期服务国家能源集团系统。他历任国电集团总经理工作部秘书处副处长、处长，国电电力总经理工作部主任，国电集团办公厅副主任、新闻中心主任，以及国家能源集团党建工作部主任、综合管理部主任等职，一度担任集团党组秘书。 根据长源电力公告显示，王冬于2023年4月当选为公司董事长；2025年10月当选为公司第十一届董事会董事长，任期本应该到2028年10月。 此次王冬以“工作调动”为由辞任董事长一职，属于电力央企集团层面高管轮岗的常规动作。公告还披露，王冬2025年度从公司领取的报酬为99.24万元。就在两个月前的8月18日，王冬还以董事长身份主持召开了审议公司半年报的董事会会议。 央企血脉，湖北能源主力 长源电力是国家能源集团旗下上市公司，主要从事电力、热力生产与销售，电源结构包括火电、水电、风电、光伏与生物质发电，长期深耕湖北市场。截至2026年6月底，公司可控装机容量1360.25万千瓦，其中火电1031万千瓦、光伏243.32万千瓦、水电57.37万千瓦、风电26.4万千瓦、生物质2.16万千瓦；装机规模约占湖北全省发电装机的9.5%，火电装机占全省火电装机的22.4%，是湖北电力供给的重要一极。 其母公司国家能源集团2026年位列《财富》世界500强第108位，截至2025年底总资产2.35万亿元，是全球</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -22,7 +1373,62 @@
 <link>https://chuneng.ofweek.com/news/2026-10/ART-180225-12000-30707126.html</link>
 <guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180225-12000-30707126.html</guid>
 <pubDate>Thu, 15 Oct 2026 06:25:00 +0800</pubDate>
-<description>10月13日，新宙邦（300037.SZ）发布2026年前三季度业绩预告，预计实现归母净利润为15.3亿元~15.8亿元，同比增长104.53%~111.22%；扣非净利润预计为15.3亿元~15.8亿元，同比增长113.88%~120.87%。 从单季表现来看，第三季度归母净利润约为5.46亿元~5.96亿元，与第二季度的5.03亿元相比环比增长约8%至18%；业绩稳步提升。 截图来源：新宙邦公告 结合过去三年电解液行业的处境来看，自2023年下半年开始，锂电池电解液行业进入漫长的去库存和产能过剩周期，价格战导致多家上游材料企业毛利率大幅压缩，新宙邦2024年全年归母净利润约为9.42亿元，处于周期低位。而今年前两个季度的累计净利润已超过9亿元，前三季度更是站上15亿元台阶，利润中枢的上移幅度可见一斑。 增长从何而来？ 新宙邦在公告中将业绩提升归因于三大主营业务“技术与市场深度协同”，一体化与平台化优势持续释放。 具体来看，电池化学品业务紧抓储能市场高景气机遇和动力电池稳步增长机会，联动合营企业石磊氟材料及控股子公司瀚康电子材料，强化六氟磷酸锂和锂电添加剂供给，产销量快速增长，销售价格稳步修复。当前公司六氟磷酸锂自供比例为50%至70%，石磊氟材料现有产能2.4万吨/年，一体化产能的释放正在摊薄单位制造成本。 电子信息化学品业务则抓住了下游算力中心、半导体等新兴行业的扩张窗口。公司在投资者交流中表示，重点布局高附加值的氟化液、高市占率的电容化学品以及品种持续丰富的湿电子化学品赛道，现有氟化液总产能约5,500吨，另有3万吨级高端氟精细化学品装置在建，预计明年底启动试车。 值得注意的是，关键子公司福建海德福与湖南福邦在第三季度双双进入持续盈利状态。海德福聚焦高端含氟聚合物，六氟丙烯保供体系已较为成熟，全氟磺酸树脂、可熔融聚四氟乙烯等多款产品已基本完成研发并逐步导入市场。此前</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>战略签约｜香港科技大学 × 埃斯顿 × 飞渡科技，共筑物理AI技术底座</title>
+<link>https://robot.ofweek.com/2026-10/ART-8321202-8120-30707156.html</link>
+<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321202-8120-30707156.html</guid>
+<pubDate>Wed, 14 Oct 2026 20:33:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>容百科技21亿加码韩国</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36002-8130-30707131.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36002-8130-30707131.html</guid>
+<pubDate>Wed, 14 Oct 2026 19:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>限全球TOP10！储能新锐10GWh磷酸铁锂储能电芯框采招标</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36001-8120-30707132.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8120-30707132.html</guid>
+<pubDate>Wed, 14 Oct 2026 18:59:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>欣旺达投资建设，200MW/400MWh独立储能电站项目进入试运行</title>
+<link>https://chuneng.ofweek.com/news/2026-10/ART-180226-8120-30707128.html</link>
+<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180226-8120-30707128.html</guid>
+<pubDate>Wed, 14 Oct 2026 18:48:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>产量同比下滑69.8%，9月氢燃料电池汽车数据出炉</title>
+<link>https://www.ofweek.com/hydrogen/2026-10/ART-180827-8120-30707129.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/hydrogen/2026-10/ART-180827-8120-30707129.html</guid>
+<pubDate>Wed, 14 Oct 2026 18:39:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>1.91亿元！这上市企业氢能公司宣布重大收购</title>
+<link>https://www.ofweek.com/hydrogen/2026-10/ART-180827-8120-30707130.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/hydrogen/2026-10/ART-180827-8120-30707130.html</guid>
+<pubDate>Wed, 14 Oct 2026 18:38:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
+<title>芯突破 链未来 | OFweek 2026先进电池论坛重磅展商提前看！</title>
+<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30707133.html</link>
+<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30707133.html</guid>
+<pubDate>Wed, 14 Oct 2026 18:36:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -31,7 +1437,6 @@
 <link>https://ee.ofweek.com/2026-10/ART-8420-2812-30707124.html</link>
 <guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2812-30707124.html</guid>
 <pubDate>Wed, 14 Oct 2026 18:16:00 +0800</pubDate>
-<description>10月12~16日，2026中国国际工业博览会（以下简称：中国工博会）在国家会展中心（上海）举办，本届中国工博会一大标志性变化是首次设立集成电路专业展—国芯展（ICES, IC ECOSYSTEM SHOW）。过往工博会以工业装备、自动化、制造技术为核心，今年专门开辟国芯展，在5.2馆汇聚超300家集成电路展商，覆盖从芯片设计、晶圆制造、封测、半导体装备到核心材料全产业链。在这个综合工业平台之上，搭建起集成电路产业与工厂应用端直接对话的窗口。 游走在各个展台之间不难感受到，大模型、工业智能体已经渗入工业制造的各个角落，在别的应用场景中最重要的算力，却不是衡量芯片方案适用性的单一标准。工业现场有着多重硬性约束：响应速度、长期运行稳定性、数据与系统安全、极限工况耐受性、软硬件全栈迭代能力，每一项都是绕不开的门槛。本届展会上，各大厂商展现出十八般武艺，用一套套针对性的方案回应这些工业场景提出的严苛要求。 01 端侧算力的多元实践，适配工业复杂现实诉求 工业装备普遍拥有五到十年服役周期，大模型、机器视觉算法却迭代迅速。硬件定型之后，如何不必反复改版整机，就跟上AI能力更新，是几乎所有端侧芯片厂商需要回应的现实命题。 爱芯元智以“智造无界，算力抵达”为主题亮相工博会，展区内设置核心算力与技术底座、行业解决方案、软件架构与工具链、生态与价值共创四大展区，集中呈现面向物理 AI 的全场景算力方案，并在现场正式发布AX8860大算力系列新品。据介绍，这款产品专为大模型边端侧落地打造，并不片面追逐峰值纸面参数，而是围绕模型部署、现场推理、系统协同做设计，采用6nm工艺，具备256TOPS混合精度算力，原生支持FP4，内存带宽可达273GB/s，最大支持128GBLPDDR5X内存；硬件搭载AXLink芯片级联与PCIe5.0高速互联，同时具备64路视频解码、16路视频编码能力，适配多路视觉感</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -40,7 +1445,6 @@
 <link>https://semi.ofweek.com/2026-10/ART-202530-8420-30707123.html</link>
 <guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202530-8420-30707123.html</guid>
 <pubDate>Wed, 14 Oct 2026 18:15:00 +0800</pubDate>
-<description>10月12~16日，2026中国国际工业博览会（以下简称：中国工博会）在国家会展中心（上海）举办，本届中国工博会一大标志性变化是首次设立集成电路专业展—国芯展（ICES, IC ECOSYSTEM SHOW）。过往工博会以工业装备、自动化、制造技术为核心，今年专门开辟国芯展，在5.2馆汇聚超300家集成电路展商，覆盖从芯片设计、晶圆制造、封测、半导体装备到核心材料全产业链。在这个综合工业平台之上，搭建起集成电路产业与工厂应用端直接对话的窗口。 游走在各个展台之间不难感受到，大模型、工业智能体已经渗入工业制造的各个角落，在别的应用场景中最重要的算力，却不是衡量芯片方案适用性的单一标准。工业现场有着多重硬性约束：响应速度、长期运行稳定性、数据与系统安全、极限工况耐受性、软硬件全栈迭代能力，每一项都是绕不开的门槛。本届展会上，各大厂商展现出十八般武艺，用一套套针对性的方案回应这些工业场景提出的严苛要求。 01 端侧算力的多元实践，适配工业复杂现实诉求 工业装备普遍拥有五到十年服役周期，大模型、机器视觉算法却迭代迅速。硬件定型之后，如何不必反复改版整机，就跟上AI能力更新，是几乎所有端侧芯片厂商需要回应的现实命题。 爱芯元智以“智造无界，算力抵达”为主题亮相工博会，展区内设置核心算力与技术底座、行业解决方案、软件架构与工具链、生态与价值共创四大展区，集中呈现面向物理 AI 的全场景算力方案，并在现场正式发布AX8860大算力系列新品。据介绍，这款产品专为大模型边端侧落地打造，并不片面追逐峰值纸面参数，而是围绕模型部署、现场推理、系统协同做设计，采用6nm工艺，具备256TOPS混合精度算力，原生支持FP4，内存带宽可达273GB/s，最大支持128GBLPDDR5X内存；硬件搭载AXLink芯片级联与PCIe5.0高速互联，同时具备64路视频解码、16路视频编码能力，适配多路视觉感</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -49,7 +1453,6 @@
 <link>https://www.ofweek.com/ai/2026-10/ART-201718-8120-30707125.html</link>
 <guid isPermaLink="true">https://www.ofweek.com/ai/2026-10/ART-201718-8120-30707125.html</guid>
 <pubDate>Wed, 14 Oct 2026 18:03:00 +0800</pubDate>
-<description>WAIE（第十届）2026 人工智能产业大会暨 AI 智能体产业应用大会，将于 2026年10月23日在深圳益田威斯汀酒店 盛大举办。 本次大会以AI智能体为主线，围绕国家产业政策、通用Agent底层架构、产业商业化痛点展开解读，拆解各应用赛道的技术迭代难点与跨界融合落地路径。大会同期设有创新成果展区，现场将同步展示AI-Agent创新产品与技术解决方案。 为保障各位参会嘉宾、观众顺利参会，组委会特整理这份参会指南，预祝各位参会愉快！ 大会信息 【参会时间】 2026年10月23日（周五） 8:30-17:30 【大会地址】 广东省深圳市南山区深南大道9028-2号 深圳益田威斯汀酒店 （3楼露台会议厅） 大会签到 大会已开启预登记报名通道，方便参观人员现场快速入场。 扫码提前预登记报名参观限时领取免费参会门票 备注：已提前预登记观众，审核通过的参会确认短信已发送，现场凭短信签到入场，注意查收。 交通指引 地址：广东省深圳市南山区深南大道9028-2号 益田威斯汀酒店 展厅：3楼露台会议厅 1.宝安机场 - 深圳益田威斯汀酒店 地铁：从宝安机场（机场-出入口）搭乘地铁11号线至前海湾，换乘1号线至世界之窗A口出，用时48分钟； 出租车：搭乘出租车预计40分钟左右可到达。 2.深圳北高铁站 - 深圳益田威斯汀酒店: 地铁：在深圳北站乘坐?地铁4号线?（福田口岸方向），至 ?会展中心站? 换乘 ?地铁1号线?（机场东方向），最终在 ?世界之窗站? 下车。建议从 ?A出口? 出站。?步行出站后步行即可到达益田假日广场，酒店与商场相连，可通过商场内部通道或直接步行至酒店大堂。预计全程?耗时 ?47分钟?。（备注：进入益田假日广场B2层→上楼至商场L2层进入益田假日广场VIP会员中心通道→直走进入酒店大堂，从大堂到3楼露台会议厅；） 出租车：预计26分钟左右可到达。 3.自驾: 可沿</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -58,7 +1461,6 @@
 <link>https://solar.ofweek.com/2026-10/ART-260006-8120-30707121.html</link>
 <guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260006-8120-30707121.html</guid>
 <pubDate>Wed, 14 Oct 2026 17:57:00 +0800</pubDate>
-<description>光伏生产设备企业，正在加速发展半导体业务。 近50亿募资投向半导体 10月13日，微导纳米发布2026年度向特定对象发行A股股票预案，公司拟募资总额不超过49.44亿元。扣除发行费用后分别用于无锡先进半导体设备产业化升级迭代项目、华中先进半导体设备产业化项目、尖端薄膜沉积技术研发中心项目及补充流动资金。 图片来源：微导纳米公告 近50亿募资，除补充流动资金外几乎全部用于半导体业务，而起家的光伏业务却从舞台中央走向了角落。 光伏生产设备细分龙头 资料显示，微导纳米成立于2015年，公司以原子层沉积（ALD）技术为核心，主要从事先进微、纳米级薄膜沉积设备的研发、生产和销售，向下游客户提供先进薄膜沉积设备、配套产品及服务。 微导纳米产品率先用于光伏电池片生产过程中的薄膜沉积环节，也让其把握住了2018年“531新政后”全球光伏市场再次高速增长的机遇。 2019年至2021年，微导纳米分别实现营收2.16亿元、3.13亿元、4.28亿元，年均复合增长率40.81%。归母净利润分别为5455.11万元、5701.44万元、4611.37万元。 2022年，微导纳米第二次向科创板发起冲击并成功上市。招股书显示，光伏业务是微导纳米的绝对主力，2019年和2020年营收占比为100%，2021年和2022年上半年占比也超过90%。 图片来源：微导纳米招股书 2023年，微导纳米迎来了利润高峰，全年实现营收16.8亿元，同比增长145.39%：归母净利润为2.7亿元，同比增长399.33%。光伏业务立下大功，不仅营收同比增长198.93%，毛利率也增加了7.86个百分点。 然而进入2024年，微导纳米马上出现了增收不增利的情况。 全年实现营收27亿元，同比增长了60.74%，归母净利润却仅为2.27亿元，同比下滑了16.16%。其中光伏业务营收虽然同比增长52.94%，毛利率却减少3.14个</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -67,7 +1469,6 @@
 <link>https://ee.ofweek.com/2026-10/ART-8210-2806-30707118.html</link>
 <guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8210-2806-30707118.html</guid>
 <pubDate>Wed, 14 Oct 2026 17:46:00 +0800</pubDate>
-<description>TWS耳机、智能眼镜、智能手表等穿戴设备空间有限，接近传感器可在其中稳定完成佩戴检测与靠近感应，并满足低功耗和环境抗干扰要求；由工采网代理的WH4535V是旺泓推出的一款集成 940nm VCSEL 红外光源的光数字转换接近传感器模组，将红外发射、光学感应、信号处理集成于超小型LGA封装内，为各类紧凑型穿戴终端提供高集成度的感知解决方案。 产品描述 WH4535V是光数字转换式接近传感器模组，内部集成940nm VCSEL红外发射源与接近检测感光芯片，驱动电流典型12mA；接收端集成专属 940nm 光学滤光片，能最大限度过滤环境自然光干扰，精准捕捉物体反射回来的红外信号，直接输出数字化检测结果，具备优秀的串扰抑制性能，等效220级分辨率，减少强光、复杂光照环境下的误检测现象。 该模组采用IC数字通信接口，支持100400kHz Fastmode速率，ADC支持10/12/14/16bit多档位分辨率切换，可根据检测距离、功耗需求灵活配置采样精度；在标准测试条件下，10mm距离、18%反射率灰卡目标，接近 ADC 输出典型值 630 counts；器件噪声控制在±2%，器件间最大偏差 ±25%（3σ）满足消费电子大批量使用要求。 产品特性 1. 超小LGA封装：尺寸2.0×1.0×0.5mm；针对 1.7mm 圆形传感器开孔做小间距优化。 2. 双路独立供电：内核VDD为1.8V，IC总线电平1.8V；VCSEL 发射端独立供电，保障红外光源输出稳定。 3. 多模式低功耗管理 - 活跃模式：100ms 周期、10bit配置，含VCSEL总电流典型10μA - 空闲模式：典型电流 0.7μA - 睡眠模式：典型电流 0.7μA 4. 光学性能：940nm VCSEL，驱动电流典型 12mA；接收端内置红外滤光片，具备优秀串扰与环境光抑制能力，等效220级分辨率。 5. 可配置</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -76,7 +1477,6 @@
 <link>https://display.ofweek.com/2026-10/ART-8100-2300-30707119.html</link>
 <guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8100-2300-30707119.html</guid>
 <pubDate>Wed, 14 Oct 2026 17:43:00 +0800</pubDate>
-<description>近期，全国企业破产重整案件信息网显示，深圳市宝安区人民法院已于9月7日裁定受理深圳市丽晶光电科技股份有限公司（简称“丽晶光电”）破产清算一案，并于9月14日指定北京市隆安（深圳）律师事务所担任管理人。 根据公告，债权申报截止日为10月29日，第一次债权人会议定于11月9日召开。本次破产清算申请由朱稳成、潘显云两名自然人债权人提交。 丽晶光电成立于2004年，曾是中国LED显示行业中最早一批研发出全彩点阵模块的专业制造商及供应商，也是国内压铸铝箱体技术的开拓者与LED显示屏节能分压供电技术的创新者。 业务层面，公司长期聚焦户外全彩屏、舞台租赁屏、创意显示屏三大核心品类，产品大量出口欧美市场，在全球建立了8大营销网络，发展巅峰期曾先后成为北京奥运会、上海世博会等国内外重大项目的LED显示屏供应商。 然而，风险积累早已开始。公开司法信息显示，截至法院受理破产申请前，丽晶光电累计涉及各类司法案件154起，劳动争议、买卖合同纠纷及执行案件穿插其中，被告身份远多于原告。 公开资料显示，该公司员工人数在2013年末曾达到651人；到2024年，企业员工规模已收缩至4人。人员规模的断崖式萎缩，意味着核心研发、生产与销售能力在破产申请受理前便已基本丧失。 从经营模式看，企业长期采用重资产运营模式，固定资产折旧与产线维护的刚性支出在行业景气周期尚可被规模效应覆盖，但当行业进入产能过剩阶段，这些固定成本便迅速转化为财务负担。 叠加文旅商演项目垫资比例高、回款周期漫长的行业惯例，应收账款持续占用现金流，债务风险逐步积累至不可逆转的程度。真正的驱动因素，是行业价格战、下游回款周期拉长与融资环境收紧在同一时间窗口内的叠加。人员萎缩与诉讼激增更多是这一过程的结果与助推因素，而非孤立原因。 法院受理破产清算申请，是丽晶光电22年经营历程的关键节点，也是国内LED显示行业产能出清的一个缩影。这家企业曾经拥有</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -953,14 +2353,6 @@
 <source>维科网·智能汽车</source>
 </item>
 <item>
-<title>华为首披麒麟路线图：2027芯片已就绪，逻辑折叠打开十年空间</title>
-<link>https://ee.ofweek.com/2026-10/ART-8110-2801-30707000.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8110-2801-30707000.html</guid>
-<pubDate>Wed, 14 Oct 2026 10:50:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
 <title>这个行业商业模式没跑通、全靠政府补贴度日，但卖水人却先吃上肉了！</title>
 <link>https://chuneng.ofweek.com/news/2026-10/ART-180220-12003-30706998.html</link>
 <guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180220-12003-30706998.html</guid>
@@ -1457,6 +2849,14 @@
 <source>维科网·智能汽车</source>
 </item>
 <item>
+<title>家电巨头领携，海普林的三重升维！</title>
+<link>https://laser.ofweek.com/2026-10/ART-8500-2400-30707272.html</link>
+<guid isPermaLink="true">https://laser.ofweek.com/2026-10/ART-8500-2400-30707272.html</guid>
+<pubDate>Tue, 13 Oct 2026 21:14:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
+<item>
 <title>“维科杯·OFweek 2026(第十一届) AIoT行业年度评选”网络投票正式开启！</title>
 <link>https://iot.ofweek.com/2026-10/ART-132216-8120-30706935.html</link>
 <guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132216-8120-30706935.html</guid>
@@ -1813,1406 +3213,6 @@
 <link>https://fiber.ofweek.com/2026-10/ART-8100-2100-30706904.html</link>
 <guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-8100-2100-30706904.html</guid>
 <pubDate>Tue, 13 Oct 2026 16:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>面向 800G／1．6T 的 112G／224G 接收机噪声容限测试方案</title>
-<link>https://fiber.ofweek.com/2026-10/ART-8100-2100-30706901.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-8100-2100-30706901.html</guid>
-<pubDate>Tue, 13 Oct 2026 16:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>光通信圈这两天炸了：一纸研报砸出跌停潮, 产业端却在疯狂抢货</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-8420-30706885.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-8420-30706885.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:34:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>一份&quot;政策猜想&quot;, 砸掉光通信千亿市值</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-12001-30706886.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-12001-30706886.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AMD豪掷物理AI？82亿美元买下World Labs</title>
-<link>https://ee.ofweek.com/2026-10/ART-12003-2818-30706887.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2818-30706887.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>华为和高通达成专利交叉许可协议, 这次谁赢了？</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2800-30706888.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2800-30706888.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI带飞安费诺, 收入暴涨55%, 连接器公司被数据中心拉高</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70112-12003-30706889.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70112-12003-30706889.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:32:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>高通和华为, 正在变成彼此绕不开的人</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2800-30706890.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2800-30706890.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:32:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>2万亿美元估值的美股AI泡沫</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178804-12003-30706891.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-12003-30706891.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:32:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>MiniMax跌掉80%、DeepSeek融资1000亿：大模型IPO潮谁来接盘？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30706892.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30706892.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>氢燃料电池汽车 迎来新一轮试点</title>
-<link>https://www.ofweek.com/hydrogen/2026-10/ART-180824-8480-30706876.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/hydrogen/2026-10/ART-180824-8480-30706876.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>从50万吨到200万吨, 又一千亿市场？</title>
-<link>https://ecep.ofweek.com/2026-10/ART-93001-8110-30706877.html</link>
-<guid isPermaLink="true">https://ecep.ofweek.com/2026-10/ART-93001-8110-30706877.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:22:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>黄仁勋投85后双胞胎: 出租AI算力，估值970亿</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178804-12003-30706878.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-12003-30706878.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:22:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>本田从日立手里买走 Astemo 21%, 把软件拿回自己手里</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70108-12003-30706879.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70108-12003-30706879.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:22:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>半年净利暴增96%！重回中国台湾首富宝座, 郭台铭靠AI赚翻了</title>
-<link>https://www.ofweek.com/im/2026-10/ART-201929-12008-30706880.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201929-12008-30706880.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:21:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>高通开始给华为付专利费了 ？</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320501-8460-30706881.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320501-8460-30706881.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:21:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>为什么决定机器人能不能量产的，不是大脑，而是 &quot;电子架构&quot;？</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2816-30706882.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2816-30706882.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:20:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI最贵的一块芯片, 开始降温</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-12003-30706883.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-12003-30706883.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:20:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>自动驾驶巴士的 “生意经”</title>
-<link>https://www.ofweek.com/smartcity/2026-10/ART-201822-8420-30706884.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/smartcity/2026-10/ART-201822-8420-30706884.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:20:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI平均3小时完成一个数学证明，科研进入大通胀时代？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706875.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706875.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:17:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>德祥新云算力单日最多跌逾八成：算力二阶段，“规划”与“交付”的距离有多远？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178801-12001-30706874.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-12001-30706874.html</guid>
-<pubDate>Tue, 13 Oct 2026 15:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>90后博士挂帅，10亿固态电池项目落地永康</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30706872.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30706872.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:40:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>涨停封板！锂电明星股第二大股东“换人”</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36002-8500-30706873.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36002-8500-30706873.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:39:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>中国减少光刻机购买，ASML急了，对韩国配件涨价10%，弥补损失</title>
-<link>https://ee.ofweek.com/2026-10/ART-8320315-8420-30706871.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8320315-8420-30706871.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI眼镜, 开始学会主动了</title>
-<link>https://wearable.ofweek.com/2026-10/ART-8420-5013-30706870.html</link>
-<guid isPermaLink="true">https://wearable.ofweek.com/2026-10/ART-8420-5013-30706870.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:18:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI眼镜，开始学会主动了</title>
-<link>https://optics.ofweek.com/2026-10/ART-250003-8420-30706869.html</link>
-<guid isPermaLink="true">https://optics.ofweek.com/2026-10/ART-250003-8420-30706869.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:17:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>洛图快报 | 2026年9月中国电视市场品牌月度出货</title>
-<link>https://display.ofweek.com/2026-10/ART-8321305-8420-30706867.html</link>
-<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8321305-8420-30706867.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:13:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>中国厂商包揽全球前五! 蜂窝物联网模组增长15%,市场正在发生哪些变化？</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320501-8420-30706868.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320501-8420-30706868.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【深度】全球自动交换光网络（ASON）设备市场持续增长 基于OTN平台ASON设备为主流产品</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210022-8420-30706866.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210022-8420-30706866.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>中国厂商包揽全球前五!蜂窝物联网模组增长15%,市场正在发生哪些变化？</title>
-<link>https://iot.ofweek.com/2026-10/ART-132209-8420-30706865.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132209-8420-30706865.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【聚焦】碳分子筛（CMS）中空纤维膜主要用于气体分离领域 市场发展空间广阔</title>
-<link>https://xincailiao.ofweek.com/news/2026-10/ART-180421-8420-30706864.html</link>
-<guid isPermaLink="true">https://xincailiao.ofweek.com/news/2026-10/ART-180421-8420-30706864.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:11:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【洞察】永磁全回转推进器在船舶制造领域需求旺盛 力普司为我国代表企业</title>
-<link>https://gongkong.ofweek.com/2026-10/ART-310057-8420-30706863.html</link>
-<guid isPermaLink="true">https://gongkong.ofweek.com/2026-10/ART-310057-8420-30706863.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:10:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>市值减少6500亿，万亿AI巨头工业富联怎么了？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178801-12003-30706861.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-12003-30706861.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:04:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>巴黎车展上的中国攻势，远不止展台面积那么简单</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30706860.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30706860.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:02:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>CPO量产前夜：富信科技在扩什么，天孚通信在交什么？</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210001-12003-30706859.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210001-12003-30706859.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:02:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>从巴黎车展到欧洲工厂, 中国车企出海提速</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-12003-30706857.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-12003-30706857.html</guid>
-<pubDate>Tue, 13 Oct 2026 14:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>月之暗面, 挤进决赛圈</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30706858.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30706858.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:59:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>苹果iPhone Air 2 来了，解决第一代缺点，将成为“神机”？</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-8110-30706856.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8110-30706856.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:58:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>月之暗面，挤进决赛圈</title>
-<link>https://iot.ofweek.com/2026-10/ART-132214-8420-30706854.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132214-8420-30706854.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:57:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI芯片太赚钱，游戏GPU不想搞了？老黄要将RTX 5090停产？</title>
-<link>https://ee.ofweek.com/2026-10/ART-8320315-8110-30706853.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8320315-8110-30706853.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:56:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>宁德时代 开始抢长尾市场了</title>
-<link>https://chuneng.ofweek.com/news/2026-10/ART-180220-8420-30706852.html</link>
-<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180220-8420-30706852.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:55:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>刚刚，尊界踏板第三方检测来了，江淮股价大涨</title>
-<link>https://nev.ofweek.com/2026-10/ART-71009-8110-30706851.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71009-8110-30706851.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>宁德时代开始抢长尾市场了</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36001-8420-30706850.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8420-30706850.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:53:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>懂车帝回应尊界：静态加载与动态加载不一样！专家解读来了</title>
-<link>https://nev.ofweek.com/2026-10/ART-71009-12003-30706849.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71009-12003-30706849.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:52:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>日系车企转型中的防守与进攻 | 封面故事：日系车企站在转型十字路口(一)</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30706848.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30706848.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:52:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>联讯仪器预增近20倍，算力周期考验国产仪器 | 三季报</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210001-12003-30706847.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210001-12003-30706847.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:51:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>动力电池和储能电池到底有什么不同？4个维度讲清楚</title>
-<link>https://chuneng.ofweek.com/news/2026-10/ART-180226-8110-30706855.html</link>
-<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180226-8110-30706855.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:49:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>从巴黎车展到欧洲工厂，中国车企出海提速</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30706845.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30706845.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:48:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>可通过SPI接口从外部闪存启动的单芯片音频Codec芯片-CJC6822A</title>
-<link>https://ee.ofweek.com/2026-10/ART-8210-2801-30706844.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8210-2801-30706844.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:48:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>批发生产“小小天才少年”</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321206-8420-30706843.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321206-8420-30706843.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:47:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>梁文锋投400亿, 乌兰察布被AI巨头挤爆了</title>
-<link>https://www.ofweek.com/smartcity/2026-10/ART-201820-8420-30706842.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/smartcity/2026-10/ART-201820-8420-30706842.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:45:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>梁文锋投400亿，乌兰察布被AI巨头挤爆了</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30706841.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30706841.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:44:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>「利拓智能」完成A轮融资！国资重磅加持！</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321202-8460-30706840.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321202-8460-30706840.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:44:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI杀入回忆录：老人的一生，能被一键“生成”吗？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30706839.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8420-30706839.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:43:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>启迪之星领投！95后清华博士创办「方奇科技」完成千万级天使轮融资</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321205-8420-30706838.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-8420-30706838.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:42:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>弘信电子这把棋下得太大了</title>
-<link>https://ee.ofweek.com/2026-10/ART-12003-2801-30706837.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2801-30706837.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:41:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>华为哈勃押注98后博士！「视塔机器人」完成天使轮融资</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321205-8420-30706836.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-8420-30706836.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:40:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>2026年前三季度IPO市场量价齐升，A+H双轮驱动融资热潮共振</title>
-<link>https://ee.ofweek.com/2026-10/ART-8320315-12001-30706835.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8320315-12001-30706835.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:40:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>当AI开始替品牌“胡说八道”，谁在为失控的算法买单？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706832.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706832.html</guid>
-<pubDate>Tue, 13 Oct 2026 13:36:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>奔驰被测翻车后的12周</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30706831.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30706831.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:59:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>碳酸锂期货暴跌之谜</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36002-12001-30706830.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36002-12001-30706830.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:59:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>羲禾科技IPO上会：业绩或虚增 大客户存疑</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210001-12003-30706829.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210001-12003-30706829.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>数学博士靠AI炒股，身价1417亿！</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-12005-30706828.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-12005-30706828.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:46:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>DeepSeek领投估值27亿的机器人公司，梁文锋买的不是机器人，是AGI的最后一段路！</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321205-12003-30706826.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-12003-30706826.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:38:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>苹果砍单！立讯精密503亿存货炸弹</title>
-<link>https://instrument.ofweek.com/2026-10/ART-8320089-12003-30706827.html</link>
-<guid isPermaLink="true">https://instrument.ofweek.com/2026-10/ART-8320089-12003-30706827.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:38:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>极氪销量之谜：9个月如何完成全年目标96%</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30706825.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30706825.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:36:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>苹果砍单！立讯精密503亿存货炸弹</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-12003-30706824.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12003-30706824.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:35:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>1-9月中国电车欧洲独孤求败：每卖5辆就有1辆，有品牌暴增20倍 | 明镜pro</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30706823.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30706823.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>超强厄尔尼诺来了，糖、橡胶、棕榈油、铜为什么“分期到账”？</title>
-<link>https://chuneng.ofweek.com/news/2026-10/ART-180225-8420-30706822.html</link>
-<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180225-8420-30706822.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:32:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>传音控股赴港上市：非洲手机市场的生意，究竟难在哪里？</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-12003-30706821.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12003-30706821.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:32:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>美的太子孵化的机器人，烧光6亿后破产了？</title>
-<link>https://robot.ofweek.com/2026-10/ART-898890-12003-30706820.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-12003-30706820.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>全球纯油车份额跌破50%，油车时代真的要终结了？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30706819.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30706819.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>百度已套现1个亿！前钉钉高管, 冲刺“工业机器人第一股”</title>
-<link>https://gongkong.ofweek.com/2026-10/ART-310081-12003-30706812.html</link>
-<guid isPermaLink="true">https://gongkong.ofweek.com/2026-10/ART-310081-12003-30706812.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:26:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>麦肯锡报告：2030年AI推理占六成算力</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2809-30706811.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2809-30706811.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:25:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>今年家电双11市场大促猜想</title>
-<link>https://smarthome.ofweek.com/2026-10/ART-91009-8420-30706810.html</link>
-<guid isPermaLink="true">https://smarthome.ofweek.com/2026-10/ART-91009-8420-30706810.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:22:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>百度已套现1个亿！前钉钉高管，冲刺“工业机器人第一股”</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321202-12003-30706808.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321202-12003-30706808.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:21:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>Microchip收购VORAGO, 给全球MCU企业指了条活路</title>
-<link>https://semi.ofweek.com/2026-10/ART-202540-8460-30706809.html</link>
-<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202540-8460-30706809.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:20:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>Microchip收购VORAGO，给全球MCU企业指了条活路</title>
-<link>https://ee.ofweek.com/2026-10/ART-8460-2816-30706807.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8460-2816-30706807.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:19:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>国产最强X86 CPU，已拿下全球2%，国内15%的份额？</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30706806.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30706806.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:18:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>特斯拉FSD在欧洲改名，中国车企出海智驾要过几道关？</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8420-30706805.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8420-30706805.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:17:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>11万元的纯电七座商务车, 吉利为什么要给它专门开发一块电池？</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36001-8140-30706804.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8140-30706804.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:15:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>11万元的纯电七座商务车，吉利为什么要给它专门开发一块电池？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71009-8140-30706803.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71009-8140-30706803.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:15:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>2026年“速成车”争议始末：从一句直播间调侃，到人民日报公开点名</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12003-30706802.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12003-30706802.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:13:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>V4 Flash跑分惊艳，但DeepSeek还没亮出底牌</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-12003-30706801.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-12003-30706801.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:13:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>从色选质检到柔性装配，地瓜机器人展出多类工业AI方案</title>
-<link>https://robot.ofweek.com/2026-10/ART-898890-8120-30706813.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8120-30706813.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>MiniMax要讲新故事</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178802-12003-30706800.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-12003-30706800.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>光芯片太火，连卖百货的都坐不住了</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210008-12003-30706799.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210008-12003-30706799.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:10:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>长鑫上市背后，存储赛道的股权生存法则</title>
-<link>https://ee.ofweek.com/2026-10/ART-12001-2812-30706798.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12001-2812-30706798.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:08:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>先进封装的资本开支周期走到哪了 ？</title>
-<link>https://semi.ofweek.com/2026-10/ART-202537-8420-30706796.html</link>
-<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202537-8420-30706796.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:07:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>飞书分拆, 国产AI办公聚焦入口是对是错</title>
-<link>https://iot.ofweek.com/2026-10/ART-132200-12003-30706797.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132200-12003-30706797.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:07:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>飞书分拆，国产AI办公聚焦入口是对是错</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178802-12003-30706795.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-12003-30706795.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:05:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>南北丰田合并关口，广汽丰田更换中方一把手</title>
-<link>https://nev.ofweek.com/2026-10/ART-71011-12003-30706794.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71011-12003-30706794.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:03:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>尊界V800制动踏板第三方检测结果公布：纵向力3000N未损坏</title>
-<link>https://nev.ofweek.com/2026-10/ART-71009-8110-30706793.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71009-8110-30706793.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:02:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI+内容下半场，钱从哪里来？</title>
-<link>https://iot.ofweek.com/2026-10/ART-132215-12003-30706792.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-12003-30706792.html</guid>
-<pubDate>Tue, 13 Oct 2026 11:01:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>微容科技理财超补流，核心原料境外采购高占比，现有产能较跷蹊</title>
-<link>https://ee.ofweek.com/2026-10/ART-12003-2816-30706791.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2816-30706791.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:59:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>国产手机慌了，大盘跌了20%：三星、苹果在涨，国产机在跌！</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-12003-30706790.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12003-30706790.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:58:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>绝地反击，惨淡 2 年后再次迎来反转，是时候关注一下了</title>
-<link>https://chuneng.ofweek.com/news/2026-10/ART-180226-12003-30706789.html</link>
-<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180226-12003-30706789.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:55:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【智能化】余杭新增两条自动驾驶公交线路</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8120-30706788.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8120-30706788.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>8月新能源渗透率达67%！国内零售承压，出口爆发</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12004-30706787.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12004-30706787.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>南北丰田整合，合资模式迎来大变局</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30706786.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30706786.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:49:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>当AI圈的“对手们”站到了同一边</title>
-<link>https://www.ofweek.com/security/2026-10/ART-510009-8110-30706785.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/security/2026-10/ART-510009-8110-30706785.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:45:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>先进封装的资本开支周期走到哪了？</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2815-30706784.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2815-30706784.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:42:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>即将开幕丨2026全球医疗健康展览会</title>
-<link>https://www.ofweek.com/medical/2026-10/ART-11106-8120-30706814.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/medical/2026-10/ART-11106-8120-30706814.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:41:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【数据显微镜】再涨20％：GPU租金二度上调，算力缺口仍在拉大</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30706783.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30706783.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:39:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>总投资300亿HJT项目要凉，光伏大黑马被地方国资申请仲裁</title>
-<link>https://solar.ofweek.com/2026-10/ART-260008-12003-30706782.html</link>
-<guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260008-12003-30706782.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:38:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>金融智能体采购: 大单缺席，治理要求前置</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178805-8420-30706781.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178805-8420-30706781.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:36:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>金融智能体采购：大单缺席，治理要求前置</title>
-<link>https://iot.ofweek.com/2026-10/ART-132215-8420-30706780.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8420-30706780.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:36:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>两年亏超51亿元，为扭亏新特能源换帅调将忙</title>
-<link>https://solar.ofweek.com/2026-10/ART-260001-12002-30706779.html</link>
-<guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260001-12002-30706779.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:36:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>车价越来越便宜，代价是什么？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30706778.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30706778.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:34:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>新能源车出口退税率下调，不是为了收出海“利息”</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30706777.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30706777.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:33:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>两冬一夏、3万公里：四部门给“速成车”踩刹车！谁在把消费者当自动驾驶试车员？</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8420-30706776.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8420-30706776.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:30:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>第一次坐无人驾驶出租车，信任不是一开始就有的，但会在第6分钟后稳下来</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8120-30706775.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8120-30706775.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:28:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>全国第一！山东邮政794辆无人车上岗，改写的不只是物流账本</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70109-8120-30706774.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8120-30706774.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:26:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【储能】鹏辉能源587Ah储能电芯量产下线</title>
-<link>https://chuneng.ofweek.com/news/2026-10/ART-180220-12003-30706772.html</link>
-<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180220-12003-30706772.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:24:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>谁在做具身智能时代的苹果 ？</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321205-8420-30706773.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-8420-30706773.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>谁在做具身智能时代的苹果？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706771.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706771.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>独家调研：2026年LED一体机尺寸与技术演进</title>
-<link>https://display.ofweek.com/2026-10/ART-230001-8420-30706770.html</link>
-<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-230001-8420-30706770.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:21:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>新能源67%炸场！零跑超越特斯拉，9月车市太裂了</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-12004-30706769.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-12004-30706769.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:17:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>半年融四轮，欧拉万象周顺波想把家庭机器人“养大”｜奇点融资报道</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321203-12005-30706768.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321203-12005-30706768.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:14:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>状告国家知识产权局！这家光伏龙头为何非要争这一局</title>
-<link>https://solar.ofweek.com/2026-10/ART-260001-12003-30706767.html</link>
-<guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260001-12003-30706767.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:12:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>成立仅一年，“清华系”太空柔性机器人研发商，获阿里、智元等押注！</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321206-8120-30706815.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321206-8120-30706815.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:11:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【风口词典】铌酸锂：光学硅的第二次登场</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210001-8420-30706766.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210001-8420-30706766.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:10:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>王兴兴低估了AI, 梁文锋开始重估机器人</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321205-8420-30706765.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-8420-30706765.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:08:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>王兴兴低估了AI，梁文锋开始重估机器人</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30706764.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30706764.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:08:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【每日科创】卓越新能：从废弃油脂到绿色航油</title>
-<link>https://ecep.ofweek.com/2026-10/ART-93013-12003-30706763.html</link>
-<guid isPermaLink="true">https://ecep.ofweek.com/2026-10/ART-93013-12003-30706763.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:07:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>全球最大医疗外骨骼公司，来了！</title>
-<link>https://www.ofweek.com/medical/2026-10/ART-8130-1111-30706816.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/medical/2026-10/ART-8130-1111-30706816.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:07:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>23亿垃圾焚烧项目花落光大，成熟市场的大单如何产生？</title>
-<link>https://ecep.ofweek.com/2026-10/ART-93011-12003-30706762.html</link>
-<guid isPermaLink="true">https://ecep.ofweek.com/2026-10/ART-93011-12003-30706762.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:04:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>笑疯！刹车踏板断了，雷军成最大赢家？网友：鬼才</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8110-30706761.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8110-30706761.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:04:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>华为版&quot;库里南&quot;来了：华系首款立标车，比问界/尊界都&quot;尊&quot;？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8110-30706759.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8110-30706759.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:02:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AWS图省事, 组装式组网能打吗？</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-8420-30706760.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-8420-30706760.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:02:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AWS图省事，组装式组网能打吗？</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2809-30706758.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2809-30706758.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:02:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>重磅！吉利李书福，拿下百年福特汽车获批</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8130-30706757.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8130-30706757.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:01:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>激光雷达大战：速腾卖59万台仍亏损，禾赛赚7000万差距在哪</title>
-<link>https://nev.ofweek.com/2026-10/ART-71009-12003-30706756.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71009-12003-30706756.html</guid>
-<pubDate>Tue, 13 Oct 2026 10:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>对话千山资本郑云飞：从大普微到相干科技，看硬科技的投资时点</title>
-<link>https://semi.ofweek.com/2026-10/ART-202541-12005-30706817.html</link>
-<guid isPermaLink="true">https://semi.ofweek.com/2026-10/ART-202541-12005-30706817.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:59:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>数据解读｜2026年9月中国汽车运行数据详解：国内少卖的 67 万辆，出口只补回六成。</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70111-8420-30706755.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70111-8420-30706755.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:58:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>数据解读｜2026年9月中国汽车运行数据详解 : 国内少卖的 67 万辆，出口只补回六成。</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8420-30706754.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8420-30706754.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:57:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>同一块电池，两条收入线如何不重复收费</title>
-<link>https://power.ofweek.com/2026-10/ART-35007-12003-30706753.html</link>
-<guid isPermaLink="true">https://power.ofweek.com/2026-10/ART-35007-12003-30706753.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:56:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>半年拿下四轮融资！这位「华为天才少年」如何发力家庭服务机器人赛道</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321203-12005-30706752.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321203-12005-30706752.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:55:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>体育大模型量产「AI教练」？庞伯特完成数亿元B轮融资</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321203-12005-30706751.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321203-12005-30706751.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>闪存混用已成默认的当下, vivo怎么还翻车了？</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-12003-30706750.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-12003-30706750.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:54:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>闪存混用已成默认的当下，vivo怎么还翻车了？</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320511-12003-30706748.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320511-12003-30706748.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:53:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AWS英伟达开源机器人工具链: 物理AI的重活被接走</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321205-8140-30706749.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321205-8140-30706749.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:53:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AWS英伟达开源机器人工具链：物理AI的重活被接走</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8140-30706747.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8140-30706747.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:53:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>宇树科技王兴兴认错：过去十几年，低估了AI做机器人的能力</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321206-8470-30706746.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321206-8470-30706746.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:52:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>财经、蓝鲸、福布斯同日开炮：具身智能订单里的水分得挤一挤</title>
-<link>https://robot.ofweek.com/2026-10/ART-8321206-8420-30706745.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-8321206-8420-30706745.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:52:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>全球星座，地面生意</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320501-8420-30706744.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320501-8420-30706744.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:51:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>乐聚机器人首发通用方案：一只手干所有活，精度0.03mm</title>
-<link>https://robot.ofweek.com/2026-10/ART-898890-8110-30706743.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8110-30706743.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:50:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>遥遥领先！华为拿下折叠屏70%市场，子品牌 “星芒” 本月或推出阔直板</title>
-<link>https://display.ofweek.com/2026-10/ART-8321307-12003-30706742.html</link>
-<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8321307-12003-30706742.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:49:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>DeepSeek梁文锋盯上机器人：语言模型的天花板，用身体来捅破</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706741.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178803-8420-30706741.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:48:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI办公，流量只是开始</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178805-8420-30706740.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178805-8420-30706740.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:48:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>四部门出手整治速成车! 汽车造得快，为什么不能拿验证开刀？</title>
-<link>https://www.ofweek.com/auto/2026-10/ART-70103-8480-30706737.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70103-8480-30706737.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:46:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>四部门出手整治速成车！汽车造得快，为什么不能拿验证开刀？</title>
-<link>https://nev.ofweek.com/2026-10/ART-71008-8480-30706736.html</link>
-<guid isPermaLink="true">https://nev.ofweek.com/2026-10/ART-71008-8480-30706736.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:46:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>存储短缺冲击太大！全球三季度手机出货量暴跌20%：创14年来同期最低</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30706735.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30706735.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:42:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>钠电的商业化拐点真来了！宁德时代签下70GWh钠电订单，欧洲集成商不再观望</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36001-8460-30706734.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8460-30706734.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:41:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>王一博代言的健腹仪，“越卖越亏”？</title>
-<link>https://wearable.ofweek.com/2026-10/ART-12003-5012-30706733.html</link>
-<guid isPermaLink="true">https://wearable.ofweek.com/2026-10/ART-12003-5012-30706733.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:40:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>电视越来越难卖了！中国市场9月出货量同比下降7.5%</title>
-<link>https://display.ofweek.com/2026-10/ART-8321305-8420-30706732.html</link>
-<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8321305-8420-30706732.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:40:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>28岁姚顺雨坐马化腾身旁，“AI大战”核心圈挤满90后</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178801-8460-30706731.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-8460-30706731.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:37:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>国内最大智算新云冲刺IPO，两年营收暴增9倍背后的“算力杠杆”</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178801-12003-30706730.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178801-12003-30706730.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:32:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>电网设备掀涨停潮，金冠电气20cm涨停只是前菜！5万亿投资落地，真正的金矿在海外</title>
-<link>https://power.ofweek.com/2026-10/ART-35021-12001-30706729.html</link>
-<guid isPermaLink="true">https://power.ofweek.com/2026-10/ART-35021-12001-30706729.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>波士顿科学，起诉强生！</title>
-<link>https://www.ofweek.com/medical/2026-10/ART-11106-8130-30706818.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/medical/2026-10/ART-11106-8130-30706818.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI伴侣劝用户别吃饭？Character.AI再被告，客服回复更离谱</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8110-30706728.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8110-30706728.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>【评论】赌报价赚快钱时代落幕，售电行业迎来强制性能力筛查</title>
-<link>https://power.ofweek.com/2026-10/ART-35018-8420-30706727.html</link>
-<guid isPermaLink="true">https://power.ofweek.com/2026-10/ART-35018-8420-30706727.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:29:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>吉利电池卖储能电芯</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36001-8120-30706738.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8120-30706738.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:24:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>3亿，国轩高科又成立一家新公司</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36008-8120-30706739.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36008-8120-30706739.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>陈宇森要给AI补上下文, 钉钉的家底够用吗？</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30706725.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30706725.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:15:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>陈宇森要给AI补上下文，钉钉的家底够用吗？</title>
-<link>https://iot.ofweek.com/2026-10/ART-132215-8420-30706724.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8420-30706724.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:15:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>上海海思显示芯核CEO罗琨：屏幕的未来，不止于看见</title>
-<link>https://display.ofweek.com/2026-10/ART-8321307-8610-30706723.html</link>
-<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8321307-8610-30706723.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:14:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AMD联手李飞飞, 英伟达还坐得住吗？</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30706722.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23001-8420-30706722.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:11:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AMD联手李飞飞，英伟达还坐得住吗？</title>
-<link>https://ee.ofweek.com/2026-10/ART-8420-2801-30706720.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8420-2801-30706720.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:09:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>小米澎湃OS 4兼容苹果生态, 当“封闭”开始向“开放”低头</title>
-<link>https://iot.ofweek.com/2026-10/ART-132240-8110-30706721.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132240-8110-30706721.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:08:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>小米澎湃OS 4兼容苹果生态，当“封闭”开始向“开放”低头</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-8110-30706717.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8110-30706717.html</guid>
-<pubDate>Tue, 13 Oct 2026 09:07:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>储能“老兵”获提名！百亿级央企补选董事</title>
-<link>https://chuneng.ofweek.com/news/2026-10/ART-180226-12000-30706716.html</link>
-<guid isPermaLink="true">https://chuneng.ofweek.com/news/2026-10/ART-180226-12000-30706716.html</guid>
-<pubDate>Tue, 13 Oct 2026 07:10:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>0.758-0.798元/W！两大光伏龙头拿下老挝500MW组件大单</title>
-<link>https://solar.ofweek.com/2026-10/ART-260008-12000-30706715.html</link>
-<guid isPermaLink="true">https://solar.ofweek.com/2026-10/ART-260008-12000-30706715.html</guid>
-<pubDate>Tue, 13 Oct 2026 07:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>具身智能走进工厂：宝维塔工博会两大发布，柔性制造与车载电子测试同步提速</title>
-<link>https://robot.ofweek.com/2026-10/ART-898890-8120-30706718.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8120-30706718.html</guid>
-<pubDate>Mon, 12 Oct 2026 18:37:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>赛索德 SynRobot 03 正式亮相工博会：工业世界模型驱动具身智能作业单元落地</title>
-<link>https://robot.ofweek.com/2026-10/ART-898890-8120-30706719.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8120-30706719.html</guid>
-<pubDate>Mon, 12 Oct 2026 18:31:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>00后创始人、14人小团队，叫板Meta</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178805-12005-30706710.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178805-12005-30706710.html</guid>
-<pubDate>Mon, 12 Oct 2026 18:19:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
