@@ -4,10 +4,19 @@
 <link>https://www.ofweek.com/CATList-8100-CHANGYIEXINWE.html</link>
 <description>维科网 CATList-8100（智能汽车频道）；源站 GBK 编码，已转码；2026-10-10 开启分页（单页仅 20 条，只抓首页无法覆盖到前一天 00:00）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 17:38:59 +0800</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:51:22 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/ofweek.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>哈啰Robotaxi的世界模型能缩短多少差距？</title>
+<link>https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707319.html</link>
+<guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8420-30707319.html</guid>
+<pubDate>Thu, 15 Oct 2026 17:50:00 +0800</pubDate>
+<description>本文来源：智驾最前沿 网络公开资料 据界面快报等多家媒体报道，10月13日，哈啰Robotaxi正式发布生成式驾驶世界模型HelloWorld。据官方介绍，该模型支持通过自然语言描述需求，或直接编辑车辆、行人及运动轨迹，生成对应的多视角视频与激光雷达观测。从插入横穿行人到切换雨雪昼夜条件，研发人员可围绕具体需求构造场景，扩展真实采集中难以充分覆盖的长尾情境。 哈啰为什么要做世界模型？答案要从时间线上找。 2025年6月成立造父智能，9月发布首款车型，2026年7月量产下线，9月完成1亿美元融资。15个月，从零到量产车下线。但路测里程、复杂场景、安全冗余，这些不是资本和速度能堆出来的。世界模型，本质上是哈啰用生成式AI的能力，去缩短这个积累过程。 HelloWorld：数据从哪来？ HelloWorld是哈啰“道驭”百亿参数大模型体系的一部分。后者由哈啰Robotaxi与阿里云Qwen团队联合研发，涵盖数据挖掘、世界模型仿真与VLA云司机基座的云端能力。HelloWorld承担的是数据生成与仿真验证的角色，为端到端模型训练提供场景数据。 据公开信息，哈啰Robotaxi核心技术团队规模超过500人，平均年龄27岁，以“AI原生”和无历史包袱的架构为特征，采用数据驱动的端到端大模型路线。按照哈啰的规划，至2026年建立包含不少于1000万clips的高质量数据集。在真实路测里程有限的情况下，生成式世界模型成为补充数据缺口的工具。 这一方向并非哈啰独有。据公开信息，小鹏发布基于视频扩散生成技术的X-World，小米推出Xiaomi Auto World Model，Waymo借助Google DeepMind的Genie 3构建虚拟环境。Waymo称，其世界模型能够模拟龙卷风等极端天气以及车辆遭遇野生动物等场景。 哈啰的特点在于，它的世界模型与产业股东结构形成了更紧密的绑定。阿里</description>
+<category>新能源汽车</category>
+<source>维科网·智能汽车</source>
+</item>
 <item>
 <title>澳洲首例智能眼镜隐私调查，竟扒出一家深圳软件公司</title>
 <link>https://wearable.ofweek.com/2026-10/ART-8110-5010-30707318.html</link>
@@ -76,7 +85,6 @@
 <link>https://cloud.ofweek.com/news/2026-10/ART-178807-8420-30707311.html</link>
 <guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178807-8420-30707311.html</guid>
 <pubDate>Thu, 15 Oct 2026 17:15:00 +0800</pubDate>
-<description>作者｜Vinco 编辑｜李小天 乌兰察布的风，一年刮两次，一次刮半年。 当地人这么“自嘲”了很多年。风从西伯利亚来，穿过内蒙古高原，裹着沙和草屑，冬天刺骨，春天迷眼。过去它只意味着出门艰难、晾衣服得用夹子。谁也没想到，有一天这股风会被风机截住，变成电，沿着输电线路涌进一排排服务器，再变成Token，流向北京的模型训练、上海的推理调用、深圳的智能体后台。 更没想到的是，这股风正在往全球吹。 今年8月，高盛的一份报告，把乌兰察布推到了全球算力圈的聚光灯下，称它是“亚太规模最大、增长最快的AI算力集群之一”。随后，摩根士丹利、WIRED（美国科技媒体《连线》）等接连把镜头对准这座五线小城。截至今年6月，当地拿到的数据中心容量承诺约12.5GW，超过OpenAI在2025年启动Stargate时提出的10GW美国AI基础设施初始承诺。 一个种土豆、产酸奶、办火山草原旅游节的地方，突然和GPU、GW、Token绑在了一起。这片风电与光伏铺满的广袤草原，一夜之间成了全球算力版图上最炙手可热的地方。 但乌兰察布的出圈，不是孤例。它背后是一股持续涌动的AI热潮：AI算力正在从科技中心向能源产地迁移。而这场迁移的胜负手，不只是谁的风更大、地更便宜，而是谁能在电价、气候、网络时延、政府执行力以及长期稳定之间，找到那个别人复制不了的组合。 问题随之而来：海外版乌兰察布，正在哪里出现？ 乌兰察布凭什么？ 我们先来看看乌兰察布手里有什么牌。 第一张牌，是电价。 乌兰察布的数据中心，到户电价大概在0.32~0.36元/度，走的是蒙西电网的标准。拿北京做个对照，那边数据中心的实际用电成本差不多要0.80元。乍一看，差价好像没到离谱的程度，但真正的账要摊到每张卡上去算。 以一张700W的AI加速卡为例，全年无休地跑，一年要消耗约6100度电，单张卡一年能省下约2700元；要是凑够一万张卡组成集群，一年省出</description>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
@@ -3045,174 +3053,6 @@
 <link>https://www.ofweek.com/auto/2026-10/ART-70109-8130-30706923.html</link>
 <guid isPermaLink="true">https://www.ofweek.com/auto/2026-10/ART-70109-8130-30706923.html</guid>
 <pubDate>Tue, 13 Oct 2026 17:44:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>大电芯量产竞速：鹏辉能源风鹏电芯587Ah正式量产下线</title>
-<link>https://libattery.ofweek.com/2026-10/ART-36001-8120-30706927.html</link>
-<guid isPermaLink="true">https://libattery.ofweek.com/2026-10/ART-36001-8120-30706927.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:42:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>“芯片门诊”季丰电子IPO 这是一门好生意吗？</title>
-<link>https://ee.ofweek.com/2026-10/ART-12003-2801-30706919.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2801-30706919.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:36:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>订单等产能！这家光学企业上市首日暴涨449%</title>
-<link>https://optics.ofweek.com/2026-10/ART-8100-2500-30706920.html</link>
-<guid isPermaLink="true">https://optics.ofweek.com/2026-10/ART-8100-2500-30706920.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:28:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>2000亿韩元一台设备！LGD不建线，豪赌FLiPP</title>
-<link>https://display.ofweek.com/2026-10/ART-8100-2300-30706921.html</link>
-<guid isPermaLink="true">https://display.ofweek.com/2026-10/ART-8100-2300-30706921.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:26:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>三季报 | 源杰科技净利预增五倍, 从“缺货红利”到“交付大考”</title>
-<link>https://tele.ofweek.com/2026-10/ART-8320503-12003-30706916.html</link>
-<guid isPermaLink="true">https://tele.ofweek.com/2026-10/ART-8320503-12003-30706916.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI喂养, 正在成为一条产业链</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23012-8420-30706917.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23012-8420-30706917.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:23:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>算力价格战, 打到了硅谷</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30706918.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178804-8420-30706918.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:22:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI办公正在形成 “三足鼎立” 局面</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30706915.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178802-8420-30706915.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:18:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI办公正在形成“三足鼎立”局面</title>
-<link>https://iot.ofweek.com/2026-10/ART-132215-8420-30706914.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132215-8420-30706914.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:18:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>Meta Muse引爆的这场“代理人战争”, 字节和腾讯都坐不住了</title>
-<link>https://iot.ofweek.com/2026-10/ART-132200-8420-30706913.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132200-8420-30706913.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:17:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>Meta Muse引爆的这场“代理人战争”，字节和腾讯都坐不住了</title>
-<link>https://cloud.ofweek.com/news/2026-10/ART-178808-8420-30706912.html</link>
-<guid isPermaLink="true">https://cloud.ofweek.com/news/2026-10/ART-178808-8420-30706912.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:16:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>算力价格战，打到了硅谷</title>
-<link>https://iot.ofweek.com/2026-10/ART-132214-8420-30706911.html</link>
-<guid isPermaLink="true">https://iot.ofweek.com/2026-10/ART-132214-8420-30706911.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:16:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>费斯托以“气电融合，数智赋能”亮相2026工博会 新一代VUVX电磁阀全球首发</title>
-<link>https://www.ofweek.com/im/2026-10/ART-201927-8120-30706922.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201927-8120-30706922.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:15:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>工博会新品|海康威视这款融合雷达解决筒仓测量“疑难杂症”</title>
-<link>https://www.ofweek.com/im/2026-10/ART-201900-8100-30707081.html</link>
-<guid isPermaLink="true">https://www.ofweek.com/im/2026-10/ART-201900-8100-30707081.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:15:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI越火, 电脑越难卖</title>
-<link>https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30706910.html</link>
-<guid isPermaLink="true">https://znyj.ofweek.com/news/2026-10/ART-23013-8420-30706910.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:14:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI越火，电脑越难卖</title>
-<link>https://ce.ofweek.com/2026-10/ART-2022112-8420-30706909.html</link>
-<guid isPermaLink="true">https://ce.ofweek.com/2026-10/ART-2022112-8420-30706909.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:14:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>AI喂养，正在成为一条产业链</title>
-<link>https://robot.ofweek.com/2026-10/ART-898890-8420-30706908.html</link>
-<guid isPermaLink="true">https://robot.ofweek.com/2026-10/ART-898890-8420-30706908.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:13:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>近30亿采购芯片，弘信电子算力业务转型提速</title>
-<link>https://ee.ofweek.com/2026-10/ART-12003-2801-30706907.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-12003-2801-30706907.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:11:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>三季报 | 源杰科技净利预增五倍，从“缺货红利”到“交付大考”</title>
-<link>https://fiber.ofweek.com/2026-10/ART-210008-12003-30706906.html</link>
-<guid isPermaLink="true">https://fiber.ofweek.com/2026-10/ART-210008-12003-30706906.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:08:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>SS6343M｜316V三相BLDC驱动芯片-内置MOS+LDO</title>
-<link>https://ee.ofweek.com/2026-10/ART-8210-2809-30706905.html</link>
-<guid isPermaLink="true">https://ee.ofweek.com/2026-10/ART-8210-2809-30706905.html</guid>
-<pubDate>Tue, 13 Oct 2026 17:06:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>维科网·智能汽车</source>
-</item>
-<item>
-<title>11 月上市！拓竹官宣首款手持3D扫描仪 S1</title>
-<link>https://3dprint.ofweek.com/2026-10/ART-132100-8100-30706902.html</link>
-<guid isPermaLink="true">https://3dprint.ofweek.com/2026-10/ART-132100-8100-30706902.html</guid>
-<pubDate>Tue, 13 Oct 2026 16:58:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>维科网·智能汽车</source>
 </item>
