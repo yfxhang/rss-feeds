@@ -4,10 +4,50 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 06:52:43 +0800</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 08:37:21 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>四川具身机器人公司牵手中科摇橹船，攻关复杂环境感知技术</title>
+<link>https://m.gasgoo.com/news/70474820.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474820.html</guid>
+<pubDate>Thu, 15 Oct 2026 08:02:42 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>航宇智造北京新基地开工，拟投资10亿元布局新能源汽车与空天制造</title>
+<link>https://m.gasgoo.com/news/70474819.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474819.html</guid>
+<pubDate>Thu, 15 Oct 2026 07:59:04 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>蚂蚁灵波牵手多家制造业企业，具身智能加速进入工业与物流场景</title>
+<link>https://m.gasgoo.com/news/70474818.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474818.html</guid>
+<pubDate>Thu, 15 Oct 2026 07:57:08 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>黑芝麻智能签下3亿元AI服务器合同，拓展汽车芯片以外市场</title>
+<link>https://m.gasgoo.com/news/70474817.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474817.html</guid>
+<pubDate>Thu, 15 Oct 2026 07:55:07 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>C Talk | Elektrobit倪耀程：Right-sized SDV，让每一笔软件投入恰到好处</title>
+<link>https://m.gasgoo.com/news/70474655.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70474655.html</guid>
+<pubDate>Thu, 15 Oct 2026 07:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>中欧汽车贸易磋商达成共识，长安、零跑、东风、广汽接连回应</title>
 <link>https://m.gasgoo.com/news/70474816.html</link>
@@ -85,46 +125,6 @@
 <link>https://m.gasgoo.com/news/70474796.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474796.html</guid>
 <pubDate>Wed, 14 Oct 2026 17:33:26 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>上市近半年，极氪8X登顶30-50万混动SUV累计销量第一</title>
-<link>https://m.gasgoo.com/news/70474788.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474788.html</guid>
-<pubDate>Wed, 14 Oct 2026 16:50:05 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>关于中欧磋商共识，广汽集团发布声明</title>
-<link>https://m.gasgoo.com/news/70474787.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474787.html</guid>
-<pubDate>Wed, 14 Oct 2026 16:38:33 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>奇瑞与博世签署欧洲ADAS定点，将搭载6款新车型</title>
-<link>https://m.gasgoo.com/news/70474784.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474784.html</guid>
-<pubDate>Wed, 14 Oct 2026 16:13:44 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>禾赛正式发布Kosmo，15分钟完成100平方米真实空间三维重建</title>
-<link>https://m.gasgoo.com/news/70474783.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474783.html</guid>
-<pubDate>Wed, 14 Oct 2026 16:01:01 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>零跑的欧洲突围</title>
-<link>https://m.gasgoo.com/news/70474781.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474781.html</guid>
-<pubDate>Wed, 14 Oct 2026 15:44:49 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
