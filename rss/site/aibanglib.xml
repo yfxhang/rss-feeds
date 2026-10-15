@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 16:40:38 +0800</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:21:34 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>超级电容行业的“幕后力量”：国内高校与科研院所全景图</title>
+<link>https://www.aibanglib.com/a/32713</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32713</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+<description>本文梳理了国内超级电容领域的主要高校和科研院所，供产业界人士…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>隔膜材料企业源启膜创获天使轮融资，产品适用于超级电容器、高功率电池等万亿级市场</title>
 <link>https://www.aibanglib.com/a/32711</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32645</guid>
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
 <description>近日，南京动量材料科技有限公司（下文简称：动量材料）成功完成…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>不止调频，还能黑启动！超级电容+半固态电池混合储能项目在广州试运行成功</title>
-<link>https://www.aibanglib.com/a/32619</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32619</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-<description>本项目充分发挥混合调频优势，半固态电池安全性更优，超级电容有…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
