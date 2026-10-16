@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>工业和信息化部等三部门联合调查有关车辆刹车踏板支架断裂问题</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/art/2026/art_32a5683624bc474fb015963c00d4e998.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/art/2026/art_32a5683624bc474fb015963c00d4e998.html</guid>
+<description>针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。</description>
+<pubDate>Fri, 16 Oct 2026 09:10:12 +0800</pubDate>
+</item>
+<item>
 <title>信息技术发展司召开电子认证业务规则规范改造工作推进会</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_4bbb7f532fac48718d394cf89cb74d76.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_4bbb7f532fac48718d394cf89cb74d76.html</guid>
@@ -417,11 +424,4 @@
 <description>本次活动由江苏省通信管理局发起，江苏省公安厅、省人民检察院、省高级人民法院、人民银行江苏省分行联合指导，江苏省信息通信行业反诈联盟主办。南京公安、南京邮电大学、江苏省内各基础电信企业、移动转售企业及头部互联网企业共同参与。</description>
 <pubDate>Wed, 23 Sep 2026 17:30:39 +0800</pubDate>
 </item>
-<item>
-<title>内蒙古自治区信息通信业圆满完成2026年应急通信保障无预通知实战演练</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6979f27711f54093970b77269a82c0f6.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_6979f27711f54093970b77269a82c0f6.html</guid>
-<description>近日，为深入贯彻落实防灾减灾救灾工作要求，切实提升极端自然灾害条件下应急通信保障能力，检验重点地区地震应急通信保障预案可行性，内蒙古自治区通信管理局在阿拉善盟组织开展2026年应急通信保障无预通知实战演练。此次演练突出“不预通知、不设脚本、不预留准备时间”的实战导向，旨在真实检验各电信企业应急队伍的突发响应和处置能力。</description>
-<pubDate>Wed, 23 Sep 2026 17:18:15 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19872 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19873 条）
