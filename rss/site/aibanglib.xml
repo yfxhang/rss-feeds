@@ -4,10 +4,28 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 09:46:01 +0800</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:07:47 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>金时科技携全系列超级电容产品亮相宁德世界储能大会</title>
+<link>https://www.aibanglib.com/a/32722</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32722</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<description>10月14日 —— 金时科技（002951）携全系列超级电容…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>西门子对超级电容器制造商Skeleton Technologies进行战略投资</title>
+<link>https://www.aibanglib.com/a/32715</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32715</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<description>西门子将与Skeleton建立独家合作伙伴关系，并进行深度的…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>超级电容行业的“幕后力量”：国内高校与科研院所全景图</title>
 <link>https://www.aibanglib.com/a/32713</link>
@@ -77,24 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32652</guid>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
 <description>近期，工业和信息化部等七部门联合印发《新型电池产业发展“十五…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>鹏辉能源风鹏电芯587Ah下线：大电芯时代的热安全与隔热材料机遇</title>
-<link>https://www.aibanglib.com/a/32697</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32697</guid>
-<pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate>
-<description>10月10日上午10点，鹏辉能源在衢州零碳工厂二期厂房内举行…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>超级电容电极材料厂商动量材料完成新一轮融资</title>
-<link>https://www.aibanglib.com/a/32645</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32645</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-<description>近日，南京动量材料科技有限公司（下文简称：动量材料）成功完成…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

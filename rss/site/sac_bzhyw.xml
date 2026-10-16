@@ -4,10 +4,42 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/index.html</link>
 <description>国家标准化管理委员会「标准化要闻」；页面本身是 jpaas 动态组件（无静态条目），本源直接调它的 build/unit 接口取列表片段</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 09:45:31 +0800</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:07:15 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/sac_bzhyw.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>香港首次参与研制的7项氢能国家标准正式发布</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7f9e656581d049f1b74caa822f23c5b5.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7f9e656581d049f1b74caa822f23c5b5.html</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
+<item>
+<title>15项氢能国家标准发布 筑牢氢能全产业链高质量发展基石</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_b95f39c562074b468d17b874d72567ca.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_b95f39c562074b468d17b874d72567ca.html</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
+<item>
+<title>市场监管总局等四部门联合举办世界标准日主题活动</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_75b38865ae9f435da46526df19b34227.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_75b38865ae9f435da46526df19b34227.html</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
+<item>
+<title>2026年1月至9月我国牵头制定国际标准220项</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_8b2646fed8b045eda1dd18c9f13e3873.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_8b2646fed8b045eda1dd18c9f13e3873.html</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
 <item>
 <title>市场监管总局批准发布88项国家标准样品</title>
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d79d29230e804aeba4ad8cc698fd4952.html</link>
@@ -133,38 +165,6 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_499a0406cb69408982861a7fb9f91e8d.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_499a0406cb69408982861a7fb9f91e8d.html</guid>
 <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>国家标准委发布298项国家标准</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_ec272aba1dd340849866a6724c1ca9a8.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_ec272aba1dd340849866a6724c1ca9a8.html</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>市场监管总局批准发布一批重要国家标准</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_733dc9348f9d485287df7ed1540e9476.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_733dc9348f9d485287df7ed1540e9476.html</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>《机动车儿童乘员用约束系统电子功能技术规范》国家标准将实施</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7d1ba501db0a4e69a3f1cabd38ecb767.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7d1ba501db0a4e69a3f1cabd38ecb767.html</guid>
-<pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>市场监管总局发布两项适老化评价新国标以标准守护老年人社区生活幸福感</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d89ad90e938d4ff2869e14539e6409bd.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_d89ad90e938d4ff2869e14539e6409bd.html</guid>
-<pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>
 </item>

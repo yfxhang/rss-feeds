@@ -4,60 +4,61 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 09:45:31 +0800</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:07:13 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>奇瑞EEA5.1架构分析</title>
+<link>https://www.shujubang.com/detail/21547</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21547</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<description>低成本兼顾先进性</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>2026年新能源商用车 800-1000V 高压平台及供应链全景研究报告</title>
+<link>https://www.shujubang.com/detail/21546</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21546</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+<description>商用车800V研究：新能源渗透率已超35%，800V全域高压向重卡快速渗透</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>最贵国产车型尊界S800之EEA电子电气架构分析</title>
+<link>https://www.shujubang.com/detail/21549</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21549</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+<description>中规中矩</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>2026年ADAS及自动驾驶Tier1研究-国内篇</title>
+<link>https://www.shujubang.com/detail/21545</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21545</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<description>2026 ADAS Tier1研究:智驾产业跃迁，从L2.9普惠落地迈向物理AI与全域移动新生态</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>《中国AI及机器人技术监测报告》（2026年10月期）</title>
+<link>https://www.shujubang.com/detail/21548</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21548</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+<description>汽车供应链切入具身智能，由试点升级为量产| 具身智能产业月度观察</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>48V区域Zone域控制器设计，eFuse成为标配</title>
 <link>https://www.shujubang.com/detail/21543</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21543</guid>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
 <description>中国引领全球汽车电子潮流</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>汽车新技术月度监测与分析报告2026年10月期</title>
-<link>https://www.shujubang.com/detail/21544</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21544</guid>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-<description>强标推动下，e-Call、直连通信、DMS、DSSCDA &amp; DSSAD等将快速上车|新技术月报2026年10月期</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年中国OEM主机厂数据能力分析报告</title>
-<link>https://www.shujubang.com/detail/21542</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21542</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
-<description>主机厂数据能力研究：24 OEM × 9 能力域，谁在领跑？</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>具身智能机器人产业链全景图（10月版）</title>
-<link>https://www.shujubang.com/detail/21540</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21540</guid>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>比亚迪大唐EV之EEA电子电气架构分析</title>
-<link>https://www.shujubang.com/detail/21541</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21541</guid>
-<pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
-<description>不次于五十万豪华车</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>蔚来ES9中央计算域控制器拆解与电子电气架构EEA分析</title>
-<link>https://www.shujubang.com/detail/21538</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21538</guid>
-<pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
-<description>真遥遥领先</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

@@ -4,10 +4,34 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 09:45:33 +0800</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:07:15 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>共赴新质之约 共筑铝业未来 2026年中国国际铝业大会开幕</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474679</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474679</guid>
+<pubDate>Fri, 16 Oct 2026 21:02:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>敖宏到中国宏桥、创新集团调研座谈</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474678</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474678</guid>
+<pubDate>Fri, 16 Oct 2026 20:44:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>坚定信心促消费 深化合作谱新篇 2026扩大铝应用论坛召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474677</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474677</guid>
+<pubDate>Fri, 16 Oct 2026 20:12:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>2026上海衍生品市场论坛举行</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474658</link>
@@ -141,30 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474483</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474483</guid>
 <pubDate>Mon, 12 Oct 2026 10:41:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>这一片格桑花海 西矿稀贵金属公司以实干书写砥砺奋进新答卷</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474433</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474433</guid>
-<pubDate>Fri, 09 Oct 2026 08:01:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026秋季赫章鼎盛鑫矿业发展有限公司招聘公告</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474431</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474431</guid>
-<pubDate>Thu, 08 Oct 2026 17:04:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中金岭南连续4年入选“大湾区国企ESG发展指数”榜单</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474416</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474416</guid>
-<pubDate>Thu, 08 Oct 2026 09:56:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

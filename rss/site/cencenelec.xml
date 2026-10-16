@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 09:45:40 +0800</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 00:07:24 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>Keeping critical infrastructure safe with EN ISO 24817:2026</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-15-en-iso-24817-2026/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-15-en-iso-24817-2026/</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+<description>Pressurized systems are found at the core of many of our key industries, including hospitals, chemical plants, and nuclear power stations – they are even in the heating systems in our homes. Sudden failure of these systems can be catastrophic, so industry first started work to standardize the design, operation, and maintenance in the 1880s. EN ISO 24817:2026 provides guidance on using advanced composite materials such as carbon or glass fibre reinforced epoxy resins (as an alternative to traditional methods) to enable the continued, safe operation of pressurized systems where inspection identifies points of concern. EN ISO 24817:2026 was first published in 2006 and provided an internationally recognized framework for the safe implementation of composite repairs to pressurized systems, ulti</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>First ever European standard on AI published in the OJEU</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-15-en-18286-2026-published-in-ojeu/</link>
@@ -18,11 +27,11 @@
 <source>CEN/CENELEC·新闻</source>
 </item>
 <item>
-<title>&quot;Standards are a backbone of the Single Market&quot;: CEN and CENELEC contribute to IMCO hearing on the future of European standardization</title>
+<title>&quot;Standards are a backbone of the Single Market&quot;: CEN and CENELEC contribute to IMCO hearing on the European Product Act</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-10-15-imco-hearing/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-10-15-imco-hearing/</guid>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
-<description>On 15 October, Andreea Gulacsi, Director of Policy and External Affairs at CEN and CENELEC, participated in a public hearing of the European Parliament's Committee on the Internal Market and Consumer Protection (IMCO) on the future European Product Act. The hearing brought together representatives of the European Commission, national authorities, consumer organizations, industry and standardization bodies to discuss the future of EU product legislation and the European standardization system. Speaking during the hearing's second panel, Andreea Gulacsi underlined the essential role of standards in supporting Europe's Single Market and highlighted the need for a strong public-private partnership in standardization. She noted that CEN and CENELEC already bring together around 90,000 experts a</description>
+<description>On 15 October, Andreea Gulacsi, Director of Policy and External Affairs at CEN and CENELEC, participated in a public hearing of the European Parliament's Committee on the Internal Market and Consumer Protection (IMCO) on the European Product Act. The hearing brought together representatives of the European Commission, national authorities, consumer organizations, industry and standardization bodies to discuss the New Standardization Regulation as well as the upcoming European Product Act that will set the future of EU product legislation. Speaking during the hearing's second panel, Andreea Gulacsi underlined the essential role of standards in supporting Europe's Single Market and highlighted the need for a strong public-private partnership in standardization. She noted that CEN and CENELEC</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-09-30_battery2life/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/2026-09-30_battery2life/</guid>
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-<description>A new CEN/CLC Workshop is being established to explore the options of second life batteries in the context of an interoperable Battery Management System (BMS). The Workshop stems from work being done in Battery2Life – a project aiming to bring innovation to the European battery industry. The Battery2Life project is concerned to answer the growing problem of the transition of batteries to their second life use. It recognises the need for more adaptable systems and smarter design, and the challenge of developing new methods for reconfiguration of used batteries in a way that is efficient and reliable. The consortium draws together partners from research, academia, industry, business, and standardisation. Together they seek to improve technological advances in BMS and system design as well as</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -85,14 +93,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/call-for-tender/2026-09-30_netex/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/call-for-tender/2026-09-30_netex/</guid>
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Improving protection for motorcycle police officers</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-etuc/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-76-etuc/</guid>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
