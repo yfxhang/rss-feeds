@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>山东一企业通过禁止化学武器组织现场视察</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_7a6922a121aa4fdc807762202862bc28.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_7a6922a121aa4fdc807762202862bc28.html</guid>
+<description>2026年10月11—15日，位于山东省聊城市的聊城氟尔新材料科技有限公司的第二类监控化学品生产、消耗设施接受禁止化学武器组织现场视察并顺利通过。视察结果表明，企业提交的宣布信息与企业生产经营活动一致，企业没有从事《禁止化学武器公约》禁止的任何活动。这是我国民用工业2026年接受的第21次现场视察，自履约以来累计接受的第563次现场视察。</description>
+<pubDate>Fri, 16 Oct 2026 08:40:41 +0800</pubDate>
+</item>
+<item>
 <title>云南通信管理局发布《云南省信息通信行业发展“十五五”规划》</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_30a60b23eee140d0829712ce26b52d02.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_30a60b23eee140d0829712ce26b52d02.html</guid>
@@ -417,11 +424,4 @@
 <description>2026年9月19日6时30分，攀枝花市盐边县六合村突发泥石流灾害，造成攀枝花市盐边县2人遇难3人失联，基站退服3个，光缆中断2.5皮长公里。灾情发生后，四川省通信管理局第一时间组织攀枝花市通信发展办公室及属地应急保障队伍赶赴受灾区域开展应急通信保障工作，依托四川省空天地通信综合管理平台，为四川翼龙应急通信无人机增援任务提供空中通信基站服务。</description>
 <pubDate>Wed, 23 Sep 2026 16:25:04 +0800</pubDate>
 </item>
-<item>
-<title>2026（第二届）激光制造与增材制造创新发展大会在北京举行</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c5f5534e098b4ad1b4934d959eba6e27.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c5f5534e098b4ad1b4934d959eba6e27.html</guid>
-<description>9月22日，2026（第二届）激光制造与增材制造创新发展大会在北京举行。工业和信息化部高新技术司副司长毛俊锋，山东大学副校长刘兆军、中国机械科学研究总院集团有限公司副总经理李爱国出席会议并致辞。会上，发布《激光制造与增材制造行业高质量发展倡议》。</description>
-<pubDate>Wed, 23 Sep 2026 14:55:26 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19870 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19871 条）

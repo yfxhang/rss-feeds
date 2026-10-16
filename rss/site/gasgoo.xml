@@ -4,10 +4,34 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 16 Oct 2026 08:27:24 +0800</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 08:49:59 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>因湃电池第30万套电池正式下线，为广汽自研</title>
+<link>https://m.gasgoo.com/news/70475013.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475013.html</guid>
+<pubDate>Fri, 16 Oct 2026 08:39:22 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>工信部发布人工智能 &quot;产业导航图&quot;，汽车列重点赋能领域</title>
+<link>https://m.gasgoo.com/news/70475012.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475012.html</guid>
+<pubDate>Fri, 16 Oct 2026 08:29:39 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>赣锋锂业：前三季度净利润同比大增195倍</title>
+<link>https://m.gasgoo.com/news/70475011.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475011.html</guid>
+<pubDate>Fri, 16 Oct 2026 08:19:05 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>长飞先进技术发布会召开 瞄准车规主驱及AI数据中心</title>
 <link>https://m.gasgoo.com/news/70474975.html</link>
@@ -101,30 +125,6 @@
 <link>https://m.gasgoo.com/news/70474902.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70474902.html</guid>
 <pubDate>Thu, 15 Oct 2026 15:19:31 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>现代汽车集团计划至2032年在印度投资155亿美元</title>
-<link>https://m.gasgoo.com/news/70474900.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474900.html</guid>
-<pubDate>Thu, 15 Oct 2026 15:18:47 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>宝马集团第三季度纯电动汽车交付量同比增长7.2% 欧洲市场交付量占比近四分之三</title>
-<link>https://m.gasgoo.com/news/70474917.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474917.html</guid>
-<pubDate>Thu, 15 Oct 2026 15:18:05 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>小鹏汽车计划2030年实现百万辆交付目标 半数来自欧洲市场</title>
-<link>https://m.gasgoo.com/news/70474918.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70474918.html</guid>
-<pubDate>Thu, 15 Oct 2026 15:17:10 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
