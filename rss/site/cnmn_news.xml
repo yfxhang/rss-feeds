@@ -4,10 +4,18 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 17 Oct 2026 01:07:15 +0800</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 00:09:29 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026上海衍生品市场论坛有色分论坛举行</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474680</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474680</guid>
+<pubDate>Sat, 17 Oct 2026 19:19:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>共赴新质之约 共筑铝业未来 2026年中国国际铝业大会开幕</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474679</link>
@@ -157,14 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474485</guid>
 <pubDate>Mon, 12 Oct 2026 10:47:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>奋进七十载 启航新征程 中条山集团高质量发展大会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474483</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474483</guid>
-<pubDate>Mon, 12 Oct 2026 10:41:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
