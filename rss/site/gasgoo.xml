@@ -4,10 +4,50 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 06:58:40 +0800</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 09:06:35 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>比亚迪Racco在斯里兰卡上市 售价约为日本市场近三倍</title>
+<link>https://m.gasgoo.com/news/70475249.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475249.html</guid>
+<pubDate>Mon, 19 Oct 2026 08:38:25 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>1600辆红旗整车出口伊拉克 中国一汽加速海外布局与技术转型</title>
+<link>https://m.gasgoo.com/news/70475252.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475252.html</guid>
+<pubDate>Mon, 19 Oct 2026 08:21:33 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>零跑B10在西班牙萨拉戈萨工厂正式量产</title>
+<link>https://m.gasgoo.com/news/70475250.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475250.html</guid>
+<pubDate>Mon, 19 Oct 2026 08:20:47 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>奇瑞绿能与明生集团签约 首个V2G规模化运营场站启用</title>
+<link>https://m.gasgoo.com/news/70475255.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475255.html</guid>
+<pubDate>Mon, 19 Oct 2026 08:19:58 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>欧洲街头的中国智驾，离全球供应链还有多远</title>
+<link>https://m.gasgoo.com/news/70475117.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475117.html</guid>
+<pubDate>Mon, 19 Oct 2026 07:11:31 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>E周看点｜小鹏巴黎车展官宣“卖技术”；广汽自研电池第30万套下线</title>
 <link>https://m.gasgoo.com/news/70475227.html</link>
@@ -85,46 +125,6 @@
 <link>https://m.gasgoo.com/news/70475115.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70475115.html</guid>
 <pubDate>Fri, 16 Oct 2026 18:32:13 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>大众汽车全球首发ID. Tiguan 计划2027年初上市</title>
-<link>https://m.gasgoo.com/news/70475016.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475016.html</guid>
-<pubDate>Fri, 16 Oct 2026 18:21:19 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>奇瑞计划于2027年将iCaur V27引入英国市场</title>
-<link>https://m.gasgoo.com/news/70475077.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475077.html</guid>
-<pubDate>Fri, 16 Oct 2026 18:20:27 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>宾利首款纯电动量产车Torcal EV在亚洲市场上市</title>
-<link>https://m.gasgoo.com/news/70475097.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475097.html</guid>
-<pubDate>Fri, 16 Oct 2026 18:19:27 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>丰田发布2027款凯美瑞 美国市场售价上调约700美元</title>
-<link>https://m.gasgoo.com/news/70475098.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475098.html</guid>
-<pubDate>Fri, 16 Oct 2026 18:17:37 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>马自达计划对大型产品线进行大规模产品更新 涉及CX-60等四款车型</title>
-<link>https://m.gasgoo.com/news/70475102.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475102.html</guid>
-<pubDate>Fri, 16 Oct 2026 18:16:40 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
