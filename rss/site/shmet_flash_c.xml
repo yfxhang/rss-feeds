@@ -4,7 +4,7 @@
 <link>https://www.shmet.com/newsFlash/newsFlash.html</link>
 <description>上海金属网快讯分片 C/3（时间最早一片）；平台单节点 80,000 字符上限的分片适配</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:24:21 +0800</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 00:38:44 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shmet_flash_c.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -1058,15 +1058,6 @@
 <guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=759558</guid>
 <pubDate>Sat, 17 Oct 2026 14:01:51 +0800</pubDate>
 <description>【快讯】SHMET10月17日讯，国际货币与金融委员会主席：如果没有沙特阿拉伯等国家的投资，能源冲击本会严重得多。</description>
-<category>矿产</category>
-<source>上海金属网·快讯C（旧）</source>
-</item>
-<item>
-<title>【快讯】SHMET10月17日讯，IMF总裁格奥尔基耶娃：正在与黎巴嫩合作，但仍需做更多工作。我们有信心能够成功达成关于</title>
-<link>https://www.shmet.com/newsFlash/newsFlashDetail.html?id=759556</link>
-<guid isPermaLink="true">https://www.shmet.com/newsFlash/newsFlashDetail.html?id=759556</guid>
-<pubDate>Sat, 17 Oct 2026 13:59:02 +0800</pubDate>
-<description>【快讯】SHMET10月17日讯，IMF总裁格奥尔基耶娃：正在与黎巴嫩合作，但仍需做更多工作。我们有信心能够成功达成关于黎巴嫩的方案协议。</description>
 <category>矿产</category>
 <source>上海金属网·快讯C（旧）</source>
 </item>
