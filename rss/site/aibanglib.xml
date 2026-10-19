@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 09:11:12 +0800</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 00:24:08 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026石墨烯超级电容器产业观察：迈向规模化应用的关键一年</title>
+<link>https://www.aibanglib.com/a/32731</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32731</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+<description>2026年，中国石墨烯超级电容器产业正处于从技术验证向规模化…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>金时科技携全系列超级电容产品亮相宁德世界储能大会</title>
 <link>https://www.aibanglib.com/a/32722</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32692</guid>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
 <description>10月10日，赛力斯集团与宁德时代在重庆签署长期战略合作深化…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>清研电子干法电极：固态电池2030量产绕不开的制造工艺</title>
-<link>https://www.aibanglib.com/a/32652</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32652</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
-<description>近期，工业和信息化部等七部门联合印发《新型电池产业发展“十五…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
