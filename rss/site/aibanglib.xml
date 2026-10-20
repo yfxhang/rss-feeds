@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:57:55 +0800</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:39:33 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>Vinatech数据中心超级电容器订单放量：四个月签约2290亿韩元</title>
+<link>https://www.aibanglib.com/a/32735</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32735</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+<description>Vinatech 仅在 2026 年下半年就获得了超过 20…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>2026石墨烯超级电容器产业观察：迈向规模化应用的关键一年</title>
 <link>https://www.aibanglib.com/a/32731</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32667</guid>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
 <description>多孔炭它在超级电容器电极原料中的使用量占比约90%，生产成本…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>赛力斯宁德时代深化战略合作 | 问界交付120万台，航空级气凝胶成为高端电池“标配”</title>
-<link>https://www.aibanglib.com/a/32692</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32692</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
-<description>10月10日，赛力斯集团与宁德时代在重庆签署长期战略合作深化…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

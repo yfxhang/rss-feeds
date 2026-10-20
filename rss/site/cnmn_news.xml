@@ -4,10 +4,34 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:53:25 +0800</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:39:05 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>铜资源量约1.1亿吨、金资源量4610吨 紫金矿业靠科技重构矿业增长的逻辑</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474731</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474731</guid>
+<pubDate>Tue, 20 Oct 2026 10:12:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026年中国国际镍钴工业年会召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474730</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474730</guid>
+<pubDate>Tue, 20 Oct 2026 10:10:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>有色行业多名选手取得佳绩 全国总工会第二届班组长大赛冶金赛道决赛举行</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474729</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474729</guid>
+<pubDate>Tue, 20 Oct 2026 10:08:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>从“新材料”看中信重工的创新发展之路</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474683</link>
@@ -73,17 +97,17 @@
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>我国矿产资源目录发布共有174个矿种、119个亚矿种</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474618</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474618</guid>
+<title>集智攻关下的“国之重器”</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474617</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474617</guid>
 <pubDate>Thu, 15 Oct 2026 09:52:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>集智攻关下的“国之重器”</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474617</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474617</guid>
+<title>我国矿产资源目录发布共有174个矿种、119个亚矿种</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474618</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474618</guid>
 <pubDate>Thu, 15 Oct 2026 09:52:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
@@ -141,30 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474534</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474534</guid>
 <pubDate>Mon, 12 Oct 2026 16:33:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026年中国硅业大会暨光储协同高质量发展研讨会在包头举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474533</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474533</guid>
-<pubDate>Mon, 12 Oct 2026 16:25:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中央社会工作部办公厅印发《全国性行业协会商会负责人人选审核工作程序》</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474514</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474514</guid>
-<pubDate>Mon, 12 Oct 2026 15:08:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中钨高新两部作品获评2026年中央企业基层理论宣讲微视频优秀奖</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474487</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474487</guid>
-<pubDate>Mon, 12 Oct 2026 10:48:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

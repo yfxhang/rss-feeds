@@ -4,10 +4,19 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:53:23 +0800</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:39:00 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>8月智驾域控排名：特斯拉重回第二，比亚迪降幅明显</title>
+<link>https://www.shujubang.com/detail/21550</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21550</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+<description>佐思汽研智驾数据库</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>奇瑞EEA5.1架构分析</title>
 <link>https://www.shujubang.com/detail/21547</link>
@@ -50,15 +59,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21548</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
 <description>汽车供应链切入具身智能，由试点升级为量产| 具身智能产业月度观察</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>48V区域Zone域控制器设计，eFuse成为标配</title>
-<link>https://www.shujubang.com/detail/21543</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21543</guid>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-<description>中国引领全球汽车电子潮流</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
