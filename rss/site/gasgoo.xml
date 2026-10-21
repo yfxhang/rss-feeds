@@ -4,55 +4,134 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:39:02 +0800</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 01:16:03 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
+<title>TeleAI孵化伽马智能，中国电信下场做人形机器人“大脑”</title>
+<link>https://m.gasgoo.com/news/70475521.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475521.html</guid>
+<pubDate>Wed, 21 Oct 2026 23:59:55 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>雷军：没有安全，其他都是零！小米目标做同档最安全的车</title>
+<link>https://m.gasgoo.com/news/70475520.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475520.html</guid>
+<pubDate>Wed, 21 Oct 2026 23:22:25 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>张建勇：北汽以 &quot;三智&quot; 阵地仗破局差异化竞争</title>
+<link>https://m.gasgoo.com/news/70475518.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475518.html</guid>
+<pubDate>Wed, 21 Oct 2026 23:12:06 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>李书福：换电切忌重复建设，行业要协同减少无效投入</title>
+<link>https://m.gasgoo.com/news/70475510.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475510.html</guid>
+<pubDate>Wed, 21 Oct 2026 20:03:15 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>尹同跃：拒绝价格战，中国车企出海切忌“出海变填海”</title>
+<link>https://m.gasgoo.com/news/70475509.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475509.html</guid>
+<pubDate>Wed, 21 Oct 2026 19:50:01 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>赵非：预计2027年L3级实现量产，2028年L4级开启商业化运营</title>
+<link>https://m.gasgoo.com/news/70475508.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475508.html</guid>
+<pubDate>Wed, 21 Oct 2026 19:40:43 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>奔驰CEO：产业保护需平衡成本，欧盟应坚持开放合作</title>
+<link>https://m.gasgoo.com/news/70475497.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475497.html</guid>
+<pubDate>Wed, 21 Oct 2026 18:26:28 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>大众在华智能化进入“交付模式”：2027年L3就绪，中国研发反哺全球</title>
+<link>https://m.gasgoo.com/news/70475496.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475496.html</guid>
+<pubDate>Wed, 21 Oct 2026 18:22:28 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>刘亦功：打造聚合智能新范式，搭建跨载体统一AI基座</title>
+<link>https://m.gasgoo.com/news/70475493.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475493.html</guid>
+<pubDate>Wed, 21 Oct 2026 17:16:10 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>问界回应神木车辆碰撞起火：事发时人驾且严重超速，否认“电池爆燃”等谣言</title>
+<link>https://m.gasgoo.com/news/70475481.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475481.html</guid>
+<pubDate>Wed, 21 Oct 2026 15:16:27 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>仿真效率提200倍！钟志华：AI 造车，先别焦虑</title>
+<link>https://m.gasgoo.com/news/70475479.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475479.html</guid>
+<pubDate>Wed, 21 Oct 2026 15:03:32 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>​宁德时代：电动化率与单车带电量双升支撑2027年增长</title>
+<link>https://m.gasgoo.com/news/70475468.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475468.html</guid>
+<pubDate>Wed, 21 Oct 2026 14:26:16 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>欧摩威第三代卫星摄像头斩获中国市场首个量产项目，计划2027年底量产</title>
+<link>https://m.gasgoo.com/news/70475467.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475467.html</guid>
+<pubDate>Wed, 21 Oct 2026 13:28:17 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>【国际快讯】9月中国汽车在欧洲销量大增104%；通用汽车Q3调整后息税前利润增21.6%；SpaceX 与特斯拉商讨潜在合并</title>
+<link>https://m.gasgoo.com/news/70475463.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475463.html</guid>
+<pubDate>Wed, 21 Oct 2026 12:21:26 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>从100万台到第二条产线，思科普BD Nano如何成为新能源车载冰箱的“标配心脏”</title>
+<link>https://m.gasgoo.com/news/70475412.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475412.html</guid>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
 <title>A0级纯电市场，变天？</title>
 <link>https://m.gasgoo.com/news/70475422.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70475422.html</guid>
-<pubDate>Tue, 20 Oct 2026 23:30:59 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>南非将收紧进口汽车散件组装规定，逐步淘汰SKD模式</title>
-<link>https://m.gasgoo.com/news/70475410.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475410.html</guid>
-<pubDate>Tue, 20 Oct 2026 19:29:21 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>机器人制造机器人部件：舍弗勒具身智能机器人数智工厂在太仓正式启用</title>
-<link>https://m.gasgoo.com/news/70475423.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475423.html</guid>
-<pubDate>Tue, 20 Oct 2026 19:23:34 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>落子阿联酋拉斯海玛，优必选出海再下一城</title>
-<link>https://m.gasgoo.com/news/70475409.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475409.html</guid>
-<pubDate>Tue, 20 Oct 2026 17:55:35 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>墨西哥免征部分汽车零部件进口关税，为期五年</title>
-<link>https://m.gasgoo.com/news/70475396.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475396.html</guid>
-<pubDate>Tue, 20 Oct 2026 17:49:24 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>宇树科技连续两日大涨，市值站上2100亿元</title>
-<link>https://m.gasgoo.com/news/70475407.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475407.html</guid>
-<pubDate>Tue, 20 Oct 2026 17:37:20 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
@@ -60,92 +139,13 @@
 <title>金九银十消失，车市价格战还能打多久？</title>
 <link>https://m.gasgoo.com/news/70475406.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70475406.html</guid>
-<pubDate>Tue, 20 Oct 2026 17:35:45 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>从创新到行动：德莎开放日展示可持续发展的“中国实践”</title>
-<link>https://m.gasgoo.com/news/70475128.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475128.html</guid>
-<pubDate>Tue, 20 Oct 2026 17:13:10 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>家有上汽，越级而来</title>
-<link>https://m.gasgoo.com/news/70475397.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475397.html</guid>
-<pubDate>Tue, 20 Oct 2026 16:51:06 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>Seeds | 前傅利叶动力总监创业，刚获超亿元融资</title>
-<link>https://m.gasgoo.com/news/70475394.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475394.html</guid>
-<pubDate>Tue, 20 Oct 2026 15:56:23 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>Seeds｜新石器完成E轮近4亿美元融资，为今年国内自动驾驶最大单笔融资</title>
-<link>https://m.gasgoo.com/news/70475393.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475393.html</guid>
-<pubDate>Tue, 20 Oct 2026 15:40:03 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>从“做器件”打到“抢衬底”：英飞凌锁定Wolfspeed碳化硅晶圆长单</title>
-<link>https://m.gasgoo.com/news/70475391.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475391.html</guid>
-<pubDate>Tue, 20 Oct 2026 14:58:05 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>英飞凌与Wolfspeed签署200mm碳化硅晶圆供货协议</title>
-<link>https://m.gasgoo.com/news/70475382.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475382.html</guid>
-<pubDate>Tue, 20 Oct 2026 14:05:31 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>大众汽车首个本土开发新能源平台CMP正式量产，ID.ERA 5X已下线</title>
-<link>https://m.gasgoo.com/news/70475380.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475380.html</guid>
-<pubDate>Tue, 20 Oct 2026 13:46:35 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>理想i6完成欧洲首秀 德赛西威提供智能座舱方案</title>
-<link>https://m.gasgoo.com/news/70475319.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475319.html</guid>
-<pubDate>Tue, 20 Oct 2026 13:20:21 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>冲出汽车，零部件企业去哪找增长？</title>
-<link>https://m.gasgoo.com/news/70475268.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475268.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>欧洲街头的中国智驾，离全球供应链还有多远</title>
-<link>https://m.gasgoo.com/news/70475117.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475117.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际快讯】问界拟进军欧洲</title>
-<link>https://m.gasgoo.com/news/70475275.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475275.html</guid>
+<title>【国际】9月中国汽车在欧洲销量大增104%</title>
+<link>https://m.gasgoo.com/news/70475463.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475463.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

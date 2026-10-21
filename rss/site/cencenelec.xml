@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:39:07 +0800</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 01:16:14 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>Draft CWAs for comment: 'Integration of additive manufacturing into conventional production for aluminium body-in-white components'</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-08-20_workshop-flexcrash/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/2026-08-20_workshop-flexcrash/</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+<description>A new CEN Workshop is being established to build upon the innovative outcomes of the European research project FLEXCRASH (Flexible and hybrid manufacturing of green aluminium to produce tailored adaptive crash-tolerant structures). The project’s vision is to advance the crash resistance while contributing to the lightweighting of vehicle body parts. There is increasing interest in the field of additive manufacturing (AM) in the automotive industry. Better understood as 3D printing for automotive body-in-white (BIW) structures, additive manufacturing can provide numerous benefits including weight reduction, part consolidation and greater sustainability compared with traditional manufacturing. The promise of better performance combined with resource efficiency, increased safety and environme</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>Open Call for Tender for project leaders in CEN/TC 275/WG 13 ‘Process and environmental contaminants’</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/call-for-tender/2026-10-19_harmony/</link>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/press-releases/2026-10-06-revision-of-regulation-eu-no-1025-2012/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/press-releases/2026-10-06-revision-of-regulation-eu-no-1025-2012/</guid>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
-<description>Today, the European Commission published its proposal for the New Standardization Regulation, which would repeal Regulation (EU) No 1025/2012. CEN and CENELEC support the objective of making European standardization faster and more effective. However, several elements of the proposal risk weakening the very system it seeks to improve. Reform should strengthen, not fragment, the successful system Europe already has. For decades, this independent, consensus-based public-private partnership has brought together industry, SMEs, public authorities, consumers, researchers and societal stakeholders through national participation. It has delivered the safety, interoperability and trust businesses need to innovate and operate across the Single Market. It also enables European expertise and technolo</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -85,14 +93,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-05-cen-ts-18296-2-2026/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-05-cen-ts-18296-2-2026/</guid>
 <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Launch of the CEN/CLC Workshop 'Battery2Life - Interoperable BMS principles'</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-09-30_battery2life/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/2026-09-30_battery2life/</guid>
-<pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>

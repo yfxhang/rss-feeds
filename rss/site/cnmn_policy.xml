@@ -4,10 +4,18 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=13</link>
 <description>中国有色网政策法规（id=13），XPath 自建源</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:39:08 +0800</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 01:16:18 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_policy.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>工业和信息化部印发《加快构建工业和信息化领域碳排放双控工作体系实施方案（2026—2030年）》</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474812</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474812</guid>
+<pubDate>Wed, 21 Oct 2026 15:52:00 +0800</pubDate>
+<category>政策法规</category>
+<source>中国有色网·政策法规</source>
+</item>
 <item>
 <title>中共中央、国务院印发《关于发展新质生产力的意见》</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474537</link>
@@ -157,14 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=470124</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=470124</guid>
 <pubDate>Thu, 16 Apr 2026 10:20:00 +0800</pubDate>
-<category>政策法规</category>
-<source>中国有色网·政策法规</source>
-</item>
-<item>
-<title>《国务院关于产业链供应链安全的规定》发布</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=470046</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=470046</guid>
-<pubDate>Tue, 14 Apr 2026 10:04:00 +0800</pubDate>
 <category>政策法规</category>
 <source>中国有色网·政策法规</source>
 </item>
