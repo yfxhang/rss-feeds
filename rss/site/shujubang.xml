@@ -4,10 +4,19 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 22 Oct 2026 01:16:02 +0800</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 07:51:58 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>上汽名爵MG07可能是大众旗舰新能源ID.Era 9X的换壳</title>
+<link>https://www.shujubang.com/detail/21551</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21551</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+<description>上汽最具性价比的车</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>8月智驾域控排名：特斯拉重回第二，比亚迪降幅明显</title>
 <link>https://www.shujubang.com/detail/21550</link>
@@ -50,15 +59,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21545</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
 <description>2026 ADAS Tier1研究:智驾产业跃迁，从L2.9普惠落地迈向物理AI与全域移动新生态</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>《中国AI及机器人技术监测报告》（2026年10月期）</title>
-<link>https://www.shujubang.com/detail/21548</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21548</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<description>汽车供应链切入具身智能，由试点升级为量产| 具身智能产业月度观察</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

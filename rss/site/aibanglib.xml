@@ -4,7 +4,7 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 22 Oct 2026 01:16:24 +0800</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 07:52:15 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -104,42 +104,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32216</guid>
 <pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
 <description>英伟达将超级电容纳入GB300机柜标配的消息，让算力中心供电…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>Supercapacitor Industry Chain Technology Exchange Forum​ Invitation</title>
-<link>https://www.aibanglib.com/a/32199</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32199</guid>
-<pubDate>Mon, 24 Aug 2026 00:00:00 +0800</pubDate>
-<description>With the explosive growth of g…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>【邀请函】超级电容器产业链技术交流论坛（11月26日 苏州）</title>
-<link>https://www.aibanglib.com/a/32192</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32192</guid>
-<pubDate>Sat, 22 Aug 2026 00:00:00 +0800</pubDate>
-<description>为促进行业深度交流，艾邦智造将于2026年11月26日在苏州…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>【邀请函】第五届新能源气凝胶与纳米板产业论坛（2026年10月16日深圳）</title>
-<link>https://www.aibanglib.com/a/31778</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/31778</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0800</pubDate>
-<description>点击查看会议报名详情→会议咨询或报名联系艾果儿 183125…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>【邀请函】电池包复合材料产业链论坛（2026年10月23日 苏州）</title>
-<link>https://www.aibanglib.com/a/29939</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/29939</guid>
-<pubDate>Wed, 24 Dec 2025 00:00:00 +0800</pubDate>
-<description>电池作为电动汽车最重的系统之一，其轻量化直接关乎整车能效和续…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
