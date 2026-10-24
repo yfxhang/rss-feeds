@@ -4,10 +4,50 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:52:01 +0800</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:48:34 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>“中国铝业杯”第十八届全国有色金属行业职业技能竞赛决赛圆满落幕</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474874</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474874</guid>
+<pubDate>Fri, 23 Oct 2026 14:17:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>泰晤士河畔再次响起中国有色的声音 2026中国有色金属报告会在伦敦召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474873</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474873</guid>
+<pubDate>Fri, 23 Oct 2026 14:04:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>新时代启新程：邹来昌领航紫金矿业擘画十年发展蓝图</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474841</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474841</guid>
+<pubDate>Fri, 23 Oct 2026 10:13:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>与“中国项目”一同崛起的非洲社区——金诚信刚果（金）萨布韦矿业有限公司ESG建设记述</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474840</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474840</guid>
+<pubDate>Fri, 23 Oct 2026 10:12:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>汇有色精粹 创智造新篇 2026腾冲科学家论坛有色金属新材料智能制造专题活动举办</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474839</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474839</guid>
+<pubDate>Fri, 23 Oct 2026 10:11:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>五矿二十三冶承建的长沙市轨道交通5号线一期工程获得国家优质工程奖</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474818</link>
@@ -125,46 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474680</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474680</guid>
 <pubDate>Sat, 17 Oct 2026 19:19:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>共赴新质之约 共筑铝业未来 2026年中国国际铝业大会开幕</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474679</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474679</guid>
-<pubDate>Fri, 16 Oct 2026 21:02:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>敖宏到中国宏桥、创新集团调研座谈</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474678</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474678</guid>
-<pubDate>Fri, 16 Oct 2026 20:44:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>坚定信心促消费 深化合作谱新篇 2026扩大铝应用论坛召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474677</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474677</guid>
-<pubDate>Fri, 16 Oct 2026 20:12:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026上海衍生品市场论坛举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474658</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474658</guid>
-<pubDate>Thu, 15 Oct 2026 16:46:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>向“新”力，正澎湃！—— 赤峰金通铜业铜冶炼二期工程投产纪实</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474619</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474619</guid>
-<pubDate>Thu, 15 Oct 2026 09:53:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

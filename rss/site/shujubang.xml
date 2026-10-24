@@ -4,10 +4,28 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:51:58 +0800</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:48:30 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026年软件定义汽车：软件供应链全景及商业模式研究报告</title>
+<link>https://www.shujubang.com/detail/21552</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21552</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+<description>汽车软件商业模式研究：Token经济、AI服务利润分成等业务探索</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>2026年机器人控制器（大小脑）研究报告</title>
+<link>https://www.shujubang.com/detail/21556</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21556</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+<description>机器人控制器研究：架构路线、芯片选型及供应商阵营深度复盘</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>上汽名爵MG07可能是大众旗舰新能源ID.Era 9X的换壳</title>
 <link>https://www.shujubang.com/detail/21551</link>
@@ -18,47 +36,29 @@
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
+<title>8月座舱域控：亿咖通发力15万以下市场，蔚来强势突围35万以上市场</title>
+<link>https://www.shujubang.com/detail/21555</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21555</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+<description>比亚迪、零跑、吉利银河装配量排名前三</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>东风日产NX8之天演2.0 EEA架构分析，合资最先进舍我其谁</title>
+<link>https://www.shujubang.com/detail/21554</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21554</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+<description>合资第一名</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
 <title>8月智驾域控排名：特斯拉重回第二，比亚迪降幅明显</title>
 <link>https://www.shujubang.com/detail/21550</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21550</guid>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
 <description>佐思汽研智驾数据库</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>奇瑞EEA5.1架构分析</title>
-<link>https://www.shujubang.com/detail/21547</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21547</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
-<description>低成本兼顾先进性</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年新能源商用车 800-1000V 高压平台及供应链全景研究报告</title>
-<link>https://www.shujubang.com/detail/21546</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21546</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
-<description>商用车800V研究：新能源渗透率已超35%，800V全域高压向重卡快速渗透</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>最贵国产车型尊界S800之EEA电子电气架构分析</title>
-<link>https://www.shujubang.com/detail/21549</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21549</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
-<description>中规中矩</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年ADAS及自动驾驶Tier1研究-国内篇</title>
-<link>https://www.shujubang.com/detail/21545</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21545</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<description>2026 ADAS Tier1研究:智驾产业跃迁，从L2.9普惠落地迈向物理AI与全域移动新生态</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

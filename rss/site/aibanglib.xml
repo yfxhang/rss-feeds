@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:52:15 +0800</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:48:47 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>为什么超级电容器通常用作DVR的储能单元？</title>
+<link>https://www.aibanglib.com/a/32740</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32740</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+<description>天津普兰能源科技有限公司成立于2015年，是天津普兰纳米科技…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>Vinatech数据中心超级电容器订单放量：四个月签约2290亿韩元</title>
 <link>https://www.aibanglib.com/a/32735</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32684</guid>
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
 <description>温州宏丰近日披露2026年度向特定对象发行A股股票募集资金使…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>一颗“海绵”决定超级电容性能上限：多孔炭材料深度解析</title>
-<link>https://www.aibanglib.com/a/32667</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32667</guid>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
-<description>多孔炭它在超级电容器电极原料中的使用量占比约90%，生产成本…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
