@@ -4,10 +4,34 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 25 Oct 2026 02:48:31 +0800</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 03:03:20 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>E周看点｜大众首个本土开发新能源平台CMP量产；华为引望与宁德时代、时代电服合作</title>
+<link>https://m.gasgoo.com/news/70475842.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475842.html</guid>
+<pubDate>Sun, 25 Oct 2026 17:30:33 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>小智一周要闻｜宇树市值重回2500亿元；传松延动力秘密递表港交所</title>
+<link>https://m.gasgoo.com/news/70475798.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475798.html</guid>
+<pubDate>Sun, 25 Oct 2026 16:03:09 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>盖世周报 | 宁德时代与奇瑞再设合资公司；欧摩威获国内头部车企定点</title>
+<link>https://m.gasgoo.com/news/70475608.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70475608.html</guid>
+<pubDate>Sun, 25 Oct 2026 07:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>升维·协同·破局——2026欧摩威中国生态共创大会在沪举行，共探产业发展新路径</title>
 <link>https://m.gasgoo.com/news/70475746.html</link>
@@ -101,30 +125,6 @@
 <link>https://m.gasgoo.com/news/70475710.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70475710.html</guid>
 <pubDate>Fri, 23 Oct 2026 14:40:11 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>汽车48V电气架构加速普及，思瑞浦如何提供国产方案支撑？</title>
-<link>https://m.gasgoo.com/news/70475709.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475709.html</guid>
-<pubDate>Fri, 23 Oct 2026 14:38:29 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>奇瑞展望瑶光2035战略：以AI重构技术边界，加速向全球智能科技公司进化</title>
-<link>https://m.gasgoo.com/news/70475708.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475708.html</guid>
-<pubDate>Fri, 23 Oct 2026 14:28:41 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>换电，越来越香了？</title>
-<link>https://m.gasgoo.com/news/70475606.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70475606.html</guid>
-<pubDate>Fri, 23 Oct 2026 14:00:37 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
