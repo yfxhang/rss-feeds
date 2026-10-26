@@ -5,6 +5,20 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>熊继军会见克罗地亚经济部部长安特·舒什尼亚尔</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_3087348afd0b4dd8b66405a8d141749c.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_3087348afd0b4dd8b66405a8d141749c.html</guid>
+<description>2026年10月26日，工业和信息化部副部长熊继军在北京会见克罗地亚经济部部长安特·舒什尼亚尔，双方就深化工业和信息化领域合作进行交流。熊继军表示，克罗地亚是中国在欧盟和中东欧地区重要的合作伙伴，工业和信息化部愿同克方共同落实两国领导人重要共识，在智能制造、新能源汽车、光伏储能等领域加强政策交流和项目对接，深挖合作潜力，实现更多标志性务实项目落地，推动中克全面合作伙伴关系不断迈上新台阶。</description>
+<pubDate>Mon, 26 Oct 2026 18:00:05 +0800</pubDate>
+</item>
+<item>
+<title>我国成功发射卫星互联网低轨28组卫星</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b5402cdeee5446e4b3f10720c793164d.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_b5402cdeee5446e4b3f10720c793164d.html</guid>
+<description>2026年10月25日，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨28组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。前期，工业和信息化部指导完成了相关卫星的国内频率协调，批量颁发了空间无线电台执照和无线电频率使用许可，为卫星互联网项目的顺利实施提供了有力支撑。</description>
+<pubDate>Mon, 26 Oct 2026 17:05:32 +0800</pubDate>
+</item>
+<item>
 <title>大力发展信息技术产业增强先进制造业发展动力推进会在杭州召开</title>
 <link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_aaa217e631b34106923ca804be699d20.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_aaa217e631b34106923ca804be699d20.html</guid>
@@ -410,18 +424,4 @@
 <description>近日，湖南省通信管理局组织召开全省信息通信行业2026年三季度总经理（董事长）座谈会，湖南省通信管理局党组书记、局长谢小鹏主持会议并讲话。会议通报了行业“六重工作”2026年以来推进情况，交流行业树立和践行正确政绩观学习教育情况，研究讨论了“十五五”湖南省信息通信业发展规划编制、推进新一代通信网络建设、加强通信企业和电力企业战略合作等重点事项。</description>
 <pubDate>Thu, 08 Oct 2026 11:02:21 +0800</pubDate>
 </item>
-<item>
-<title>江苏一企业通过禁止化学武器组织现场视察</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3d3c795daff042229de8040c0015abb3.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_3d3c795daff042229de8040c0015abb3.html</guid>
-<description>2026年9月28—30日，江苏省泰兴市兴安精细化工有限公司的第三类监控化学品生产设施接受禁止化学武器组织现场视察并顺利通过。视察结果表明，企业提交的宣布信息与企业生产经营活动一致，企业没有从事任何《禁止化学武器公约》禁止的活动。这是我国民用工业2026年接受的第20次现场视察，自履约以来累计接受的第562次现场视察。</description>
-<pubDate>Wed, 30 Sep 2026 16:56:46 +0800</pubDate>
-</item>
-<item>
-<title>工业和信息化部举行升国旗仪式 庆祝中华人民共和国成立77周年</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c37cffd9af9a4b3aa6379d153ed83620.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c37cffd9af9a4b3aa6379d153ed83620.html</guid>
-<description>2026年9月30日，工业和信息化部举行升国旗仪式，庆祝中华人民共和国成立77周年。部领导出席。上午8时，升国旗仪式正式开始。在激昂雄壮的《义勇军进行曲》声中，鲜艳的五星红旗缓缓升起。参加仪式的全体干部职工庄严肃立、精神抖擞，向国旗行注目礼，表达对伟大祖国的美好祝福。</description>
-<pubDate>Wed, 30 Sep 2026 16:48:41 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19879 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19881 条）

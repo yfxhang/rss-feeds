@@ -4,10 +4,42 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 26 Oct 2026 03:03:22 +0800</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 05:01:51 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>重磅！任仲平来了</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474939</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474939</guid>
+<pubDate>Mon, 26 Oct 2026 10:48:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>汇聚创新力量 共谋黄金科技发展新篇 2026黄金行业科技大会暨紫金矿业第八次科技大会召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</guid>
+<pubDate>Mon, 26 Oct 2026 10:08:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中铝数为自主研发电解铝“快速验血仪”完成工业试验 填补行业在线检测技术空白</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</guid>
+<pubDate>Mon, 26 Oct 2026 10:08:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>赓续长征红色血脉 淬炼有色强国筋骨——写在中国工农红军长征胜利90周年之际</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474910</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474910</guid>
+<pubDate>Mon, 26 Oct 2026 10:06:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>“中国铝业杯”第十八届全国有色金属行业职业技能竞赛决赛圆满落幕</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474874</link>
@@ -133,38 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474730</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474730</guid>
 <pubDate>Tue, 20 Oct 2026 10:10:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>有色行业多名选手取得佳绩 全国总工会第二届班组长大赛冶金赛道决赛举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474729</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474729</guid>
-<pubDate>Tue, 20 Oct 2026 10:08:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>从“新材料”看中信重工的创新发展之路</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474683</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474683</guid>
-<pubDate>Mon, 19 Oct 2026 10:06:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>行业抗辩再获佳绩 新西兰铝挤压材保障措施调查无措施结案</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474682</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474682</guid>
-<pubDate>Mon, 19 Oct 2026 10:03:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026上海衍生品市场论坛有色分论坛举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474680</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474680</guid>
-<pubDate>Sat, 17 Oct 2026 19:19:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
