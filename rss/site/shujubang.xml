@@ -4,10 +4,28 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 27 Oct 2026 05:01:49 +0800</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 04:42:52 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2022-2026H1 国内乘用车 NOA 第三方智驾算法厂商全景梳理</title>
+<link>https://www.shujubang.com/detail/21558</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21558</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+<description>PDF资料欢迎下载</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>8月 智驾域控SoC榜单：地平线稳居第三，海思领跑40万元以上车型</title>
+<link>https://www.shujubang.com/detail/21557</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21557</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+<description>佐思汽研智驾数据库</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>2026年软件定义汽车：软件供应链全景及商业模式研究报告</title>
 <link>https://www.shujubang.com/detail/21552</link>
@@ -41,24 +59,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21555</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
 <description>比亚迪、零跑、吉利银河装配量排名前三</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>东风日产NX8之天演2.0 EEA架构分析，合资最先进舍我其谁</title>
-<link>https://www.shujubang.com/detail/21554</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21554</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
-<description>合资第一名</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>8月智驾域控排名：特斯拉重回第二，比亚迪降幅明显</title>
-<link>https://www.shujubang.com/detail/21550</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21550</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<description>佐思汽研智驾数据库</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
