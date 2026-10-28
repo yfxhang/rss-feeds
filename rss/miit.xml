@@ -5,6 +5,20 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>熊继军会见中国美国商会企业代表团</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7d4ba7728a4d4fe5b24cd9952e95eeff.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7d4ba7728a4d4fe5b24cd9952e95eeff.html</guid>
+<description>2026年10月28日，工业和信息化部副部长熊继军在北京会见中国美国商会会长何迈可及部分会员企业代表，双方就加强新能源汽车、信息技术、人工智能等领域合作进行了交流。熊继军表示，习近平主席不久前对美国进行国事访问，两国元首同意构建“基于尊重、公平、对等的中美建设性战略稳定关系”。工业和信息化部愿同美方落实两国元首会晤共识，坚持扩大高水平对外开放，为包括外资企业在内的各类市场主体做好服务保障。</description>
+<pubDate>Wed, 28 Oct 2026 21:14:55 +0800</pubDate>
+</item>
+<item>
+<title>福建通信管理局印发《福建省“十五五”信息通信业发展规划》</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8274fc758e6b4511986fc2d4bc17a5aa.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_8274fc758e6b4511986fc2d4bc17a5aa.html</guid>
+<description>近日，福建省通信管理局印发《福建省“十五五”信息通信业发展规划》（以下简称《规划》），系统部署“十五五”时期福建省信息通信业高质量发展重点工作。</description>
+<pubDate>Wed, 28 Oct 2026 20:40:50 +0800</pubDate>
+</item>
+<item>
 <title>电器电子产品有害物质限制使用（中国RoHS）信息报送情况（截至2026年8月31日）</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9f2f36dfceeb48ec9acb3e7898c68fe1.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_9f2f36dfceeb48ec9acb3e7898c68fe1.html</guid>
@@ -410,18 +424,4 @@
 <description>近日，为深入落实国家网络安全宣传周部署要求，持续提升广大人民群众网络安全防范意识，营造全社会共建共治共享网络安全的良好氛围，西藏自治区信息通信行业紧扣“网络安全为人民，网络安全靠人民”主题，扎实开展2026年国家网络安全宣传周西藏自治区“电信日”系列宣传活动。本次活动坚持线上线下一体推进、全域覆盖。</description>
 <pubDate>Fri, 09 Oct 2026 16:00:20 +0800</pubDate>
 </item>
-<item>
-<title>《山东省信息通信行业发展“十五五”规划》发布</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_113092405b8d4a4187bc01b9de6fa732.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_113092405b8d4a4187bc01b9de6fa732.html</guid>
-<description>近日，山东省通信管理局向社会正式发布《山东省信息通信行业发展“十五五”规划》。</description>
-<pubDate>Thu, 08 Oct 2026 17:26:57 +0800</pubDate>
-</item>
-<item>
-<title>辽宁通信管理局举办2026年第三轮网络数据安全攻防演练暨防范治理电信网络诈骗技能大比武</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0793da6fe50b443bbd6770bec11b6a80.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0793da6fe50b443bbd6770bec11b6a80.html</guid>
-<description>近日，辽宁省通信管理局举办2026年第三轮网络数据安全攻防演练暨防范治理电信网络诈骗技能大比武。辽宁省通信管理局党组成员、副局长徐继承到演练现场观摩指导，辽宁省内各基础电信企业省、市公司相关工作人员近300人参加演练。演练分为理论赛和实操赛两部分。</description>
-<pubDate>Thu, 08 Oct 2026 17:26:53 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19884 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19886 条）

@@ -4,10 +4,46 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 04:43:04 +0800</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:03:40 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>World Standards Day 2026: Powering a Clean Energy Future for Consumers</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-anec/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-anec/</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<description>On 14 October, ANEC joined the global celebration of World Standards Day 2026, under the theme “Shared vision for a better world: Spotlight on SDG 7 – Affordable and Clean Energy”. Through its campaign “How can standards ensure clean energy powers a sustainable and inclusive future for consumers?”, ANEC highlighted the role of standards in ensuring an affordable, clean and inclusive energy transition. From 9 to 14 October, ANEC's social media campaign addressed Ecodesign and Energy Labelling, energy-efficient buildings, cybersecurity, the Digital Product Passport and sustainable communities, while emphasizing consumer participation in standardization. As ANEC Director-General Stephen Russell stated, “Standards are where the ambitions of the clean energy transition become reality for consum</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
+<item>
+<title>Final stretch before the publication of harmonized standards in support of the AI Act</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-etuc/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-etuc/</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<description>The ETUC participated in the 15th CEN-CENELEC JTC 21 Artificial Intelligence Plenary and Working Group meetings, held from 6 to 9 October in Winterthur, Switzerland. Following amendments adopted under the Digital Omnibus on AI in June 2026, the entry into force of obligations for high-risk AI systems was postponed due essentially to the unavailability of the harmonized standards necessary for their implementation. Consequently, the European Commission’s standardization request has been revised to align with the new timelines, setting the deadline for supporting harmonized standards for February 2027. The plenary and subsequent Working Group sessions provided members and experts with an overview of the current state of play across all drafting teams. While significant progress has been made</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
+<item>
+<title>Croatian Standards Institute celebrates World Standards Day and marks the 18th Electrical Engineering Days</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-hzn/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-hzn/</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<description>The Croatian Standards Institute (HZN) marked World Standards Day on 14 October by holding the sixth session of its Technical Council, bringing together HZN members, Governing Board representatives and staff. Participants included Mr Goran Romek, State Secretary at the Ministry of Economy and President of HZN’s Governing Board. HZN Director General Ana Marija Boljanović presented the Institute’s half-year report, highlighting key achievements and activities in European and international standardization, including digitalization, artificial intelligence and developments in the European Standardization System. Discussions focused on the future of European standardization, international cooperation and the role of standards in supporting innovation, safety and competitiveness. Key areas inclu</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
+<item>
+<title>A Week of Global Engagement and Collaboration for IFAN in Paris</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-ifan/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-ifan/</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<description>Reflecting on a high-impact week in Paris, the active presence of the International Federation of Standards Users (IFAN) at both global and national levels reaffirmed the organization's continued commitment to advancing international cooperation and standardization excellence. Kicking Off at the ISO Annual Meeting IFAN began the week participating in the ISO Annual Meeting in Paris. Throughout the opening days, delegates engaged in dynamic discussions, panels, and presentations focusing on the hottest topics and emerging trends shaping the future of global standardization. These sessions provided a vital platform to align international cooperation, address industry challenges, and share best practices across sectors. The 53rd IFAN Members' Assembly Hosted by AFNOR Following the ISO meeting</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>Draft CWAs for comment: 'Integration of additive manufacturing into conventional production for aluminium body-in-white components'</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-08-20_workshop-flexcrash/</link>
@@ -49,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-15-en-18286-2026-published-in-ojeu/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-15-en-18286-2026-published-in-ojeu/</guid>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
-<description>World Standards Day this year marked an additional milestone for Europe's AI ecosystem. The day coincided with the publication in the Official Journal of the European Union (OJEU) of the Commission Implementing Decision citing the first harmonized standard in support of the AI Act: EN 18286:2026 'Artificial Intelligence – Quality management system for EU AI Act regulatory purposes'. As the first harmonized standard in support of the AI Act, EN 18286:2026 is a landmark achievement for the European AI ecosystem. It bridges the gap between regulation and implementation by translating the quality management system requirements of Article 17 into practical, auditable requirements that providers of high-risk AI systems can readily apply. With its citation in the Official Journal of the European </description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -58,41 +93,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-10-14-world-standards-day/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-10-14-world-standards-day/</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<description>Today, 14 October, we celebrate World Standards Day under the theme 'Shared vision for a better world: Spotlight on SDG 7 Affordable and Clean Energy' This year, we highlight how standards contribute to safe, reliable and efficient energy systems and help turn the ambitions of SDG 7 into practical solutions. Join us in celebrating the role of standards in building a more sustainable future and visit our Instagram account to see what’s happening today! 👉 Join us on Instagram TAGS: World Standards Day</description>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Draft CWA for comment: Mathematical Simulation models for real time, SIMBOTs</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/workshop/20260408_hycool/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20260408_hycool/</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-<description>Data centres and server rooms are increasingly important in our digitised world. But such areas require an advanced upkeep and use a great amount of energy. Support for our IT infrastructures in an efficient and intelligent manner – digital and physical – is a necessity. For the past three years, the Hybrid COOLing &amp; management for IT project has been focussing its energies on the smart management of electricity consumption of server rooms in tertiary buildings. Its key goal is to develop a set of processes that can be replicated through standardization. In this context, the BDTA Building Digital Twin Association, consortium partner of the HYCOOl-IT project, has proposed a new CEN workshop. The workshop will centre around the concept of SIMBOT – an open source, semantic expression of mathe</description>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Europe’s competitiveness needs a stronger standardization system – not a fragmented one</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/press-releases/2026-10-06-revision-of-regulation-eu-no-1025-2012/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/press-releases/2026-10-06-revision-of-regulation-eu-no-1025-2012/</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
-<description>Today, the European Commission published its proposal for the New Standardization Regulation, which would repeal Regulation (EU) No 1025/2012. CEN and CENELEC support the objective of making European standardization faster and more effective. However, several elements of the proposal risk weakening the very system it seeks to improve. Reform should strengthen, not fragment, the successful system Europe already has. For decades, this independent, consensus-based public-private partnership has brought together industry, SMEs, public authorities, consumers, researchers and societal stakeholders through national participation. It has delivered the safety, interoperability and trust businesses need to innovate and operate across the Single Market. It also enables European expertise and technolo</description>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Launch of the CEN Workshop 'UNITED CIRCLES - Feasibility to Finance Guidelines for Industrial-Urban Symbiosis within Hubs for Circularity'</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-10-06-unitedcircles/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/2026-10-06-unitedcircles/</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>New CEN Technical Specification Helps Turn Children’s Anthropometric Data into Better Design Decisions</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-05-cen-ts-18296-2-2026/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-05-cen-ts-18296-2-2026/</guid>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>

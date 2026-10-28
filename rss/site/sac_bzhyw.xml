@@ -4,10 +4,18 @@
 <link>https://www.sac.gov.cn/xw/bzhyw/index.html</link>
 <description>国家标准化管理委员会「标准化要闻」；页面本身是 jpaas 动态组件（无静态条目），本源直接调它的 build/unit 接口取列表片段</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 04:42:54 +0800</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:03:33 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/sac_bzhyw.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>市场监管总局批准发布一批重要国家标准</title>
+<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_037cda67bbc3453399ab6b0ca1f353f1.html</link>
+<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_037cda67bbc3453399ab6b0ca1f353f1.html</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+<category>标准政策及法规</category>
+<source>国家标准化管理委员会·标准化要闻</source>
+</item>
 <item>
 <title>《电动汽车动力蓄电池在役检测试验方法》国家标准发布</title>
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_7def6de7f75d4937a24a6c0c426d34a9.html</link>
@@ -156,14 +164,6 @@
 <title>我国推进7项天然气国际标准成功立项</title>
 <link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_356ca062316541648c168097ecb83cad.html</link>
 <guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_356ca062316541648c168097ecb83cad.html</guid>
-<pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>国家标准化管理委员会·标准化要闻</source>
-</item>
-<item>
-<title>我国牵头编制的IEC抽水蓄能趋势白皮书正式发布</title>
-<link>https://www.sac.gov.cn/xw/bzhyw/art/2026/art_cb278ee61f0043f4a7354ea123e92604.html</link>
-<guid isPermaLink="true">https://www.sac.gov.cn/xw/bzhyw/art/2026/art_cb278ee61f0043f4a7354ea123e92604.html</guid>
 <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>国家标准化管理委员会·标准化要闻</source>

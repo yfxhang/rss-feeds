@@ -4,10 +4,26 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 04:42:55 +0800</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:03:35 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>第十二期环境新闻茶座在京举办</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475004</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475004</guid>
+<pubDate>Wed, 28 Oct 2026 16:07:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>敖宏赴英国访问交流 共话全球有色金属合作发展</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475001</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475001</guid>
+<pubDate>Wed, 28 Oct 2026 09:55:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>中国二十二冶7项工程获国家优质工程奖</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474961</link>
@@ -57,17 +73,17 @@
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>中铝数为自主研发电解铝“快速验血仪”完成工业试验 填补行业在线检测技术空白</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</guid>
+<title>汇聚创新力量 共谋黄金科技发展新篇 2026黄金行业科技大会暨紫金矿业第八次科技大会召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</guid>
 <pubDate>Mon, 26 Oct 2026 10:08:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>汇聚创新力量 共谋黄金科技发展新篇 2026黄金行业科技大会暨紫金矿业第八次科技大会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</guid>
+<title>中铝数为自主研发电解铝“快速验血仪”完成工业试验 填补行业在线检测技术空白</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</guid>
 <pubDate>Mon, 26 Oct 2026 10:08:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
@@ -149,22 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474814</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474814</guid>
 <pubDate>Thu, 22 Oct 2026 09:58:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>文岗拜会哈萨克斯坦总统托卡耶夫及中华人民共和国驻哈萨克斯坦大使韩春霖 并受邀出席阿克托盖30万吨/年铜冶炼厂项目准备工作启动仪式</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474794</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474794</guid>
-<pubDate>Wed, 21 Oct 2026 14:32:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>文岗会见哈萨克矿业集团董事会主席奥列格·诺瓦丘克并调研中色股份在哈出资企业</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474792</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474792</guid>
-<pubDate>Wed, 21 Oct 2026 13:25:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
