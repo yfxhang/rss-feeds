@@ -4,10 +4,58 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 05:03:35 +0800</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:08:35 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>西部矿业玉龙铜业向巴青地震灾区捐赠1000万元</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475027</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475027</guid>
+<pubDate>Thu, 29 Oct 2026 10:06:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>十年筑台育骨干 五洲逐技展风采2026年“中国铜业杯”全国有色金属行业班组长综合管理技能竞赛、海外企业属地班组长综合管理技能竞赛举行</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</guid>
+<pubDate>Thu, 29 Oct 2026 10:05:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中铝集团捐赠1500万元驰援西藏巴青地震灾区</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</guid>
+<pubDate>Thu, 29 Oct 2026 10:05:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>走好地勘人的新时代长征路——西北有色地矿集团七一七总队公司五十余年接续奋斗的实践与启示</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475024</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475024</guid>
+<pubDate>Thu, 29 Oct 2026 10:03:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>把盐湖“搬”进屏幕——青海科技智能化转型纪实</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475023</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475023</guid>
+<pubDate>Thu, 29 Oct 2026 10:02:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>敖宏赴英国访问交流共话全球有色金属合作发展</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475022</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475022</guid>
+<pubDate>Thu, 29 Oct 2026 10:01:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>第十二期环境新闻茶座在京举办</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475004</link>
@@ -117,54 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474841</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474841</guid>
 <pubDate>Fri, 23 Oct 2026 10:13:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>与“中国项目”一同崛起的非洲社区——金诚信刚果（金）萨布韦矿业有限公司ESG建设记述</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474840</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474840</guid>
-<pubDate>Fri, 23 Oct 2026 10:12:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>汇有色精粹 创智造新篇 2026腾冲科学家论坛有色金属新材料智能制造专题活动举办</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474839</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474839</guid>
-<pubDate>Fri, 23 Oct 2026 10:11:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>五矿二十三冶承建的长沙市轨道交通5号线一期工程获得国家优质工程奖</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474818</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474818</guid>
-<pubDate>Thu, 22 Oct 2026 10:45:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>抓实三维赋能 锻造过硬骨干——大冶有色金属集团控股有限公司创新培训方式推动干部能力提升</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474817</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474817</guid>
-<pubDate>Thu, 22 Oct 2026 10:25:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>共青团中国十五冶第六次代表大会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474816</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474816</guid>
-<pubDate>Thu, 22 Oct 2026 10:19:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>35项智能装备新成果在中信重工集中亮相</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474814</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474814</guid>
-<pubDate>Thu, 22 Oct 2026 09:58:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

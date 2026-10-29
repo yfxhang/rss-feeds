@@ -4,10 +4,64 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 05:03:47 +0800</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:08:49 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>邀请函：第六届新能源电池CCS集成母排产业论坛（4月22日 苏州）</title>
+<link>https://www.aibanglib.com/a/32911</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32911</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<description>加强上下游产业链交流，共同推动行业良性发展。</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>【邀请函】第六届气凝胶与纳米隔热材料产业论坛（2027年4月·苏州）</title>
+<link>https://www.aibanglib.com/a/32869</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32869</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<description>第六届气凝胶与纳米隔热材料产业论坛 The 6th Aero…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>欢迎加入电池防护相变隔热材料交流群</title>
+<link>https://www.aibanglib.com/a/32859</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32859</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<description>电池系统向高倍率快充、高能量密度升级，热安全与温度波动控制问…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>壹连科技11.8亿可转债获批，重点投向新能源柔性电连接系统项目</title>
+<link>https://www.aibanglib.com/a/32906</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32906</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<description>项目建成达产后，将形成年产新型柔性电连接组件约4,500 万…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>2.4米柔性电路板背后的“车规级”突围</title>
+<link>https://www.aibanglib.com/a/32898</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32898</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<description>江苏黄海金控集团所投企业厦门辁电光电有限公司，在盐城落地江苏…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>出海巴基斯坦：千兆级电芯厂待产，气凝胶隔热材料配套窗口有待开启</title>
+<link>https://www.aibanglib.com/a/32760</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32760</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+<description>近日，巴基斯坦锂电本土化迎来标志性节点。产能规划方面，项目初…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>风华高科前三季度营收利润双增长，加速拓展超级电容与敏感器件新赛道，推动电容、电阻、电感产销量均创历史新高</title>
 <link>https://www.aibanglib.com/a/32750</link>
@@ -18,83 +72,29 @@
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
-<title>为什么超级电容器通常用作DVR的储能单元？</title>
-<link>https://www.aibanglib.com/a/32740</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32740</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
-<description>天津普兰能源科技有限公司成立于2015年，是天津普兰纳米科技…</description>
+<title>西典新能：第三季度FFC产品营收占比提升至11.6%</title>
+<link>https://www.aibanglib.com/a/32854</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32854</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+<description>FFC产品相关技术已从升级至第二代并实现量产，正处于行业应用…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
-<title>Vinatech数据中心超级电容器订单放量：四个月签约2290亿韩元</title>
-<link>https://www.aibanglib.com/a/32735</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32735</guid>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-<description>Vinatech 仅在 2026 年下半年就获得了超过 20…</description>
+<title>博赛利斯总部基地及硅碳负极研发生产项目落户南京</title>
+<link>https://www.aibanglib.com/a/32849</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32849</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+<description>10月23日下午，博赛利斯总部基地暨高能量密度锂离子电池材料…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
-<title>2026石墨烯超级电容器产业观察：迈向规模化应用的关键一年</title>
-<link>https://www.aibanglib.com/a/32731</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32731</guid>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
-<description>2026年，中国石墨烯超级电容器产业正处于从技术验证向规模化…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>金时科技携全系列超级电容产品亮相宁德世界储能大会</title>
-<link>https://www.aibanglib.com/a/32722</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32722</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
-<description>10月14日 —— 金时科技（002951）携全系列超级电容…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>西门子对超级电容器制造商Skeleton Technologies进行战略投资</title>
-<link>https://www.aibanglib.com/a/32715</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32715</guid>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
-<description>西门子将与Skeleton建立独家合作伙伴关系，并进行深度的…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>超级电容行业的“幕后力量”：国内高校与科研院所全景图</title>
-<link>https://www.aibanglib.com/a/32713</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32713</guid>
-<pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
-<description>本文梳理了国内超级电容领域的主要高校和科研院所，供产业界人士…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>隔膜材料企业源启膜创获天使轮融资，产品适用于超级电容器、高功率电池等万亿级市场</title>
-<link>https://www.aibanglib.com/a/32711</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32711</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<description>近日，武汉市源启膜创新材料有限公司（下称“源启膜创”）完成天…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>中创新航牵手德国汉高，两大龙头联合攻关先进材料与下一代电池技术</title>
-<link>https://www.aibanglib.com/a/32703</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32703</guid>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-<description>近日，全球胶粘剂巨头——汉高，与电池龙头企业——中创新航，在…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>一文了解超级电容器的基础知识</title>
-<link>https://www.aibanglib.com/a/32674</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32674</guid>
-<pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-<description>今天带大家了解一下超级电容器的基础知识，文章来源于Nippo…</description>
+<title>连签3单！楚能新能源拿下3GWh圆柱电池订单 ！</title>
+<link>https://www.aibanglib.com/a/32769</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32769</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+<description>近日，楚能新能源携轻型动力圆柱电池产品矩阵亮相中国江苏国际电…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

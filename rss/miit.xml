@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>工业和信息化部召开加快新一代通信网建设发展座谈会</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6a707c8be5849fbb047815b26c77d1f.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_c6a707c8be5849fbb047815b26c77d1f.html</guid>
+<description>近日，工业和信息化部党组成员、副部长余晓晖主持召开加快新一代通信网建设发展座谈会，听取相关工作进展情况，研究资源要素保障机制和财政金融支持举措。工业和信息化部总工程师钟志红出席会议。会议指出，党中央、国务院高度重视新一代通信网建设发展。习近平总书记强调，要加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设。</description>
+<pubDate>Thu, 29 Oct 2026 10:07:04 +0800</pubDate>
+</item>
+<item>
 <title>熊继军会见中国美国商会企业代表团</title>
 <link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7d4ba7728a4d4fe5b24cd9952e95eeff.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_7d4ba7728a4d4fe5b24cd9952e95eeff.html</guid>
@@ -417,11 +424,4 @@
 <description>近日，贵州省通信管理局召开信息通信业防范治理电信网络诈骗工作专题会。贵州省通信管理局二级巡视员郭智翰出席并讲话，贵州省内四家基础电信企业分管领导以及网信安、反诈、市场等部门相关负责人参加会议。</description>
 <pubDate>Fri, 09 Oct 2026 16:11:13 +0800</pubDate>
 </item>
-<item>
-<title>西藏信息通信行业扎实开展2026年国家网络安全宣传周“电信日”主题活动</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9480b1fd112441f59819ea0a8a86a733.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_9480b1fd112441f59819ea0a8a86a733.html</guid>
-<description>近日，为深入落实国家网络安全宣传周部署要求，持续提升广大人民群众网络安全防范意识，营造全社会共建共治共享网络安全的良好氛围，西藏自治区信息通信行业紧扣“网络安全为人民，网络安全靠人民”主题，扎实开展2026年国家网络安全宣传周西藏自治区“电信日”系列宣传活动。本次活动坚持线上线下一体推进、全域覆盖。</description>
-<pubDate>Fri, 09 Oct 2026 16:00:20 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19886 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19541 条）
