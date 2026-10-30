@@ -4,10 +4,18 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 05:08:32 +0800</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 04:48:43 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>中国第三方 NOA 智驾全景盘点：轻舟智航凭单J6M打开城市NOA多强时代</title>
+<link>https://www.shujubang.com/detail/21559</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21559</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>2022-2026H1 国内乘用车 NOA 第三方智驾算法厂商全景梳理</title>
 <link>https://www.shujubang.com/detail/21558</link>
@@ -50,15 +58,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21551</guid>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
 <description>上汽最具性价比的车</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>8月座舱域控：亿咖通发力15万以下市场，蔚来强势突围35万以上市场</title>
-<link>https://www.shujubang.com/detail/21555</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21555</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
-<description>比亚迪、零跑、吉利银河装配量排名前三</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

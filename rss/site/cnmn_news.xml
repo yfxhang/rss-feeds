@@ -4,10 +4,18 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 05:08:35 +0800</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 04:48:46 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>葛红林：积势蓄力 全链协同 加快建设镁业强国</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475090</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475090</guid>
+<pubDate>Fri, 30 Oct 2026 19:27:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>西部矿业玉龙铜业向巴青地震灾区捐赠1000万元</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475027</link>
@@ -157,14 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474873</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474873</guid>
 <pubDate>Fri, 23 Oct 2026 14:04:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>新时代启新程：邹来昌领航紫金矿业擘画十年发展蓝图</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474841</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474841</guid>
-<pubDate>Fri, 23 Oct 2026 10:13:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
