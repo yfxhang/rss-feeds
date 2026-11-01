@@ -4,7 +4,7 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 03:59:21 +0800</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 04:31:36 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -25,17 +25,17 @@
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>十年筑台育骨干 五洲逐技展风采2026年“中国铜业杯”全国有色金属行业班组长综合管理技能竞赛、海外企业属地班组长综合管理技能竞赛举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</guid>
+<title>中铝集团捐赠1500万元驰援西藏巴青地震灾区</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</guid>
 <pubDate>Thu, 29 Oct 2026 10:05:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>中铝集团捐赠1500万元驰援西藏巴青地震灾区</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</guid>
+<title>十年筑台育骨干 五洲逐技展风采2026年“中国铜业杯”全国有色金属行业班组长综合管理技能竞赛、海外企业属地班组长综合管理技能竞赛举行</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</guid>
 <pubDate>Thu, 29 Oct 2026 10:05:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
@@ -129,17 +129,17 @@
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>汇聚创新力量 共谋黄金科技发展新篇 2026黄金行业科技大会暨紫金矿业第八次科技大会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</guid>
+<title>中铝数为自主研发电解铝“快速验血仪”完成工业试验 填补行业在线检测技术空白</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</guid>
 <pubDate>Mon, 26 Oct 2026 10:08:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
 <item>
-<title>中铝数为自主研发电解铝“快速验血仪”完成工业试验 填补行业在线检测技术空白</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474912</guid>
+<title>汇聚创新力量 共谋黄金科技发展新篇 2026黄金行业科技大会暨紫金矿业第八次科技大会召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=474911</guid>
 <pubDate>Mon, 26 Oct 2026 10:08:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>

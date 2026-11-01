@@ -4,10 +4,114 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 01 Nov 2026 03:59:19 +0800</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 04:31:35 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>环比销量连涨 上汽集团10月销售43万辆创年内新高</title>
+<link>https://m.gasgoo.com/news/70476556.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476556.html</guid>
+<pubDate>Sun, 01 Nov 2026 21:56:13 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>领胜 V100 正式上市：重载货运的这笔账，该重新算了</title>
+<link>https://m.gasgoo.com/news/70476546.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476546.html</guid>
+<pubDate>Sun, 01 Nov 2026 16:37:09 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>E周看点 | 小米17亿入股欣旺达动力；东风与宁德时代锁定下一个五年合作</title>
+<link>https://m.gasgoo.com/news/70476510.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476510.html</guid>
+<pubDate>Sun, 01 Nov 2026 16:30:43 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>小智一周要闻 | 宇树前三季度营收18.17亿元；智元上半年营收近20亿元</title>
+<link>https://m.gasgoo.com/news/70476396.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476396.html</guid>
+<pubDate>Sun, 01 Nov 2026 15:42:45 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>蔚来公司10月交付34,246台，前10月同比增长38.5%</title>
+<link>https://m.gasgoo.com/news/70476545.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476545.html</guid>
+<pubDate>Sun, 01 Nov 2026 13:17:49 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>极氪10月交付32,483辆，同比大增51.6%，提前超额完成年度目标</title>
+<link>https://m.gasgoo.com/news/70476544.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476544.html</guid>
+<pubDate>Sun, 01 Nov 2026 13:11:59 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>小鹏集团10月共交付新车50,237台，单月交付量创历史新高</title>
+<link>https://m.gasgoo.com/news/70476543.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476543.html</guid>
+<pubDate>Sun, 01 Nov 2026 13:02:59 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>理想汽车2026年10月交付29,025辆</title>
+<link>https://m.gasgoo.com/news/70476542.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476542.html</guid>
+<pubDate>Sun, 01 Nov 2026 12:56:40 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>10月全球交付106127台，零跑连续4个月破10万</title>
+<link>https://m.gasgoo.com/news/70476541.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476541.html</guid>
+<pubDate>Sun, 01 Nov 2026 12:53:29 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>孙晓红：中国汽车进入出海2.0阶段，十五五核心目标是“站得住、回得来”</title>
+<link>https://m.gasgoo.com/news/70476540.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476540.html</guid>
+<pubDate>Sun, 01 Nov 2026 12:26:57 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>再创新高！小米汽车10月交付量超5万台</title>
+<link>https://m.gasgoo.com/news/70476538.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476538.html</guid>
+<pubDate>Sun, 01 Nov 2026 09:38:40 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>深蓝汽车10月全球销量3.3万辆 环比上涨8%</title>
+<link>https://m.gasgoo.com/news/70476537.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476537.html</guid>
+<pubDate>Sun, 01 Nov 2026 09:30:37 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>盖世周报 | 中国车企欧洲销量首超日系；大众考虑在欧采用中国软件</title>
+<link>https://m.gasgoo.com/news/70476495.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476495.html</guid>
+<pubDate>Sun, 01 Nov 2026 07:58:31 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>继理想之后，小米17亿入股欣旺达动力成第三大股东</title>
 <link>https://m.gasgoo.com/news/70476511.html</link>
@@ -21,110 +125,6 @@
 <link>https://m.gasgoo.com/news/70476479.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70476479.html</guid>
 <pubDate>Sat, 31 Oct 2026 17:14:53 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>新芯航途发布大模型芯片X7 Ultra，首款芯片X7累计出货超20万颗</title>
-<link>https://m.gasgoo.com/news/70476474.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476474.html</guid>
-<pubDate>Sat, 31 Oct 2026 17:13:01 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>精进电动菏泽基地全新扁线电机及控制器投产下线</title>
-<link>https://m.gasgoo.com/news/70476478.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476478.html</guid>
-<pubDate>Sat, 31 Oct 2026 17:09:51 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>大众公布三款智电新车锁单数据 均搭载酷睿程智驾方案</title>
-<link>https://m.gasgoo.com/news/70476460.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476460.html</guid>
-<pubDate>Sat, 31 Oct 2026 17:07:39 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>中国汽车动力方案正走向全球</title>
-<link>https://m.gasgoo.com/news/70476496.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476496.html</guid>
-<pubDate>Sat, 31 Oct 2026 15:10:03 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>国轩闰辉年产20万吨正极材料全线投产</title>
-<link>https://m.gasgoo.com/news/70476492.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476492.html</guid>
-<pubDate>Sat, 31 Oct 2026 11:10:09 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>欧洲——中国汽车的问巅之路 2026全球华人汽车精英联合年会暨“中国拥抱世界”汽车产业国际发展论坛成功举办</title>
-<link>https://m.gasgoo.com/news/70476487.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476487.html</guid>
-<pubDate>Sat, 31 Oct 2026 10:42:49 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>进博聚焦丨松下将展出三大核心领域成果，用科技回应时代命题</title>
-<link>https://m.gasgoo.com/news/70476442.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476442.html</guid>
-<pubDate>Fri, 30 Oct 2026 21:05:43 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>丰田汽车4–9月在华销量跌至九年新低</title>
-<link>https://m.gasgoo.com/news/70476441.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476441.html</guid>
-<pubDate>Fri, 30 Oct 2026 20:20:12 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>汽车行业的利润去了哪里？</title>
-<link>https://m.gasgoo.com/news/70476427.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476427.html</guid>
-<pubDate>Fri, 30 Oct 2026 18:28:44 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>博银合创苏州总部启用，已进入博世供应商体系</title>
-<link>https://m.gasgoo.com/news/70476430.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476430.html</guid>
-<pubDate>Fri, 30 Oct 2026 18:12:35 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>万里扬首条关节模组生产线量产</title>
-<link>https://m.gasgoo.com/news/70476429.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476429.html</guid>
-<pubDate>Fri, 30 Oct 2026 18:11:36 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>Mobileye 2026财年第三季度营收4.92亿美元，同比微降2%</title>
-<link>https://m.gasgoo.com/news/70476425.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476425.html</guid>
-<pubDate>Fri, 30 Oct 2026 17:56:12 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>数字向上，语气向下：吉利三季报的“寒冬”与“窗口”</title>
-<link>https://m.gasgoo.com/news/70476424.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476424.html</guid>
-<pubDate>Fri, 30 Oct 2026 17:26:37 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
