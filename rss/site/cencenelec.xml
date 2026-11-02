@@ -4,19 +4,10 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 04:31:45 +0800</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 07:30:44 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
-<item>
-<title>Launch of the CEN Workshop 'European Food Fraud Community of Practice (EFF-CoP)'</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<description>A new CEN Workshop is being established to develop recommendations for self-assessment in relation to food fraud. The Workshop stems from work being done in EFF-CoP – a European project designed to combat food fraud and improve supply chain transparency across Europe. Food fraud is a serious problem in the agri-food business. Due to its highly integrated single market, European companies are especially susceptible, with effects being felt both in terms of economics and public health. Instances of food fraud include substitution, dilution, mislabelling, counterfeiting, and concealment – all of which demonstrate intentional deception for economic gain. Larger companies and organisations often have systems in place to minimise the instances and impact of food fraud occurring. But this is not </description>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
 <item>
 <title>Keeping Drones Within Safe Boundaries: Three European Standards for Safer Flights</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-28-en-4709-003-2026-en-4709-005-2026-and-en-4709-006-2026/</link>
@@ -41,6 +32,15 @@
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
 <description>We are pleased to inform you about the upcoming CEN and CENELEC activities in 2026. 3 November – RISERS Conference – How can Europe drive cross-sectoral resource efficiency? Upscaling industrial symbiosis through standardization The conference will bring together representatives of industry, research, policymaking and standardization to discuss how Europe can accelerate the implementation of industrial symbiosis across sectors. The event will present the key results of the RISERS project, including the Industrial Symbiosis Standardization Roadmap, and explore the role of standards in bridging innovation and market deployment, supporting European policy objectives and reducing barriers to industrial collaboration. Registration is closed. 4 November – Kick-off Meeting for CEN-CENELEC Worksho</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
+<item>
+<title>Launch of the CEN Workshop 'European Food Fraud Community of Practice (EFF-CoP)'</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
+<description>DOC03 EFF Cop Ws Registration RevA new CEN Workshop is being established to develop recommendations for self-assessment in relation to food fraud. The Workshop stems from work being done in EFF-CoP – a European project designed to combat food fraud and improve supply chain transparency across Europe. Food fraud is a serious problem in the agri-food business. Due to its highly integrated single market, European companies are especially susceptible, with effects being felt both in terms of economics and public health. Instances of food fraud include substitution, dilution, mislabelling, counterfeiting, and concealment – all of which demonstrate intentional deception for economic gain. Larger companies and organisations often have systems in place to minimise the instances and impact of food </description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
