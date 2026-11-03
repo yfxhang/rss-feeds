@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>2026年全国无线电监测技术演练（决赛）在武汉开幕</title>
+<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_fb5c3ee2e0794382a06676be01fd457e.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_fb5c3ee2e0794382a06676be01fd457e.html</guid>
+<description>2026年11月3日，为进一步增强全国无线电管理系统监测技术能力，提升无线电管理队伍协同配合和应急处置水平，2026年全国无线电监测技术演练（决赛）在湖北省武汉市开幕。工业和信息化部党组成员、副部长谢远生，湖北省副省长黎东辉出席开幕式并致辞。</description>
+<pubDate>Tue, 03 Nov 2026 10:31:29 +0800</pubDate>
+</item>
+<item>
 <title>陕西通信管理局召开2026年四季度运营商总经理座谈会</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_4d4d1475e1ac45e394231d709c3468fe.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_4d4d1475e1ac45e394231d709c3468fe.html</guid>
@@ -417,11 +424,4 @@
 <description>近日，为深入贯彻党中央、国务院及部省有关安全生产治本攻坚三年行动的决策部署，全面落实《建设工程质量管理条例》《通信建设工程质量监督管理规定》《通信建设工程质量和安全生产行动方案（2025—2027年）》以及陕西省安委会办公室《关于深入开展重大事故隐患判定标准学习运用活动的通知》等相关要求，进一步提高通信建设工程质量，强化安全生产管理，陕西省通信管理局组织专家赴咸阳市开展安全生产治本攻坚三年行...</description>
 <pubDate>Tue, 13 Oct 2026 15:34:38 +0800</pubDate>
 </item>
-<item>
-<title>熊继军会见澳门特别行政区政府经济财政司司长吴惠娴</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_cafc3755aa594de2bdcfb9fb854d8a07.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_cafc3755aa594de2bdcfb9fb854d8a07.html</guid>
-<description>2026年10月12日，工业和信息化部副部长熊继军在北京会见澳门特别行政区政府经济财政司司长吴惠娴一行，双方就深化工业和信息化领域合作进行交流。熊继军表示，习近平总书记就发展先进制造业作出重要指示强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑。澳门创新资源丰富，科研环境开放，发展潜力强劲，依托“一国两制”独特优势，在我国对外开放战略中发挥日益重要的作用。</description>
-<pubDate>Mon, 12 Oct 2026 17:25:40 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19549 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19550 条）
