@@ -4,148 +4,148 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 04 Nov 2026 09:42:38 +0800</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 05:52:52 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>奇瑞新能源逼近百万辆，六成卖到海外</title>
-<link>https://m.gasgoo.com/news/70476793.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476793.html</guid>
-<pubDate>Wed, 04 Nov 2026 08:11:08 +0800</pubDate>
+<title>SKF Vertevo正式揭晓全新品牌</title>
+<link>https://m.gasgoo.com/news/70476910.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476910.html</guid>
+<pubDate>Wed, 04 Nov 2026 20:11:42 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>20多万买纯电轿车，选车之前不妨先看这一篇</title>
-<link>https://m.gasgoo.com/news/70476800.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476800.html</guid>
-<pubDate>Wed, 04 Nov 2026 08:00:57 +0800</pubDate>
+<title>2026年1-9月比亚迪乘用车出口目的地TOP10：巴西以227,356辆居首，约旦新进榜单丨盖世汽车研究院</title>
+<link>https://m.gasgoo.com/news/70476908.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476908.html</guid>
+<pubDate>Wed, 04 Nov 2026 19:53:24 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>黑白灰靠边站，这四种颜色明年会火？</title>
-<link>https://m.gasgoo.com/news/70476799.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476799.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:55:34 +0800</pubDate>
+<title>小鹏联合高校发布GroundingPI具身感知基座模型</title>
+<link>https://m.gasgoo.com/news/70476900.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476900.html</guid>
+<pubDate>Wed, 04 Nov 2026 17:34:44 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>10月保值率排行：小米YU7，极氪9X夺冠，特斯拉长城依旧霸榜？</title>
-<link>https://m.gasgoo.com/news/70476797.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476797.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:55:20 +0800</pubDate>
+<title>北汽集团10月整车销量超14.8万辆，自主与海外同比双增</title>
+<link>https://m.gasgoo.com/news/70476896.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476896.html</guid>
+<pubDate>Wed, 04 Nov 2026 17:06:08 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>北汽新能源10月销量3.25万辆，环比增长34.98%</title>
-<link>https://m.gasgoo.com/news/70476788.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476788.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:55:10 +0800</pubDate>
+<title>从锰基电池到单电机后驱，第413批工信部新车透露了什么？</title>
+<link>https://m.gasgoo.com/news/70476881.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476881.html</guid>
+<pubDate>Wed, 04 Nov 2026 16:31:07 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>一汽副总空降东风，不会要整合吧？</title>
-<link>https://m.gasgoo.com/news/70476798.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476798.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:32:57 +0800</pubDate>
+<title>Stellantis与东风，从在华卖车到技术互换</title>
+<link>https://m.gasgoo.com/news/70476877.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476877.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:43:45 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>“去宁德化”后的理想：月销连降，MEGA两次绝境又重生</title>
-<link>https://m.gasgoo.com/news/70476796.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476796.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:29:28 +0800</pubDate>
+<title>【全球汽车新技术观察】 9月上期〡微芯与马瑞利推出开放显示连接方案；MIT 与 Motional 发布概念包装网络 CW-Net；Fraunhofer ISE造出半透明有机光伏组件，可用于车顶玻璃</title>
+<link>https://m.gasgoo.com/news/70476876.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476876.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:29:32 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>机器人进社区！保利发展与银河通用达成战略合作</title>
-<link>https://m.gasgoo.com/news/70476795.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476795.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:24:40 +0800</pubDate>
+<title>LG新能源2026年第三季度营收与营业利润实现增长</title>
+<link>https://m.gasgoo.com/news/70476818.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476818.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:09:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>纬钛机器人与腾讯云达成战略合作，聚焦具身智能数据与模型训练</title>
-<link>https://m.gasgoo.com/news/70476794.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476794.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:22:00 +0800</pubDate>
+<title>现代汽车研发人工智能技术以提升新一代车型拖拽与越野性能</title>
+<link>https://m.gasgoo.com/news/70476803.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476803.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:08:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>自研电池与智驾芯片全面上车，2026款理想i6核心零部件配套供应商一览</title>
-<link>https://m.gasgoo.com/news/70476582.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476582.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:00:00 +0800</pubDate>
+<title>现代汽车2026年前10个月在美售出逾3.3万辆IONIQ 5 整体销量同比增长3%</title>
+<link>https://m.gasgoo.com/news/70476842.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476842.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:07:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>富赛荣获第八届金辑奖·中国汽车新供应链百强奖</title>
-<link>https://m.gasgoo.com/news/70476581.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476581.html</guid>
-<pubDate>Wed, 04 Nov 2026 07:00:00 +0800</pubDate>
+<title>特斯拉否认12月开放Optimus人形机器人预订传闻</title>
+<link>https://m.gasgoo.com/news/70476820.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476820.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:04:25 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>上市限时焕新价7.68万元起！银河星耀6 E-fuel刷新主流A级家轿价值标准</title>
-<link>https://m.gasgoo.com/news/70476792.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476792.html</guid>
-<pubDate>Tue, 03 Nov 2026 22:05:48 +0800</pubDate>
+<title>法拉利上调2026年全年业绩指引 第三季度业绩超预期</title>
+<link>https://m.gasgoo.com/news/70476840.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476840.html</guid>
+<pubDate>Wed, 04 Nov 2026 15:03:09 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>日行十万公里，百度披露Apollo World世界模型最新进展</title>
-<link>https://m.gasgoo.com/news/70476783.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476783.html</guid>
-<pubDate>Tue, 03 Nov 2026 21:03:57 +0800</pubDate>
+<title>泰矽微发布车规级超声波雷达信号处理芯片TCAU09</title>
+<link>https://m.gasgoo.com/news/70476873.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476873.html</guid>
+<pubDate>Wed, 04 Nov 2026 14:57:05 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>意优科技与韩国大东集团达成合作，联合开发农业机器人</title>
-<link>https://m.gasgoo.com/news/70476786.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476786.html</guid>
-<pubDate>Tue, 03 Nov 2026 20:49:56 +0800</pubDate>
+<title>车载二级电源核心供电！思瑞浦发布车规LDO新品TPL510Q与TPL5051Q</title>
+<link>https://m.gasgoo.com/news/70476868.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476868.html</guid>
+<pubDate>Wed, 04 Nov 2026 14:53:32 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>优必选、锋龙股份合资公司发布机器人关节产品矩阵</title>
-<link>https://m.gasgoo.com/news/70476785.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476785.html</guid>
-<pubDate>Tue, 03 Nov 2026 20:46:08 +0800</pubDate>
+<title>安波福第三季度营收创新高，汽车业务同比下滑1%</title>
+<link>https://m.gasgoo.com/news/70476866.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476866.html</guid>
+<pubDate>Wed, 04 Nov 2026 14:42:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>2026款理想i6核心零部件配套供应商一览</title>
-<link>https://m.gasgoo.com/news/70476582.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476582.html</guid>
+<title>Stellantis与东风，从在华卖车到技术互换</title>
+<link>https://m.gasgoo.com/news/70476877.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476877.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>奇瑞新能源逼近百万辆，六成卖到海外</title>
-<link>https://m.gasgoo.com/news/70476793.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476793.html</guid>
+<title>第413批工信部新车透露了什么？</title>
+<link>https://m.gasgoo.com/news/70476881.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476881.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>大众集团考虑在土耳其组装中国开发车型</title>
-<link>https://m.gasgoo.com/news/70476777.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476777.html</guid>
+<title>国际|特斯拉10月中国产电动车销量涨10%</title>
+<link>https://m.gasgoo.com/news/70476849.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476849.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

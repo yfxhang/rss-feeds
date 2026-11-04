@@ -4,10 +4,28 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 04 Nov 2026 09:42:37 +0800</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 05:52:52 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>比亚迪最新车型方程豹方程S之EEA电子电气架构分析</title>
+<link>https://www.shujubang.com/detail/21562</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21562</guid>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
+<description>成本和先进性间的平衡</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>奇瑞双地平线J6P芯片域控制器拆解</title>
+<link>https://www.shujubang.com/detail/21561</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21561</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+<description>智驾难做卖点</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>中国第三方 NOA 智驾全景盘点：轻舟智航凭单J6M打开城市NOA多强时代</title>
 <link>https://www.shujubang.com/detail/21559</link>
@@ -40,24 +58,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21552</guid>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
 <description>汽车软件商业模式研究：Token经济、AI服务利润分成等业务探索</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年机器人控制器（大小脑）研究报告</title>
-<link>https://www.shujubang.com/detail/21556</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21556</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
-<description>机器人控制器研究：架构路线、芯片选型及供应商阵营深度复盘</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>上汽名爵MG07可能是大众旗舰新能源ID.Era 9X的换壳</title>
-<link>https://www.shujubang.com/detail/21551</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21551</guid>
-<pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
-<description>上汽最具性价比的车</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
