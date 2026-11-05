@@ -4,10 +4,19 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 05 Nov 2026 05:53:07 +0800</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:03:30 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>用地成交！欣旺达动力总部及研发中心落子光明，聚焦固态、钠离子电池</title>
+<link>https://www.aibanglib.com/a/32916</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32916</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+<description>近日，深圳交易集团公示出让结果，光明区A543-0458工业…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>邀请函：第六届新能源电池CCS集成母排产业论坛（4月22日 苏州）</title>
 <link>https://www.aibanglib.com/a/32911</link>
@@ -86,15 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32849</guid>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
 <description>10月23日下午，博赛利斯总部基地暨高能量密度锂离子电池材料…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>连签3单！楚能新能源拿下3GWh圆柱电池订单 ！</title>
-<link>https://www.aibanglib.com/a/32769</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32769</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
-<description>近日，楚能新能源携轻型动力圆柱电池产品矩阵亮相中国江苏国际电…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
