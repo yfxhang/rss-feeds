@@ -4,127 +4,127 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 10:25:53 +0800</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 05:30:57 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>人事变动 | 马瑞利确认Laurent Favre出任首席执行官</title>
-<link>https://m.gasgoo.com/news/70477112.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477112.html</guid>
-<pubDate>Fri, 06 Nov 2026 09:16:50 +0800</pubDate>
+<title>出海新阶段，中国车企要换一种活法</title>
+<link>https://m.gasgoo.com/news/70477157.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477157.html</guid>
+<pubDate>Fri, 06 Nov 2026 22:28:45 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>百度副总裁谢天：百度地图已量产搭载超过6000万辆汽车</title>
-<link>https://m.gasgoo.com/news/70477110.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477110.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:40:07 +0800</pubDate>
+<title>全球电动车竞速，美国为何成了“逆流者”</title>
+<link>https://m.gasgoo.com/news/70477209.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477209.html</guid>
+<pubDate>Fri, 06 Nov 2026 18:31:31 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>慧仑科技与广汽动力BU达成生产合作</title>
-<link>https://m.gasgoo.com/news/70477109.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477109.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:36:41 +0800</pubDate>
+<title>法雷奥与QNX发布新一代智能前视摄像头平台，已获多家中国车企定点</title>
+<link>https://m.gasgoo.com/news/70477206.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477206.html</guid>
+<pubDate>Fri, 06 Nov 2026 18:07:40 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>奥迪携S5 Avant与E7X亮相进博会，深化在华双品牌布局</title>
-<link>https://m.gasgoo.com/news/70477108.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477108.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:34:43 +0800</pubDate>
+<title>安波福与它石智航、上海电气签约，数百台具身机器人将进入生产线</title>
+<link>https://m.gasgoo.com/news/70477204.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477204.html</guid>
+<pubDate>Fri, 06 Nov 2026 18:03:04 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>将碰撞模拟搬进进博会，沃尔沃五款车型同步亮相</title>
-<link>https://m.gasgoo.com/news/70477107.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477107.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:29:42 +0800</pubDate>
+<title>2026年1-9月ADAS供应商装机量排行榜：激光雷达本土供应商前四占比超95%丨盖世汽车研究院</title>
+<link>https://m.gasgoo.com/news/70477202.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477202.html</guid>
+<pubDate>Fri, 06 Nov 2026 17:50:28 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>HRC进博会首发碳纤维闭环回收</title>
-<link>https://m.gasgoo.com/news/70477106.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477106.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:19:15 +0800</pubDate>
+<title>Seeds | 蓝固新能源完成近两亿元B+轮融资</title>
+<link>https://m.gasgoo.com/news/70477161.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477161.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:49:40 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>海外车企的先锋车型：打不过新势力，就藏起扬声器？</title>
-<link>https://m.gasgoo.com/news/70477074.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477074.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:05:32 +0800</pubDate>
+<title>进博会观察 | 日产，重构跨国车企价值链?</title>
+<link>https://m.gasgoo.com/news/70477160.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477160.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:26:45 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>美国高墙，砸向自家汽车</title>
-<link>https://m.gasgoo.com/news/70477073.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477073.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:04:23 +0800</pubDate>
+<title>2026年1-9月中国乘用车出口到哪了：俄罗斯、巴西领跑整体市场，覆盖多种动力类型丨盖世汽车研究院</title>
+<link>https://m.gasgoo.com/news/70477158.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477158.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:11:09 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>底盘磕一下，为什么维修账单能到六位数？</title>
-<link>https://m.gasgoo.com/news/70477072.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477072.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:03:33 +0800</pubDate>
+<title>梅赛德斯-奔驰开发创新显示解决方案与智能高压技术</title>
+<link>https://m.gasgoo.com/news/70477156.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477156.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:03:03 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>从10万到50万，一文看懂国内VLA智驾车型</title>
-<link>https://m.gasgoo.com/news/70477075.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477075.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:02:56 +0800</pubDate>
+<title>采用全新设计语言 新款宝马iX2谍照曝光</title>
+<link>https://m.gasgoo.com/news/70477121.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477121.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:00:53 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>李斌：自动驾驶意义不在于抢司机饭碗！但无人出租车不断在扩军</title>
-<link>https://m.gasgoo.com/news/70477071.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477071.html</guid>
-<pubDate>Fri, 06 Nov 2026 08:01:57 +0800</pubDate>
+<title>Vector 推出用于模拟电动汽车充电站的 CANoe 工具</title>
+<link>https://m.gasgoo.com/news/70477155.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477155.html</guid>
+<pubDate>Fri, 06 Nov 2026 16:00:40 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>大众汽车紧急声明：警惕虚假安全气囊召回短信</title>
-<link>https://m.gasgoo.com/news/70477068.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477068.html</guid>
-<pubDate>Fri, 06 Nov 2026 07:58:28 +0800</pubDate>
+<title>英飞凌推出其首个 RISC-V 微控制器系列AURIX™ RC1</title>
+<link>https://m.gasgoo.com/news/70477154.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477154.html</guid>
+<pubDate>Fri, 06 Nov 2026 15:57:43 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>伟巴斯特连续九年参展进博会，四大车顶创新技术亮相</title>
-<link>https://m.gasgoo.com/news/70477067.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477067.html</guid>
-<pubDate>Fri, 06 Nov 2026 07:52:16 +0800</pubDate>
+<title>动力电池将配“数字身份证”，工信部公开征求意见</title>
+<link>https://m.gasgoo.com/news/70477153.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477153.html</guid>
+<pubDate>Fri, 06 Nov 2026 15:52:55 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>光轮智能与宇树科技达成战略合作，打通机器人训练到部署全链路</title>
-<link>https://m.gasgoo.com/news/70477066.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477066.html</guid>
-<pubDate>Fri, 06 Nov 2026 07:47:17 +0800</pubDate>
+<title>英飞凌与高通合作开发中央车载计算机</title>
+<link>https://m.gasgoo.com/news/70477152.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477152.html</guid>
+<pubDate>Fri, 06 Nov 2026 15:51:59 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>奔驰连续九年参展进博会，中国研发成果加速走向全球</title>
-<link>https://m.gasgoo.com/news/70477061.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477061.html</guid>
-<pubDate>Fri, 06 Nov 2026 07:45:24 +0800</pubDate>
+<title>意法半导体推出用于边缘人工智能汽车计算的STM32A系列</title>
+<link>https://m.gasgoo.com/news/70477151.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477151.html</guid>
+<pubDate>Fri, 06 Nov 2026 15:49:35 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
@@ -143,9 +143,9 @@
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>ACEA首秀进博会:挡不住中国车,绕不开中国</title>
-<link>https://m.gasgoo.com/news/70477037.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477037.html</guid>
+<title>国际|欧盟议员要求评估比亚迪汽车安全威胁</title>
+<link>https://m.gasgoo.com/news/70477131.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477131.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

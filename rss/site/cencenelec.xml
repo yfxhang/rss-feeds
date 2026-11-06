@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Fri, 06 Nov 2026 10:26:01 +0800</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 05:31:04 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>European Agile Specifications: a new step in modernizing European standardization</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-11-06-eas/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/brief-news/2026-11-06-eas/</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+<description>European standardization is evolving. New technologies, changing regulatory and market needs and increasingly digital ways of working require a system that can respond faster, while safeguarding the quality, consensus, openness and trust on which it is built. Against this backdrop, CEN and CENELEC have approved the European Agile Specification (EAS) – a new standardization deliverable designed to bring trusted technical solutions to market more quicky. The decision represents another concrete step in CEN and CENELEC’s ongoing work to modernize the European Standardization System and make it more responsive. This work puts into practice the Cyprus Commitment, through which CEN and CENELEC’s 43 Members agreed to make European standardization faster, more digital, more open and closer to the </description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>On the Spot – Issue 77 • October 2026</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/on-the-spot-issue-77-october-2026/</link>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-hzn/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-hzn/</guid>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-<description>The Croatian Standards Institute (HZN) marked World Standards Day on 14 October by holding the sixth session of its Technical Council, bringing together HZN members, Governing Board representatives and staff. Participants included Mr Goran Romek, State Secretary at the Ministry of Economy and President of HZN’s Governing Board. HZN Director General Ana Marija Boljanović presented the Institute’s half-year report, highlighting key achievements and activities in European and international standardization, including digitalization, artificial intelligence and developments in the European Standardization System. Discussions focused on the future of European standardization, international cooperation and the role of standards in supporting innovation, safety and competitiveness. Key areas inclu</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -85,14 +93,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-ifan/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-ifan/</guid>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Draft CWAs for comment: 'Integration of additive manufacturing into conventional production for aluminium body-in-white components'</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-08-20_workshop-flexcrash/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/2026-08-20_workshop-flexcrash/</guid>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
