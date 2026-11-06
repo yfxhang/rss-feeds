@@ -4,7 +4,7 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:03:30 +0800</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:26:11 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -14,6 +14,24 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32916</guid>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
 <description>近日，深圳交易集团公示出让结果，光明区A543-0458工业…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>高端磷酸铁锂供应偏紧，多家正极龙头扩产转向第四代及以上</title>
+<link>https://www.aibanglib.com/a/32921</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32921</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+<description>除湖南裕能、德方纳米、国轩高科、容百科技及协鑫集团外，多家正…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>总投资35.55亿元！贵州高性能锂电池负极材料项目开工</title>
+<link>https://www.aibanglib.com/a/32929</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32929</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+<description>近日，贵安新区年产20万吨高端锂电池材料智能制造项目开工。开…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
@@ -77,24 +95,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32750</guid>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
 <description>今年以来，风华高科抢抓市场结构性调整带来的发展机遇，以“攀高…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>西典新能：第三季度FFC产品营收占比提升至11.6%</title>
-<link>https://www.aibanglib.com/a/32854</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32854</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-<description>FFC产品相关技术已从升级至第二代并实现量产，正处于行业应用…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>博赛利斯总部基地及硅碳负极研发生产项目落户南京</title>
-<link>https://www.aibanglib.com/a/32849</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32849</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
-<description>10月23日下午，博赛利斯总部基地暨高能量密度锂离子电池材料…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

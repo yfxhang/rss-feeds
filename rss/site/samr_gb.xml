@@ -4,7 +4,7 @@
 <link>https://std.samr.gov.cn/gb/search/gbQueryPage</link>
 <description>国家标准（含发布/实施日期、状态），按公开日期倒序；接口：std.samr.gov.cn gbQueryPage</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:03:14 +0800</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:25:52 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/samr_gb.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -230,6 +230,15 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DBE7748E06397BE0A0A0B47</guid>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 35919-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-05-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 48429-2026 高盐废水资源化膜集成处理技术导则</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DD67748E06397BE0A0A0B47</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DD67748E06397BE0A0A0B47</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 48429-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-05-01</description>
 <category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>
@@ -1076,15 +1085,6 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DF87748E06397BE0A0A0B47</guid>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 30369-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-02-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
-<item>
-<title>GB/T 4588.3-2026 印制板的设计和使用</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DF97748E06397BE0A0A0B47</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DF97748E06397BE0A0A0B47</guid>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 4588.3-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-05-01</description>
 <category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>

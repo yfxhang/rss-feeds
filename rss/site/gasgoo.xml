@@ -4,148 +4,148 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:03:14 +0800</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:25:53 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>驭势科技亮相CeMAT 2026，L4级无人驾驶牵引车实现跨设备协同作业</title>
-<link>https://m.gasgoo.com/news/70477062.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477062.html</guid>
-<pubDate>Thu, 05 Nov 2026 19:59:43 +0800</pubDate>
+<title>人事变动 | 马瑞利确认Laurent Favre出任首席执行官</title>
+<link>https://m.gasgoo.com/news/70477112.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477112.html</guid>
+<pubDate>Fri, 06 Nov 2026 09:16:50 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>捷豹路虎连续九年参展进博会，七款车型集中亮相</title>
-<link>https://m.gasgoo.com/news/70477060.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477060.html</guid>
-<pubDate>Thu, 05 Nov 2026 19:35:30 +0800</pubDate>
+<title>百度副总裁谢天：百度地图已量产搭载超过6000万辆汽车</title>
+<link>https://m.gasgoo.com/news/70477110.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477110.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:40:07 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>奥迪创新技术中心开业：全面赋能AUDI品牌迈向“AI定义汽车”时代</title>
-<link>https://m.gasgoo.com/news/70477049.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477049.html</guid>
-<pubDate>Thu, 05 Nov 2026 18:35:25 +0800</pubDate>
+<title>慧仑科技与广汽动力BU达成生产合作</title>
+<link>https://m.gasgoo.com/news/70477109.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477109.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:36:41 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>智元机器人入股原动力智能，持股仅0.39%</title>
-<link>https://m.gasgoo.com/news/70477045.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477045.html</guid>
-<pubDate>Thu, 05 Nov 2026 18:31:17 +0800</pubDate>
+<title>奥迪携S5 Avant与E7X亮相进博会，深化在华双品牌布局</title>
+<link>https://m.gasgoo.com/news/70477108.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477108.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:34:43 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>为宝马等欧洲客户就近备货，亿纬锂能德国VMI仓落地莱比锡</title>
-<link>https://m.gasgoo.com/news/70477039.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477039.html</guid>
-<pubDate>Thu, 05 Nov 2026 18:18:21 +0800</pubDate>
+<title>将碰撞模拟搬进进博会，沃尔沃五款车型同步亮相</title>
+<link>https://m.gasgoo.com/news/70477107.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477107.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:29:42 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>通用汽车携凯迪拉克亮相进博会，XT5 PHEV成在华最畅销车型</title>
-<link>https://m.gasgoo.com/news/70477038.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477038.html</guid>
-<pubDate>Thu, 05 Nov 2026 18:03:22 +0800</pubDate>
+<title>HRC进博会首发碳纤维闭环回收</title>
+<link>https://m.gasgoo.com/news/70477106.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477106.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:19:15 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>Arm第二财季营收同比增长27% 物理AI权利金增长50%</title>
-<link>https://m.gasgoo.com/news/70477035.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477035.html</guid>
-<pubDate>Thu, 05 Nov 2026 17:51:02 +0800</pubDate>
+<title>海外车企的先锋车型：打不过新势力，就藏起扬声器？</title>
+<link>https://m.gasgoo.com/news/70477074.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477074.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:05:32 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>滴滴充电与奇瑞绿能达成战略合作</title>
-<link>https://m.gasgoo.com/news/70477036.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477036.html</guid>
-<pubDate>Thu, 05 Nov 2026 17:32:18 +0800</pubDate>
+<title>美国高墙，砸向自家汽车</title>
+<link>https://m.gasgoo.com/news/70477073.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477073.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:04:23 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>吉利撕下甲醇电混“营运车”标签？</title>
-<link>https://m.gasgoo.com/news/70477019.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477019.html</guid>
-<pubDate>Thu, 05 Nov 2026 16:01:27 +0800</pubDate>
+<title>底盘磕一下，为什么维修账单能到六位数？</title>
+<link>https://m.gasgoo.com/news/70477072.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477072.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:03:33 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>连续九年登陆进博会，福特中国本土车型技术启动出海</title>
-<link>https://m.gasgoo.com/news/70477017.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477017.html</guid>
-<pubDate>Thu, 05 Nov 2026 15:28:24 +0800</pubDate>
+<title>从10万到50万，一文看懂国内VLA智驾车型</title>
+<link>https://m.gasgoo.com/news/70477075.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477075.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:02:56 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>舍弗勒举办汽车技术研讨会，展示面向未来的创新驱动技术</title>
-<link>https://m.gasgoo.com/news/70477010.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477010.html</guid>
-<pubDate>Thu, 05 Nov 2026 15:20:44 +0800</pubDate>
+<title>李斌：自动驾驶意义不在于抢司机饭碗！但无人出租车不断在扩军</title>
+<link>https://m.gasgoo.com/news/70477071.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477071.html</guid>
+<pubDate>Fri, 06 Nov 2026 08:01:57 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>东南亚车市重回80万辆：日系车的“后花园”，正在被中国电动车改写</title>
-<link>https://m.gasgoo.com/news/70477009.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477009.html</guid>
-<pubDate>Thu, 05 Nov 2026 14:22:11 +0800</pubDate>
+<title>大众汽车紧急声明：警惕虚假安全气囊召回短信</title>
+<link>https://m.gasgoo.com/news/70477068.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477068.html</guid>
+<pubDate>Fri, 06 Nov 2026 07:58:28 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>吉利新一代甲醇电混技术发布，全球首款“可醇可电可油”家轿同步上市</title>
-<link>https://m.gasgoo.com/news/70477008.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477008.html</guid>
-<pubDate>Thu, 05 Nov 2026 14:12:23 +0800</pubDate>
+<title>伟巴斯特连续九年参展进博会，四大车顶创新技术亮相</title>
+<link>https://m.gasgoo.com/news/70477067.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477067.html</guid>
+<pubDate>Fri, 06 Nov 2026 07:52:16 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>车企抢跑超充赛道</title>
-<link>https://m.gasgoo.com/news/70477006.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477006.html</guid>
-<pubDate>Thu, 05 Nov 2026 13:54:54 +0800</pubDate>
+<title>光轮智能与宇树科技达成战略合作，打通机器人训练到部署全链路</title>
+<link>https://m.gasgoo.com/news/70477066.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477066.html</guid>
+<pubDate>Fri, 06 Nov 2026 07:47:17 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>王昊：越野车要跳出越野圈卖车</title>
-<link>https://m.gasgoo.com/news/70477004.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477004.html</guid>
-<pubDate>Thu, 05 Nov 2026 13:31:03 +0800</pubDate>
+<title>奔驰连续九年参展进博会，中国研发成果加速走向全球</title>
+<link>https://m.gasgoo.com/news/70477061.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477061.html</guid>
+<pubDate>Fri, 06 Nov 2026 07:45:24 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>车企抢跑超充赛道</title>
-<link>https://m.gasgoo.com/news/70477006.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477006.html</guid>
+<title>智能车出海后，却变成“离线车”？</title>
+<link>https://m.gasgoo.com/news/70477018.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477018.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>特朗普的关税与电动车议程要“踩刹车”了？</title>
-<link>https://m.gasgoo.com/news/70476995.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476995.html</guid>
+<title>补能的第三次跃迁，车企为什么都要下场？</title>
+<link>https://m.gasgoo.com/news/70477005.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477005.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>国际|特斯拉10月中国产电动车销量涨10%</title>
-<link>https://m.gasgoo.com/news/70476849.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70476849.html</guid>
+<title>ACEA首秀进博会:挡不住中国车,绕不开中国</title>
+<link>https://m.gasgoo.com/news/70477037.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477037.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

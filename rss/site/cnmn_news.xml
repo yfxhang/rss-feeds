@@ -4,10 +4,34 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 06 Nov 2026 06:03:16 +0800</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 10:25:56 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>首届有色金属行业ESG实践与可持续发展大会暨第五期有色金属行业ESG高级管理人才培训在深圳举办</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475248</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475248</guid>
+<pubDate>Fri, 06 Nov 2026 10:25:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026第一届有色金属（铜基新材料）装备及辅料展览会在江西鹰潭召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475247</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475247</guid>
+<pubDate>Fri, 06 Nov 2026 10:13:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026年（第二十九届）中国国际铅锌年会在东莞召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475246</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475246</guid>
+<pubDate>Fri, 06 Nov 2026 09:54:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>紫金矿业正式取得赤峰黄金控制权</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475205</link>
@@ -141,30 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475090</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475090</guid>
 <pubDate>Fri, 30 Oct 2026 19:27:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>西部矿业玉龙铜业向巴青地震灾区捐赠1000万元</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475027</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475027</guid>
-<pubDate>Thu, 29 Oct 2026 10:06:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>十年筑台育骨干 五洲逐技展风采2026年“中国铜业杯”全国有色金属行业班组长综合管理技能竞赛、海外企业属地班组长综合管理技能竞赛举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475025</guid>
-<pubDate>Thu, 29 Oct 2026 10:05:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中铝集团捐赠1500万元驰援西藏巴青地震灾区</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475026</guid>
-<pubDate>Thu, 29 Oct 2026 10:05:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
