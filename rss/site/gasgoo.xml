@@ -4,10 +4,26 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 09:14:04 +0800</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 04:15:31 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>23.98万元起，智己LS8 NEO纯电正式上市</title>
+<link>https://m.gasgoo.com/news/70477289.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477289.html</guid>
+<pubDate>Sat, 07 Nov 2026 23:15:37 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>【日程发布】海外华人汽车工程师全球连线 - 2026</title>
+<link>https://m.gasgoo.com/news/70477274.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477274.html</guid>
+<pubDate>Sat, 07 Nov 2026 14:19:32 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>出海新阶段，中国车企要换一种活法</title>
 <link>https://m.gasgoo.com/news/70477157.html</link>
@@ -109,22 +125,6 @@
 <link>https://m.gasgoo.com/news/70477153.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70477153.html</guid>
 <pubDate>Fri, 06 Nov 2026 15:52:55 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>英飞凌与高通合作开发中央车载计算机</title>
-<link>https://m.gasgoo.com/news/70477152.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477152.html</guid>
-<pubDate>Fri, 06 Nov 2026 15:51:59 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>意法半导体推出用于边缘人工智能汽车计算的STM32A系列</title>
-<link>https://m.gasgoo.com/news/70477151.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477151.html</guid>
-<pubDate>Fri, 06 Nov 2026 15:49:35 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
