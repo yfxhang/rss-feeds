@@ -4,10 +4,50 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 09 Nov 2026 04:29:13 +0800</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 08:03:17 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>电池护照倒计时，供应链数据大考来了</title>
+<link>https://m.gasgoo.com/news/70477080.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477080.html</guid>
+<pubDate>Mon, 09 Nov 2026 07:30:41 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>Cybertruck退场，特斯拉开始止损？</title>
+<link>https://m.gasgoo.com/news/70477288.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477288.html</guid>
+<pubDate>Mon, 09 Nov 2026 07:25:34 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>​AITC上海启幕，奥迪全球研发权责的一次结构性前移</title>
+<link>https://m.gasgoo.com/news/70477267.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477267.html</guid>
+<pubDate>Mon, 09 Nov 2026 07:00:33 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>从语音第一到全栈领跑，科大讯飞抢滩AI座舱下半场</title>
+<link>https://m.gasgoo.com/news/70477326.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477326.html</guid>
+<pubDate>Mon, 09 Nov 2026 07:00:29 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>QNX 2026年度开发者大会邀您相聚上海</title>
+<link>https://m.gasgoo.com/news/70476360.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70476360.html</guid>
+<pubDate>Mon, 09 Nov 2026 07:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>E周看点 | 吉利首款家用甲醇车上市；富士康发布三款新车</title>
 <link>https://m.gasgoo.com/news/70477290.html</link>
@@ -85,46 +125,6 @@
 <link>https://m.gasgoo.com/news/70477204.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70477204.html</guid>
 <pubDate>Fri, 06 Nov 2026 18:03:04 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>2026年1-9月ADAS供应商装机量排行榜：激光雷达本土供应商前四占比超95%丨盖世汽车研究院</title>
-<link>https://m.gasgoo.com/news/70477202.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477202.html</guid>
-<pubDate>Fri, 06 Nov 2026 17:50:28 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>Seeds | 蓝固新能源完成近两亿元B+轮融资</title>
-<link>https://m.gasgoo.com/news/70477161.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477161.html</guid>
-<pubDate>Fri, 06 Nov 2026 16:49:40 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>进博会观察 | 日产，重构跨国车企价值链?</title>
-<link>https://m.gasgoo.com/news/70477160.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477160.html</guid>
-<pubDate>Fri, 06 Nov 2026 16:26:45 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>2026年1-9月中国乘用车出口到哪了：俄罗斯、巴西领跑整体市场，覆盖多种动力类型丨盖世汽车研究院</title>
-<link>https://m.gasgoo.com/news/70477158.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477158.html</guid>
-<pubDate>Fri, 06 Nov 2026 16:11:09 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>梅赛德斯-奔驰开发创新显示解决方案与智能高压技术</title>
-<link>https://m.gasgoo.com/news/70477156.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477156.html</guid>
-<pubDate>Fri, 06 Nov 2026 16:03:03 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
