@@ -4,60 +4,61 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 10 Nov 2026 08:16:03 +0800</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 05:49:22 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026年中国乘用车HUD产业研究报告</title>
+<link>https://www.shujubang.com/detail/21568</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21568</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
+<description>HUD产业研究：装配率超过25%，P-HUD起配车型价格下探至13万元</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>KPIT 张人杰：中国车企出海的三大痛点与破局路径</title>
+<link>https://www.shujubang.com/detail/21567</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21567</guid>
+<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+<description>从&quot;卖车&quot;到&quot;搬生态&quot;</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>具身智能端边云协同研究：分层之后如何交付，12家本体厂商榜单梳理</title>
+<link>https://www.shujubang.com/detail/21563</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21563</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+<description>《2026年机器人本体厂商端云协同混合计算部署方案研究报告》发布</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>数字钥匙、儿童遗留、脚踢尾门、超声测距全覆盖的UWB芯片NCJ29D6</title>
+<link>https://www.shujubang.com/detail/21566</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21566</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+<description>明日之星：UWB</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>英飞凌推出RISC-V MCU RC1挑战ARM</title>
+<link>https://www.shujubang.com/detail/21565</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21565</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+<description>天下苦ARM久矣</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>比亚迪最新车型方程豹方程S之EEA电子电气架构分析</title>
 <link>https://www.shujubang.com/detail/21562</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21562</guid>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
 <description>成本和先进性间的平衡</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>奇瑞双地平线J6P芯片域控制器拆解</title>
-<link>https://www.shujubang.com/detail/21561</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21561</guid>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
-<description>智驾难做卖点</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>中国第三方 NOA 智驾全景盘点：轻舟智航凭单J6M打开城市NOA多强时代</title>
-<link>https://www.shujubang.com/detail/21559</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21559</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2022-2026H1 国内乘用车 NOA 第三方智驾算法厂商全景梳理</title>
-<link>https://www.shujubang.com/detail/21558</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21558</guid>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-<description>PDF资料欢迎下载</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>8月 智驾域控SoC榜单：地平线稳居第三，海思领跑40万元以上车型</title>
-<link>https://www.shujubang.com/detail/21557</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21557</guid>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
-<description>佐思汽研智驾数据库</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年软件定义汽车：软件供应链全景及商业模式研究报告</title>
-<link>https://www.shujubang.com/detail/21552</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21552</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
-<description>汽车软件商业模式研究：Token经济、AI服务利润分成等业务探索</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

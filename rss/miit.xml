@@ -5,6 +5,20 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>福建通信管理局党组召开会议 传达学习贯彻党的二十届五中全会精神</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f0a201995c1142aca325a101df740eff.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_f0a201995c1142aca325a101df740eff.html</guid>
+<description>近日，福建省通信管理局召开党组会议，传达学习党的二十届五中全会精神，部署贯彻落实工作。会议指出，党的二十届五中全会是在基本实现社会主义现代化的关键时期召开的一次十分重要的会议。</description>
+<pubDate>Tue, 10 Nov 2026 16:02:05 +0800</pubDate>
+</item>
+<item>
+<title>广西通信管理局传达学习贯彻党的二十届五中全会精神</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_d89b8d4cfc6d4f49a557e7e48b2b955d.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_d89b8d4cfc6d4f49a557e7e48b2b955d.html</guid>
+<description>2026年11月3日，广西省通信管理局召开党组（扩大）会议，专题传达学习党的二十届五中全会精神，研究部署贯彻落实工作。广西省通信管理局党组书记、局长黄长庆主持会议并讲话，广西省通信管理局党组成员、处室负责同志参加会议。会议指出，党的二十届五中全会是在建党105周年、“十五五”开局之年、迎接二十一大召开的关键节点举行的一次十分重要的会议。</description>
+<pubDate>Tue, 10 Nov 2026 16:02:01 +0800</pubDate>
+</item>
+<item>
 <title>广东通信管理局召开广东信息通信业“十五五”规划暨新一代通信网政策宣贯会</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_a1879a7dce954d77ba7f2a58f69b2707.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_a1879a7dce954d77ba7f2a58f69b2707.html</guid>
@@ -410,18 +424,4 @@
 <description>为深入开展道路机动车辆产品生产一致性和质量提升专项行动（以下简称质量提升专项行动），进一步提升汽车产品安全技术性能，维护公共安全和公民生命财产安全，10月15日，工业和信息化部装备工业一司、公安部交通管理局、生态环境部大气环境司、市场监管总局质量发展局（以下简称四部门相关司局）组织30余家重点汽车生产企业开展座谈，解读《工业和信息化部 公安部 生态环境部 市场监管总局关于进一步加强汽车产品创...</description>
 <pubDate>Mon, 19 Oct 2026 09:16:19 +0800</pubDate>
 </item>
-<item>
-<title>青海通信管理局学习贯彻习近平总书记重要指示和全国先进制造业大会精神</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_69882109910744a4a610c6942428b2f1.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_69882109910744a4a610c6942428b2f1.html</guid>
-<description>近日，青海省通信管理局召开党组会议，学习贯彻习近平总书记关于发展先进制造业的重要指示和全国先进制造业大会精神，研究安排贯彻落实工作。青海省通信管理局党组书记、局长李毅主持会议并提出落实要求。会议指出，全国先进制造业大会是首次以先进制造业为主题召开的全国性会议，充分体现了党中央对发展先进制造业的高度重视。</description>
-<pubDate>Fri, 16 Oct 2026 17:36:42 +0800</pubDate>
-</item>
-<item>
-<title>宁夏通信管理局组织开展2026年第二期通信工程施工企业“三类人员”安全生产考核</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_d32cb4b5f37749a6a06eade9e33190ae.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_d32cb4b5f37749a6a06eade9e33190ae.html</guid>
-<description>近日，为深入贯彻习近平总书记关于安全生产的重要论述，落实工业和信息化部安全生产工作部署，宁夏回族自治区通信管理局组织开展2026年第二期通信工程施工企业“三类人员”安全生产考核，坚持关口前移、源头管控，以关键岗位人员能力提升推动本质安全水平提升。</description>
-<pubDate>Fri, 16 Oct 2026 17:36:06 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19558 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19560 条）
