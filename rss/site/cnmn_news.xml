@@ -4,10 +4,58 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 09 Nov 2026 08:03:19 +0800</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 08:16:07 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>淡水河谷第三季度铁矿石销量微增 铜镍产量有望达全年指导区间上半段</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475263</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475263</guid>
+<pubDate>Mon, 09 Nov 2026 10:20:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>前三季度利润总额同比增长86.44% 中国铝业经营业绩再创历史最优</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475262</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475262</guid>
+<pubDate>Mon, 09 Nov 2026 10:19:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>敖宏到中金岭南调研</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475259</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475259</guid>
+<pubDate>Mon, 09 Nov 2026 10:18:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>守住矿山安全底线 筑牢资源安全根基——矿冶集团以科技创新书写资源报国新答卷</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475255</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475255</guid>
+<pubDate>Mon, 09 Nov 2026 10:12:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>数据要素赋能新型工业化 2026数据要素赋能新型工业化大赛有色金属行业赛道决赛在济源举行</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475254</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475254</guid>
+<pubDate>Mon, 09 Nov 2026 10:11:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>推动铅锌产业迈向战略新高地 2026年（第二十九届）中国国际铅锌年会在广东东莞召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475253</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475253</guid>
+<pubDate>Mon, 09 Nov 2026 10:08:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>敖宏到中金岭南调研座谈</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475249</link>
@@ -117,54 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475124</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475124</guid>
 <pubDate>Mon, 02 Nov 2026 16:02:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026年第二十五届白银年会暨第十届贵金属粉体与厚膜浆料行业会议在济源召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475123</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475123</guid>
-<pubDate>Mon, 02 Nov 2026 15:49:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>从“建平台”迈向“强平台”——行业媒体平台建设研讨会在京召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475122</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475122</guid>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>科创领航 智拓贵途——2026年中国贵金属论坛在云南昆明召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475121</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475121</guid>
-<pubDate>Mon, 02 Nov 2026 11:24:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>【人民日报社论】把我们党建设得更好、更强</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475103</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475103</guid>
-<pubDate>Mon, 02 Nov 2026 10:50:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026年前三季度有色金属工业运行情况新闻发布会问答录</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475100</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475100</guid>
-<pubDate>Mon, 02 Nov 2026 09:28:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>多重因素赋能 有色金属行业盈利水平实现跨越式提升</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475099</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475099</guid>
-<pubDate>Mon, 02 Nov 2026 09:24:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
