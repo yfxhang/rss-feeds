@@ -4,16 +4,34 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 11 Nov 2026 05:49:35 +0800</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 06:45:42 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>中科院团队背景！千吨级锂电池硅碳负极用多孔碳材料落地淮安</title>
+<link>https://www.aibanglib.com/a/32949</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32949</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+<description>近日，淮安工业园区发布消息，江苏格源碳材料有限公司年产100…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>普兰干法超级电容火储联调项目成功并网投运</title>
 <link>https://www.aibanglib.com/a/32937</link>
 <guid isPermaLink="true">https://www.aibanglib.com/a/32937</guid>
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <description>近日，普兰参与的“3MW×6min干法超级电容+9MW/18…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>LG新能源中国签约南京城建集团，围绕新能源多领域供应磷酸铁锂电芯</title>
+<link>https://www.aibanglib.com/a/32943</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32943</guid>
+<pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+<description>11月5日，第九届中国国际进口博览会（以下简称“进博会”）开…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
@@ -86,15 +104,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32898</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
 <description>江苏黄海金控集团所投企业厦门辁电光电有限公司，在盐城落地江苏…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>出海巴基斯坦：千兆级电芯厂待产，气凝胶隔热材料配套窗口有待开启</title>
-<link>https://www.aibanglib.com/a/32760</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32760</guid>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-<description>近日，巴基斯坦锂电本土化迎来标志性节点。产能规划方面，项目初…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>
