@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Thu, 12 Nov 2026 06:45:39 +0800</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:16:00 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>New Harmonized Standards for Aviation Ground Support Equipment: EN 1915-2 and EN 12312-20</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-12-en-1915-2-and-en-12312-20-on-aviation-ground-support-equipment-1/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-12-en-1915-2-and-en-12312-20-on-aviation-ground-support-equipment-1/</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+<description>After more than 15 years, two important standards for aviation ground support equipment (GSE) have been comprehensively revised and republished, replacing editions that had been in force since 2009. The new standards provide updated requirements for the design, testing, and operation of equipment used in airport ground handling activities. As a result, manufacturers, designers, testing laboratories, and operators should review the changes and assess their impact on product compliance and operational practices. The standards form part of two complementary series developed by CEN/TC 274 ‘Aircraft Ground Support Equipment’. While the EN 1915 series establishes general requirements applicable across different categories of GSE, the EN 12312 series contains equipment-specific requirements. The </description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>Draft CWA for comment: 'Framework for Telehealth Adoption'</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/workshop/2026-04-15-telehealth/</link>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<description>We are pleased to inform you about the upcoming CEN and CENELEC activities in 2026. 3 November – RISERS Conference – How can Europe drive cross-sectoral resource efficiency? Upscaling industrial symbiosis through standardization The conference will bring together representatives of industry, research, policymaking and standardization to discuss how Europe can accelerate the implementation of industrial symbiosis across sectors. The event will present the key results of the RISERS project, including the Industrial Symbiosis Standardization Roadmap, and explore the role of standards in bridging innovation and market deployment, supporting European policy objectives and reducing barriers to industrial collaboration. Registration is closed. 4 November – Kick-off Meeting for CEN-CENELEC Worksho</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -85,14 +93,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>World Standards Day 2026: Powering a Clean Energy Future for Consumers</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-anec/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-anec/</guid>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>

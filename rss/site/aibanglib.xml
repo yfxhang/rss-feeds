@@ -4,7 +4,7 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 06:45:42 +0800</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:16:09 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -14,6 +14,15 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32949</guid>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
 <description>近日，淮安工业园区发布消息，江苏格源碳材料有限公司年产100…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>星源材质锁定大众8年隔膜供应，天赐材料获亿纬锂能45万吨电解液订单</title>
+<link>https://www.aibanglib.com/a/32953</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32953</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+<description>1、星源材质：欧洲星源与大众动力电池子公司签8年湿法涂覆隔膜…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

@@ -4,10 +4,19 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 12 Nov 2026 06:45:27 +0800</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:15:52 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>11月来广州，成为全球汽车产业的价值连接者</title>
+<link>https://www.shujubang.com/detail/21569</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21569</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+<description>2026年第二十四届广州国际汽车展览会将于11月27日至12月6日在广交会展馆盛大启幕</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>2026年中国乘用车HUD产业研究报告</title>
 <link>https://www.shujubang.com/detail/21568</link>
@@ -50,15 +59,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21565</guid>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
 <description>天下苦ARM久矣</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>比亚迪最新车型方程豹方程S之EEA电子电气架构分析</title>
-<link>https://www.shujubang.com/detail/21562</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21562</guid>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
-<description>成本和先进性间的平衡</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
