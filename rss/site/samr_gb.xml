@@ -4,19 +4,10 @@
 <link>https://std.samr.gov.cn/gb/search/gbQueryPage</link>
 <description>国家标准（含发布/实施日期、状态），按公开日期倒序；接口：std.samr.gov.cn gbQueryPage</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 06:15:53 +0800</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:59:37 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/samr_gb.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
-<item>
-<title>GB/T 48595-2026 金属和合金的腐蚀 消毒剂腐蚀试验方法 全浸法</title>
-<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193D567748E06397BE0A0A0B47</link>
-<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193D567748E06397BE0A0A0B47</guid>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-<description>标准号：GB/T 48595-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-05-01</description>
-<category>标准政策及法规</category>
-<source>全国标准信息公共服务平台·国家标准动态</source>
-</item>
 <item>
 <title>GB/T 18475-2026 热塑性塑料压力管材和管件用材料 分级、命名和设计系数</title>
 <link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193D577748E06397BE0A0A0B47</link>
@@ -1085,6 +1076,15 @@
 <guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DF87748E06397BE0A0A0B47</guid>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
 <description>标准号：GB/T 30369-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-02-01</description>
+<category>标准政策及法规</category>
+<source>全国标准信息公共服务平台·国家标准动态</source>
+</item>
+<item>
+<title>GB/T 4588.3-2026 印制板的设计和使用</title>
+<link>https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DF97748E06397BE0A0A0B47</link>
+<guid isPermaLink="true">https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193DF97748E06397BE0A0A0B47</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
+<description>标准号：GB/T 4588.3-2026；性质：推荐性；状态：即将实施；发布日期：2026-10-30；实施日期：2027-05-01</description>
 <category>标准政策及法规</category>
 <source>全国标准信息公共服务平台·国家标准动态</source>
 </item>

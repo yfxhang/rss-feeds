@@ -4,10 +4,28 @@
 <link>https://www.aibanglib.com/</link>
 <description>艾邦锂电网资讯（原 WordPress /feed 已由官方关闭），XPath 自建源；列表页改用站点首页（/a/category/news『行业动态』栏目已多日不更新，最新一条停在 09-18），日期 XPath 修正为「该条文章所在卡片内」的 mg-blog-date（此前误取整个区块的第一条日期，10 条共用一个日期）</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 06:16:09 +0800</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:59:56 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/aibanglib.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>利元亨：全固态整线已交付，关键机型进入客户验证</title>
+<link>https://www.aibanglib.com/a/32980</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32980</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+<description>公司固态电池设备业务正从技术研发阶段转向客户验证与小规模交付…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
+<item>
+<title>宝马集团与三星SDI、LG新能源签订电池供货合同，强化本地采购</title>
+<link>https://www.aibanglib.com/a/32968</link>
+<guid isPermaLink="true">https://www.aibanglib.com/a/32968</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+<description>宝马集团将扩大与韩国电池企业的合作。宝马集团10日表示，已新…</description>
+<category>材料</category>
+<source>艾邦锂电网·资讯</source>
+</item>
 <item>
 <title>中科院团队背景！千吨级锂电池硅碳负极用多孔碳材料落地淮安</title>
 <link>https://www.aibanglib.com/a/32949</link>
@@ -81,7 +99,7 @@
 <source>艾邦锂电网·资讯</source>
 </item>
 <item>
-<title>【邀请函】第六届气凝胶与纳米隔热材料产业论坛（2027年4月·苏州）</title>
+<title>【邀请函】2027第六届气凝胶与纳米隔热材料产业论坛（4月21·苏州）</title>
 <link>https://www.aibanglib.com/a/32869</link>
 <guid isPermaLink="true">https://www.aibanglib.com/a/32869</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
@@ -95,24 +113,6 @@
 <guid isPermaLink="true">https://www.aibanglib.com/a/32859</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
 <description>电池系统向高倍率快充、高能量密度升级，热安全与温度波动控制问…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>壹连科技11.8亿可转债获批，重点投向新能源柔性电连接系统项目</title>
-<link>https://www.aibanglib.com/a/32906</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32906</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<description>项目建成达产后，将形成年产新型柔性电连接组件约4,500 万…</description>
-<category>材料</category>
-<source>艾邦锂电网·资讯</source>
-</item>
-<item>
-<title>2.4米柔性电路板背后的“车规级”突围</title>
-<link>https://www.aibanglib.com/a/32898</link>
-<guid isPermaLink="true">https://www.aibanglib.com/a/32898</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<description>江苏黄海金控集团所投企业厦门辁电光电有限公司，在盐城落地江苏…</description>
 <category>材料</category>
 <source>艾邦锂电网·资讯</source>
 </item>

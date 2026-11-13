@@ -4,7 +4,7 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 06:15:52 +0800</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:59:37 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -14,6 +14,15 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21569</guid>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
 <description>2026年第二十四届广州国际汽车展览会将于11月27日至12月6日在广交会展馆盛大启幕</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>2026-2027年乘用车EE架构和技术供应链搭建策略研究报告</title>
+<link>https://www.shujubang.com/detail/21570</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21570</guid>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
+<description>乘用车EE架构研究：下一代AI EEA正蓄势待发，整车“自主感知—自主决策—自主进化”</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
@@ -50,15 +59,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21566</guid>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
 <description>明日之星：UWB</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>英飞凌推出RISC-V MCU RC1挑战ARM</title>
-<link>https://www.shujubang.com/detail/21565</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21565</guid>
-<pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-<description>天下苦ARM久矣</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
