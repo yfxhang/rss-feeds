@@ -4,10 +4,106 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 14 Nov 2026 05:59:38 +0800</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 04:43:15 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>​极狐发布“极+时代”换电生态，两款新车上市，租电价5.2万元起</title>
+<link>https://m.gasgoo.com/news/70477996.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477996.html</guid>
+<pubDate>Sat, 14 Nov 2026 12:15:24 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>11月LAB续航榜丨纯电小车续航创新高，低能耗将成新战场？</title>
+<link>https://m.gasgoo.com/news/70477991.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477991.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:44:01 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>10月方盒子排行：坦克300不复当年勇，多款新玩家杀入！</title>
+<link>https://m.gasgoo.com/news/70477990.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477990.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:41:24 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>“速成车”后时代：合资电车强势回春，蓝牌混动崛起</title>
+<link>https://m.gasgoo.com/news/70477989.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477989.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:39:48 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>法院判了：“不在4S店保养就取消终身质保”站不住！修理厂借&quot;外修证明&quot;抢客户的时机到了？</title>
+<link>https://m.gasgoo.com/news/70477912.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477912.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:37:01 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>因雨刮臂脱落隐患 福特召回林肯领航员国内召回</title>
+<link>https://m.gasgoo.com/news/70477920.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477920.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:36:29 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>因车轮轴承问题 北京奔驰召回部分国产汽车国内召回</title>
+<link>https://m.gasgoo.com/news/70477926.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477926.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:34:27 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>因前排气囊隐患 斯泰兰蒂斯召回大切诺基4xe国内召回</title>
+<link>https://m.gasgoo.com/news/70477927.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477927.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:32:52 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>因熄火隐患 斯泰兰蒂斯召回朱丽叶等车型国内召回</title>
+<link>https://m.gasgoo.com/news/70477928.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477928.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:30:43 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>因动力中断隐患 宝马召回进口5系等车型国内召回</title>
+<link>https://m.gasgoo.com/news/70477929.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477929.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:29:47 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>因喇叭无法鸣响隐患 丰田汽车召回进口86国内召回</title>
+<link>https://m.gasgoo.com/news/70477930.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477930.html</guid>
+<pubDate>Sat, 14 Nov 2026 09:29:26 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>一周融资速览｜思灵机器人完成5亿美元F轮融资；曦选创智完成5亿元天使轮融资</title>
+<link>https://m.gasgoo.com/news/70477901.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70477901.html</guid>
+<pubDate>Sat, 14 Nov 2026 08:32:49 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>奔驰冻结德国本土投资，拟关闭部分生产基地</title>
 <link>https://m.gasgoo.com/news/70477941.html</link>
@@ -29,102 +125,6 @@
 <link>https://m.gasgoo.com/news/70477939.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70477939.html</guid>
 <pubDate>Fri, 13 Nov 2026 21:54:06 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>北汽携手新紫光集团，舱驾控一体芯片拟2028年量产上车</title>
-<link>https://m.gasgoo.com/news/70477902.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477902.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:22:39 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>启境GT7 Ultra舒享版增程纯电双车上新，限时22.19万起</title>
-<link>https://m.gasgoo.com/news/70477924.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477924.html</guid>
-<pubDate>Fri, 13 Nov 2026 17:15:03 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>2026年1-9月智能座舱供应商装机量排行榜：本土阵营强势主导座舱域控领域丨盖世汽车研究院</title>
-<link>https://m.gasgoo.com/news/70477913.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477913.html</guid>
-<pubDate>Fri, 13 Nov 2026 16:35:01 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>开上纯电之后，28%的车主为什么想换混动？</title>
-<link>https://m.gasgoo.com/news/70477903.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477903.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:51:34 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>英伟达员工呼吁黄仁勋回归：内部请愿帖获超1600条评论</title>
-<link>https://m.gasgoo.com/news/70477898.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477898.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:24:02 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>问界合作模式再生变？余承东称华为仍主导产品定义与设计</title>
-<link>https://m.gasgoo.com/news/70477899.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477899.html</guid>
-<pubDate>Fri, 13 Nov 2026 15:11:17 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>星尘智能牵头全球首个IEEE家用具身智能国际标准立项</title>
-<link>https://m.gasgoo.com/news/70477786.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477786.html</guid>
-<pubDate>Fri, 13 Nov 2026 14:53:59 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>上汽新车密集上市冲刺四季度</title>
-<link>https://m.gasgoo.com/news/70477886.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477886.html</guid>
-<pubDate>Fri, 13 Nov 2026 14:35:27 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>中鼎股份19.2亿元可转债在深交所挂牌上市</title>
-<link>https://m.gasgoo.com/news/70477884.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477884.html</guid>
-<pubDate>Fri, 13 Nov 2026 13:34:13 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>搭载大众汽车ID.Buzz，亿咖通科技与May Mobility推进Robotaxi合作</title>
-<link>https://m.gasgoo.com/news/70477883.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477883.html</guid>
-<pubDate>Fri, 13 Nov 2026 13:25:31 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>英伟达失去黄仁勋之后</title>
-<link>https://m.gasgoo.com/news/70477865.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477865.html</guid>
-<pubDate>Fri, 13 Nov 2026 12:58:53 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>48V重上牌桌，这次角色变了</title>
-<link>https://m.gasgoo.com/news/70477874.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70477874.html</guid>
-<pubDate>Fri, 13 Nov 2026 11:47:19 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
