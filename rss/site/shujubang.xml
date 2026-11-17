@@ -4,16 +4,34 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 16 Nov 2026 05:03:01 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:21:25 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>奇瑞、吉利开始导入高通QCM8538，或取代SA8255</title>
+<link>https://www.shujubang.com/detail/21573</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21573</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+<description>高通，可怕的对手</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>11月来广州，成为全球汽车产业的价值连接者</title>
 <link>https://www.shujubang.com/detail/21569</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21569</guid>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
 <description>2026年第二十四届广州国际汽车展览会将于11月27日至12月6日在广交会展馆盛大启幕</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
+<title>物理AI落地仓储物流，产业化进入实效检验期| 具身智能产业月度观察</title>
+<link>https://www.shujubang.com/detail/21572</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21572</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
+<description>《中国具身智能机器人产业及技术监测报告》（2026年11月期） 发布</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
@@ -27,38 +45,20 @@
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
+<title>广汽传祺越7中央计算拆解，中兴微憾域M1芯片取代NXP的S32G</title>
+<link>https://www.shujubang.com/detail/21571</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21571</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+<description>国产替代进行时</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
+<item>
 <title>2026年中国乘用车HUD产业研究报告</title>
 <link>https://www.shujubang.com/detail/21568</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21568</guid>
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
 <description>HUD产业研究：装配率超过25%，P-HUD起配车型价格下探至13万元</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>KPIT 张人杰：中国车企出海的三大痛点与破局路径</title>
-<link>https://www.shujubang.com/detail/21567</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21567</guid>
-<pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
-<description>从&quot;卖车&quot;到&quot;搬生态&quot;</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>具身智能端边云协同研究：分层之后如何交付，12家本体厂商榜单梳理</title>
-<link>https://www.shujubang.com/detail/21563</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21563</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<description>《2026年机器人本体厂商端云协同混合计算部署方案研究报告》发布</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>数字钥匙、儿童遗留、脚踢尾门、超声测距全覆盖的UWB芯片NCJ29D6</title>
-<link>https://www.shujubang.com/detail/21566</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21566</guid>
-<pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-<description>明日之星：UWB</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

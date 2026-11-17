@@ -4,10 +4,42 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 16 Nov 2026 05:03:03 +0800</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 08:21:28 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>武强院士：采得出资源、守得住安全、算得清生态</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475364</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475364</guid>
+<pubDate>Mon, 16 Nov 2026 17:30:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>走进云南神火</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475363</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475363</guid>
+<pubDate>Mon, 16 Nov 2026 15:59:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>以智赋能，供需携手！2026广东铝加工产业发展大会盛大开幕</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475362</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475362</guid>
+<pubDate>Mon, 16 Nov 2026 15:30:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>首届中国有色金属、黄金行业AI视频、摄影、歌曲作品11月18日正式展播</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475361</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475361</guid>
+<pubDate>Mon, 16 Nov 2026 09:12:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>有色企业学习贯彻党的二十届五中全会精神</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475358</link>
@@ -133,38 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475253</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475253</guid>
 <pubDate>Mon, 09 Nov 2026 10:08:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>敖宏到中金岭南调研座谈</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475249</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475249</guid>
-<pubDate>Fri, 06 Nov 2026 10:49:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>首届有色金属行业ESG实践与可持续发展大会暨第五期有色金属行业ESG高级管理人才培训在深圳举办</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475248</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475248</guid>
-<pubDate>Fri, 06 Nov 2026 10:25:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026第一届有色金属（铜基新材料）装备及辅料展览会在江西鹰潭召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475247</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475247</guid>
-<pubDate>Fri, 06 Nov 2026 10:13:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026年（第二十九届）中国国际铅锌年会在东莞召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475246</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475246</guid>
-<pubDate>Fri, 06 Nov 2026 09:54:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
