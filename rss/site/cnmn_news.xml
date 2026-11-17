@@ -4,10 +4,34 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 17 Nov 2026 08:21:28 +0800</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 07:31:09 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>以数智破壁垒 以专业立潮头——2026行业媒体高质量发展创新案例数智技术应用类案例解析</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475402</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475402</guid>
+<pubDate>Tue, 17 Nov 2026 20:27:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>前三季度我国黄金产量220.935吨黄金消费量684.623吨</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475367</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475367</guid>
+<pubDate>Tue, 17 Nov 2026 10:02:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中国有色金属报社2026年宣传工作会召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475366</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475366</guid>
+<pubDate>Tue, 17 Nov 2026 10:01:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>武强院士：采得出资源、守得住安全、算得清生态</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475364</link>
@@ -141,30 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475259</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475259</guid>
 <pubDate>Mon, 09 Nov 2026 10:18:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>守住矿山安全底线 筑牢资源安全根基——矿冶集团以科技创新书写资源报国新答卷</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475255</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475255</guid>
-<pubDate>Mon, 09 Nov 2026 10:12:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>数据要素赋能新型工业化 2026数据要素赋能新型工业化大赛有色金属行业赛道决赛在济源举行</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475254</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475254</guid>
-<pubDate>Mon, 09 Nov 2026 10:11:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>推动铅锌产业迈向战略新高地 2026年（第二十九届）中国国际铅锌年会在广东东莞召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475253</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475253</guid>
-<pubDate>Mon, 09 Nov 2026 10:08:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
