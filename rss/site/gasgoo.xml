@@ -4,127 +4,127 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 07:31:08 +0800</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 06:57:44 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>黄仁勋离场，英伟达的汽车野心会变吗？</title>
-<link>https://m.gasgoo.com/news/70478298.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478298.html</guid>
-<pubDate>Wed, 18 Nov 2026 07:00:47 +0800</pubDate>
+<title>曝红旗评估与Stellantis等欧洲车企合作</title>
+<link>https://m.gasgoo.com/news/70478426.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478426.html</guid>
+<pubDate>Wed, 18 Nov 2026 20:29:43 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>腾势正式进入印度市场，Z9 GT与D9同步发布</title>
-<link>https://m.gasgoo.com/news/70478282.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478282.html</guid>
-<pubDate>Tue, 17 Nov 2026 17:47:54 +0800</pubDate>
+<title>长城汽车推进智驾与底盘协同控制，探索ABS介入后智驾不立即退出</title>
+<link>https://m.gasgoo.com/news/70478428.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478428.html</guid>
+<pubDate>Wed, 18 Nov 2026 20:22:20 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>人形机器人大小脑，一定要“分家”吗？</title>
-<link>https://m.gasgoo.com/news/70478256.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478256.html</guid>
-<pubDate>Tue, 17 Nov 2026 17:34:24 +0800</pubDate>
+<title>一汽探索热管理与底盘跨域集成，下一代方案预计2028年后推出</title>
+<link>https://m.gasgoo.com/news/70478427.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478427.html</guid>
+<pubDate>Wed, 18 Nov 2026 20:16:43 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>王传福：比亚迪累计产销1900万辆新能源车，减排量相当于种下24亿棵树</title>
-<link>https://m.gasgoo.com/news/70478281.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478281.html</guid>
-<pubDate>Tue, 17 Nov 2026 17:31:07 +0800</pubDate>
+<title>精彩开幕｜盖世汽车2026第六届汽车AI智能底盘大会</title>
+<link>https://m.gasgoo.com/news/70478423.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478423.html</guid>
+<pubDate>Wed, 18 Nov 2026 19:29:52 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>网传抹黑财务经营信息不实，蔚来：已报案</title>
-<link>https://m.gasgoo.com/news/70478279.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478279.html</guid>
-<pubDate>Tue, 17 Nov 2026 16:57:16 +0800</pubDate>
+<title>远景46120大圆柱驶入快车道：交付1000万颗，配套宝马新世代</title>
+<link>https://m.gasgoo.com/news/70478424.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478424.html</guid>
+<pubDate>Wed, 18 Nov 2026 18:41:06 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>英伟达董事会排除黄仁勋回归可能</title>
-<link>https://m.gasgoo.com/news/70478260.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478260.html</guid>
-<pubDate>Tue, 17 Nov 2026 16:56:06 +0800</pubDate>
+<title>收入高增、亏损收窄，小马智行三季报藏着哪些关键信息？</title>
+<link>https://m.gasgoo.com/news/70478417.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478417.html</guid>
+<pubDate>Wed, 18 Nov 2026 18:02:06 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>黄仁勋风波发酵，美国进一步收紧对华先进芯片出口管制</title>
-<link>https://m.gasgoo.com/news/70478258.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478258.html</guid>
-<pubDate>Tue, 17 Nov 2026 16:30:28 +0800</pubDate>
+<title>充换电标准，正在从分散走向收敛</title>
+<link>https://m.gasgoo.com/news/70478413.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478413.html</guid>
+<pubDate>Wed, 18 Nov 2026 17:57:40 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>奕境X9纯电版获工信部公示，广州车展上市</title>
-<link>https://m.gasgoo.com/news/70478257.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478257.html</guid>
-<pubDate>Tue, 17 Nov 2026 16:02:59 +0800</pubDate>
+<title>卫蓝新能源与煜邦电力签约，布局新型储能</title>
+<link>https://m.gasgoo.com/news/70478415.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478415.html</guid>
+<pubDate>Wed, 18 Nov 2026 17:49:46 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>双C架构赋能，一汽-大众ID. AURA L5开启预订</title>
-<link>https://m.gasgoo.com/news/70478255.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478255.html</guid>
-<pubDate>Tue, 17 Nov 2026 15:30:34 +0800</pubDate>
+<title>Momenta与Uber在德国启动Robotaxi试运营，乘客可免费体验</title>
+<link>https://m.gasgoo.com/news/70478414.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478414.html</guid>
+<pubDate>Wed, 18 Nov 2026 17:45:25 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>汽车账期治理进入“年考”</title>
-<link>https://m.gasgoo.com/news/70478245.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478245.html</guid>
-<pubDate>Tue, 17 Nov 2026 14:46:24 +0800</pubDate>
+<title>华申瑞利EMB将2027年量产，乘用车项目已进入PV验证阶段</title>
+<link>https://m.gasgoo.com/news/70478411.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478411.html</guid>
+<pubDate>Wed, 18 Nov 2026 17:27:55 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>曾毓群：电动化要从陆地拓展到海洋和天空，电池能量密度目标350Wh/kg</title>
-<link>https://m.gasgoo.com/news/70478244.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478244.html</guid>
-<pubDate>Tue, 17 Nov 2026 14:06:09 +0800</pubDate>
+<title>11月过半，年末冲量难改车市寒意</title>
+<link>https://m.gasgoo.com/news/70478410.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478410.html</guid>
+<pubDate>Wed, 18 Nov 2026 17:13:34 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>商务部等9部门发文 新能源汽车推行车电一体报废</title>
-<link>https://m.gasgoo.com/news/70478243.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478243.html</guid>
-<pubDate>Tue, 17 Nov 2026 13:50:37 +0800</pubDate>
+<title>继小米后，又有两大车企拿到造车“准生证”</title>
+<link>https://m.gasgoo.com/news/70478409.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478409.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:58:23 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>商务部推动中国与东盟新能源汽车合作 双边机制有望降低</title>
-<link>https://m.gasgoo.com/news/70478240.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478240.html</guid>
-<pubDate>Tue, 17 Nov 2026 12:45:47 +0800</pubDate>
+<title>博世披露底盘软件开发进展，18个月完成3500余版集成验证</title>
+<link>https://m.gasgoo.com/news/70478396.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478396.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:28:43 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>“4000元赔偿为假”，理想汽车辟谣动力电池召回</title>
-<link>https://m.gasgoo.com/news/70478239.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478239.html</guid>
-<pubDate>Tue, 17 Nov 2026 12:39:20 +0800</pubDate>
+<title>龚成明：充电运营商的收入正从卖电转向调节</title>
+<link>https://m.gasgoo.com/news/70478395.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478395.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:15:59 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>英伟达动荡，国产芯片机会又多了？</title>
-<link>https://m.gasgoo.com/news/70478238.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478238.html</guid>
-<pubDate>Tue, 17 Nov 2026 12:14:22 +0800</pubDate>
+<title>新思科技披露汽车仿真新进展，振动分析结果文件缩减90%</title>
+<link>https://m.gasgoo.com/news/70478391.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478391.html</guid>
+<pubDate>Wed, 18 Nov 2026 16:06:36 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
