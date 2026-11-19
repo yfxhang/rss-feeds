@@ -4,10 +4,58 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 19 Nov 2026 06:57:46 +0800</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 07:03:49 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>数智赋能启新篇 首届中国有色金属、黄金行业AI作品展播正式启动</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475455</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475455</guid>
+<pubDate>Thu, 19 Nov 2026 16:00:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>商洛打造铁钒钛产业新高地</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475411</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475411</guid>
+<pubDate>Thu, 19 Nov 2026 11:16:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>“梦想”号大洋钻探船完成重大装备海试任务</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475410</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475410</guid>
+<pubDate>Thu, 19 Nov 2026 11:15:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026“国际铜业协会日”中国论坛召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475409</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475409</guid>
+<pubDate>Thu, 19 Nov 2026 11:14:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>第九届中央企业优秀故事暨2026AIGC创意传播作品发布展示活动在中国五矿举办</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475408</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475408</guid>
+<pubDate>Thu, 19 Nov 2026 11:07:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>筑牢成果保护防线 护航科技创新发展——中国铝业科技成果保护纪实</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475407</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475407</guid>
+<pubDate>Thu, 19 Nov 2026 11:06:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>以数智破壁垒 以专业立潮头——2026行业媒体高质量发展创新案例数智技术应用类案例解析</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475402</link>
@@ -117,54 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475329</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475329</guid>
 <pubDate>Wed, 11 Nov 2026 13:36:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>文岗与香港特区政府投资推广署署长刘凯旋举行会谈</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475309</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475309</guid>
-<pubDate>Tue, 10 Nov 2026 11:16:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>豫光先进稀贵金属材料智造项目开工建设</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475307</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475307</guid>
-<pubDate>Tue, 10 Nov 2026 11:13:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>首届有色金属行业ESG实践与可持续发展大会暨第五期有色金属行业ESG高级管理人才培训举办</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475306</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475306</guid>
-<pubDate>Tue, 10 Nov 2026 11:12:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>淡水河谷第三季度铁矿石销量微增 铜镍产量有望达全年指导区间上半段</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475263</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475263</guid>
-<pubDate>Mon, 09 Nov 2026 10:20:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>前三季度利润总额同比增长86.44% 中国铝业经营业绩再创历史最优</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475262</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475262</guid>
-<pubDate>Mon, 09 Nov 2026 10:19:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>敖宏到中金岭南调研</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475259</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475259</guid>
-<pubDate>Mon, 09 Nov 2026 10:18:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

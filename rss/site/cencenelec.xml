@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Thu, 19 Nov 2026 06:57:57 +0800</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 07:03:56 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>CRA Milestone Unlocked: First European standards supporting CRA are now available!</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-19-cra-standards-en-40000-1-1-and-en-40000-1-2/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-19-cra-standards-en-40000-1-1-and-en-40000-1-2/</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+<description>CEN and CENELEC have reached an important milestone in supporting the implementation of the European Cyber Resilience Act (CRA), with the publication of two new European Standards: EN 40000-1-1 on cybersecurity terminology and EN 40000-1-2 on cybersecurity principles, product risk management and lifecycle activities. These are among the first standards developed under Standardization Request M/606, through which the European Commission has asked the European Standardization Organizations, CEN, CENELEC and ETSI, to develop standards supporting the implementation of the CRA. The CRA introduces a common European framework for the cybersecurity of products with digital elements, covering a wide range of hardware and software products. It represents a major step towards making cybersecurity an </description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>New Harmonized Standards for Aviation Ground Support Equipment: EN 1915-2 and EN 12312-20</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-12-en-1915-2-and-en-12312-20-on-aviation-ground-support-equipment-1/</link>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-din/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-din/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<description>A0 for architectural plans, C1 for oversized certificates and DL (DIN long) for the longest sentence in German literature: there are standards behind the formats we use every day. To show that standards can also inspire creativity, DIN created a magazine with a twist: 45 pages in 45 different paper sizes. Each page features a unique interpretation of its paper size, brought to life by artists, designers and other creative minds. The unusual concept has also caught the attention of the creative industry, winning several awards, including a Bronze Lion at the Cannes Lions International Festival of Creativity. Watch the video to discover the magazine in all its formats. TAGS: Newsletter On the spot Members</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -84,14 +92,6 @@
 <title>CEN and CENELEC Activities</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>Launch of the CEN Workshop 'European Food Fraud Community of Practice (EFF-CoP)'</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/workshop/20261029_effcop/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
