@@ -4,15 +4,31 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 07:03:49 +0800</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:41:18 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
 <title>数智赋能启新篇 首届中国有色金属、黄金行业AI作品展播正式启动</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475455</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475455</guid>
-<pubDate>Thu, 19 Nov 2026 16:00:00 +0800</pubDate>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475459</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475459</guid>
+<pubDate>Fri, 20 Nov 2026 14:58:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>从“译出去”到“走进去”：行业媒体国际传播的四重跃迁——2026行业媒体高质量发展创新案例国际传播建设类案例解析</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475458</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475458</guid>
+<pubDate>Fri, 20 Nov 2026 11:12:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026赫章鼎盛鑫矿业发展有限公司招聘公告</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475457</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475457</guid>
+<pubDate>Fri, 20 Nov 2026 11:01:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
@@ -149,22 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475353</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475353</guid>
 <pubDate>Fri, 13 Nov 2026 13:14:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中国有色金属报2026年宣传工作会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475351</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475351</guid>
-<pubDate>Fri, 13 Nov 2026 09:51:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026年有色金属行业科研设计院所和高校负责人座谈会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475329</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475329</guid>
-<pubDate>Wed, 11 Nov 2026 13:36:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>

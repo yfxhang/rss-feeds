@@ -4,10 +4,19 @@
 <link>https://www.cencenelec.eu/news-events/news/</link>
 <description>CEN/CENELEC 新闻列表（欧洲标准化委员会），XPath 自建源</description>
 <language>en</language>
-<lastBuildDate>Fri, 20 Nov 2026 07:03:56 +0800</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 06:41:26 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cencenelec.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>Supporting the Safe Electrification of Small Craft with EN ISO 16315:2026</title>
+<link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-19-en-iso-16315-2026-small-craft/</link>
+<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-19-en-iso-16315-2026-small-craft/</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+<description>The transition towards electric and hybrid propulsion is reshaping the small-craft sector. Boatbuilders and equipment manufacturers are increasingly deploying advanced propulsion architectures that combine batteries, power electronics, electric motors, generators and control systems to deliver lower-emission and more energy-efficient vessels. As these technologies evolve, ensuring their safe and reliable integration becomes increasingly important. EN ISO 16315:2026 addresses this need by providing a dedicated framework for the design and installation of electrical systems used for propulsion in small craft. The standard applies to electric and hybrid propulsion systems installed in craft up to 24-metre hull length and covers DC systems operating below 1 500 V as well as single-phase and th</description>
+<category>标准政策及法规</category>
+<source>CEN/CENELEC·新闻</source>
+</item>
 <item>
 <title>CRA Milestone Unlocked: First European standards supporting CRA are now available!</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-11-19-cra-standards-en-40000-1-1-and-en-40000-1-2/</link>
@@ -76,7 +85,6 @@
 <link>https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-28-en-4709-003-2026-en-4709-005-2026-and-en-4709-006-2026/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/en-in-the-spotlight/2026-10-28-en-4709-003-2026-en-4709-005-2026-and-en-4709-006-2026/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<description>As unmanned aircraft systems (UAS), commonly known as drones, become more common in European skies, a question arises: how can we ensure that these aircraft remain within authorized areas and can be brought safely to the ground when something goes wrong? This matters especially near airports, restricted zones and densely populated areas, where an unexpected flight path may endanger people. Three European Standards—EN 4709-003:2026, EN 4709-005:2026 and EN 4709-006:2026—address this challenge. Developed by CEN/TC 471 ‘Unmanned Aircraft Systems’, they offer complementary requirements and verification methods, from anticipating airspace infringement to containing an aircraft and, as a last resort, terminating its flight. Knowing where a drone may fly EN 4709-003:2026 focuses on geo-awareness,</description>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
 </item>
@@ -84,14 +92,6 @@
 <title>Not your standard magazine</title>
 <link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-din/</link>
 <guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-din/</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-<category>标准政策及法规</category>
-<source>CEN/CENELEC·新闻</source>
-</item>
-<item>
-<title>CEN and CENELEC Activities</title>
-<link>https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</link>
-<guid isPermaLink="true">https://www.cencenelec.eu/news-events/news/2026/newsletter/ots-77-activities/</guid>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
 <category>标准政策及法规</category>
 <source>CEN/CENELEC·新闻</source>
