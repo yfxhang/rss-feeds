@@ -4,10 +4,42 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 06:41:16 +0800</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 05:40:03 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>过度竞争的”火“，烧到补能市场</title>
+<link>https://m.gasgoo.com/news/70478716.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478716.html</guid>
+<pubDate>Sat, 21 Nov 2026 12:35:21 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>融资周报｜Genesis AI完成33亿元A轮融资；蓝点触控完成数亿元D3轮融资</title>
+<link>https://m.gasgoo.com/news/70478622.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478622.html</guid>
+<pubDate>Sat, 21 Nov 2026 07:59:12 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>中国Robotaxi出海，开始接受欧洲乘客检验</title>
+<link>https://m.gasgoo.com/news/70478583.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478583.html</guid>
+<pubDate>Sat, 21 Nov 2026 07:05:38 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>欧洲车企开始为中国造车技术付费</title>
+<link>https://m.gasgoo.com/news/70478679.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70478679.html</guid>
+<pubDate>Sat, 21 Nov 2026 07:05:24 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
 <item>
 <title>尚界Z7T星野套装27.48万起 猎装车加了10处外观件</title>
 <link>https://m.gasgoo.com/news/70478683.html</link>
@@ -93,38 +125,6 @@
 <link>https://m.gasgoo.com/news/70478656.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70478656.html</guid>
 <pubDate>Fri, 20 Nov 2026 15:52:59 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>福特申请车辆灯光通信系统专利</title>
-<link>https://m.gasgoo.com/news/70478654.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478654.html</guid>
-<pubDate>Fri, 20 Nov 2026 15:48:01 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>香港科技大学研发出高分辨率仿生眼 集全彩广角视觉与事件驱动型运动检测于一体</title>
-<link>https://m.gasgoo.com/news/70478653.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478653.html</guid>
-<pubDate>Fri, 20 Nov 2026 15:43:06 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>以菠萝叶纤维为原料 日产与 FOOD REBORN打造出汽车外车身覆盖件</title>
-<link>https://m.gasgoo.com/news/70478652.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478652.html</guid>
-<pubDate>Fri, 20 Nov 2026 15:39:01 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>MIT发明超轻型飞行机器人 自带传感器和计算机</title>
-<link>https://m.gasgoo.com/news/70478651.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478651.html</guid>
-<pubDate>Fri, 20 Nov 2026 15:35:04 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
