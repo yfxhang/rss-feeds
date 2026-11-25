@@ -5,6 +5,20 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>江苏通信管理局联合省应急管理厅开展“三断”场景应急指挥通信保障实战演练</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_ceb44b32a2e9465cb775b9c9610e018f.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_ceb44b32a2e9465cb775b9c9610e018f.html</guid>
+<description>2026年11月18日，江苏省通信管理局联合省应急管理厅在镇江句容市联合开展2026年江苏省“三断”场景应急指挥通信保障实战演练。江苏省应急管理厅副厅长盛方龙担任演练总指挥，江苏省通信管理局一级巡视员王鹏全程指导演练展开。演练模拟台风和强降雨侵袭引发洪涝、山体滑坡，造成丘陵地区部分村庄断路、断电、断网，公网通信瘫痪、群众被困失联。</description>
+<pubDate>Wed, 25 Nov 2026 08:38:01 +0800</pubDate>
+</item>
+<item>
+<title>两部门联合发布计量支撑产业新质生产力发展2026年度重点项目</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/art/2026/art_3fa3adb647394b73819cb25ba7eede20.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/art/2026/art_3fa3adb647394b73819cb25ba7eede20.html</guid>
+<description>近日，市场监管总局、工业和信息化部联合发布计量支撑产业新质生产力发展2026年度“十大重点项目”，围绕新一代信息技术、人工智能、航空航天、新能源、新材料、高端装备、生物医药、量子科技、集成电路、仪器仪表十大重点领域，集中优势计量资源协同攻关，着力打破产业“测不了、测不全、测不准”关键计量技术瓶颈，为培育新质生产力、推动产业高质量发展夯实计量根基。</description>
+<pubDate>Tue, 24 Nov 2026 17:13:36 +0800</pubDate>
+</item>
+<item>
 <title>我国成功发射卫星互联网低轨30组卫星</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c63eba46dc034cb5a4771282c9264936.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_c63eba46dc034cb5a4771282c9264936.html</guid>
@@ -409,18 +423,4 @@
 <description>2026年10月30日，科技成果赋智中小企业“深度行”活动在江苏省昆山市成功举办。活动聚焦新一代电子信息、高端装备制造等主导产业，围绕海外知识产权合规建设、风险纠纷应对与科技成果转化赋能等核心议题，汇聚高校专家、专业服务机构与产业链企业代表开展交流，助力企业提升海外知识产权应诉与合规能力，筑牢产业链安全防线。活动同期开展成果对接，遴选工业软件、新材料等领域10项优质成果进行了路演对接。</description>
 <pubDate>Fri, 06 Nov 2026 15:36:47 +0800</pubDate>
 </item>
-<item>
-<title>西藏通信管理局党组召开会议传达学习贯彻党的二十届五中全会精神</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0719b0ef267e456893db085efd58c583.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_0719b0ef267e456893db085efd58c583.html</guid>
-<description>2026年10月30日，西藏自治区通信管理局召开党组会议，传达学习党的二十届五中全会精神，研究部署学习宣传贯彻工作。西藏自治区通信管理局党组书记、局长尼玛多吉主持会议，党组班子成员、各处室负责人参加。会议指出，党的二十届五中全会是基本实现社会主义现代化关键时期召开的重要会议。</description>
-<pubDate>Fri, 06 Nov 2026 09:23:47 +0800</pubDate>
-</item>
-<item>
-<title>重庆通信管理局组织开展电信资费评估评议</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_46a4a2fad7674d94952fc9ae74191b60.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_46a4a2fad7674d94952fc9ae74191b60.html</guid>
-<description>近日，为落实工业和信息化部“明白办、放心用”“新风行动”专项行动部署，保障用户知情权与选择权，重庆市通信管理局采用全量智能评估+抽样公众评议方式，组织四家基础电信企业开展电信资费专项评议工作。近日，特邀行业专家、重庆市消委会、行业协会、公众媒体及用户代表等共同组成现场评议组，对四家基础电信企业18个典型资费方案进行现场评议。重庆市通信管理局党组成员、副局长贺宏亮出席评议会。</description>
-<pubDate>Fri, 06 Nov 2026 09:17:53 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19597 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19599 条）
