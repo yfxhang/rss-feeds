@@ -4,10 +4,19 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:42:48 +0800</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 08:20:04 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>2026年物理AI的汽车及机器人应用研究报告</title>
+<link>https://www.shujubang.com/detail/21574</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21574</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
+<description>物理AI研究：构建“一脑多端”的可迁移底座</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>奇瑞、吉利开始导入高通QCM8538，或取代SA8255</title>
 <link>https://www.shujubang.com/detail/21573</link>
@@ -50,15 +59,6 @@
 <guid isPermaLink="true">https://www.shujubang.com/detail/21571</guid>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
 <description>国产替代进行时</description>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>2026年中国乘用车HUD产业研究报告</title>
-<link>https://www.shujubang.com/detail/21568</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21568</guid>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-<description>HUD产业研究：装配率超过25%，P-HUD起配车型价格下探至13万元</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

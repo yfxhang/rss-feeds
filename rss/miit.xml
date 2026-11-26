@@ -5,6 +5,13 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>新疆通信管理局召开规范基础电信市场竞争秩序工作调度会</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_5a4f834eeedb4551b5a68e01091c6cba.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_5a4f834eeedb4551b5a68e01091c6cba.html</guid>
+<description>2026年11月20日，新疆维吾尔自治区通信管理局召开规范市场竞争秩序工作调度会。深入分析今年以来全区基础电信市场竞争态势、监测预警情况和用户服务方面存在的问题，安排部署下一阶段重点工作。新疆维吾尔自治区通信管理局党组成员、副局长付洪杰出席会议并讲话。会议指出，营造公平有序的市场竞争环境，是推动行业高质量发展、提升行业整体服务水平的必然要求，非理性竞争既损害了用户合法权益，也影响了行业高质量发展。</description>
+<pubDate>Wed, 25 Nov 2026 16:04:25 +0800</pubDate>
+</item>
+<item>
 <title>江苏通信管理局联合省应急管理厅开展“三断”场景应急指挥通信保障实战演练</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_ceb44b32a2e9465cb775b9c9610e018f.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_ceb44b32a2e9465cb775b9c9610e018f.html</guid>
@@ -416,11 +423,4 @@
 <description>2026年11月2日，科技成果赋智企业“深度行”（无锡站）活动成功举办。工业和信息化部科技司一级巡视员（正局级）范斌出席活动并致辞。</description>
 <pubDate>Fri, 06 Nov 2026 15:38:58 +0800</pubDate>
 </item>
-<item>
-<title>科技成果赋智企业“深度行”（昆山站）活动成功举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1f0429d15af04a4089e4c51d8639914a.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_1f0429d15af04a4089e4c51d8639914a.html</guid>
-<description>2026年10月30日，科技成果赋智中小企业“深度行”活动在江苏省昆山市成功举办。活动聚焦新一代电子信息、高端装备制造等主导产业，围绕海外知识产权合规建设、风险纠纷应对与科技成果转化赋能等核心议题，汇聚高校专家、专业服务机构与产业链企业代表开展交流，助力企业提升海外知识产权应诉与合规能力，筑牢产业链安全防线。活动同期开展成果对接，遴选工业软件、新材料等领域10项优质成果进行了路演对接。</description>
-<pubDate>Fri, 06 Nov 2026 15:36:47 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19599 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19592 条）

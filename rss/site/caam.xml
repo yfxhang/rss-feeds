@@ -4,7 +4,7 @@
 <link>http://www.caam.org.cn/</link>
 <description>中国汽车工业协会（中汽协）首页要闻；该站对任意栏目路径都返回首页，故取首页新闻列表；日期只在 &lt;span class=&quot;time&quot;&gt;[09.04]&lt;/span&gt; 里给月日，用 dt_md 补年份；逐篇抓正文。**坑**：首页长期挂着多年前旧文且列表页只写「当月日」（2023-10-10 的稿子仍写 [10.10]），补当年会伪造出今天的日期，已启用 date_from_body 以正文真实年份矫正</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 25 Nov 2026 08:43:02 +0800</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 08:20:12 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/caam.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
@@ -79,6 +79,14 @@
 <link>http://www.caam.org.cn/chn/10/cate_114/con_5237397.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/10/cate_114/con_5237397.html</guid>
 <pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>中汽协·首页要闻</source>
+</item>
+<item>
+<title>2026年软件定义汽车（SDV）工作会议在北京成功召开</title>
+<link>http://www.caam.org.cn/chn/3/cate_24/con_5237396.html</link>
+<guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_24/con_5237396.html</guid>
+<pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
@@ -447,14 +455,6 @@
 <link>http://www.caam.org.cn/chn/3/cate_28/con_5236508.html</link>
 <guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_28/con_5236508.html</guid>
 <pubDate>Thu, 10 Sep 2026 08:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>中汽协·首页要闻</source>
-</item>
-<item>
-<title>共建生态，智领未来！2027上海车展明春4月在沪盛大启幕</title>
-<link>http://www.caam.org.cn/chn/3/cate_24/con_5237308.html</link>
-<guid isPermaLink="true">http://www.caam.org.cn/chn/3/cate_24/con_5237308.html</guid>
-<pubDate>Tue, 08 Sep 2026 08:00:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>中汽协·首页要闻</source>
 </item>
