@@ -4,61 +4,60 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 08:20:04 +0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:36:31 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
-<title>2026年物理AI的汽车及机器人应用研究报告</title>
-<link>https://www.shujubang.com/detail/21574</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21574</guid>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
-<description>物理AI研究：构建“一脑多端”的可迁移底座</description>
+<title>全球首搭曲面屏，2027版保时捷卡宴座舱域控制器拆解</title>
+<link>https://www.shujubang.com/detail/21584</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21584</guid>
+<pubDate>Thu, 26 Nov 2026 00:00:00 +0800</pubDate>
+<description>德国人追上来了</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>奇瑞、吉利开始导入高通QCM8538，或取代SA8255</title>
-<link>https://www.shujubang.com/detail/21573</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21573</guid>
-<pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
-<description>高通，可怕的对手</description>
+<title>2026-2027年新能源乘用车800-1000V高压平台及供应链全景研究报告</title>
+<link>https://www.shujubang.com/detail/21579</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21579</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0800</pubDate>
+<description>乘用车800V架构：26年渗透率倍增，千伏兆瓦超充、单芯片全域融合控制等加速量产</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>11月来广州，成为全球汽车产业的价值连接者</title>
-<link>https://www.shujubang.com/detail/21569</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21569</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-<description>2026年第二十四届广州国际汽车展览会将于11月27日至12月6日在广交会展馆盛大启幕</description>
+<title>2026-2027年汽车AUTOSAR平台研究报告</title>
+<link>https://www.shujubang.com/detail/21578</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21578</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+<description>汽车AUTOSAR研究：AI化、轻量化、“规范交付”，推进新场景应用落地</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>物理AI落地仓储物流，产业化进入实效检验期| 具身智能产业月度观察</title>
-<link>https://www.shujubang.com/detail/21572</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21572</guid>
-<pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-<description>《中国具身智能机器人产业及技术监测报告》（2026年11月期） 发布</description>
+<title>最先进的域控ZCU，享界S9之ZCU拆解</title>
+<link>https://www.shujubang.com/detail/21583</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21583</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0800</pubDate>
+<description>完全不在乎成本</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>2026-2027年乘用车EE架构和技术供应链搭建策略研究报告</title>
-<link>https://www.shujubang.com/detail/21570</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21570</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0800</pubDate>
-<description>乘用车EE架构研究：下一代AI EEA正蓄势待发，整车“自主感知—自主决策—自主进化”</description>
+<title>9月智驾域控SoC榜单：英伟达份额回落，10万以下高通登顶</title>
+<link>https://www.shujubang.com/detail/21577</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21577</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>
 <item>
-<title>广汽传祺越7中央计算拆解，中兴微憾域M1芯片取代NXP的S32G</title>
-<link>https://www.shujubang.com/detail/21571</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21571</guid>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
-<description>国产替代进行时</description>
+<title>特斯拉Model 3/Y 第二代与第三代左右域控制器拆解</title>
+<link>https://www.shujubang.com/detail/21582</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21582</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+<description>三片不及一片的1/3</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

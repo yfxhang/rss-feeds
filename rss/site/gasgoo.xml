@@ -4,15 +4,134 @@
 <link>https://m.gasgoo.com/</link>
 <description>盖世汽车移动端新闻列表（JS 渲染，实际数据在 c2.gasgoo.com 的 news_list_*.json，文件名带版本号会变，运行时从首页正则抽取）；整车/供应链/智能化新闻为主</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 08:20:05 +0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:36:32 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/gasgoo.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
 <item>
+<title>车企的“对手”，要变了？</title>
+<link>https://m.gasgoo.com/news/70479202.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479202.html</guid>
+<pubDate>Fri, 27 Nov 2026 07:52:22 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>电池护照倒计时：算两本账，还是搬厂？</title>
+<link>https://m.gasgoo.com/news/70479061.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479061.html</guid>
+<pubDate>Fri, 27 Nov 2026 07:40:57 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>一文看完2026广州车展重磅新车：上市、预售、首秀全盘点</title>
+<link>https://m.gasgoo.com/news/70479231.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479231.html</guid>
+<pubDate>Fri, 27 Nov 2026 07:40:11 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>六大问题，带你读懂欧盟混动车进口配额新政</title>
+<link>https://m.gasgoo.com/news/70479269.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479269.html</guid>
+<pubDate>Fri, 27 Nov 2026 07:31:10 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>Sonatus推出Fastlane® Copilot：面向汽车开发、测试与验证的AI硬件解决方案</title>
+<link>https://m.gasgoo.com/news/70479105.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479105.html</guid>
+<pubDate>Fri, 27 Nov 2026 07:00:00 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>华为发布辅助驾驶新品牌“星驰”，明年将有超10款搭载车型上市</title>
+<link>https://m.gasgoo.com/news/70479229.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479229.html</guid>
+<pubDate>Thu, 26 Nov 2026 21:17:22 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>伯特利1.4亿元增持浙江万达至65%，转向资产整合提速</title>
+<link>https://m.gasgoo.com/news/70479226.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479226.html</guid>
+<pubDate>Thu, 26 Nov 2026 20:35:39 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>人事变动 | 佛瑞亚海拉中国区电子业务换帅，万千将接任白彬毅</title>
+<link>https://m.gasgoo.com/news/70479225.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479225.html</guid>
+<pubDate>Thu, 26 Nov 2026 20:18:20 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>欧洲10月车市：销量增长3.4%，电动化份额超七成，中国品牌占到13.6%</title>
+<link>https://m.gasgoo.com/news/70479213.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479213.html</guid>
+<pubDate>Thu, 26 Nov 2026 18:01:20 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>小鹏智驾想收费，没那么容易</title>
+<link>https://m.gasgoo.com/news/70479201.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479201.html</guid>
+<pubDate>Thu, 26 Nov 2026 15:39:08 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>智驾装车率突破70%，信任考题才刚开始</title>
+<link>https://m.gasgoo.com/news/70479200.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479200.html</guid>
+<pubDate>Thu, 26 Nov 2026 15:28:49 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>签约！一汽旗新动力与广汽祺盛动力战略合作</title>
+<link>https://m.gasgoo.com/news/70479191.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479191.html</guid>
+<pubDate>Thu, 26 Nov 2026 14:35:36 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>享界G9本月交付突破5000辆 均价站上50万元</title>
+<link>https://m.gasgoo.com/news/70479188.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479188.html</guid>
+<pubDate>Thu, 26 Nov 2026 13:56:30 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>美国拟对中国等14个经济体加征301关税，汽车产业成调查重点</title>
+<link>https://m.gasgoo.com/news/70479185.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479185.html</guid>
+<pubDate>Thu, 26 Nov 2026 13:43:53 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
+<title>兆易创新携手德赛西威共建技术实验室</title>
+<link>https://m.gasgoo.com/news/70479187.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479187.html</guid>
+<pubDate>Thu, 26 Nov 2026 13:30:21 +0800</pubDate>
+<category>新能源汽车</category>
+<source>盖世汽车·最新资讯</source>
+</item>
+<item>
 <title>合资电动，硬气起来了？</title>
 <link>https://m.gasgoo.com/news/70479106.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70479106.html</guid>
-<pubDate>Thu, 26 Nov 2026 07:29:25 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
@@ -20,132 +139,13 @@
 <title>小鹏想赚全世界机器的钱</title>
 <link>https://m.gasgoo.com/news/70479108.html</link>
 <guid isPermaLink="true">https://m.gasgoo.com/news/70479108.html</guid>
-<pubDate>Thu, 26 Nov 2026 07:27:52 +0800</pubDate>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>
 <item>
-<title>物理AI走向完整智能体竞争，小鹏发布图灵具身智能架构</title>
-<link>https://m.gasgoo.com/news/70479096.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479096.html</guid>
-<pubDate>Wed, 25 Nov 2026 18:09:36 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>11月1—22日乘用车零售98.4万辆，新能源零售渗透率71.3%</title>
-<link>https://m.gasgoo.com/news/70479095.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479095.html</guid>
-<pubDate>Wed, 25 Nov 2026 18:02:47 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>经纬恒润马来西亚研发中心开业</title>
-<link>https://m.gasgoo.com/news/70479093.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479093.html</guid>
-<pubDate>Wed, 25 Nov 2026 17:56:03 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>国内首个纯电动商用车底盘换电互换标准发布</title>
-<link>https://m.gasgoo.com/news/70479092.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479092.html</guid>
-<pubDate>Wed, 25 Nov 2026 17:44:30 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>理想汽车Q3营收288.3亿元，自由现金流转正</title>
-<link>https://m.gasgoo.com/news/70479091.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479091.html</guid>
-<pubDate>Wed, 25 Nov 2026 17:36:50 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>小鹏IRON量产定档！2027年1月量产，二季度正式发布</title>
-<link>https://m.gasgoo.com/news/70479090.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479090.html</guid>
-<pubDate>Wed, 25 Nov 2026 17:22:39 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>动底融合，混动系统该拼什么？</title>
-<link>https://m.gasgoo.com/news/70479071.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479071.html</guid>
-<pubDate>Wed, 25 Nov 2026 15:34:40 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>45台星动M7，在杭州邮政“上岗”了</title>
-<link>https://m.gasgoo.com/news/70479070.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479070.html</guid>
-<pubDate>Wed, 25 Nov 2026 15:09:05 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际快讯】比亚迪洽谈收购英力士法国工厂；欧盟正式出台混动汽车进口临时配额；巴斯夫出售电池回收业务</title>
-<link>https://m.gasgoo.com/news/70479059.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479059.html</guid>
-<pubDate>Wed, 25 Nov 2026 12:05:26 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>L&amp;T Technology Services 推出 SDVault.ai™ 旨在将工程智能引入软件定义汽车的 V 型开发周期</title>
-<link>https://m.gasgoo.com/news/70479056.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479056.html</guid>
-<pubDate>Wed, 25 Nov 2026 11:57:35 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>奥迪提交新专利申请 可从触摸屏后方翻出实体按键</title>
-<link>https://m.gasgoo.com/news/70479055.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479055.html</guid>
-<pubDate>Wed, 25 Nov 2026 11:53:55 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>英飞凌推出面向电动卡车动力系统的HybridPACK™ HD功率模块</title>
-<link>https://m.gasgoo.com/news/70479054.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479054.html</guid>
-<pubDate>Wed, 25 Nov 2026 11:50:58 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>福特申请耦合器检测系统专利</title>
-<link>https://m.gasgoo.com/news/70479053.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479053.html</guid>
-<pubDate>Wed, 25 Nov 2026 11:49:34 +0800</pubDate>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>买厂！中国车企出海开始换打法</title>
-<link>https://m.gasgoo.com/news/70479033.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479033.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>什么样的中国车企，能够穿越竞争周期？</title>
-<link>https://m.gasgoo.com/news/70478953.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70478953.html</guid>
-<category>新能源汽车</category>
-<source>盖世汽车·最新资讯</source>
-</item>
-<item>
-<title>【国际】比亚迪洽谈收购英力士法国工厂</title>
-<link>https://m.gasgoo.com/news/70479059.html</link>
-<guid isPermaLink="true">https://m.gasgoo.com/news/70479059.html</guid>
+<title>【国际快讯】美国拟对14国加征301关税</title>
+<link>https://m.gasgoo.com/news/70479179.html</link>
+<guid isPermaLink="true">https://m.gasgoo.com/news/70479179.html</guid>
 <category>新能源汽车</category>
 <source>盖世汽车·最新资讯</source>
 </item>

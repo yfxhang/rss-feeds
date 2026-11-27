@@ -5,6 +5,20 @@
 <description>工信部官网 RSS 订阅中心「工信动态」组，清洗后按时间倒序保留最近 60 条</description>
 <language>zh-cn</language>
 <item>
+<title>贵州通信管理局召开基础电信市场竞争秩序规范治理工作会议</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_7d745523688c4db8b82aebadeb9f9583.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_7d745523688c4db8b82aebadeb9f9583.html</guid>
+<description>近日，为进一步规范全省基础电信市场竞争秩序，营造公平有序的市场环境，积极推动行业高质量健康发展，贵州省通信管理局组织召开全省基础电信市场竞争秩序规范治理暨市场竞争协调工作会议。会议宣贯《贵州省进一步规范基础电信市场竞争秩序实施方案》，通报“新风行动”专项检查发现问题，对进一步规范基础电信市场竞争秩序工作进行再推进、再部署。</description>
+<pubDate>Thu, 26 Nov 2026 17:52:50 +0800</pubDate>
+</item>
+<item>
+<title>工业和信息化部财务司举办部属高校科技成果转化产融合作对接活动</title>
+<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d13ffc87d34847b89c21cbfb08b0459a.html</link>
+<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_d13ffc87d34847b89c21cbfb08b0459a.html</guid>
+<description>11月24日，为贯彻落实党中央、国务院关于推动科技创新和产业创新深度融合的决策部署，完善科技成果转化产融服务体系，促进科技、产业、金融良性循环，工业和信息化部财务司在北京举办部属高校科技成果转化产融合作对接活动。7所部属高校、上海证券交易所、中信银行、浦发银行、中信投资和太平洋财险等单位参加。</description>
+<pubDate>Thu, 26 Nov 2026 17:38:12 +0800</pubDate>
+</item>
+<item>
 <title>新疆通信管理局召开规范基础电信市场竞争秩序工作调度会</title>
 <link>http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_5a4f834eeedb4551b5a68e01091c6cba.html</link>
 <guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/dfdt/art/2026/art_5a4f834eeedb4551b5a68e01091c6cba.html</guid>
@@ -409,18 +423,4 @@
 <description>2026年11月9日，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。前期，工业和信息化部指导完成了相关卫星的国内频率协调，批量颁发了空间无线电台执照和无线电频率使用许可证，为卫星互联网项目的顺利实施提供了有力支撑。</description>
 <pubDate>Mon, 09 Nov 2026 09:22:54 +0800</pubDate>
 </item>
-<item>
-<title>工业和信息化部党组召开第七轮巡视工作动员部署会</title>
-<link>http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a9b14e4095c34e27a53518dd3a59e650.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a9b14e4095c34e27a53518dd3a59e650.html</guid>
-<description>2026年11月6日，工业和信息化部党组召开第七轮巡视工作动员部署会，认真学习领会习近平新时代中国特色社会主义思想特别是习近平党建思想，深入学习贯彻党的二十届五中全会精神，贯彻落实全国巡视工作会议精神、二十届中央第八轮巡视工作动员部署会精神，对部党组第七轮巡视进行动员部署。</description>
-<pubDate>Fri, 06 Nov 2026 21:26:10 +0800</pubDate>
-</item>
-<item>
-<title>科技成果赋智企业“深度行”（无锡站）活动成功举办</title>
-<link>http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cb63185cb0bd414c97647c69e79e6e6f.html</link>
-<guid isPermaLink="true">http://www.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_cb63185cb0bd414c97647c69e79e6e6f.html</guid>
-<description>2026年11月2日，科技成果赋智企业“深度行”（无锡站）活动成功举办。工业和信息化部科技司一级巡视员（正局级）范斌出席活动并致辞。</description>
-<pubDate>Fri, 06 Nov 2026 15:38:58 +0800</pubDate>
-</item>
-</channel></rss>miit_news.py: 输出 60 条（源站共 19592 条）
+</channel></rss>miit_news.py: 输出 60 条（源站共 19594 条）

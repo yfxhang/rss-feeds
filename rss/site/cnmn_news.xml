@@ -4,10 +4,42 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 08:20:06 +0800</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 08:36:34 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>中国恩菲承担的厄立特里亚Augaro金矿项目的环评工作取得重要进展</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475614</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475614</guid>
+<pubDate>Thu, 26 Nov 2026 11:43:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>绿智赋能 铝启新程 2026第十一届国际（三亚）铝产业链绿色发展高峰论坛召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475613</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475613</guid>
+<pubDate>Thu, 26 Nov 2026 11:42:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>从“人工经验”向“智能决策”跨越——会泽矿业选矿全流程专家系统稳定运行超6个月</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475610</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475610</guid>
+<pubDate>Thu, 26 Nov 2026 11:35:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026中国钨工业发展大会在赣州召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475609</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475609</guid>
+<pubDate>Thu, 26 Nov 2026 11:32:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>凝聚智慧 共同把脉中国矿业“走出去” 第一届境外矿产勘查与矿业投资大会在厦门召开</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475557</link>
@@ -133,38 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475407</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475407</guid>
 <pubDate>Thu, 19 Nov 2026 11:06:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>以数智破壁垒 以专业立潮头——2026行业媒体高质量发展创新案例数智技术应用类案例解析</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475402</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475402</guid>
-<pubDate>Tue, 17 Nov 2026 20:27:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>前三季度我国黄金产量220.935吨黄金消费量684.623吨</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475367</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475367</guid>
-<pubDate>Tue, 17 Nov 2026 10:02:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>中国有色金属报社2026年宣传工作会召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475366</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475366</guid>
-<pubDate>Tue, 17 Nov 2026 10:01:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>武强院士：采得出资源、守得住安全、算得清生态</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475364</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475364</guid>
-<pubDate>Mon, 16 Nov 2026 17:30:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
