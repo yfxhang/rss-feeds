@@ -4,10 +4,19 @@
 <link>https://www.shujubang.com/</link>
 <description>佐思汽研（shujubang.com）POST /getQbListSou 回 JSON，session_key 可空；智能汽车/ADAS/芯片方向的报告与快讯</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 08:36:31 +0800</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:03:13 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/shujubang.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>9月舱行泊一体SoC市场：联发科增速领跑，英伟达全价位渗透</title>
+<link>https://www.shujubang.com/detail/21585</link>
+<guid isPermaLink="true">https://www.shujubang.com/detail/21585</guid>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0800</pubDate>
+<description>佐思汽研智驾数据库</description>
+<category>新能源汽车</category>
+<source>佐思汽研·研究报告与资讯</source>
+</item>
 <item>
 <title>全球首搭曲面屏，2027版保时捷卡宴座舱域控制器拆解</title>
 <link>https://www.shujubang.com/detail/21584</link>
@@ -49,15 +58,6 @@
 <link>https://www.shujubang.com/detail/21577</link>
 <guid isPermaLink="true">https://www.shujubang.com/detail/21577</guid>
 <pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
-<category>新能源汽车</category>
-<source>佐思汽研·研究报告与资讯</source>
-</item>
-<item>
-<title>特斯拉Model 3/Y 第二代与第三代左右域控制器拆解</title>
-<link>https://www.shujubang.com/detail/21582</link>
-<guid isPermaLink="true">https://www.shujubang.com/detail/21582</guid>
-<pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
-<description>三片不及一片的1/3</description>
 <category>新能源汽车</category>
 <source>佐思汽研·研究报告与资讯</source>
 </item>

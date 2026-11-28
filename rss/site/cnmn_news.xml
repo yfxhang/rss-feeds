@@ -4,10 +4,50 @@
 <link>https://www.cnmn.com.cn/ShowNewsList.aspx?id=43</link>
 <description>中国有色网重点新闻（id=43），XPath 自建源；2026-10-10 复核：h4 与 div.info 为同级兄弟，following-sibling 取日期正确，但日期格式为 2026/10/9（不补零），修 parse_dt 后才能入库</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 08:36:34 +0800</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 08:03:15 +0800</lastBuildDate>
 <atom:link href="http://127.0.0.1:8899/rss/site/cnmn_news.xml" rel="self" type="application/rss+xml"/>
 <ttl>60</ttl>
 <generator>hermes-site-feeds/1.0</generator>
+<item>
+<title>有色协会、上期所与中金岭南联合举办期货业务专场培训</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475673</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475673</guid>
+<pubDate>Fri, 27 Nov 2026 21:42:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>有色协会锂业分会2025—2026年度工作会在成都召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475672</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475672</guid>
+<pubDate>Fri, 27 Nov 2026 21:39:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>2026第三届中国国际锂业大会在成都召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475671</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475671</guid>
+<pubDate>Fri, 27 Nov 2026 21:32:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>中国航空器拥有者及驾驶员协会理事长张峰接受纪律审查和监察调查</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475669</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475669</guid>
+<pubDate>Fri, 27 Nov 2026 19:45:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
+<item>
+<title>第十届有色金属行业生态环境保护大会在南昌召开</title>
+<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475653</link>
+<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475653</guid>
+<pubDate>Fri, 27 Nov 2026 13:59:00 +0800</pubDate>
+<category>矿产</category>
+<source>中国有色网·重点新闻</source>
+</item>
 <item>
 <title>中国恩菲承担的厄立特里亚Augaro金矿项目的环评工作取得重要进展</title>
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475614</link>
@@ -125,46 +165,6 @@
 <link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475457</link>
 <guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475457</guid>
 <pubDate>Fri, 20 Nov 2026 11:01:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>商洛打造铁钒钛产业新高地</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475411</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475411</guid>
-<pubDate>Thu, 19 Nov 2026 11:16:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>“梦想”号大洋钻探船完成重大装备海试任务</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475410</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475410</guid>
-<pubDate>Thu, 19 Nov 2026 11:15:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>2026“国际铜业协会日”中国论坛召开</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475409</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475409</guid>
-<pubDate>Thu, 19 Nov 2026 11:14:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>第九届中央企业优秀故事暨2026AIGC创意传播作品发布展示活动在中国五矿举办</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475408</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475408</guid>
-<pubDate>Thu, 19 Nov 2026 11:07:00 +0800</pubDate>
-<category>矿产</category>
-<source>中国有色网·重点新闻</source>
-</item>
-<item>
-<title>筑牢成果保护防线 护航科技创新发展——中国铝业科技成果保护纪实</title>
-<link>https://www.cnmn.com.cn/ShowNews1.aspx?id=475407</link>
-<guid isPermaLink="true">https://www.cnmn.com.cn/ShowNews1.aspx?id=475407</guid>
-<pubDate>Thu, 19 Nov 2026 11:06:00 +0800</pubDate>
 <category>矿产</category>
 <source>中国有色网·重点新闻</source>
 </item>
